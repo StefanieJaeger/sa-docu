@@ -7,7 +7,32 @@ Ein eigener Fork hat auch den Vorteil gegenüber einem Branch, dass das Hosting 
 
 == Architektur
 
-???
+=== Hosting
+
+(Ask Jeremy)
+- GitHub Pages (Settings -> Pages -> Custom Domain)
+- Domain?
+- Client Config (CNAME)
+
+=== Daten
+
+Alle Daten zu Modulen, Kategorien, Vertiefungen und Studienordnungen, welche der Planer nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
+Diese Daten werden von einem Python Crawler (Link?) gesammelt, verarbeitet und als JSON Dateien im Data Repository abgelegt.
+Die Detailseiten der Studienordnungen dienen hier als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten Credits, die möglichen Spezialisierungen und die zugehörigen Module können so entommen werden.
+Die Aktualisierung der Daten erfolgt manuel. Vor Beginn eines jeden Semester führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
+
+(Struktur der Adunis Daten)
+(Struktur unsere Daten)
+(Diagram, wie Crawler durchgeht. STD (Kat, Modul, Spez) -> Modul, Spez)
+
+=== Code
+
+- VueJS
+- NIX
+- Tailwind
+- 
+
+
 - Hosting
 - Data (How and Structure)
 - Adunis (Structure)
@@ -38,9 +63,6 @@ Ein eigener Fork hat auch den Vorteil gegenüber einem Branch, dass das Hosting 
 == Probleme
 Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits zu Beginn unserer Arbeit bestanden, aber nicht im Rahmen unserer geplanten Anpassungen behoben werden sollen.
 Sollte genügend Zeit nach erreichen unseres eigentlichen Zieles übrig sein, könnten wir diese ebenfalls noch angehen.
-We have decided to document all bugs, which have existed in the project before our thesis.
-This is done for the sake of documentation.
-If time allows, some of these might be fixed.
 
 - Suche
 - Mobile
