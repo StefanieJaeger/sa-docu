@@ -1,14 +1,4 @@
-THIS IS A TEST DOCUMENT.
-Hello dis is Laura.
+#include "glossary.typ"
 
-This is an absatz.
-
-
-hello
-
-= hello
-
-
-i am here
-
+#include "is-state/is-state.typ"
 

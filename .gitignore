@@ -1,4 +1,2 @@
-# ignore generated html files,
 *.pdf
-# except foo.html which is maintained by hand
 !main.pdf
