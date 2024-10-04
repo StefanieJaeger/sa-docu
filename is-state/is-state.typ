@@ -1,6 +1,6 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
 
-= Ist-Zustand
+== Ist-Zustand
 
 Das originale Projekt, auf dem unsere Arbeit basiert, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
 
@@ -8,9 +8,9 @@ Wir haben uns dazu entschieden, einen Fork von diesem Projekt zu erstellen, auf 
 
 Ein eigener Fork hat auch den Vorteil gegenüber einem Branch, dass das Hosting einfacher zu bewerkstelligen ist.
 
-== Architektur
+=== Architektur
 
-=== Daten
+==== Daten
 
 Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche der Planer nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
 
@@ -146,7 +146,7 @@ Spezialisierungen in folgendem Format.
 ]
 ```
 
-=== Code
+==== Code
 
 Die Applikation selbst ist eine #gls("spa"), geschrieben in Vue.
 Es wird Typescript anstatt JavaScript verwendet.
@@ -155,7 +155,7 @@ Als Build Tool wird Vite eingesetzt.
 
 Vor dem Start unserer Arbeit wurde mit dem Stakeholder, welcher auch Haupt-Maintainer ist, besprochen, dass sich dieser TechStack nicht durch unsere Arbeit verändern soll.
 
-=== Hosting
+==== Hosting
 
 // Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
 Die Applikation wird über GitHub Pages gehosted.
@@ -172,7 +172,7 @@ Wird ein Branch in den main Branch gemergt, wird über einen GitHub Workflow ein
 Als Alternative zur einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
 Die verwendeten JSON Dateien werden über Tags versioniert.
 
-== Funktionalität
+=== Funktionalität
 
 Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
 
@@ -214,7 +214,7 @@ Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
 #figure(image("Error_Unbekannt.png"), caption: [Die Fehlermeldung bei einem unbekannten Modul in der URL.]) <error_unbekannt>
 
 
-== Probleme
+=== Probleme
 Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits zu Beginn unserer Arbeit bestanden, aber nicht im Rahmen unserer geplanten Anpassungen behoben werden sollen.
 Sollte genügend Zeit nach erreichen unseres eigentlichen Zieles übrig sein, könnten wir diese ebenfalls noch angehen.
 
