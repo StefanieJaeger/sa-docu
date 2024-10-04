@@ -181,7 +181,7 @@ Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
 - Als User sehe ich eine visuelle Representation meines Planes.
   - @planer
 - Als User kann ich ein Semester im Plan hinzufügen und entfernen, um meine Studiendauer abzubilden.
-- Als User kann ich in einem Semester ein Modul hinzufügen und entfernen, um meinen Modulplan zu gestalten.
+- Als User kann ich in einem Semester ein Modul hinzufügen, verschieben und entfernen, um meinen Modulplan zu gestalten.
 - Als User erhalte ich eine Fehlermeldung, wenn ich versuche ein Modul in einem zweiten Semester hinzuzufügen, um ungültige Pläne zu vermeiden.
   - @error_doppelt
 - Als User sehe ich wieviele Credits ein geplantes Modul wert ist und anhand der Farbe auch, zu welcher Kategorie es gehört.
