@@ -4,7 +4,7 @@
 
 Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
 
-Wir haben uns dazu entschieden, einen Fork von diesem Projekt zu erstellen, auf welchem wir unsere Anpassungen durchführen. Dies damit allfällige Änderungen am Original, welche nach dem Start unserer Arbeit anfallen, keinen direkten Einfluss auf unsere Arbeit haben.
+Wir haben uns entschieden, einen Fork des Originalprojekts zu erstellen, um unsere Anpassungen unabhängig davon vornehmen zu können. Dadurch stellen wir sicher, dass spätere Änderungen am Originalprojekt, die nach Beginn unserer Semesterarbeit erfolgen, keinen Einfluss auf unseren Entwicklungsprozess haben. 
 
 Ein eigener Fork hat auch den Vorteil gegenüber einem Branch, dass das Hosting einfacher zu bewerkstelligen ist.
 
