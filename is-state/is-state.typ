@@ -81,7 +81,7 @@ Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfra
 }
 ```
 
-Das Diagram @crawler stellt den Ablauf, bei dem der Crawler die oben erwähnten Daten verarbeitet, grob dar.
+Das Vorgehen des Crawlers bei der Verarbeitung der zuvor genannten Daten ist im Diagramm @crawler ersichtlich.
 #figure(image("Crawler.drawio.png"), caption: [Ablauf des Crawlers]) <crawler>
 
 Wie bereits erwähnt, wird das Format der Daten für die weitere Nutzung angepasst.
