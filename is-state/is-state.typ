@@ -69,7 +69,7 @@ Für jedes Modul wird anhand der `"zuordnungen[].url"` eine Anfrage gestellt, um
   "kreditpunkte": 4
 }
 ```
-Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfrage gemacht, woraus die folgenden Felder relevant sind.
+Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfrage gestellt, um die Informationen der folgenden Felder zu erhalten.
 ```json
 {
   "zuordnungen": [
