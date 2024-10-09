@@ -16,7 +16,7 @@ Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kat
 
 Diese Daten werden von einem Python Crawler gesammelt, verarbeitet und als JSON Dateien im Data Repository abgelegt.
 
-Die Detailseiten der Studienordnungen dienen hier als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), die möglichen Spezialisierungen und die zugehörigen Module können so entommen werden.
+Die Detailseiten der Studienordnungen dienen dem Crawler als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), den möglichen Spezialisierungen und den zugehörigen Modulen können so entnommen werden.
 
 Die Aktualisierung der Daten erfolgt manuel. Vor Beginn eines jeden Semester führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
 
