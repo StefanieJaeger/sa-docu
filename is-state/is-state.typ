@@ -18,7 +18,7 @@ Diese Daten werden von einem Python Crawler gesammelt, verarbeitet und als JSON 
 
 Die Detailseiten der Studienordnungen dienen dem Crawler als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), den möglichen Spezialisierungen und den zugehörigen Modulen können so entnommen werden.
 
-Die Aktualisierung der Daten erfolgt manuel. Vor Beginn eines jeden Semester führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
+Die Aktualisierung der Daten erfolgt manuell. Vor Beginn eines jeden Semesters führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
 
 Folgend sind die relevanten Felder für eine Studienordnung gelistet, mit Beispielsdaten anhand #link("https://studien.ost.ch/allStudies/10191_I.json").
 ```json
