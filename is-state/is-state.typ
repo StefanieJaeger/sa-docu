@@ -14,7 +14,7 @@ Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Hand
 
 Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche der Planer nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
 
-Diese Daten werden von einem Python Crawler gesammelt, verarbeitet und als JSON Dateien im Data Repository abgelegt.
+Die Daten werden von einem Python-Crawler gesammelt, verarbeitet und anschliessend als JSON-Dateien im Data Repository abgelegt.
 
 Die Detailseiten der Studienordnungen dienen dem Crawler als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), den möglichen Spezialisierungen und den zugehörigen Modulen können so entnommen werden.
 
