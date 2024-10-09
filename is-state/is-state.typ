@@ -81,6 +81,8 @@ Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfra
 }
 ```
 
+==== Speicherformat der Daten
+
 Das Vorgehen des Crawlers bei der Verarbeitung der zuvor genannten Daten ist im Diagramm @crawler ersichtlich.
 #figure(image("Crawler.drawio.png"), caption: [Ablauf des Crawlers]) <crawler>
 
