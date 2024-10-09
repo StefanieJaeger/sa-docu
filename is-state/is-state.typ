@@ -152,8 +152,8 @@ Um sicherzustellen, dass die Daten von der Applikation effizient abgefragt und v
 
 Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
 Anstelle von JavaScript wird dabei TypeScript verwendet.
-Die Icons kommen von Fontawesome, das Styling wird grösstenteils über Tailwind gemacht.
-Als Build-Tool kommt Vite zum Einsatz.
+Die Icons stammen von #gls("fontawesome"), während das Styling überwiegend mit #gls("tailwind") umgesetzt wird.
+Als Build-Tool kommt #gls("vite") zum Einsatz.
 
 Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
 
@@ -189,7 +189,7 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
 - Als User sehe ich, wie viele Credits ein geplantes Modul wert ist, und erkenne anhand der Farbgebung auch, zu welcher Kategorie es gehört.
 - Als User kann ich durch einen Klick auf den Namen eines geplanten Modules zur entsprechenden Modulbeschreibung auf Adunis gelangen, um dort weitere Informationen abzurufen.
 - Als User sehe ich die Summe der Credits aller Module eines Semesters in meinem Plan.
-- Als User kann ich optional mein Startsemester eingeben, damit die Semester mit einem passenden Namen beschriftet, die bereits erreichten, geplanten und noch benötigten Credits pro Kategorie dargestellt und nur mögliche Spezialisierungen angezeit werden.
+- Als User kann ich optional mein Startsemester eingeben, damit die Semester mit einem passenden Namen beschriftet, die bereits erreichten, geplanten und gesammthaft benötigten Credits pro Kategorie dargestellt und nur mögliche Spezialisierungen angezeit werden.
   - @kategorien
 - Als User sehe ich, welche Module noch benötigt werden, um eine Spezialisierung zu erreichen.
   - @spezialisierungen
@@ -198,9 +198,9 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
 - Als User sehe ich Memes im Semesterplaner, um die Stimmung beim Planen aufzulockern.
 - Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, die mit ihren GitHub-Profilen verlinkt sind, sowie einen Link zur GitHub-Seite des Semesterplaners, um mich zur Mitarbeit zu motivieren.
 
-- Die Module, gruppiert nach Semester, und das Startsemester werden in der URL als Queryparam gespeichert.
-- Die URL zum Plan wird im LocalStorage gespeichert.
-- Beim Öffnen eines leeren Planes, wird der Plan aus dem LocalStorage verwendet, wenn ein solcher existiert.
+- Die geplanten Module, gruppiert nach Semester, und das ausgewählte Startsemester werden in der URL als Query-Parameter gespeichert.
+- Die URL zum Plan wird im Local Storage abgelegt.
+- Beim Öffnen eines leeren Planes, wird der Plan aus dem Local Storage verwendet, wenn ein solcher existiert.
 - Beim Öffnen eines Plans, der den alten Namen eines Modules enthält, wird der Modulname automatisch auf den neuen Namen migriert.
 
 #figure(image("Musterplan.png"), caption: [Dropdown zur Auswahl eines Musterstudienplans.]) <musterplan>
@@ -219,10 +219,12 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
 == Probleme
 Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn dieser Semesterarbeit in der Applikation vorhanden waren. Im Verlauf dieser Arbeit werden nur jene Probleme und Bugs behandelt, die im Rahmen des User-Centered-Design-Ansatzes als relevant identifiziert wurden. Die übrigen fallen nicht in den Umfang dieser Semesterarbeit.
 
-// Unsure, which I should mention here
-// Might be better to wait a bit, maybe until after implementation, then try again
 - Suche
-- Mobile
-- Adunis?
-- Migration von Daten
+  - Wird nach Hinzufügen eines Modules nicht zurückgesetzt.
+  - Funktionalität eingeschränkt auf gewissen Browsern.
+  - Modul nicht über Kürzel auffindbar.
+- Daten
+  - Keine Dokumentation der Daten von Adunis.
+  - Vermutete Inkonsistenzen.
+  - Jedes Semester manuelle Anpassungen für korrekte Migration notwendig.
 
