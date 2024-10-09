@@ -149,16 +149,16 @@ Spezialisierungen in folgendem Format.
 === Code
 
 Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
-Es wird Typescript anstatt JavaScript verwendet.
+Anstelle von JavaScript wird dabei TypeScript verwendet.
 Die Icons kommen von Fontawesome, das Styling wird grösstenteils über Tailwind gemacht.
 Als Build Tool wird Vite eingesetzt.
 
-Vor dem Start unserer Arbeit wurde mit dem Stakeholder, welcher auch Haupt-Maintainer ist, besprochen, dass sich dieser TechStack nicht durch unsere Arbeit verändern soll.
+Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
 
 === Hosting
 
 // Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
-Die Applikation wird über GitHub Pages gehosted.
+Die Applikation wird über GitHub Pages gehostet.
 Da sie lediglich eine #gls("spa") ohne Backend ist, entfallen somit jegliche Kosten für das Hosting.
 
 // I want the steps to be styled differently
@@ -169,39 +169,39 @@ Bei der Domain selbst wird die Repository als ein CNAME hinterlegt.
 // Glossar or Bib? https://docs.github.com/en/actions/about-github-actions
 Wird ein Branch in den main Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") buildet und deployed.
 
-Als Alternative zur einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
+Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
 Die verwendeten JSON Dateien werden über Tags versioniert.
 
 == Funktionalität
 
-Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
+Folgende Funktionalitäten bestanden bereits vor Beginn dieser Semesterarbeit.
 
-- Als User kann ich über ein Dropdown einen Musterplan wählen und diesen anzeigen lassen, um meinen Plan darauf basierend aufzubauen. Es stehen die Musterpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
+Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vorausgefüllt angezeigt wird, sodass ich diesen als Grundlage für meinen eigenen Plan verwenden und bei Bedarf anpassen kann. Es stehen die Musterstudienpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
   - @musterplan
-- Als User sehe ich eine visuelle Representation meines Planes.
+- Als User sehe ich eine visuelle Repräsentation meines Planes.
   - @planer
-- Als User kann ich ein Semester im Plan hinzufügen und entfernen, um meine Studiendauer abzubilden.
-- Als User kann ich in einem Semester ein Modul hinzufügen, verschieben und entfernen, um meinen Modulplan zu gestalten.
-- Als User erhalte ich eine Fehlermeldung, wenn ich versuche ein Modul in einem zweiten Semester hinzuzufügen, um ungültige Pläne zu vermeiden.
+- Als User kann ich Semester im Plan hinzufügen und entfernen, um meine Studiendauer abzubilden.
+- Als User kann ich einem Semester ein Modul hinzufügen, das Modul beliebig verschieben und auch entfernen, um meinen Modulplan zu gestalten.
+- Als User erhalte ich eine Fehlermeldung, wenn ich versuche, ein Modul einem zweiten Semester hinzuzufügen, um ungültige Pläne zu verhindern.
   - @error_doppelt
-- Als User sehe ich wieviele Credits ein geplantes Modul wert ist und anhand der Farbe auch, zu welcher Kategorie es gehört.
-- Als User kann ich über einen Klick auf den Namen eines geplanten Modules zu dessen Modulbeschreibung auf Adunis gelangen, um mir dort weitere Informationen zu holen.
+- Als User sehe ich, wie viele Credits ein geplantes Modul wert ist, und erkenne anhand der Farbgebung auch, zu welcher Kategorie es gehört.
+- Als User kann ich durch einen Klick auf den Namen eines geplanten Modules zur entsprechenden Modulbeschreibung auf Adunis gelangen, um dort weitere Informationen abzurufen.
 - Als User sehe ich die Summe der Credits aller Module eines Semesters in meinem Plan.
 - Als User kann ich optional mein Startsemester eingeben, damit die Semester mit einem passenden Namen beschriftet, die bereits erreichten, geplanten und noch benötigten Credits pro Kategorie dargestellt und nur mögliche Spezialisierungen angezeit werden.
   - @kategorien
-- Als User sehe ich bei einer Spezialisierung, welche Module noch zu deren Erreichung benötigt werden.
+- Als User sehe ich, welche Module noch benötigt werden, um eine Spezialisierung zu erreichen.
   - @spezialisierungen
-- Als User erhalte ich eine Fehlermeldung, sollte mein Plan Module enthalten, die nicht korrekt aufgelöst werden können. Ich habe durch diese Fehlermeldung die Möglichkeit, dieses Modul aus meinem Plan zu entfernen.
+- Als User erhalte ich eine Fehlermeldung, wenn mein Plan Module enthält, die nicht korrekt aufgelöst werden können. Diese Meldung gibt mir die Möglichkeit, das betroffene Modul aus meinem Plan zu entfernen.
   - @error_unbekannt
-- Als User sehe ich ein paar Memes im Planer, um die Stimmung auch beim Planen noch locker zu halten.
-- Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, mit Verlinkung zu ihrem GitHub-Profil, und einem Link zur GitHub-Seite des Planers, um mich zur Mitarbeit zu motivieren.
+- Als User sehe ich Memes im Planer, um die Stimmung beim Planen aufzulockern.
+- Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, die mit ihren GitHub-Profilen verlinkt sind, sowie einen Link zur GitHub-Seite des Planers, um mich zur Mitarbeit zu motivieren.
 
 - Die Module, gruppiert nach Semester, und das Startsemester werden in der URL als Queryparam gespeichert.
 - Die URL zum Plan wird im LocalStorage gespeichert.
 - Beim Öffnen eines leeren Planes, wird der Plan aus dem LocalStorage verwendet, wenn ein solcher existiert.
-- Beim Öffnen eines Planes, der den alten Namen eines Modules enthält, wird dieser automatisch zum neuen Namen migriert.
+- Beim Öffnen eines Plans, der den alten Namen eines Modules enthält, wird der Modulname automatisch auf den neuen Namen migriert.
 
-#figure(image("Musterplan.png"), caption: [Dropdown zur Auswahl eines Musterplanes.]) <musterplan>
+#figure(image("Musterplan.png"), caption: [Dropdown zur Auswahl eines Musterstudienplans.]) <musterplan>
 
 #figure(image("Planer.png"), caption: [Ein Beispiel für einen Plan.]) <planer>
 
@@ -215,8 +215,7 @@ Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
 
 
 == Probleme
-Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits zu Beginn unserer Arbeit bestanden, aber nicht im Rahmen unserer geplanten Anpassungen behoben werden sollen.
-Sollte genügend Zeit nach erreichen unseres eigentlichen Zieles übrig sein, könnten wir diese ebenfalls noch angehen.
+Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn dieser Semesterarbeit in der Applikation vorhanden waren. Im Verlauf dieser Arbeit werden nur jene Probleme und Bugs behandelt, die im Rahmen des User-Centered-Design-Ansatzes als relevant identifiziert wurden. Die übrigen fallen nicht in den Umfang dieser Semesterarbeit.
 
 // Unsure, which I should mention here
 // Might be better to wait a bit, maybe until after implementation, then try again
