@@ -148,7 +148,7 @@ Spezialisierungen in folgendem Format.
 
 === Code
 
-Die Applikation selbst ist eine #gls("spa"), geschrieben in Vue.
+Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
 Es wird Typescript anstatt JavaScript verwendet.
 Die Icons kommen von Fontawesome, das Styling wird grösstenteils über Tailwind gemacht.
 Als Build Tool wird Vite eingesetzt.
