@@ -63,7 +63,7 @@ Nachfolgend sind die relevanten Felder für eine Studienordnung gelistet. Die Be
   ]
 }
 ```
-Für jedes Modul wird anhand der `"zuordnungen[].url"` eine Anfrage gemacht, woraus das folgende Feld relevant ist.
+Für jedes Modul wird anhand der `"zuordnungen[].url"` eine Anfrage gestellt, um die Informationen des folgenden Feldes zu erhalten.
 ```json
 {
   "kreditpunkte": 4
