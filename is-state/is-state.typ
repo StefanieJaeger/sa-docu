@@ -2,7 +2,7 @@
 
 = Ist-Zustand
 
-Das originale Projekt, auf dem unsere Arbeit basiert, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
+Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
 
 Wir haben uns dazu entschieden, einen Fork von diesem Projekt zu erstellen, auf welchem wir unsere Anpassungen durchführen. Dies damit allfällige Änderungen am Original, welche nach dem Start unserer Arbeit anfallen, keinen direkten Einfluss auf unsere Arbeit haben.
 
