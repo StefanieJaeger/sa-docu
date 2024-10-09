@@ -20,7 +20,7 @@ Die Detailseiten der Studienordnungen dienen dem Crawler als Einstiegspunkt. Inf
 
 Die Aktualisierung der Daten erfolgt manuell. Vor Beginn eines jeden Semesters führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
 
-Folgend sind die relevanten Felder für eine Studienordnung gelistet, mit Beispielsdaten anhand #link("https://studien.ost.ch/allStudies/10191_I.json").
+Nachfolgend sind die relevanten Felder für eine Studienordnung gelistet. Die Beispieldaten dazu stammen von #link("https://studien.ost.ch/allStudies/10191_I.json").
 ```json
 {
   "kredits": [
