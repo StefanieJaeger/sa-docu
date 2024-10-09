@@ -1,14 +1,6 @@
-THIS IS A TEST DOCUMENT.
-Hello dis is Laura.
+#set heading(numbering: "1.")
 
-This is an absatz.
+#include "glossary.typ"
 
-
-hello
-
-= hello
-
-
-i am here
-
+#include "is-state/is-state.typ"
 
