@@ -6,7 +6,7 @@ Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliche
 
 Wir haben uns entschieden, einen Fork des Originalprojekts zu erstellen, um unsere Anpassungen unabhängig davon vornehmen zu können. Dadurch stellen wir sicher, dass spätere Änderungen am Originalprojekt, die nach Beginn unserer Semesterarbeit erfolgen, keinen Einfluss auf unseren Entwicklungsprozess haben. 
 
-Ein eigener Fork hat auch den Vorteil gegenüber einem Branch, dass das Hosting einfacher zu bewerkstelligen ist.
+Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings.
 
 == Architektur
 
