@@ -153,7 +153,7 @@ Spezialisierungen in folgendem Format.
 Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
 Anstelle von JavaScript wird dabei TypeScript verwendet.
 Die Icons kommen von Fontawesome, das Styling wird grösstenteils über Tailwind gemacht.
-Als Build Tool wird Vite eingesetzt.
+Als Build-Tool kommt Vite zum Einsatz.
 
 Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
 
@@ -169,10 +169,10 @@ Bei der Domain selbst wird die Repository als ein CNAME hinterlegt.
 
 // I want "main" to be styled differently
 // Glossar or Bib? https://docs.github.com/en/actions/about-github-actions
-Wird ein Branch in den main Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") buildet und deployed.
+Wird ein Branch in den main-Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") baut und deployt.
 
 Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
-Die verwendeten JSON Dateien werden über Tags versioniert.
+Die darin enthaltenen JSON-Dateien werden mithilfe von Tags versioniert.
 
 == Funktionalität
 
