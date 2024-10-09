@@ -1,6 +1,8 @@
 #import "@preview/glossarium:0.4.1": make-glossary, print-glossary, gls, glspl
 #show: make-glossary
 
+= Glossar
+
 // https://typst.app/universe/package/glossarium/
 #print-glossary(
     show-all: true,

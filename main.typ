@@ -1,7 +1,8 @@
 // #set document(title: [Hello], author: ["Laura Thoma", "Stefanie Jäger"], keywords: [], date: [])
-
+#set text(lang: "de")
 #set heading(numbering: "1.")
-
+#set page(numbering: "1")
+#show bibliography: set heading(numbering: "1.")
 
 #include "title-page.typ"
 
@@ -21,7 +22,7 @@
 
 #include "thanks.typ"
 
-#bibliography("bibliography.bib")
+#bibliography("bibliography.bib", style: "apa")
 
 #include "glossary.typ"
 
