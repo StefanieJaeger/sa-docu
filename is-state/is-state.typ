@@ -2,25 +2,25 @@
 
 == Ist-Zustand
 
-Das originale Projekt, auf dem unsere Arbeit basiert, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
+Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
 
-Wir haben uns dazu entschieden, einen Fork von diesem Projekt zu erstellen, auf welchem wir unsere Anpassungen durchführen. Dies damit allfällige Änderungen am Original, welche nach dem Start unserer Arbeit anfallen, keinen direkten Einfluss auf unsere Arbeit haben.
+Wir haben uns entschieden, einen Fork des Originalprojekts zu erstellen, um unsere Anpassungen unabhängig davon vornehmen zu können. Dadurch stellen wir sicher, dass spätere Änderungen am Originalprojekt, die nach Beginn unserer Semesterarbeit erfolgen, keinen Einfluss auf unseren Entwicklungsprozess haben. 
 
-Ein eigener Fork hat auch den Vorteil gegenüber einem Branch, dass das Hosting einfacher zu bewerkstelligen ist.
+Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings (siehe @hosting).
 
 === Architektur
 
 ==== Daten
 
-Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche der Planer nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
+Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche die Applikation nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
 
-Diese Daten werden von einem Python Crawler gesammelt, verarbeitet und als JSON Dateien im Data Repository abgelegt.
+Die Daten werden von einem Python-Crawler gesammelt, verarbeitet und anschliessend als JSON-Dateien im Data Repository abgelegt.
 
-Die Detailseiten der Studienordnungen dienen hier als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), die möglichen Spezialisierungen und die zugehörigen Module können so entommen werden.
+Die Detailseiten der Studienordnungen dienen dem Crawler als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), den möglichen Spezialisierungen und den zugehörigen Modulen können so entnommen werden.
 
-Die Aktualisierung der Daten erfolgt manuel. Vor Beginn eines jeden Semester führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
+Die Aktualisierung der Daten erfolgt manuell. Vor Beginn eines jeden Semesters führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
 
-Folgend sind die relevanten Felder für eine Studienordnung gelistet, mit Beispielsdaten anhand #link("https://studien.ost.ch/allStudies/10191_I.json").
+Nachfolgend sind die relevanten Felder für eine Studienordnung gelistet. Die Beispieldaten dazu stammen von #link("https://studien.ost.ch/allStudies/10191_I.json").
 ```json
 {
   "kredits": [
@@ -63,13 +63,13 @@ Folgend sind die relevanten Felder für eine Studienordnung gelistet, mit Beispi
   ]
 }
 ```
-Für jedes Modul wird anhand der `"zuordnungen[].url"` eine Anfrage gemacht, woraus das folgende Feld relevant ist.
+Für jedes Modul wird anhand der `"zuordnungen[].url"` eine Anfrage gestellt, um die Informationen des folgenden Feldes zu erhalten.
 ```json
 {
   "kreditpunkte": 4
 }
 ```
-Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfrage gemacht, woraus die folgenden Felder relevant sind.
+Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfrage gestellt, um die Informationen der folgenden Felder zu erhalten.
 ```json
 {
   "zuordnungen": [
@@ -81,12 +81,14 @@ Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfra
 }
 ```
 
-Das Diagram @crawler stellt den Ablauf, bei dem der Crawler die oben erwähnten Daten verarbeitet, grob dar.
+==== Speicherformat der Daten
+
+Das Vorgehen des Crawlers bei der Verarbeitung der zuvor genannten Daten ist im Diagramm @crawler ersichtlich.
 #figure(image("Crawler.drawio.png"), caption: [Ablauf des Crawlers]) <crawler>
 
-Wie bereits erwähnt, wird das Format der Daten für die weitere Nutzung angepasst.
+Um sicherzustellen, dass die Daten von der Applikation effizient abgefragt und verarbeitet werden können, wird ihr Format entsprechend angepasst. Auf diese Weise werden zudem redundante Daten für die Applikation nicht übernommen.
 
-Module werden in folgendem Format gespeichert.
+*Module*
 ```json
 [
   {
@@ -106,7 +108,7 @@ Module werden in folgendem Format gespeichert.
 ]
 ```
 
-Kategorien in folgendem Format.
+*Kategorien*
 ```json
 [
   {
@@ -126,7 +128,7 @@ Kategorien in folgendem Format.
 ]
 ```
 
-Spezialisierungen in folgendem Format.
+*Spezialisierungen*
 ```json
 [
   {
@@ -148,60 +150,60 @@ Spezialisierungen in folgendem Format.
 
 ==== Code
 
-Die Applikation selbst ist eine #gls("spa"), geschrieben in Vue.
-Es wird Typescript anstatt JavaScript verwendet.
-Die Icons kommen von Fontawesome, das Styling wird grösstenteils über Tailwind gemacht.
-Als Build Tool wird Vite eingesetzt.
+Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
+Anstelle von JavaScript wird dabei TypeScript verwendet.
+Die Icons stammen von #gls("fontawesome"), während das Styling überwiegend mit #gls("tailwind") umgesetzt wird.
+Als Build-Tool kommt #gls("vite") zum Einsatz.
 
-Vor dem Start unserer Arbeit wurde mit dem Stakeholder, welcher auch Haupt-Maintainer ist, besprochen, dass sich dieser TechStack nicht durch unsere Arbeit verändern soll.
+Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
 
-==== Hosting
+==== Hosting <hosting>
 
 // Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
-Die Applikation wird über GitHub Pages gehosted.
+Die Applikation wird über GitHub Pages gehostet.
 Da sie lediglich eine #gls("spa") ohne Backend ist, entfallen somit jegliche Kosten für das Hosting.
 
 // I want the steps to be styled differently
 Die gewünschte URL, #link("lost.university"), wird auf GitHub unter Settings -> Pages -> Custom Domain hinterlegt.
-Bei der Domain selbst wird die Repository als ein CNAME hinterlegt.
+Die Domain wird so konfiguriert, dass sie über einen CNAME-Eintrag auf das Repository der Applikation verweist.
 
 // I want "main" to be styled differently
 // Glossar or Bib? https://docs.github.com/en/actions/about-github-actions
-Wird ein Branch in den main Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") buildet und deployed.
+Wird ein Branch in den main-Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") baut und deployt.
 
-Als Alternative zur einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
-Die verwendeten JSON Dateien werden über Tags versioniert.
+Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
+Die darin enthaltenen JSON-Dateien werden mithilfe von Tags versioniert.
 
 === Funktionalität
 
-Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
+Folgende Funktionalitäten bestanden bereits vor Beginn dieser Semesterarbeit.
 
-- Als User kann ich über ein Dropdown einen Musterplan wählen und diesen anzeigen lassen, um meinen Plan darauf basierend aufzubauen. Es stehen die Musterpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
+Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vorausgefüllt angezeigt wird, sodass ich diesen als Grundlage für meinen eigenen Plan verwenden und bei Bedarf anpassen kann. Es stehen die Musterstudienpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
   - @musterplan
-- Als User sehe ich eine visuelle Representation meines Planes.
+- Als User sehe ich eine visuelle Repräsentation meines Planes.
   - @planer
-- Als User kann ich ein Semester im Plan hinzufügen und entfernen, um meine Studiendauer abzubilden.
-- Als User kann ich in einem Semester ein Modul hinzufügen und entfernen, um meinen Modulplan zu gestalten.
-- Als User erhalte ich eine Fehlermeldung, wenn ich versuche ein Modul in einem zweiten Semester hinzuzufügen, um ungültige Pläne zu vermeiden.
+- Als User kann ich Semester im Plan hinzufügen und entfernen, um meine Studiendauer abzubilden.
+- Als User kann ich einem Semester ein Modul hinzufügen, das Modul beliebig verschieben und auch entfernen, um meinen Modulplan zu gestalten.
+- Als User erhalte ich eine Fehlermeldung, wenn ich versuche, ein Modul einem zweiten Semester hinzuzufügen, um ungültige Pläne zu verhindern.
   - @error_doppelt
-- Als User sehe ich wieviele Credits ein geplantes Modul wert ist und anhand der Farbe auch, zu welcher Kategorie es gehört.
-- Als User kann ich über einen Klick auf den Namen eines geplanten Modules zu dessen Modulbeschreibung auf Adunis gelangen, um mir dort weitere Informationen zu holen.
+- Als User sehe ich, wie viele Credits ein geplantes Modul wert ist, und erkenne anhand der Farbgebung auch, zu welcher Kategorie es gehört.
+- Als User kann ich durch einen Klick auf den Namen eines geplanten Modules zur entsprechenden Modulbeschreibung auf Adunis gelangen, um dort weitere Informationen abzurufen.
 - Als User sehe ich die Summe der Credits aller Module eines Semesters in meinem Plan.
-- Als User kann ich optional mein Startsemester eingeben, damit die Semester mit einem passenden Namen beschriftet, die bereits erreichten, geplanten und noch benötigten Credits pro Kategorie dargestellt und nur mögliche Spezialisierungen angezeit werden.
+- Als User kann ich optional mein Startsemester eingeben, damit die Semester mit einem passenden Namen beschriftet, die bereits erreichten, geplanten und gesammthaft benötigten Credits pro Kategorie dargestellt und nur mögliche Spezialisierungen angezeit werden.
   - @kategorien
-- Als User sehe ich bei einer Spezialisierung, welche Module noch zu deren Erreichung benötigt werden.
+- Als User sehe ich, welche Module noch benötigt werden, um eine Spezialisierung zu erreichen.
   - @spezialisierungen
-- Als User erhalte ich eine Fehlermeldung, sollte mein Plan Module enthalten, die nicht korrekt aufgelöst werden können. Ich habe durch diese Fehlermeldung die Möglichkeit, dieses Modul aus meinem Plan zu entfernen.
+- Als User erhalte ich eine Fehlermeldung, wenn mein Plan Module enthält, die nicht korrekt aufgelöst werden können. Diese Meldung gibt mir die Möglichkeit, das betroffene Modul aus meinem Plan zu entfernen.
   - @error_unbekannt
-- Als User sehe ich ein paar Memes im Planer, um die Stimmung auch beim Planen noch locker zu halten.
-- Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, mit Verlinkung zu ihrem GitHub-Profil, und einem Link zur GitHub-Seite des Planers, um mich zur Mitarbeit zu motivieren.
+- Als User sehe ich Memes im Semesterplaner, um die Stimmung beim Planen aufzulockern.
+- Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, die mit ihren GitHub-Profilen verlinkt sind, sowie einen Link zur GitHub-Seite des Semesterplaners, um mich zur Mitarbeit zu motivieren.
 
-- Die Module, gruppiert nach Semester, und das Startsemester werden in der URL als Queryparam gespeichert.
-- Die URL zum Plan wird im LocalStorage gespeichert.
-- Beim Öffnen eines leeren Planes, wird der Plan aus dem LocalStorage verwendet, wenn ein solcher existiert.
-- Beim Öffnen eines Planes, der den alten Namen eines Modules enthält, wird dieser automatisch zum neuen Namen migriert.
+- Die geplanten Module, gruppiert nach Semester, und das ausgewählte Startsemester werden in der URL als Query-Parameter gespeichert.
+- Die URL zum Plan wird im Local Storage abgelegt.
+- Beim Öffnen eines leeren Planes, wird der Plan aus dem Local Storage verwendet, wenn ein solcher existiert.
+- Beim Öffnen eines Plans, der den alten Namen eines Modules enthält, wird der Modulname automatisch auf den neuen Namen migriert.
 
-#figure(image("Musterplan.png"), caption: [Dropdown zur Auswahl eines Musterplanes.]) <musterplan>
+#figure(image("Musterplan.png"), caption: [Dropdown zur Auswahl eines Musterstudienplans.]) <musterplan>
 
 #figure(image("Planer.png"), caption: [Ein Beispiel für einen Plan.]) <planer>
 
@@ -218,10 +220,12 @@ Folgende Funktionalitäten bestanden bereits vor Beginn unserer Arbeit.
 Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits zu Beginn unserer Arbeit bestanden, aber nicht im Rahmen unserer geplanten Anpassungen behoben werden sollen.
 Sollte genügend Zeit nach erreichen unseres eigentlichen Zieles übrig sein, könnten wir diese ebenfalls noch angehen.
 
-// Unsure, which I should mention here
-// Might be better to wait a bit, maybe until after implementation, then try again
 - Suche
-- Mobile
-- Adunis?
-- Migration von Daten
+  - Wird nach Hinzufügen eines Modules nicht zurückgesetzt.
+  - Funktionalität eingeschränkt auf gewissen Browsern.
+  - Modul nicht über Kürzel auffindbar.
+- Daten
+  - Keine Dokumentation der Daten von Adunis.
+  - Vermutete Inkonsistenzen.
+  - Jedes Semester manuelle Anpassungen für korrekte Migration notwendig.
 

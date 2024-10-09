@@ -1,5 +1,8 @@
 // #set document(title: [Hello], author: ["Laura Thoma", "Stefanie Jäger"], keywords: [], date: [])
 
+#set heading(numbering: "1.")
+
+
 #include "title-page.typ"
 
 #include "abstract.typ"
@@ -18,11 +21,8 @@
 
 #include "thanks.typ"
 
-// bib
 #bibliography("bibliography.bib")
 
 #include "glossary.typ"
 
 // attachments
-
-
