@@ -12,7 +12,7 @@ Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Hand
 
 === Daten
 
-Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche der Planer nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
+Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche die Applikation nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
 
 Die Daten werden von einem Python-Crawler gesammelt, verarbeitet und anschliessend als JSON-Dateien im Data Repository abgelegt.
 
@@ -86,9 +86,9 @@ Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfra
 Das Vorgehen des Crawlers bei der Verarbeitung der zuvor genannten Daten ist im Diagramm @crawler ersichtlich.
 #figure(image("Crawler.drawio.png"), caption: [Ablauf des Crawlers]) <crawler>
 
-Wie bereits erwähnt, wird das Format der Daten für die weitere Nutzung angepasst.
+Um sicherzustellen, dass die Daten von der Applikation effizient abgefragt und verarbeitet werden können, wird ihr Format entsprechend angepasst. Auf diese Weise werden zudem redundante Daten für die Applikation nicht übernommen.
 
-Module werden in folgendem Format gespeichert.
+*Module*
 ```json
 [
   {
@@ -108,7 +108,7 @@ Module werden in folgendem Format gespeichert.
 ]
 ```
 
-Kategorien in folgendem Format.
+*Kategorien*
 ```json
 [
   {
@@ -128,7 +128,7 @@ Kategorien in folgendem Format.
 ]
 ```
 
-Spezialisierungen in folgendem Format.
+*Spezialisierungen*
 ```json
 [
   {
@@ -195,8 +195,8 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
   - @spezialisierungen
 - Als User erhalte ich eine Fehlermeldung, wenn mein Plan Module enthält, die nicht korrekt aufgelöst werden können. Diese Meldung gibt mir die Möglichkeit, das betroffene Modul aus meinem Plan zu entfernen.
   - @error_unbekannt
-- Als User sehe ich Memes im Planer, um die Stimmung beim Planen aufzulockern.
-- Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, die mit ihren GitHub-Profilen verlinkt sind, sowie einen Link zur GitHub-Seite des Planers, um mich zur Mitarbeit zu motivieren.
+- Als User sehe ich Memes im Semesterplaner, um die Stimmung beim Planen aufzulockern.
+- Als Maintainer oder potentieller Maintainer sehe ich die Namen anderer Maintainer, die mit ihren GitHub-Profilen verlinkt sind, sowie einen Link zur GitHub-Seite des Semesterplaners, um mich zur Mitarbeit zu motivieren.
 
 - Die Module, gruppiert nach Semester, und das Startsemester werden in der URL als Queryparam gespeichert.
 - Die URL zum Plan wird im LocalStorage gespeichert.
