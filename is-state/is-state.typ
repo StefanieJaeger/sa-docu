@@ -6,7 +6,7 @@ Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliche
 
 Wir haben uns entschieden, einen Fork des Originalprojekts zu erstellen, um unsere Anpassungen unabhängig davon vornehmen zu können. Dadurch stellen wir sicher, dass spätere Änderungen am Originalprojekt, die nach Beginn unserer Semesterarbeit erfolgen, keinen Einfluss auf unseren Entwicklungsprozess haben. 
 
-Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings.
+Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings (siehe @hosting).
 
 == Architektur
 
@@ -157,7 +157,7 @@ Als Build-Tool kommt Vite zum Einsatz.
 
 Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
 
-=== Hosting
+=== Hosting <hosting>
 
 // Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
 Die Applikation wird über GitHub Pages gehostet.
@@ -165,7 +165,7 @@ Da sie lediglich eine #gls("spa") ohne Backend ist, entfallen somit jegliche Kos
 
 // I want the steps to be styled differently
 Die gewünschte URL, #link("lost.university"), wird auf GitHub unter Settings -> Pages -> Custom Domain hinterlegt.
-Bei der Domain selbst wird die Repository als ein CNAME hinterlegt.
+Die Domain wird so konfiguriert, dass sie über einen CNAME-Eintrag auf das Repository der Applikation verweist.
 
 // I want "main" to be styled differently
 // Glossar or Bib? https://docs.github.com/en/actions/about-github-actions
