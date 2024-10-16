@@ -13,6 +13,8 @@
 
 // mgmt summary?
 
+#include "contextual-inquiries/contextual_inquiry_1.typ"
+
 #include "ux/ux.typ"
 
 
