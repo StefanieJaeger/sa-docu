@@ -1,85 +1,84 @@
 ==== Contextual Inquiry 1 <ci_1>
 
-- Teilnehmer: Patrick
+- Teilnehmer: Testperson 1
 - Datum: 09.10.2024
-- Ort: In seinem Zimmer
+- Ort: Bei der Testperson zu Hause
 - Dauer: [Unsure]
 
 ==== Generelle Fragen
 
 / Seit wann studierst du?:
-Die Testperson hat ihr Studium im Herbstsemester 2021 gestartet.
+Herbstsemester 2021.
 
 / In welchem Studienmodell (TZ2/3 oder Vollzeit, unterschiedlich)?:
-Sie hat für 1 Semester vollzeit studiert. Alle anderen Semester im TZ2-Modell.
+Für 1 Semester vollzeit, alle anderen Semester im TZ2-Modell.
 
 / In welchem Semester bist du gerade?:
-Sie ist aktuell im 7. Semester.
+Im 7. Semester.
 
 / Wann planst du deinen Abschluss?:
-Sie hat seinen Abschluss für das Frühjahrsemester 2025 geplant.
-Sie schliesst also nach X Semestern ab.
+Ich plane meinen Abschluss für das Frühjahrsemester 2025.
+Also nach 8 Semestern.
 
 / Woher kennst du den Semesterplaner schon?:
 Der Semesterplaner wurde von Studenten und Dozenten empfohlen.
 
 / Wann nutzt du den Semesterplaner typischerweise?:
-Sie nutzt den Semesterplaner bei der Modulanmeldung, um den Stand seiner Studien abzufragen, aber auch zum Spass.
-Sie passt den Semesterplaner meist an, wenn die Modulauswahl in der 1. Phase bereits relativ festgelegt ist.
+Bei der Modulanmeldung in der 1. Phase, wenn die Modulauswahl realtiv fest ist.
+Aber auch, um meinen Stand abzufragen oder zum Spass.
 
 / Wie häufig nutzt du den Semesterplaner?:
-Sie nutzt den Semesterplaner etwa monatlich.
-Während der Modulanmeldung nutzt er ihn häufiger, etwa 5 Mal, über mehrere Tage verteilt.
+Etwa monatlich.
+Häufiger während der Modulanmeldung, etwa 5 Mal, über mehrere Tage verteilt.
 
 / Hast du in der Vergangenheit auf eine andere Weise dein Studium geplant als mit dem Semesterplaner? Wenn ja, wie?:
-Sie hat seine ersten zwei Semester nach dem Musterstudienplan geplant.
+Die ersten zwei Semester nach dem Musterstudienplan für Teilzeit "Software Engineering".
 
 / Planst du eine Vertiefung?:
-Zu Beginn des Studiums hatte sie die Vertiefung "Software Engineering" verfolgt, mittlerweile aber nicht mehr.
-Der Grund sei, dass ihr doch nicht alle Module der Vertiefung interessieren.
+Zu Beginn des Studiums habe ich die Vertiefung "Software Engineering" verfolgt, mittlerweile aber nicht mehr.
+Der Grund ist, dass doch nicht alle Module der Vertiefung interessant sind.
 
 / Folgst du einem Musterstudienplan? Wenn ja/nein, weshalb?:
-Sie folgt grösstenteils dem Musterstudienplan für Teilzeit "Software Engineering", weicht aber leicht ab.
-Der Grund sei, dass ihr doch nicht alle Module des Musterstudienplanes interessieren.
+Grösstenteils nach Musterstudienplan für Teilzeit "Software Engineering", mit leichter Abweichung.
+Der Grund ist, dass doch nicht alle Module des Musterstudienplanes interessant sind.
 
 / Arbeitest du momentan neben dem Studium oder hast du mal neben dem Studium gearbeitet? Wenn ja, in welchem Pensum?:
-Ja, sie arbeitet zu 60%.
+Ein Semester lang nicht, sonst immer 60% Pensum.
 
 
 ==== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
-Sie hat die URL zu seinem Plan in einem Bookmark gespeichert.
+Ich habe die URL zum Plan in einem Bookmark gespeichert.
 
 / Prüfst du den Plan? Wenn ja, wie und auf was?:
-[Schaut URL an]
+[Help]
 
 / Welche sichtbaren Informationen sind relevant für dich?:
 [URL]
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
-Sie ist sich bewusst, dass er über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
-Sie bemerkt auch, dass durch die Wahl des Startsemesters die Semester einen passenderen Namen erhalten.
+Ich weiss, dass ich über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
+Ich sehe auch, dass durch die Wahl des Startsemesters die Semester einen passenderen Namen erhalten.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
-[Nie passiert]
+Dies ist mir noch nie passiert.
 
 ==== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
-Ja, sie tauscht sich mit Kollegen aus.
+Ich tausche mich mit Kollegen aus, aber eher über die Modulwahl als den Plan.
 
 / Weshalb und über was?:
-Sie interessieren die Meinungen und Erfahrungen von Absolventen eines Modules.
-Bei Kollegen holt sie sich Informationen zum effektiven Aufwand.
-Im Studentenportal holt sie sich Informationen zum Dozenten.
-Sie ist bereit ein Modul zu besuchen, auch wenn kein Kollege dies gleichzeitig tut.
+Die Meinungen und Erfahrungen von Absolventen eines Modules sind mir wichtig.
+Informationen zum effektiven Aufwand habe ich von Kollegen und Informationen zum Dozent vom Studentenportal.
 
 / Wie tauschst du dich aus? Online, IRL?:
-Sie tauscht sich in Person oder über Chats aus.
+In Person oder über Chats.
 
 / Wie teilst du/zeigst du deinen Plan?:
-[1. oder 2. Phase]
+Ich zeige meinen Plan eher, als dass ich die URL dazu verschicke.
+Ich bin jedoch auch bereit, ein Modul zu belegen, welches keiner meiner Kollegen gleichzeitig besucht.
 
 ==== Recherche zu Modulen
 
@@ -88,13 +87,13 @@ Zu Modulen aus dem Musterstudienplan oder zu Modulen, die einer bestimmten Kateg
 
 / Welche Infos zu Modulen holst du dir?:
 Infos zu den Kursen im Modul, die "Empfohlene Module" und wer der durchführende Dozent ist.
-Sie achtet sich auf darauf, welche Module in der Liste zur Modulanmeldung rot oder gelb hinterlegt sind.
-In der 2. Phase fragt sie allenfalls auch bei Dozenten direkt nach, ob diese beabsichtigen die Vorlesung zum Modul zu streamen oder andersweitig aufzuzeichnen.
+Ich sehe die rot oder gelb hinterlegten Module als bereits vorausgefiltert an. 
+In der 2. Phase frage ich allenfalls Dozenten direkt an, ob diese beabsichtigen die Vorlesung zum Modul zu streamen oder andersweitig aufzuzeichnen.
 
 / Wo holst du dir diese Infos?:
 Infos zu Module über Adunis.
 Meinung und Erfahrungen zu Module über Kollegen, die es bereits besucht haben.
-Sie wusste, dass man über ein Modul im Semesterplaner zu dessen Beschreibung auf Adunis gelangen kann.
+Ich weiss, dass man über ein Modul im Semesterplaner zu dessen Beschreibung auf Adunis gelangen kann.
 
 / Holst du Infos zu den Modulabhängigkeiten? Wenn ja, wo?:
 Schaut die "Empfohlene Module" auf Adunis an.
