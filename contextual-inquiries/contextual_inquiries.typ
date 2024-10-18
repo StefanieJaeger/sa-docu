@@ -2,11 +2,17 @@
 
 === Einleitung
 
+[Kurz erklären, was CI sind]
+[Unsere Ziele erklären]
+[Erwähnen, dass vollständige Notizen und Aufname der Interviews im Anhang sind]
+
 === Methodik
+
+[Unsere Methodik erklären]
 
 === Ergebnisse
 
-Hier die CIs.
+[Hier die Zusammenfassung der CIs]
 
 === Reflektion über den Prozess
 
@@ -15,7 +21,7 @@ Hier die CIs.
 - Wurde mit jedem Interview besser
 
 === Fazit
- 
+
 
 
 

@@ -1,9 +1,21 @@
 ==== Contextual Inquiry 1 <ci_1>
 
-- Teilnehmer: Patrick
-- Datum: 09.10.2024
-- Ort: In seinem Zimmer
-- Dauer: [Unsure]
+#grid(
+      columns: (1fr, 1fr),
+      column-gutter: 5%,
+      [
+        Teilnehmer \
+        Datum \
+        Ort \
+        Dauer \
+      ],
+      [
+        Testperon 1 [Patrick] \
+        09.10.2024 \
+        In ihrem Zimmer \
+        1 Stunde
+      ]
+    )
 
 ==== Generelle Fragen
 
@@ -18,7 +30,7 @@ Sie ist aktuell im 7. Semester.
 
 / Wann planst du deinen Abschluss?:
 Sie hat seinen Abschluss für das Frühjahrsemester 2025 geplant.
-Sie schliesst also nach X Semestern ab.
+Sie schliesst also nach 8 Semestern ab.
 
 / Woher kennst du den Semesterplaner schon?:
 Der Semesterplaner wurde von Studenten und Dozenten empfohlen.
@@ -50,19 +62,20 @@ Ja, sie arbeitet zu 60%.
 
 / Wo/wie hast du den Plan gespeichert?:
 Sie hat die URL zu seinem Plan in einem Bookmark gespeichert.
+[Wirklich?]
 
 / Prüfst du den Plan? Wenn ja, wie und auf was?:
-[Schaut URL an]
+Sie hat sich die URL zuletzt ohne Startsemester abgespeichert, also setzt sie das Startsemester und kontrolliert, dass sich die URL entsprechend angepasst hat.
 
 / Welche sichtbaren Informationen sind relevant für dich?:
-[URL]
+Die URL, die Module pro Semester, die Kategorien und ihre Erfüllung und das Meme.
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
 Sie ist sich bewusst, dass er über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
 Sie bemerkt auch, dass durch die Wahl des Startsemesters die Semester einen passenderen Namen erhalten.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
-[Nie passiert]
+Die Testperson hat bis jetzt kein Modul nicht bestanden, weshalb dies nicht aufkam.
 
 ==== Austausch mit Kollegen
 
@@ -79,7 +92,7 @@ Sie ist bereit ein Modul zu besuchen, auch wenn kein Kollege dies gleichzeitig t
 Sie tauscht sich in Person oder über Chats aus.
 
 / Wie teilst du/zeigst du deinen Plan?:
-[1. oder 2. Phase]
+Während der 1. und 2. Anmeldephase tauscht sie sich gelegentlich mit Kollegen über ihren Plan aus, aber teilt denk Link eigentlich nie.
 
 ==== Recherche zu Modulen
 
@@ -106,7 +119,8 @@ Schaut die Durchführung auf Adunis nach.
 Gar nicht mehr.
 
 / Wie planst du die Erfüllung der notwendigen Credits pro Kategorie?:
-[Planer]
+Sie schaut sich die ProgressBar der Kategorien an.
+Über Adunis findet sie pro Kategorie eine Liste aller zugehörigen Module, welche sie mit den Modulen der momentanen Anmeldephase abgleicht, um ein Modul auszuwählen.
 
 / Hast du ein Zielmodul am Horizont?:
 Sie möchte gerne Compilerbau belegen. Dazu schaut sie sich die "Empfohlene Module" an.
@@ -116,7 +130,7 @@ Sie plant Semester grob nach dem Musterstudienplan.
 
 / Was ist mühsam bei der Recherche und weshalb?:
 Adunis ist zu mühsam, um Module zu finden.
-Die Liste der Module bei der Modulanmeldung enthält zu viele Module und kann nicht gefiltert werden.
+Die Liste der Module bei der Modulanmeldung enthält zu viele Module und kann nicht gefiltert werden. Dasselbe mit der Liste der Module bei der Studienordnungsbeschreibung.
 Sie würde gerne Module nach dere Kategorie, Thema oder "Empfohlene Module" filtern.
 
 / Was ist einfach bei der Recherche und weshalb?:
@@ -126,7 +140,7 @@ Sie konsultiert gerne mit einer Kollegin, die bei der Planung hilfreiche Tipps g
 
 / Wie findest du Module im Planer?:
 Sucht Module nach Namen.
-Suche nach Kürzel funktioniert bei ihr auf Chrome ebenfalls.
+Suche nach Kürzel funktioniert bei ihr auf Chrome.
 Nutzt DragNDrop selten.
 
 / Auf welchen Geräten nutzt du den Planer/passt du den Planer an?:
@@ -137,7 +151,7 @@ Ihr war nicht bewusst, dass Module in Semestern hinzugefügt werden können, in 
 Da sie Module anhand vom Musterstudienplan und der Liste bei der Modulanmeldung wählt, war dies jedoch nie ein Problem.
 
 / Wie erweiterst du die Semesterauswahl?:
-[Nichts]
+Sie weiss, dass sie auf den Knopf mit dem Plus klicken kann.
 
 / Welche sichtbaren Informationen sind relevant und weshalb?:
 Die Erfüllung der Kategorien ist ihr wichtig.
@@ -152,8 +166,8 @@ Sie weiss dank dem Footer auch, wer diese Studenten sind.
 ==== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
-Sie speichert sich die URL ab.
-[One Drive?]
+Sie speichert sich die URL in ihrem OneDrive ab.
+[Oder Bookmark?]
 
 / Weisst du, dass die Daten im LocalStorage gespeichert werden?:
 Sie wusste es zuvor nicht.
@@ -179,11 +193,11 @@ Ja.
 Hilft bei der Übersicht über geplante und erreichte Credits pro Kategorie.
 
 / Welche Aspekte sind hilfreich am Planer?:
-[Nichts]
+Hier wurde nichts spezifisches erwähnt.
 
 / Welche Aspekte sind schwierig am Planer?:
-Sie empfindet die Farben der Kategorien als unästhetisch, da sie sehr verschiedene "Hues" aufweisen.
-Sie hätte gerne ein Dark Theme, damit sie in dunkler Umgebung nicht geblendet wird.
+Sie empfindet die Farben der Kategorien als nicht zusammenpassend, da sie sehr verschiedene "Hues" aufweisen.
+Der Planer übernimmt die Systemeinstellungen von Light & Dark Themes nicht. Das stört sie, da sich sich geblendet fühlt.
 Sie würde gerne die "Empfohlene Module" von Modulen abgebildet sehen, um die Planung zu erleichtern.
 Sie würde gerne vergangene Semester einklappen können, um sich besser auf das aktuelle und die kommenden Semester konzentrieren zu können.
 
@@ -191,8 +205,9 @@ Sie würde gerne vergangene Semester einklappen können, um sich besser auf das 
 Sie empfindet es als umständlich, wie viele Quellen sie konsultieren muss. Sie zählte auf: Adunis, Studentenportal, Kollegen und PDF des Musterstudienplanes.
 
 / Was möchtest du uns sonst noch sagen?:
-[Studenplan in 2. Phase als TZ2]
-[Andere Kampusse]
+Das Anmelden eines Stundenplanes in der 2. Anmeldephase im TZ2-Modell empfindet sie als mühsam und wünscht sich auch hier unterstützung durch ein Tool.
+Sie merkt an, dass der Semesterplaner wohl für den Kampus Rapperswil optimiert sei und wundert sich, ob Studenten von anderen Kampussen hier benachteiligt seien.
+Sie ist sehr vom Meme im unteren Bereich der Seite begeistert und wünscht sich sogar noch mehr Memes die abwechseln dargestellt werden.
 
 
 
