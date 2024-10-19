@@ -61,8 +61,7 @@ Ja, sie arbeitet zu 60%.
 ==== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
-Sie hat die URL zu seinem Plan in einem Bookmark gespeichert.
-[Wirklich?]
+Sie hat die URL als eine Link-Datei in ihrem OneDrive gespeichert.
 
 / Prüfst du den Plan? Wenn ja, wie und auf was?:
 Sie hat sich die URL zuletzt ohne Startsemester abgespeichert, also setzt sie das Startsemester und kontrolliert, dass sich die URL entsprechend angepasst hat.
@@ -80,7 +79,7 @@ Die Testperson hat bis jetzt kein Modul nicht bestanden, weshalb dies nicht aufk
 ==== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
-Ja, sie tauscht sich mit Kollegen aus.
+Ja.
 
 / Weshalb und über was?:
 Sie interessieren die Meinungen und Erfahrungen von Absolventen eines Modules.
@@ -166,8 +165,7 @@ Sie weiss dank dem Footer auch, wer diese Studenten sind.
 ==== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
-Sie speichert sich die URL in ihrem OneDrive ab.
-[Oder Bookmark?]
+Sie speichert sich die URL als eine Link-Datei in ihrem OneDrive ab.
 
 / Weisst du, dass die Daten im LocalStorage gespeichert werden?:
 Sie wusste es zuvor nicht.

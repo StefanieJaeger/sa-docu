@@ -79,7 +79,7 @@ Sie entfernt in diesem Fall das Modul aus dem betroffenen Semester.
 ==== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
-Ja, das tut sie.
+Ja.
 
 / Weshalb und über was?:
 Sie erkundigt sich bei Kollegen, ob diese ein Modul empfehlen, ob es mühsam sei, wie sie die Prüfung und den allgemeinen Aufwand empfanden, ob es spannnd sei und ob Anwesenheitspflicht herrsche.
@@ -206,7 +206,7 @@ Sie weiss, dass der Studiengangsleiter das Tool ebenfalls kennt und gut findet u
 
 ==== Zusätzliche Bemerkungen
 
-- Sie hat [DigiCamp] besucht, welches 3 Credits in der Kategorie Informatik wert ist. Da dies jedoch keiner Studienordnung zugeordnet ist, kann sie dies nicht in ihrem Plan hinzufügen.
+- Sie hat das DigiCamp besucht, welches 3 Credits in der Kategorie Informatik wert ist. Da dies jedoch keiner Studienordnung zugeordnet ist, kann sie dies nicht in ihrem Plan hinzufügen.
 - Für sie ist nicht einfach ersichtlich, wenn Module durch andere Module abgelöst werden, zB Patterns and Framworks durch UI Patterns and Frameworks.
 
 
