@@ -35,7 +35,7 @@ Sie schliesst also nach 10 Semestern ab.
 / Woher kennst du den Semesterplaner schon?:
 Sie wurde über eine Nachricht in einem Gruppenchat darauf aufmerksam gemacht.
 
-/ Wie lange nutzt du den Semesterplaner schon?
+/ Wie lange nutzt du den Semesterplaner schon?:
 Seit dem Frühjahrsemester oder Herbstsemester 2022.
 
 / Wann nutzt du den Semesterplaner typischerweise?:
