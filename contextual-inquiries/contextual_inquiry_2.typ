@@ -39,17 +39,17 @@ Sie kennt den Semesterplaner durch Jeremy Stucki und half auch schon selbst am P
 Seit dem Frühjahrsemester 2022.
 
 / Wann nutzt du den Semesterplaner typischerweise?:
-[Forms]
+Bei den Anmeldephasen.
 
 / Wie häufig nutzt du den Semesterplaner?:
-[Forms]
+Mehrfach während den Anmeldephasen.
 
 / Hast du in der Vergangenheit auf eine andere Weise dein Studium geplant als mit dem Semesterplaner? Wenn ja, wie?:
 Sie ging zuvor grob nach dem Musterstudienplan, den Kategorien und den anmeldbaren Modulen pro Semester.
 Jedoch hatte sie so keine gute Übersicht.
 
 / Planst du eine Vertiefung?:
-[Forms]
+"Software Engineering".
 
 / Folgst du einem Musterstudienplan? Wenn ja/nein, weshalb?:
 Nein. Sie wollte das Modul CN1 nicht belegen und weichte darum schon sehr früh im Studium vom Musterstudienplan ab.
