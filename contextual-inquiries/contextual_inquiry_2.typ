@@ -71,7 +71,7 @@ Sie fokusiert sich primär auf das nächste Semester und kontrolliert, ob sie ih
 Die Kategorien und ihre Erfüllung, die Module pro Semester und die Vertiefungen.
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
-Sie ist sich bewusst, dass er über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
+Sie ist sich bewusst, dass sie über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
 Sie entfernt in diesem Fall das Modul aus dem betroffenen Semester.

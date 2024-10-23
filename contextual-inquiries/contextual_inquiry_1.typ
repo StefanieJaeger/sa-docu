@@ -70,7 +70,7 @@ Sie hat sich die URL zuletzt ohne Startsemester abgespeichert, also setzt sie da
 Die URL, die Module pro Semester, die Kategorien und ihre Erfüllung und das Meme.
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
-Sie ist sich bewusst, dass er über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
+Sie ist sich bewusst, dass sie über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
 Sie bemerkt auch, dass durch die Wahl des Startsemesters die Semester einen passenderen Namen erhalten.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:

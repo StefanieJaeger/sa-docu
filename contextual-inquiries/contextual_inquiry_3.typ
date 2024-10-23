@@ -72,7 +72,7 @@ Anschliessend schaut sie, ob sie im 10. Semester die benötigten Credits erreich
 Die Kategorien und ihre Erfüllung, die Module pro Semester und die Vertiefungen.
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
-Sie ist sich bewusst, dass er über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
+Sie ist sich bewusst, dass sie über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
 Ihre URL enthält das Startsemester.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:

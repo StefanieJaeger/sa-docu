@@ -29,7 +29,7 @@
 
 / Woher kennst du den Semesterplaner schon?:
 
-/ Wie lange nutzt du den Semesterplaner schon?
+/ Wie lange nutzt du den Semesterplaner schon?:
 
 / Wann nutzt du den Semesterplaner typischerweise?:
 
