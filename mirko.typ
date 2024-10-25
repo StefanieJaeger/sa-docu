@@ -1,4 +1,21 @@
-= Frageleitfaden Studienadministration & Modulverantwortliche/-r
+= Interview mit dem Studiengangleiter Informatik
+
+  #grid(
+    columns: (1fr, 1fr),
+    column-gutter: 5%,
+    [
+      Studiengangleiter \
+      Interviewer \
+      Datum \
+      Ort
+    ],
+    [
+      Mirko Stocker \
+      Stefanie Jäger \
+      17.10.2024 \
+      OST
+    ]
+  )
 
 == Generelle Fragen
 
@@ -8,7 +25,7 @@ Sie können Anpassungen jedoch auch an die Studienadministration delegieren.
 
 / Wer ist für die Studienreglemente verantwortlich?:
 Der Hochschulrat ist für das grosse Reglement verantwortlich.
-Ich als Studiengangsleiter kümmere mich um die Ausführungsbestimmungen für meinen Studiengang, welche vom Hochschulrat freigegeben werden.
+Ich als Studiengangleiter kümmere mich um die Ausführungsbestimmungen für meinen Studiengang, welche vom Hochschulrat freigegeben werden.
 Anhänge, Modulzuweisungen, etc. unterliegen ebenfalls mir, müssen jedoch nicht vom Hochschulrat freigegeben werden.
 
 / Wie wird festgehalten, wann ein Modul durchgeführt wird?:
@@ -30,19 +47,20 @@ Die Durchführungen werden über ein separates Tool erfasst.
 Ja, diese sind in einem Excel ersichtlich.
 Während diesen Zeiten kann es durchaus sein, dass Daten zwischen dem HTML und JSON leicht inkonsistent sein können.
 
-/ Wärst du als Studiengangsleiter daran interessiert, die Pläne der Studenten einsehen zu können?:
+/ Wärst du als Studiengangleiter daran interessiert, die Pläne der Studenten einsehen zu können?:
 Nicht wirklich.
 Die Pläne, die die Studierenden aufstellen, sind nicht verpflichtend und die Schule kann daher auch keine Entscheidungen darauf basieren.
 
 / Wer wäre ein Ansprechspartner für eher technischere Fragen?:
-[Clemens, Adunis]
-[Jan Meier, Matrikula]
+Clemens Mader entwickelt am SLCM mit und kann eventuell technischere Fragen beantworten.
+Ich weiss auch, dass einer eurer Mitstudenten - Jan Meier - mit der Matricula App ebenfalls Daten vom SLCM abruft.
+Eventuell hat er Erfahrungen gemacht, die euch helfen könnten.
 
+/ Im Gespräch kam von ihm noch folgender Input:
+Ich wäre auch an einer graphischen Abbildung der Abhängigkeiten zwischen Modulen interessiert.
+So könnten wir die Musterstudienpläne für die verschiedenen Vertiefungen und Studienmodelle ansprechender darstellen.
+Auch wäre es interessent, könnte man dann nach der Sprache, in der das Modul angeboten wird, nach dem Dozent oder Kampus filtern.
 
-[Stocker hätte auch gerne Vernetztung der Module.
-VZ/TZ, Rahmenausbildung, Vertiefung.
-Englische Module. Nach Dozent, Kampus.
-Er nutzte Cryoscape(?).]
 
 == Daten
 
