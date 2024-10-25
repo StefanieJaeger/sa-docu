@@ -81,11 +81,11 @@ So kann es auch kommen, dass Daten leicht anderst eingegeben werden.
 / "Prototyping for Startup-Ideas" wurde von 3 and 4 Credits geändert, ohne dass sich das Kürzel verändert hat. Wieso das?:
 Hier ist wohl ein Tippfehler bei der originalen Erfassung passiert. 
 
-= Joel
+== Offene Fragen
 
-== Wieso ist die Logik, was mit Modulen, die nicht mehr angeboten werden, passiert, so inkonsistent?
+=== Wieso werden archivierte Module auf unterschiedlichste Wege also solche identifiziert?
 
-Einige sind noch im STD referenziert, aber bei der Modulbeschreibung dann als "deaktiviert" markiert.
+Einige sind noch im STD referenziert, aber in der Modulbeschreibung dann als "deaktiviert" markiert.
 
 _Rhetorische Kommunikation für IngenieurInnen_
 - #link("https://studien.ost.ch/allModules/43277_M_RheKoI.html", "RheKoI")
@@ -107,13 +107,13 @@ Einige sind nicht mehr im STD referenziert und in der Modulbeschreibung als "dea
 _Mobile and GUI Engineering_
 - #link("https://studien.ost.ch/allModules/28254_M_MGE.html", "MGE")
 
-Einige sind noch im STD referenziert, in der Modulbeschreibung als "deaktiviert" markiert und ihnen fehlt das Feld "Durchführungen" komplett.
+Einige sind noch im STD referenziert, aber in der Modulbeschreibung als "deaktiviert" markiert und ihnen fehlt das Feld "Durchführungen" komplett.
 
 _Business Processes für Informatik_
 - #link("https://studien.ost.ch/allModules/40825_M_BuPro.html", "BuPro")
 - #link("https://studien.ost.ch/allModules/40981_M_WI2.html", "WI2")
 
-Einige sind noch im STD referenziert, in der Modulbeschreibung nicht als "deaktiviert" markiert, aber für dieses Jahr ist keine Durchführung eingetragen.
+Einige sind noch im STD referenziert und in der Modulbeschreibung nicht als "deaktiviert" markiert, aber für dieses Jahr ist keine Durchführung eingetragen.
 
 _Lernlabor "Digitalisieren Hands-on"_
 - #link("https://studien.ost.ch/allModules/41732_M_LLDIG.html", "LLDIG")
