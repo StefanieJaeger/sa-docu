@@ -53,10 +53,10 @@ Die Pläne, die die Studierenden aufstellen, sind nicht verpflichtend und die Sc
 
 / Wer wäre ein Ansprechspartner für eher technischere Fragen?:
 Clemens Mader entwickelt am SLCM mit und kann eventuell technischere Fragen beantworten.
-Ich weiss auch, dass einer eurer Mitstudenten - Jan Meier - mit der Matricula App ebenfalls Daten vom SLCM abruft.
+Ich weiss auch, dass einer eurer Mitstudenten - Jan Meier - mit der #link("https://matricula.app/", "Matricula App") ebenfalls Daten vom SLCM abruft.
 Eventuell hat er Erfahrungen gemacht, die euch helfen könnten.
 
-/ Im Gespräch kam von ihm noch folgender Input:
+_Input, der im Gespräch auf kam:_
 Ich wäre auch an einer graphischen Abbildung der Abhängigkeiten zwischen Modulen interessiert.
 So könnten wir die Musterstudienpläne für die verschiedenen Vertiefungen und Studienmodelle ansprechender darstellen.
 Auch wäre es interessent, könnte man dann nach der Sprache, in der das Modul angeboten wird, nach dem Dozent oder Kampus filtern.
