@@ -55,17 +55,17 @@
 ==== Generelle Fragen
 
 / Seit wann studierst du?:
-Seit dem Herbstsemester 2021.
+Herbstsemester 2021.
 
 / In welchem Studienmodell (TZ2/3 oder Vollzeit, unterschiedlich)?:
-Im TZ2-Modell. Für ein Semester habe ich jedoch Vollzeit studiert.
+Für 1 Semester vollzeit, alle anderen Semester im TZ2-Modell.
 
 / In welchem Semester bist du gerade?:
-Ich bin zurzeit im 7. Semester.
+Im 7. Semester.
 
 / Wann planst du deinen Abschluss?:
-Den habe ich auf nächstes Semester geplant, also Ende Juni/Juli 25.
-Das Frühjahrsemester 2025 ist mein letztes Semester.
+Ich plane meinen Abschluss für das Frühjahrsemester 2025.
+Also nach 8 Semestern.
 
 / Woher kennst du den Semesterplaner?:
 Da bin ich mir nicht mehr ganz sicher, entweder war es ein Dozent oder ein Student, der mir den Semesterplaner empfohlen hat.
