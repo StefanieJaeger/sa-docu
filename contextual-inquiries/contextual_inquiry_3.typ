@@ -191,100 +191,117 @@ Ich kopiere den Link, teile ihn und die Person sieht diesen direkt, kann Änderu
 Das ist sehr cool.
 Ich lege das dann als neues Lesezeichen ab.
 So kann ich verschiedene Versionen haben, in meinem Fall eine provisorische und eine, die den bisherigen Studienstand abbildet.
--------------
 
-/ Wenn du jetzt in deienm provis plan drin bist und planst ein modul. in deinem fall zb weiter vorne hast du cyber defense drin. wenn du nichts über das modul weisst. welche infos holst du dir und wo?:
-ich klicke direkt drauf, daich dann direkt ins adunis komme. und da ist modulbeschreibung.
-ich schaue lernziele an, dann weiss ich darunter vorstellen kann.
-dozent den ich mag unter verantwrtoliche person, evtl auch nicht mag.
-dann standort, eher wichtig für leute die nicht nur in rappi studieren.
-und ja dann hol ich mir diese infos ab. ich pers gehe nicht ultratief rein bezüglich der inhalte. für mich eher wichtig passt der durchführungszeitraum auf meinen plan, geht das auf für meine plaunug und gibt es vorempfehlungen. in diesem fall recht viele, hier 5, habe ich diese bereits erfüllt und wenn nicht, dann ist es was was ich mir zutraue, ohne die vorkenntnisse spezifisch zu haben.
+/ Sagen wir, du bist in deinem provisorischen Plan drin und planst ein Modul. In den letzten zwei Semester habe ich vorhin z.B. das Modul "Cyber Defense" gesehen. Welche Informationen holst du dir zu diesem Modul und woher, wenn du nichts darüber weisst?:
+Ich klicke auf den Modulnamen im Planer, um direkt ins Adunis zur Modulbeschreibung zu gelangen.
+Da schaue ich mir die Lernziele an, um zu sehen, was mich erwartet.
+Dann schaue ich auch, wer der Dozent, also der Modulverantwortliche ist.
+Weiter auch kurz, wo das Modul durchgeführt wird.
+Für mich ist das nicht so wichtig, aber für Leute, die nicht nur in Rapperswil studieren, sicher mehr.
+Ich persönlich gehe nicht sehr tief in die Inhalte rein.
+Für mich ist eher wichtig, ob der Durchführungszeitraum in meinen Plan passt, ob es Vorkenntnisse braucht und ob es Empfehlungen gibt.
+In diesem Fall hier sind es 5 empfohlene Module.
+Dann schaue ich, ob ich diese bereits belegt habe und wenn nicht, ob es etwas ist, das ich mir zutraue, ohne die spezifischen Vorkenntnisse zu haben.
+Es wäre echt nice, wenn man diese Modulempfehlungen und Vorkenntnisse direkt im Planer abbilden könnte.
+Momentan ist das Abholen der Informationen ein manueller Aufwand.
+Gegen Ende des Studiums wird es aber immer einfacher, da man viele Module bereits besucht hat.
+Als ich das erste Mal den Planer genutzt habe, weil ich aus dem MSP ausgebrochen bin, war es ein grosser Aufwand.
+Man muss alles manuell selber nachschauen, die BEschreibungen lesen und schauen, was empfohlen ist.
+Und am Anfang des Studiums gibt es halt fast überall bei den empfohlenen Modulen und Vorkenntnissen Lücken, weil man viele Module noch nicht besucht hat.
+Da geht man dann bei jedem empfohlenen Modul wieder separat nach denselben Informationen suchen, und jenachdem gibt es dann beim empfohlenen Modul wieder andere empfohlene Module.
+Dann hat man am Schluss ein Spaghettimonster von Abhängigkeiten, das man jonglieren muss.
 
-was nice wär azubilden im planer direkt sind diese modul empfehlungen und vorkenntnisse (zeigt Empfohlene Module).
+Da wäre eine Unterstützung echt hilfreich.
+Z.B. könnte der Planer anzeigen, wenn es für ein geplantes Modul empfohlene Module gibt, die man zuvor nicht geplant hat.
+Das muss nichts Kompliziertes sein, eine simple Ampel oder so etwas würde schon reichen.
 
-ist momentan ein manueller aufwand, gegen ende studium immer einfacher weil man vieles hat und viel besucht hat.
+/ Du hast vorher gesagt, dass du eigentlich 60% angestellt bist, dein Pensum aber je nach Woche auch 80-100% betragen kann. Hat das eine Auswirkung auf deine Planung in Bezug auf den Aufwand?:
+Ja.
+Man sieht das auch gut an meinem Studiumsverlauf.
 
-aber als ich das erste mal planer weil ausggerochen aus msp, grosser aufwand, weil man alle smanuell selber nachschauen muss, beschreibung lesen, was ist empfohlen. dann gibt es überall empfohlene module oder vorkenntnisse die man noch nicht hat und dann geht man diese wieder nachschauen und da gibt es vielleicht wieder empfohlene module.
+_Zeigt im Semesterplaner auf die ersten Semester, wo mehr Module eingeplant sind als in den Semestern danach._
 
-spaghetti mosnter von abhängigkeiten, das man jonglieren muss.
+Die ersten Semester habe ich so um die 24 ECTS geplant, danach etwas weniger, 18 oder auch 20, und jetzt nur noch 12.
+Das hängt für mich klar damit zusammen, dass ich vertraglich 60% angestellt bin, aber häufig einen effektiven Stundenaufwand von 80-100% pro Woche habe.
+Dann reicht im Teilzeitstudium oft die Zeit in der Woche nicht, um Module seriös durchzuführen.
+Vor allem bei Modulen wie "SEProj", wo Gruppenarbeiten anfallen, ist es im TZ-Studiengang schon recht schwierig, alle Leute einmal pro Woche zusammen an den Tisch zu bringen.
+Das ist wahrscheinlich weniger ein Thema, welches der Planer abdeckt.
+Es äussert sich darin, dass ich von Studierenden aus höheren Semestern höre: "SEProj ist aufwändig, die vielen Meetings sind mühsam zu planen, schau, dass nicht zu viel anderes daneben läuft!", und dann plane ich das anhand der Empfehlung.
 
-da wäre eine unterstützung echt hilfreich, zb wenns rot leuchtet im planer, wenn man ein modul welches emfpohlen wäre noch nicht drin hat zuvor.
-so was,muss ja nichts brutales seina ber eine simple ampel oder sowas.
+Vielleicht bietet hier der Studienplaner ein Potenzial, wie ein Rating einzuführen, welches den subjektiven Aufwand unter dem Semester und für die Prüfung aufweist.
+Also dass Studenten, die ein Modul besucht haben, ihre Erfahrungen teilen können, wie hart die Prüfung ist oder wie aufwändig ein Testat ist.
+Das wäre ein cooler Feedback-Loop.
 
-/ du hast vorher gesagt, du arbeitest eigentlich 60%, aber je nch woche kannes auch 80-100% sein,. hat das eine auswirkung auf deine planung in bezug auf den aufwand?:
-ja.
-man siehts auch gut an meinem verlauf.
-_zeigt im semesterplaner auf die ersten semester, wo mehr module eingeplant sind als danach._
+/ Holst du dir die Informationen, die du gerade erwähnt hast, ausschliesslich von anderen Studierenden?:
+Ich hole vieles davon bei Studierenden ab, die das Modul bereits besucht haben.
+Da braucht es jedoch auch ein Gespür dafür, wie die jeweilige Person im Vergleich zu mir tickt, damit ich den Aufwand und Schwierigkeitsgrad für mich richtig einschätzen kann.
+Auch ist dabei wichtig zu wissen, ob die Person vollzeit oder teilzeit studiert.
+Eine weitere Informationsquelle, die ich gerne nutze, ist das Studentenportal.
+Da schaue ich mir Zusammenfassungen für Prüfungen an.
+Anhand der Spicks und deren Seitenzahl kann ich in etwa ableiten, wie schwierig eine Prüfung wird.
+Haben die Spicks viele Seiten, ist es z.B. gut, wenn man etwas mehr Zeit investiert.
+Das Ganze ist etwas unsicher und schwammig.
+Merken, ob man ein Modul richtig eingeschätzt hat merkt man erst, wenn man im Modul sitzt, also ob es wirklich so schlimm ist wie geschätzt oder ob z.B. ein Modul mehr vom Aufwand her dringelegen wäre.
 
-die ersten semester immer so um di 24 ECTS dann etwas weniger, 18 oder uach 20 dann jetzt acuh 12.
-das hängt klar damit zusammen, dass ich vertraglich 60% angestellt bin aber häufig habe ich effektive 80-10% aufwände, und dann reicht einfach im teilzeitstudium die zeit in der woche nicht um module seriös durczuführen.
-vav bei mod wie seproj wo gruppenarbeiten anfallen dann im tz studiengang schon recht schiweirig alle leute an den tisch zu bringen einmal pro woche.
-das ist whs weniger ein thema, welches der studienplaner abdeckt, aber das äsusert sich dann halt einfach indem sinn das sich von studis aus höher sem hör "seroj ist aufwändig müsham mit meetings, schua dass nicht zu viel anderes daneben", und dann plan ich das anhand der empfehlung.
-hat vllt potenzial beim studienplaner, ein rating einzuführen für wie sind aufwände unter dem semester und wie für die prüfung. erfahrung von früh studis, wie hart ist die prüfung oder wie aufwändig ist das testat. wäre ein cooler feedback loop.
+/ Holst du dir die Informationen, ob es Testate gibt, auch bei Studierenden ab?:
+Eine Testatpflicht steht glaube ich auch in der Modulbeschreibung bei gewissen Modulen.
 
-/ Holst du dir die infos, die du gerade erwähnt hast, ausschliesslich von anderen studenten?:
-ich hab es viel bei studis geholt die mod schon gehabt haben, wobei dort ein gespür notwendig ist, wie ist eprson im vgl zu mir, um einzuschätzen, wie heavy es für mich ist, und ob die person tz oder vz studiert.
-was sonst noch eine option ist die ich sehr nutz, ist das studentenportal, da shauue ich zusfass für prüfungen an. dann kann man auch etwas ableiten wie krass eine prüfung wird anhand der spicks und seitenanzahl.
-bei vielen seiten gut etwas zeit investieren.
-alles etwas unsicher aber, man merkt es erst wenn man im modul sitzt ob es wirklich so schlimm ist oder ob es mehr module leiden mag.
+_Wechselt für "SEProj" auf Adunis._
 
-/ holst du dir die infos, ob es testate gibt, auch bei studis ?:
-Testatpflicht steht glaube ich auch in der Modulbeschreibung bei gewissen Modulen.
+Gut, hier gibt es glaube ich keine.
 
-_Wechselt für seproj in adunis_
-gut hier glaube ich nicht.
+_Öffnet die Modulbechreibung für "Cloud Operations"._
 
-_Macht Modulbechreibung für Cloud Operations auf._
 Hier ein anderes Beispiel.
-Hier sind die LErnziele ultra ausführlich aufgelistet.
-Füllt ein ganzes Browserfenster
-hier glaube ich auch ein testat.
+Hier sind die Lernziele ultra ausführlich aufgelistet.
+Sie füllen ein ganzes Browserfenster, und hier gibtes glaube ich auch ein Testat.
 
-_Öffnet Leistungsbewertung_
-Hier sehe ich es hat eine Schliftliche Prüpfung und eine benotete Projektarbeit während dem Semester.
-und Gewichtung ist 50/50.
+_Öffnet die Leistungsbewertung._
+
+Hier sehe ich, dass es eine schriftliche Prüfung und eine benotete Projektarbeit während dem Semester gibt.
+Die Gewichtung ist 50/50.
 Hier steht aber z.B. auch "Bewertungsart: keine Note oder Wertung" und dann unter "Bemerkungen: Note wird aus Prüfung und Projektarbeit berechnet".
-Was heisst das genau?
-Es gibt halt shcon inkonsistenzen auch in diesen offiziellen dokuemnten.
-und um diese alle zu finden..
-ich habe ein haufen module bereits absolviert und mache einfach was mir lust macht und was mir fehlt, aber am anfang, um ganzes studium etwas auszulegen, ist es schon überfrodernd, alle infos reinzuholen und korrekt zuzuteilen.
+Was heisst das jetzt genau?
+Es gibt halt schon Inkonsistenzen, auch in den offiziellen Dokumenten.
+Ich habe viele Module bereits absolviert und belege einfach, was mich interessiert und was mir fehlt, aber am Anfang, um das ganze Studium etwas auslegen zu können, ist es überfordernd, alle Informationen reinzuholen und korrekt zuzuteilen.
 
-Wenn man zb diese beiden module miteinander vergleicht als neuer student, der das system noch nicht so kennt und sich nicht so mit anderen austauscht, kann man nicht von den lernzielen ableiten, wie viel aufwand ein modul effektiv generiert.
-das wäre eigetlich echt eine erweiterung für den semesterplaner, wenn es eine art sternchen berwertung wie heavy es war gibt und das dann angezeigt wird, antürlich ohne gewähr. so als was sagen deine vorstudneten dazu. eigentlich genau das, was ich auch im echten leben abfragen gehe.
+Wenn man als neuer Student, der das System noch nicht so kennt, jetzt z.B. diese beiden Module miteinander vergleicht, kann man nicht von den Lernzielen ableiten, wie viel Aufwand ein Modul effektiv generiert.
+Das wäre echt eine Erweiterung für den Semesterplaner, eine Art Sternebewertung darüber, wie aufwändig ein Modul war.
+Natürlich ohne Gewähr, als eine Art "Was sagen deine Vorstudierenden dazu?".
+Das ist eigentlich genau das, was ich auch im echten Leben abfrage.
 
-/ Wenn du das im echten LEben abfragen gehst, machst du das in Person?:
-Chat oder in Person.
-Häuig fast aufgedrängt, wenn andere aus der GRuppe in der Pause darüber sprechen.
-DAnn bekkommt man auch ein gespür dafür, was andere sagen und wie es für einen selbst ist.
-vz studis klar im vorteil, die sind oft am campus.
-tz studis kommen kurz, machen ihren shit und gehen dann wieder.
-und darum ist dort gerrade hürde mehr für teulzeiter um knowhow abzuholen
-ich hatte glück dass ich schon leute gekannt habe, die bereits vor mir begonnen haben zu studieren hier.
-aber wenn du neu hierher kommst einfach für die module abzuholen und niemanden kennst, ist das schwierig. keine soz connections um alles in person zu fragen.
+/ Wenn du das im echten Leben abfragst, machst du das in Person?:
+Per Chat oder in Person.
+Häufig wird das fast aufgedrängt, wenn andere aus der Gruppe in der Pause darüber sprechen.
+Dann bekommt man auch ein Gespür dafür, was andere sagen und wie es für einen selbst ist.
+Vollzeit-Studierende sind hier klar im Vorteil, da sie oft am Campus sind und sich sehen.
+Teilzeit-Studierende kommen kurz, besuchen, was nötig ist und gehen dann wieder.
+Deshalb ist es für Teilzeit-Studierende schwieriger, Knowhow abzuholen.
+Ich hatte Glück, dass ich schon Leute gekannt habe, die bereits vor mir hier begonnen haben zu studieren.
+Aber wenn du neu hierher kommst, einfach um die Module abzuholen und niemanden kennst, ist das schwierig, vor allem, wenn du wenig soziale Kontakte hast.
 
-/ Du hast ja jetzt provisorisch geplant. hast du für dich bereits ein zielmodul gehabt, welhces du unbedingt machen wolltest oder gibts eins, welches noch ansteht?:
-ja, also BA ist am horizont, aber ist ja logisch dass die noch kommt.
-und für mich noch in letztenm beiden sem so cyber security module, weil mich das interessiert. und ich ursprünglich die vertiegung cysec geplant habe.
+/ Du hast ja jetzt provisorisch geplant. Hattest du für dich jemals ein Modul, welches du unbedingt machen wolltest oder gibt es eins, welches du noch unbedingt belegen willst?:
+Ja, zum einen natürlich die "BA".
+Zum anderen habe ich noch ein paar Cyber Security Module, die ich machen möchte, weil mich das Thema interessiert.
+Ursprünglich hatte ich auch die Vertiefung "Cyber Security" geplant.
 
-_zeigt auf cysec vertiefung im planer, die momentan erfüllt wäre,_
+_Zeigt im Semesterplaner auf die Vertiefung "Cyber Security", welche mit der momentanen Planung erfüllt wäre._
 
-ob ich das grün lassen will sei dahingestellt, weil ich weiss noch nicht ob ich das modul wirklich nehmen möchte.
+Ob ich die Vertiefung effektiv abschliesse, sei mal dahingestellt.
+Ich weiss noch nicht, ob ich das Modul "Platform Security" wirklich nehmen möchte.
+Da habe ich bereits Erfahrungen von Kollegen abgeholt, die das Modul besucht haben, und eventuell wechsel ich das noch aus.
+Ich muss ja sowieso noch 16 Credits irgendwo abholen.
 
-_teigt auf geplantes modul platform security_
+/ Die Vertiefung "Cyber Security" hast du ursprünglich mal geplant?:
+Ja, ursprünglich hatte ich vor, die beiden Vertiefungen "Cyber Security" und "Network and Cloud Infrastructure" zu machen.
 
-da habe ich auch gehört was man so machen muss, und eventuell wechsel ich das modul aus.
-weil ich muss ja sowiso noch 16 credits irgendwo abholen.
-
-/ also die vertiefung security hast du ursprünglich auch mal geplant gehabt?:
-ja, ursprünglich hatte ich vor die beiden vertiefungen cybersecurity und network and cloud infrastructure zu machen.
-
-/ Du hast sogar zwei Vertiefungen geplant gehabt?:
+/ Du hast sogar zwei Vertiefungen geplant?:
 Ja genau, weil sie viele sich überschneidende Module haben.
-Man sieht hier ja auch, dass ich momentan nur noch drei von vier Modulen für die zusätzliche Vertiefung Network and Cloud Infrastructure brauche, und insgesamt brauche ich ja noch vier Module um abzuschliessen.
+Man sieht hier ja auch, dass ich momentan nur noch drei von vier Modulen für die zusätzliche Vertiefung "Network and Cloud Infrastructure" brauche, und insgesamt brauche ich ja noch vier Module um abzuschliessen.
 
-_Zeigt auf das Modul "Network Automation" in der "Network and Cloud Infrastructure" Vertiefungsauflistung._
+_Zeigt auf das Modul "Network Automation" in der "Network and Cloud Infrastructure" Vertiefungsauflistung im Semesterplaner._
 
-Das würde eigentlich aufgehen, aber "Network Automation" gibt nur 2 Credits und ist ein Pain, deshalb lasse ich das lieber weg.
+Das würde eigentlich aufgehen, aber "Network Automation" gibt nur 2 Credits und ist anscheinend mit sehr viel Aufwand dafür verbunden, deshalb lasse ich das lieber weg.
 
 / [Stefi] Du hast gewisse Module, bei denen du vorher erwähnt hast, dass du sie einplanst, weil sie dich interessieren. Du schaust auch darauf, dass du die empfohlenen Module dafür hast. Wie machst du das?:
 Das ist jetzt bei mir die Sicht aus dem siebten Semester, das heisst, ich habe viele der empfohlenen Module bereits gemacht, da ich immer etwa den MSPs gefolgt bin.
@@ -293,18 +310,17 @@ Da macht es wirklich Sinn, sich diejenigen Module, bei denen viele Vorkenntnisse
 Dann kann man dann alle vorausgesetzten Module raussuchen und diese in den Semestern davor mal einplanen.
 Und dann schaue ich noch wie es aufgeht mit Herbst- und Frühlingssemester.
 Ist alles etwas mühsam.
-Weil man muss dann jeweils doch noch in die Modulbeschreibung reinschauen, um zu sehen, was es dazu alles braucht und wann es durchgeführt wird.
+Weil man dann jeweils doch noch in die Modulbeschreibung reinschauen muss, um zu sehen, was es dazu alles braucht und wann es durchgeführt wird.
 Aber ich habe es etwa so gemacht, wie beschrieben.
-Also zwei Links abspeichern, einer mit den bisherigen Leistungen.
-Und dann einen weiteren, wo ich die Module eintrage, die ich machen möchte.
-Dann habe ich zwei Fenster offen für die beiden Pläne und wechsle hin und her, weil ich schauen muss, wo ich in meinem effektiven Plan dann die notwendigen Module effektiv reinplanen kann.
+Also zwei Links abspeichern, einer mit den bisherigen Leistungen, und einen, in welchen ich die Module eintrage, die ich machen möchte.
+Dann habe ich zwei Fenster offen für die beiden Pläne und wechsle hin und her, weil ich schauen muss, wo ich in meinem effektiven Plan dann die notwendigen Module reinplanen kann.
 Damit es von den Credits und den Semestern her aufgeht.
-Aber das ist sehr ein manueller Task für mich.
+Das ist eine sehr manuelle Aufgabe für mich.
 
 / Wir haben viel über Modulplanung und Recherche gesprochen. Was findest du bei deinem Vorgehen dazu mühsam, was klappt nicht gut, und was findest du einfach und gut? Und weshalb?:
 Das Mühsame ist effektiv, sich die Informationen zu holen.
 Sei es ins Adunis reingehen, die Modulbeschreibung zu lesen und dann die verschiedenen empfohlenen Module abzutracken.
-Da muss man sich ein mentales Bild oder Netz von Abhängigkeiten merken, und sich dann das Ganze irgendwie zurechtzulegen.
+Da muss man sich ein mentales Bild bzw. Netz von Abhängigkeiten merken, und sich dann das Ganze irgendwie zurechtzulegen.
 
 _Hat Modulbeschreibung von "Platform Security" geöffnet._
 
@@ -317,38 +333,93 @@ Das heisst, die kann man nacheinander machen.
 Das heisst, bei dieser Kette würde das in drei aufeinanderfolgenden Semestern aufgehen.
 Aber hier hat man dann ja noch vier andere Abhängigkeiten.
 Und ja, ich für mich habe in all diesen Semestern keinen einfachen Weg gefunden, das Ganze in wenigen Stichworten zu beschreiben, um das dann jemandem zu geben, der noch nie ein Semester selbst geplant hat.
-Adunis ist auch nicht unbedingt optimal, es ist eigentlich einfach ein Textbook, in welchem du blättern gehst.Dann findest du das andere Modul, oh ich setze mir ein Bookmark, weil das hat dann wider 4 versch abhängigkeiten und so weiter.
-das ist defintiiv der grösste pain, abhängigketien rausfinden und rausfinden, wie ist die reihenfolge um das zu erreichen, mit herbst und frühlingssemester.
-wenn man das mal weiss, und man es in einem blankoplan korrekt eingetragen hat mit fs und hs, dann kommt der spassige part.
-dann kann man die module einfach rumschieben und sieht seine möglichkeiten und die geplanten credits.
-aber bis man zu diesem punkt kommt ok ich habe meine gesamtmenge an modulen die ich will und wie sie voneinander abhängen und wann sie durchgeführt werden, das ist der mühsame part, wen man sich nicht an einen msp halten kann.
+Adunis ist auch nicht unbedingt optimal, es ist eigentlich einfach ein Buch, in welchem du blätterst.
+Dann findest du das andere Modul, und setzt dir ein Lesezeichen, weil das dann wiederum 4 verschiedene Abhängigkeiten aufweist, und so weiter.
+Das ist defintiiv das grösste Mühsal, Abhängigkeiten und deren Reihenfolge herauszufinden, inklusive, ob Modul jeweils im Herbst- oder Frühlingssemester durchgeführt werden.
+Wenn man das weiss, und man es in einem Blankoplan korrekt eingetragen hat, auch die Durchführungen, dann kommt der Teil, der Spass macht.
+Dann kann man die Module einfach herumschieben, sieht seine verschiedenen Möglichkeiten und die geplanten Credits.
+Bis man an diesen Punkt gelangt - "Ok, ich habe die Gesamtmenge an Modulen, die ich will, und wie diese voneinander abhängen, und wann sie durchgeführt werden" - das ist der mühsame Teil, vor allem, wenn man sich nicht an einen MSP halten kann.
 
 / Wenn du hier gerade am Module Herumschieben bist, wie fügst du ein neues Modul hinzu?:
-Mit dem plus und dann suche ich das modulich muss wissen wie es heisst,
-und scrolle in diesem dropdwon.
-wenn es kategoriesierung gäbe oder man ein plus klicken kann zb auch bei kategorien, da fehlen mir noch 4 gesellschaftscredit, dann auflistung der module die dafür gelten und dann mit einem plus reinfitzen, wäre das ultra nice, sonst mus man genau wissen, wie die module heissen.
-es gibt glaube ich einen businessplan, "business processes glaube ich".
+Das mache ich mit dem "+"-Button.
+Dann suche ich das Modul, das ich einfügen möchte.
+Dazu muss ich wissen, wie es heisst, und dann scrolle ich in diesem Dropdown.
+Es wäre super, wenn es eine Kategorisierung gäbe.
+Zum Beispiel so, dass man bei den Kategorien unten links die Module, die für diese Kategorie gelten, angezeigen könnte.
+Und man dann einfach auf ein "+" klicken könnte, um ein Modul hinzuzufügen.
+Sonst muss man genau wissen, welche Module es gibt.
+In der Kategorie "Gesellschaft, Wirtschaft und Recht" fehlen mir noch 4 Credits.
+Da gibt es glaube ich ein Modul "Business Processes".
 
-_gibt "bus" ein im suchfeld und wählt "Business Processes für Informatik" aus mit Mausklick darauf. Der Modulname erscheint nun ganz im Suchfeld, es wird aber nicht automatisch hinzugefügt._
+_Gibt im Suchfeld unter dem Semester "FS25" "bus" ein und wählt "Business Processes für Informatik" aus.
+Der Modulname erscheint nun ganz im Suchfeld, es wird aber nicht automatisch hinzugefügt._
 
 Jetzt habe ich irgendwie gefailt.
 Wieso funktioniert das nicht?
 
-_Klickt auf Enter auf der Tastatur._
+_Klickt "Enter" auf der Tastatur._
 
 Ah ich muss noch Enter drücken.
-Schon lange nicht mehr gemacht, also doch, letzte Woche schon.
+Das habe ich schon lange nicht mehr gemacht, also doch, eigentlich erst gerade letzte Woche.
 
-Und weil ich bereits weiss, dass es das Modul gibt und das auch im FS durchgeführt wird, kann ich das einfach so einplanen.
-Die Credits per Kategorie werden auch korrekt aktualisiert dann.
+Weil ich bereits weiss, dass es das Modul gibt und dieses auch im FS durchgeführt wird, kann ich das so einplanen wie jetzt.
+Die Credits per Kategorie werden auch korrekt aktualisiert.
 
-_Zeigt auf die Credits Übersicht unten links im Planer._ 
+_Zeigt auf die Credits Übersicht unten links im Planer._
 
+Wenn ich aber nicht weiss, welche Gesellschafts- und Businessmodule es noch gibt, bin ich wieder am Scrollen irgendwo im Adunis.
+Oder hier am ausprobieren.
+Der Semesterplaner zeigt mir nämlich bei der Modulauswahl nicht, zu welchen Kategorien die Module gehören.
+Es belästigt mich nur mit einem sehr ausführlichen Dropdown.
+Ich könnte hier etwas zufällig auswählen, z.B. "Japanisch 1" und hinzufügen.
 
+_Wählt "Japanisch 1" aus.
+Die hinzugefügte Modulkachel ist pink gefärbt._
 
+Pink, zu welcher Kategorie zählt das?
 
+_Scrollt im Planer nach unten zu den Kategorien._
 
+/ [Stefi] Das gehört zu keiner Kategorie, das zählt einfach nur zu den totalen Credits.:
 
+Ah, ok.
+Dann ist das nichts für mich.
+
+/ Nutzt du den Planer auch auf anderen Geräten, wie z.B. dem Handy?:
+Primär auf dem Notebook.
+Ich habe ihn noch nicht auf dem Handy genutzt, weil ich nicht glaube, dass der Planer mobile-friendly ist.
+Ich habe es aber noch nie versucht.
+Primär auf Geräten mit grösserem Bildschirm, die auch im Landscape-Format sind.
+Mein Plan weist ja bereits einen ziemlichen Overflow auf, da ich 10 Semester studiere.
+
+/ [Stefi] Du setzt dir ja Lesezeichen. Nutzt den Planer dann nur an einem Gerät?:
+Die Lesezeichen habe ich hier in meinem gewohnten Browser.
+Ich arbeite generell auch nur an diesem Gerät damit.
+Vielleicht gibt es mal einen Link in einen Chat mit Kollegen, dann gibt es den Link auch dort, aber primär arbeite ich nur an diesem Gerät daran.
+
+/ Nehmen wir an, du studierst noch ein 11. Semester. Wie kannst du das im Semesterplaner abbilden?:
+Wenn ich meinen Plan anschaue, bin ich ehrlich gesagt etwas verloren.
+Ich weiss nicht, welches Semester das wievielte ist, da müsste ich nachzählen gehen, da die Semester nicht nummeriert sind bzw. nur mit FS und HS und dem jeweiligen Jahr angeschrieben sind.
+Ich weiss jetzt einfach, dass es 10 sind, bzw. sollten es 10 sein.
+
+Für ein neues Semester gibt es ganz hinten rechts ein "+"-Button, und dann öffnet sich noch weiter rechts im Off mein 11. Semester, bzw. das "Semester HS26".
+Aber wenn wir nicht horizontal scrollen und zählen wissen wir nicht, das wievielte Semester das ist.
+
+Aber jetzt kann ich hier noch Module hinzufügen.
+Ich will was ausprobieren, was ich noch nie versucht habe.
+Geht das?
+
+_Sucht in der Modulauswahl nach "Betriebssysteme 1" und versucht, das Modul hinzuzufügen.
+Der Planer reagiert mit der Nachricht "Modul Betriebssysteme 1 ist bereits im Semester 3"._
+
+Okay gut, das habe ich schon im Semester 3.
+Das ist cool!
+Ich habe noch nie versucht, Module mehrfach hinzuzufügen.
+Die Meldung ist ein gutes Feature.
+Ich weiss jetzt nicht gerade, welches das dritte Semester ist, da muss ich natürlich zählen.
+Wenn man bei den Semesterbeschriftungen noch eine Nummer, z.B. "\#1", anzeigen könnte, wäre das usability-technisch super.
+
+/ [Stefi]: 36.48
 
 ==== Überprüfen des bisherigen Plans
 
