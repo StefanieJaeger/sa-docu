@@ -159,20 +159,24 @@ Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-
 
 === Hosting <hosting>
 
-// Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
-Die Applikation wird über GitHub Pages gehostet.
+Die Applikation wird über #gls("githubPages") gehostet.
 Da sie lediglich eine #gls("spa") ohne Backend ist, entfallen somit jegliche Kosten für das Hosting.
 
-// I want the steps to be styled differently
-Die gewünschte URL, #link("lost.university"), wird auf GitHub unter Settings -> Pages -> Custom Domain hinterlegt.
+Die gewünschte URL, #link("lost.university"), wird auf GitHub unter _Settings > Pages > Custom Domain_ hinterlegt.
 Die Domain wird so konfiguriert, dass sie über einen CNAME-Eintrag auf das Repository der Applikation verweist.
 
-// I want "main" to be styled differently
-// Glossar or Bib? https://docs.github.com/en/actions/about-github-actions
-Wird ein Branch in den main-Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") baut und deployt.
+Wird ein Branch in den main-Branch gemergt, wird über einen Workflow eine #gls("githubActions") ausgelöst, welche die #gls("spa") baut und deployt.
 
 Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
 Die darin enthaltenen JSON-Dateien werden mithilfe von Tags versioniert.
+
+=== Diagramm
+
+Wir haben uns dagegen entschieden, die Architektur mittels arch42 zu dokumentieren, da wir nicht die Entscheidungen fällen, sondern lediglich die existierende Architektur dokumentieren.
+Für diese Bedürfnisse reicht ein C4 Diagramm vollkommen aus.
+Jedoch limitieren wir uns auf die ersten drei Cs, da dieses Diagram zum Ziel hat, den Aufbau der bestehenden Applikation zu erklären, nicht den Code zu dokumentieren.
+
+[C4]
 
 == Funktionalität
 
