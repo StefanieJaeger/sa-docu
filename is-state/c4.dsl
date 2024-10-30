@@ -68,17 +68,17 @@ workspace "Semesterplaner" "Dokumentation zum Semesterplaner" {
                 color #ffffff
             }
             element "Person" {
-                background #741eba
+                background #007e6b
                 shape person
             }
             element "Software System" {
-                background #8723d9
+                background #8c195f
             }
             element "Container" {
-                background #9a28f8
+                background #6b3881
             }
             element "Component" {
-                background #ff28f8
+                background #ae6cae
             }
         }
     }
