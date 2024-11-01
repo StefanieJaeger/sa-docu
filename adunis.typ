@@ -1,4 +1,6 @@
-= Interview mit dem Studiengangleiter Informatik
+= Fragen und Antworten im Zusammenhang mit SLCM und dessen Daten
+
+== Interview mit Studiengangleiter
 
 #grid(
   columns: (1fr, 1fr),
@@ -17,7 +19,7 @@
   ]
 )
 
-== Generelle Fragen
+=== Generelle Fragen
 
 / Wer ist für die Modulbeschreibungen verantwortlich?:
 Modulverantwortliche sind zuständig, dass ihre Modulbeschreibungen korrekt sind.
@@ -62,7 +64,7 @@ So könnten wir die Musterstudienpläne für die verschiedenen Vertiefungen und 
 Auch wäre es interessent, könnte man dann nach der Sprache, in der das Modul angeboten wird, nach dem Dozent oder Kampus filtern.
 
 
-== Fragen zu den Daten
+=== Fragen zu den Daten
 
 / Teils haben mehrere Module die gleichen oder fast gleichen Namen. Was bedeutet das?:
 Bei den Modulen "Lernlabor "Digitalisieren Hands-on"" und "Lernlabor «Digitalisieren Hands-on»" ist es so, dass das 2. ein IKTS-Modul ist und eigentlich das 1. ablöst.
