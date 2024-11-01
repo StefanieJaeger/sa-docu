@@ -1,5 +1,7 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
 
+#set heading(numbering: "1.")
+
 = Ist-Zustand
 
 Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
@@ -176,7 +178,10 @@ Wir haben uns dagegen entschieden, die Architektur mittels arch42 zu dokumentier
 Für diese Bedürfnisse reicht ein C4 Diagramm vollkommen aus.
 Jedoch limitieren wir uns auf die ersten drei Cs, da dieses Diagram zum Ziel hat, den Aufbau der bestehenden Applikation zu erklären, nicht den Code zu dokumentieren.
 
-[C4]
+#figure(image("structurizr-System.png"), caption: [C4 Diagram, Level Context]) <c4_context>
+#figure(image("structurizr-Containers.png"), caption: [C4 Diagram, Level Containers]) <c4_containers>
+#figure(image("structurizr-Data.png"), caption: [C4 Diagram, Level Component, Data]) <c4_component_data>
+#figure(image("structurizr-Web.png"), caption: [C4 Diagram, Level Component, Web]) <c4_component_web>
 
 == Funktionalität
 
