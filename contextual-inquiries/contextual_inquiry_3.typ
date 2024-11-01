@@ -419,7 +419,99 @@ Die Meldung ist ein gutes Feature.
 Ich weiss jetzt nicht gerade, welches das dritte Semester ist, da muss ich natürlich zählen.
 Wenn man bei den Semesterbeschriftungen noch eine Nummer, z.B. "\#1", anzeigen könnte, wäre das usability-technisch super.
 
-/ [Stefi]: 36.48
+/ [Stefi]: Wie stellst du sicher, dass du die notwendigen Credits pro Kategorie wirklich bis und mit dem 10. Semester erreichst?:
+Ich knall die Module, die ich plane, einfach mal in den Planer rein.
+Dann schaue ich mir die aktualisierte Übersicht der ECTS Punkte unten links im Planer an.
+Was angenehm wäre, wäre z.B. ein Checkmark neben den Kategorien, wenn die Summe der bereits erreichten Credits sowie der noch geplanten Credits die notwendigen Credits für die Kategorie erfüllen.
+Klar kann ich ein wenig Mathe, und ich sehe auch dass hier z.B. 16 geplante + 28 erreichte nicht die 48 notwendigen Credits ergeben.
+Das heisst hier fehlt mir noch ein Modul.
+Wenn ich eine Kategorie bereits erfülle, dann ist die Übersicht eigentlich gut.
+Der Balken ist dann gänzlich mit Farbe gefüllt.
+Wenn mir aber nur wenige geplante Credits fehlen, dann ist das nicht so offensichtlich.
+Die beiden Grautöne sind sehr ähnlich, und der Balken ist dann nur zu einem kleinen Teil nicht gefüllt, z.B. bei der Kategorie Informatik.
+Da mir hier nur vier von insgesamt 136 Credits fehlen, ist das nicht so offensichtlich, vor allem wenn man vielleicht eine Sehschwäche hat oder beim Kopfrechnen einen kleinen Fehler macht.
+Aber grundsätzlich schaue ich mir unten an, ob ich die Summe der geplanten und erreichten Credits pro Kategorie erreiche.
+
+/ Überprüfst du die Erreichung der Credits pro Kategorie nur im Semesterplaner?:
+Das mache ich tatsächlich nur im Semesterplaner, da ich keine Ahnung habe, wo man das sonst noch nachschauen könnte.
+Sieht man die vielleicht im Semesterreport?
+Nein, ich überprüfe das sehr gerne im Planer, da es hier schön übersichtlich und bunt dargestellt wird.
+Die Farben der Kategorien sind dieselben wie bei den eingeplanten Modulen weiter oben.
+Das gefällt mir gut.
+
+/ [Stefi] Ich sehe, dass dir in der Kategorie Mathematik noch Credits brauchst, wie gehst du vor, um sicherzustellen, dass du diese Kategorie schlussendlich erfüllen wirst?:
+Also entweder kenne ich jemanden, der besser planen kann als ich und allgemein mehr Ahnung hat, welche Module es in dieser Kategorie noch gibt und wie diese heissen.
+Sonst schaue ich im Dropdown nach, was es für Module gibt und welche vom Namen her nach Mathematik klingen.
+Das Suchen in der Liste war aber bis jetzt auch nicht immer erfolgreich.
+
+/ Suchst du nur im Planer nach Modulen pro Kategorie?:
+Jein, ich schaue auch auf unterricht.ost.ch nach.
+
+_Öffnet unterricht.ost.ch und wechselt zum Reiter "Nächstes Semester > Module > An-/Abmelden"._
+
+Hier gehe ich die Liste der anmeldbaren Module durch und schaue, was nach Mathematik klingt.
+Von denjenigen, die nach Mathe klingen, schaue ich mir dann die Modulbeschreibung genauer an, um herauszufinden, ob das wirklich in die Kategorie passt.
+Das ist aber auch ein mühsamer Prozess.
+
+/ Ich frage ganz direkt: Du weisst nicht, dass es eine Auflistung der Module pro Kategorie auf unterricht.ost.ch gibt?:
+Nein, das wusste ich nicht.
+Ich habe mir aber auch noch nie ein Bein ausgerissen für die Modulanmeldung.
+Bis diese freigeschalten ist, mache ich mir in der Regel noch keine grossen Gedanken.
+Und dann habe ich zwei Wochen lang Schwierigkeiten, um mir meine Module zusammenzusuchen.
+Wenn diese Liste existiert, könnte man diese ja auch im Planer einbinden als Link oder Panel, über welches man direkt auf die Liste kommt oder diese Module direkt im Planer unter Kategorien anzeigen lassen.
+
+/ Das Vorgehen, dass du uns bis jetzt gezeigt hast, machst du das jeweils am Stück oder über mehrere Tage verteilt?:
+Meistens setze ich mich hin, um zu planen, und entweder habe ich keinen Bock mehr oder ich bin fertig.
+Und bis ich nicht fertig bin, habe ich ein paar Sessions, bis ich wieder keinen Bock mehr habe.
+
+/ Holst du dir die Informationen zu den Modulen von Kollegen oder dem Studentenportal jeweils, wenn du gerade ein Modul anschaust, oder holst du dir Informationen zu allen Modulen auf einmal?:
+Es vermischt sich schon stark.
+Zuerst mache ich in meinem provisorischen Plan eine Auslegeordnung, und dann frage ich vielleicht jemanden, was er mir davon empfehlen würde.
+Das mache ich dann in Iterationen, bis ich zufrieden bin.
+Das speichere ich mir dann in meinem definitiven Lesezeichen ab und melde es danach auf unterricht.ost.ch an.
+Obligatorische Module, wie z.B. die Bachelorarbeit im nächsten Semester, melde ich jedoch immer direkt bereits an.
+
+/ [Stefi] Wer denkst du, steht hinter dem Planer? Mittlerweile weisst du es ja, aber was hast du z.B. anfänglich gedacht?:
+Es gibt Leute, die ich kenne, die am Planer arbeiten.
+Diese haben ihn mir auch empfohlen, weshalb mir von anfang an bewusst war, dass das ein Tool von Studenten ist, das auf freiwilliger Basis entstanden ist.
+Zu wissen, dass das Tool von Studenten für Studenten ist, macht die Nutzung sehr sympathisch, weil man weiss, es steht jemand dahinter, der Spass an der Entwicklung hat.
+Und auch selber auch weiss, was man als Student im Studium braucht.
+Und die Memes sind auch cool, ich möchte mehr davon.
+
+/ Gibt es Aspekte, die im deinem Prozess wichtig sind, wir jedoch noch nicht darüber gesprochen haben?:
+Vielleicht die Module, die gegeben sind, und bei jedem stattfinden.
+Die nehmen die meisten in den gleichen Semestern, also bei mir "SEP1", "SEP2", "SeProj", "SA" und "BA", weil man vom Hörensagen oder sogar der Willkommensrede des Studiengangleiters mitbekommen hat, dass das von Vorteil ist.
+Also das man sich bewusst sein soll, wann diese Module stattfinden und mit wieviel Aufwand sie verbunden sind, damit man sich in diesen Semestern nicht übernimmt.
+Es kommt auch darauf an, mit wem man diese Gruppenmodule macht, da muss man sich dann zusammensetzen und besprechen, in welchen Semestern man das machen möchte.
+Und der Rest ist in diesem Studiengang sehr flexibel modular planbar, deshalb nicht so dramatisch, wenn man etwas verschieben muss.
+
+/ [Stefi] Könntest du uns nochmal kurz zusammenfassen, welche Aspekte du hilfreich und welche du schwierig findest am Planer?:
+Dass man keine Kategorisierung bei der Suche hat, stört mich etwas.
+Man könnte das simple Dropdown erweitern, um die Suche angenehmer zu gestalten.
+Oder in der Übersicht der Kategorien, dort könnte man auch eine Modulliste anzeigen.
+Weiter würde ich mir wünschen, man könnte Module direkt von unten in den Plan einfügen, also per Click oder _Drag & Drop_.
+
+/ [Stefi] Eine Folgefrage dazu: Wo würdest du erwarten, dass das Modul, das du per Klick hinzufügen möchtest, im Plan landet?:
+Das ist ein guter Punkt.
+Vielleicht kann man die Semester markierbar machen, dass dann wie ein Semester aktiv ist, in Bezug auf Aktionen.
+Und alle Module, die ich von unten per Klick hinzufüge, landen dann in diesem aktiven Semester.
+Oder dass ein Panel aufgeht, welches mich fragt, in welches Semester ich das Modul hinzufügen möchte.
+
+/ Wenn du kein Panel und auch keine Markierung machen kannst, wo würdest du erwarten, dass das Modul landet?:
+Ich würde erwarten, dass es im nächsten noch nicht angemeldeten Semester landet.
+Das ist bei mir auch der Use Case, weshalb ich den Planer nutze.
+Eigentlich sind mir die vergangenen Semester egal, ich will wissen, was ich noch machen muss.
+Vielleicht könnte man vergangene Semester auch per Toggle ein- und ausblenden.
+Das man den Fokus auf den aktuellen Semestern hat.
+Und dann, wenn man aktuell im HS24 ist, dass es dann ins nächste Semester, also im HS25, hinzugefügt wird.
+Oder wenn man Informationen zum Durchführungssemester hat, dass es dann einfach ins nächste Semester, welches der Durchführung, also HS oder FS, entspricht, hinzugefügt wird.
+
+/ Wir wären am Ende. Gibt es noch etwas, was du uns mitteilen möchtest?:
+Ich finde das Tool und eure Arbeit cool.
+Ich hätte nicht gedacht, dass man 50 Minuten über den Semesterplaner sprechen kann.
+Ich wünsche euch viel Stärke und Kraft bei der Auswertung der Inquiries.
+
+/ Vielen Dank fürs Mitmachen! Wir stoppen jetzt die Aufnahme.:
 
 ==== Überprüfen des bisherigen Plans
 
