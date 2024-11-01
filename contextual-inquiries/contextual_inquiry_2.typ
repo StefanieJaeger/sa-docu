@@ -20,7 +20,27 @@ Die Testperson wird von Laura gemäss den vorbereitenden Kommentaren des Leitfad
 Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
-[TODO]
+
+1. Recherche zu Modulen
+- Die Testperson öffnet die Modulbeschreibung auf Adunis.
+- Sie achtet sich dort auf die Leistungsbewertung, auf _Kurse in diesem Modul_ und wer die verantwortliche Person ist.
+- In welchem Semester das Modul durchgeführt wird und zu welchen Kategorien es zählt, ist ebenfalls wichtig.
+- Die Testperson versucht auch den allgemeinen Aufwand für das Module und die benötigte Anwesenheit ab zu schätzen. Zu dieser Abschätzung tauscht sie sich mit Studiumskollegen aus.
+- Sie interessiert sich meist wenig für die _Empfohlene Module_, persönliches Interesse ist ihr wichtiger.
+
+2. Öffnen des Semesterplaners
+- Die Testperson hat sich den Link zu ihrem Plan als gepinnte Nachricht in _Saved Messages_ Channel auf _Telegram_ geschickt.
+- Von dort kann sie ihn auf diversen Geräten öffnen.
+
+3. Überprüfen des Plans
+- Sie überprüft die geplanten und bereits erhaltenen ECTS pro Kategorie im Plan und zählt mental noch 3 vom Digicamp hinzu, welches sie nicht im Plan eintragen kann.
+- Sie prüft auch jedes Semester, dass die geplanten Module noch mit ihren Interessen überinstimmen und sie den Plan auch so durchziehen will.
+
+4. Aktualisieren des Plans
+- Sie fügt die Module im Plan hinzu.
+- Sie plant meist das nächste Semester genauer, die folgenden Semester mehr oberflächlich.
+- Nicht bestandene Module entfernt sie aus dem Plan.
+- Sie führt diese Schritte meist nur während der 1. Anmeldephase durch.
 
 ==== Generelle Fragen
 
@@ -88,7 +108,7 @@ Mein Arbeitgeber ist sehr flexibel und ich kann mir die Überstunden auch einfac
 
 / Du darfst gerne deinen Bildschirm teilen und mit deinem üblichen Vorgehen für die Semesterplanung starten.:
 
-/ Du hast bevor wir mit der Aufzeichnung begonnen haben, gesagt, dass du bereits was vorbereitet hast?:
+/ Du hast, bevor wir mit der Aufzeichnung begonnen haben, gesagt, dass du bereits was vorbereitet hast?:
 Genau, ich habe meine _Saved Messages_ auf Telegram aufgemacht und die gepinnten Nachrichten durchgescrollt, um die URL zu finden. Die _Saved Messages_ sind mein Zwischenspeicher für alles.
 So habe ich immer den letzten Stand meines Plans, da ich ihn auf mehreren Geräten nutze.
 Weiter habe ich meine Mails aufgemacht, da ich etwas nicht eintragen kann im Semester Scheduler.
@@ -115,10 +135,10 @@ Was ich für die Planung mache:
 - Ich öffne die Modulbeschreibung auf Adunis.
 - Ich schaue mir an: 
   - die Bewertung [Leistungsbewertung], ob alles während dem Semester ist oder alles als Prüfung.
-  weil wenn alles unter dem Semester ist, ist es sehr streng neben 60% arbeiten, wenn alles nur eine Prüfung ist, muss ich fast Ferien nehmen zum Lernen. Ich habe gerne eine Mischung von beidem.
+  Weil wenn alles unter dem Semester ist, ist es sehr streng neben 60% arbeiten, wenn alles nur eine Prüfung ist, muss ich fast Ferien nehmen zum Lernen. Ich habe gerne eine Mischung von beidem.
   Momentan habe ich nicht mehr viel Spielraum, da ich ja fast am Ende meines Studiums bin. Ich habe aber trotzdem gerne ein Gespür dafür, ob alles während dem Semester oder alles nur eine Prüfung ist. Es soll sich idealerweise verteilen.
   - die "Kurse in diesem Modul", weil ich wissen will, um was es geht und ob es mich überhaupt interessiert.
-  - bei wem? steht nicht, hm, ok.
+  - bei wem? Steht nicht, hm, ok.
 
 _ Testperson stellt die folgende Frage an die Interviewer: Wisst ihr das gerade, man kann sich jetzt ja neu wieder abmelden von einem Modul, oder?
 Es gibt eine kurze Diskussion über die neue Regelung._
@@ -304,7 +324,7 @@ Das ist eigentlich das Versprechen der Schule.
 
 / So viel wir wissen, studiert man ja eigentlich immer nach der bei Studienbeginn gültigen Studiengangsordnung. Es ändert sich nur etwas, wenn was von der eigenen "STD" abgelöst wird in einer neueren.:
 Aha, ja das kann schon sein.
-Sie haben uns immer gesagt, dass wir auch nach der neuen Verordnung abschliessen können, also dass wir auch die neuen module nehmen können.
+Sie haben uns immer gesagt, dass wir auch nach der neuen Verordnung abschliessen können, also dass wir auch die neuen Module nehmen können.
 Ich hatte ja noch die vier Kernmodule, die ich bestehen musste, was heute schon nicht mehr so ist.
 Aber die Schule hat gesagt, dass das egal ist.
 Sobald eine neue Verordnung in Kraft ist, können wir auch nach der neuen abschliessen, das sind dann quasi unsere Übergangsbestimmungen.
