@@ -26,7 +26,30 @@ Die Aufzeichnungen werden nach der Bewertung der SA gelöscht.
 Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
-[TODO]
+
+1. Vorbereitung der Modulanmeldung
+- Die Testperson öffnet den Semesterplaner über ein Bookmark und prüft die Übersicht der bisherigen ECTS sowie den Stand der Credits pro Kategorie.
+- Sie stellt sicher, dass diese mit dem offiziellen Report von unterricht.ost.ch übereinstimmen, um eine zuverlässige Basis für die Planung zu haben.
+
+2. Provisorischer und finaler Plan
+- Sie arbeitet mit zwei Plänen: einem provisorischen Plan, der Module enthält, die sie potenziell belegen möchte, und einem finalen Plan, der ihren bisherigen Studienverlauf dokumentiert. Der provisorische Plan hilft ihr, die fehlenden Credits zu identifizieren und zu überlegen, wie sie diese am besten erreichen kann.
+- Da sie neben dem Studium arbeitet, hat sie in den ersten Semestern mehr Module eingeplant und reduziert die ECTS in späteren Semestern, um eine Balance zwischen Studium und Arbeit zu schaffen.
+
+3. Verifizierung der Informationen über Adunis
+- Durch direkte Verlinkung kann die Testperson schnell in die Modulbeschreibungen wechseln, um Inhalte und Durchführungssemester der Module zu prüfen.
+- In Adunis schaut sie nach, ob ein Modul spezifische Vorkenntnisse oder _Empfohlene Module_ hat, um sicherzugehen, dass sie die nötigen Voraussetzungen erfüllt. Diese Informationen sind besonders in den ersten Semestern wichtig, da hier oft noch mehrere empfohlene Module fehlen.
+- Sie prüft, ob sie die notwendigen Module für die angestrebte Vertiefung belegt hat und plant entsprechend weitere Module ein, die zur Vertiefung erforderlich sind.
+
+4. Abgleich mit anderen Studenten
+- Die Testperson bespricht sich mit anderen Studierenden, um Informationen über die Module zu sammeln, wie deren Inhalt und Aufwand.
+- Sie nutzt das Studentenportal, um Zusammenfassungen zu Prüfungen zu finden und den geschätzten Schwierigkeitsgrad der Module besser einschätzen zu können.
+
+5. Finale Überprüfung der ECTS pro Kategorie:
+- Abschließend überprüft sie die im Planer aufgeführten ECTS pro Kategorie, um sicherzustellen, dass die Summe der geplanten und bereits erreichten Credits ausreicht.
+
+6. Nutzung und Teilen der Pläne:
+- Die Testperson speichert die Links ihrer Pläne als Lesezeichen und teilt sie mit anderen, um Feedback und Vorschläge für zusätzliche Module zu erhalten.
+- Diese Links ermöglichen es ihr, verschiedene Versionen ihres Plans zu verwalten und anzupassen.
 
 ==== Generelle Fragen
 

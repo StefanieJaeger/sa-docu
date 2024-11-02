@@ -43,7 +43,7 @@ Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtun
 - Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen.
 - Sie erwähnt, dass sie Module wieder entfernt, wenn sie diese nicht besteht, und passt den Planer entsprechend manuell an.
 
-6. Abgleich mit Studiumskollegen und Studienberatung
+6. Abgleich mit anderen Studenten
 - Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist.
 // - Die Testperson hat in der Vergangenheit versucht, Beratung durch die Studienadministration zu bekommen, war jedoch erfolglos.
 
