@@ -21,26 +21,32 @@ Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtun
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
-1. Recherche zu Modulen
-- Die Testperson öffnet die Modulbeschreibung auf Adunis.
-- Sie achtet sich dort auf die Leistungsbewertung, auf _Kurse in diesem Modul_ und wer die verantwortliche Person ist.
-- In welchem Semester das Modul durchgeführt wird und zu welchen Kategorien es zählt, ist ebenfalls wichtig.
-- Die Testperson versucht auch den allgemeinen Aufwand für das Module und die benötigte Anwesenheit ab zu schätzen. Zu dieser Abschätzung tauscht sie sich mit Studiumskollegen aus.
-- Sie interessiert sich meist wenig für die _Empfohlene Module_, persönliches Interesse ist ihr wichtiger.
+1. Vorbereitung und Start des Semesterplaners
+- Die Testperson öffnet ihren Semesterplaner über einen gespeicherten Link in den Saved Messages auf Telegram
+- Sie trägt anschliessend das Startsemester manuell ein, da dieses Feature nach der letzten Speicherung ihres Planes eingeführt wurde.
 
-2. Öffnen des Semesterplaners
-- Die Testperson hat sich den Link zu ihrem Plan als gepinnte Nachricht in _Saved Messages_ Channel auf _Telegram_ geschickt.
-- Von dort kann sie ihn auf diversen Geräten öffnen.
-
-3. Überprüfen des Plans
-- Sie überprüft die geplanten und bereits erhaltenen ECTS pro Kategorie im Plan und zählt mental noch 3 vom Digicamp hinzu, welches sie nicht im Plan eintragen kann.
+2. Modul- und ECTS-Überprüfung
+- Sie kontrolliert die aktuelle Anzahl der geplanten ECTS pro Kategorie, um sicherzustellen, dass alles korrekt erfasst ist, und vergleicht diese mit den Anforderungen ihres Studiengangs.
+- Für eine zusätzliche externe Leistung (Digicamp, 3 ECTS) überprüft sie, ob diese anrechenbar ist, obwohl das System dies nicht automatisch berücksichtigt.
 - Sie prüft auch jedes Semester, dass die geplanten Module noch mit ihren Interessen überinstimmen und sie den Plan auch so durchziehen will.
 
-4. Aktualisieren des Plans
-- Sie fügt die Module im Plan hinzu.
-- Sie plant meist das nächste Semester genauer, die folgenden Semester mehr oberflächlich.
-- Nicht bestandene Module entfernt sie aus dem Plan.
-- Sie führt diese Schritte meist nur während der 1. Anmeldephase durch.
+3. Modulwahl und Planung zukünftiger Semester
+- Die Testperson plant mehrere Semester im Voraus und berücksichtigt, welche Module in welchen Semestern angeboten werden, um eine durchgehende Verfügbarkeit zu gewährleisten.
+- Sie priorisiert Module, die eine Mischung aus semesterbegleitenden Leistungen und Prüfungen bieten, um die Arbeitslast mit ihrem 60%-Arbeitspensum besser zu verteilen.
+- Sie interessiert sich meist wenig für die _Empfohlene Module_, persönliches Interesse ist ihr wichtiger.
+
+4. Detailrecherche in Adunis
+- Für jedes Modul prüft die Testperson dessen Beschreibung, die _Kurse in diesem Modul_, die Art der Leistungsbewertung (semesterbegleitend oder Prüfung), mögliche Äquivalenzen und zugehörige Kategorien.
+- Bei Unsicherheiten über die Kategorisierung oder die Durchführungszeiten von Modulen verwendet sie Adunis, um die Modulordnung zu überprüfen.
+
+5. Modulanmeldung und Double-Check
+- Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen.
+- Sie erwähnt, dass sie Module wieder entfernt, wenn sie diese nicht besteht, und passt den Planer entsprechend manuell an.
+
+6. Abgleich mit Studiumskollegen und Studienberatung
+- Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist.
+// - Die Testperson hat in der Vergangenheit versucht, Beratung durch die Studienadministration zu bekommen, war jedoch erfolglos.
+
 
 ==== Generelle Fragen
 
