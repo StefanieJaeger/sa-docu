@@ -12,50 +12,227 @@
       [
         Testperon 5 [Alice] \
         14.10.2024 \
-        [???] \
+        [Unterrichtszimmer an der OST, Campus Rapperswil-Jona] \
         43 Minuten
       ]
     )
 
+==== Einführung
+Die Testperson wird von Laura begrüsst und gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
+Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
+Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
+
+==== Chronologische Zusammenfassung des geschilderten Vorgehens
+[TODO]
+
 ==== Generelle Fragen
 
 / Seit wann studierst du?:
-Die Testperson hat ihr Studium im Herbstsemester 2021 gestartet.
+Seit dem Herbstsemester 2021.
 
 / In welchem Studienmodell (TZ2/3 oder Vollzeit, unterschiedlich)?:
-Sie hat durchgehend im TZ2-Modell studiert.
+Im TZ3-Modell, da ich aus dem TZ2-Modell rausgefallen bin.
 
 / In welchem Semester bist du gerade?:
-Sie ist aktuell im 7. Semester.
+Im 7. Semester.
 
 / Wann planst du deinen Abschluss?:
-Sie hat seinen Abschluss für das Frühjahrsemester oder Herbstsemester 2026 geplant.
-Sie schliesst also nach 10 oder 11 Semestern ab.
+Frühlings- oder Herbstsemester 2025.
 
-/ Woher kennst du den Semesterplaner schon?:
-Er wurde ihr von Stefanie Jäger empfohlen.
+/ Also im nächsten oder übernächsten Semester?:
+Ja genau.
+
+/ Woher kennst du den Semesterplaner?:
+Ich glaube durch Stefanie Jäger.
+Sie hat in irgend einem früheren Semester mal darauf hingewiesen, dass es den Semesterplaner gibt.
+
+/ Da ich dich etwas näher kenne, weiss ich, dass du weisst, wer hinter dem Semesterplaner steht. War dir das von Anfang an bewusst?:
+Ich habe die aufgelisteten Name unten im Semesterplaner gesehen, viele davon haben mir aber nichts gesagt.
+Ausser halt Jeremy, und die anderen habe ich nach und nach kennengelernt.
+
+/ War für dich klar, dass es Studierende sind und nicht die OST, welche hinter dem Tool steht?:
+Ja, das war mir von Anfang an klar, das wurde mir auch so gesagt.
 
 / Wie lange nutzt du den Semesterplaner schon?:
-Seit dem Frühjahrsemester oder Herbstsemester 2022.
+Das weiss ich nicht mehr so genau, aber ich glaube, seit dem zweiten oder dritten Semester.
 
 / Wann nutzt du den Semesterplaner typischerweise?:
 Bei den Anmeldephasen.
 
 / Wie häufig nutzt du den Semesterplaner?:
 Mehrfach während den Anmeldephasen, etwa drei bis vier Mal.
+Wenn die Anmeldephase losgeht, nutze ich ihn mal und klicke mir meine Module zusammen.
+Dann vergeht vielleicht eine Woche und dann schaue ich wieder rein, um noch Änderungen zu machen.
 
 / Hast du in der Vergangenheit auf eine andere Weise dein Studium geplant als mit dem Semesterplaner? Wenn ja, wie?:
-Sie hatte zuvor alle Module in einem Excel gelistet, gruppiert nach Semester, in dem die angeboten werden.
+Ich habe mal alle verfügbaren Module in eine Excel-Datei eingetragen und dazu vermerkt, in welchem Semester diese jeweils empfohlen und auch angeboten werden.
+Das ist ja im Planer leider nicht so ersichtlich, ob ein Modul im HS oder FS durchgeführt wird.
+Das muss man sich ja selbst zusammensuchen, weshalb ich mir das in der Excel-Datei notiert habe.
+Mehr als das habe ich aber nicht gemacht, bzw. dann mit dem Planer weitergemacht.
+
+/ Konsultierst du deine Excel-Datei noch?:
+Eigentlich nicht mehr, weil ich eher am Ende des Studiums stehe.
+Und ich weiss noch, welche Module mir jetzt noch wichtig sind und in welchem Semester diese auch angeboten werden.
 
 / Planst du eine Vertiefung?:
 "Cyber Security".
 
 / Folgst du einem Musterstudienplan? Wenn ja/nein, weshalb?:
-Nein, da sich das Angebot der Module aus dem Musterstudienplan zu ihrer Vertiefung geändert hat.
+Nein, da sich das Modulangebot verändert hat, gewisse werden nicht mehr angeboten und bei anderen weiss man nicht so sicher, ob diese dann wirklich angeboten werden.
+Auch verlassen Dozenten die OST und das macht es schwierig, sich auf einen Musterstudienplan zu verlassen.
+Ich versuche schon, die Module der "Cyber Security" Vertiefung zu belegen, da mich das Thema interessiert, und für den Rest nehme ich einfach Module, die ich will.
 
 / Arbeitest du momentan neben dem Studium oder hast du mal neben dem Studium gearbeitet? Wenn ja, in welchem Pensum?:
 Ja, zurzeit 50%. Vorher auch schon 60% oder 80%.
 
+==== Allgemeines Vorgehen
+/ Das wäre es gewesen mit dem Vorinterview. Du darfst gerne deinen Bildschirm teilen, damit wir diesen in der Aufnahme sehen können. Und dann kannst du einfach mit deinem üblichen Vorgehen während der Anmeldephase 1 beginnen:
+
+_Öffnet den Browser und gibt in der Adressleiste "lost.university" ein.
+Der ausgefüllte Semesterplan wird aus dem LocalStorage geladen und erscheint._
+
+Das lädt jetzt natürlich meinen eigenen Plan.
+Also vor allem am Anfang des Studiums hätte ich jetzt einen Musterplan geladen.
+
+_Klickt auf "Musterpläne Teilzeit > Cyber Security"._
+
+/ Hast du das z.B. letzte Woche genau so gemacht?:
+Nein, ich habe ja meine fertigen Links.
+Deshalb hat vorher auch direkt mein Plan geladen.
+
+/ Das darfst du gerne an deinem eigenen Plan zeigen.:
+Darf ich das?
+Ah, ok.
+
+_Lädt den eigenen Plan._
+
+Hm, der ist aber irgendwie nicht korrekt.
+Ich glaube, das ist der Plan meines Kollegen.
+
+/ Findest du denn deinen Plan?:
+Der Link steht irgendwo in einer Textdatei in meinem Filesystem.
+Ok gut, ich suche ihn.
+Ich beende das Teilen des Bildschirms, damit man nicht auf meine privaten Dateien schauen kann.
+
+_Beendet das Teilen des Bildschirms.
+Öffnet den Explorer, navigiert im Filesystem über mehrere Ebenen._
+
+/ Jetzt bist du in deiner Dokumentablage?:
+Ja.
+Meine Dokumentablage ist in letzter Zeit etwas seltsam wegen OneDrive.
+Aber irgendwann finde ich den Link, ich schwöre.
+Ihr habt nicht gesagt, dass ich mich auf das vorbereiten muss!
+
+/ Du musst dich nicht darauf vorbereiten, es ist alles in Ordnung.:
+Ich habe mal versucht, meine Dateien besser zu trennen und das Ganze dann zu sehr getrennt.
+Jetzt ist der Link in meinen Todos.
+Ich glaube, es ist dieser Link hier.
+
+_Öffnet eine Textdatei namens "Todos" und kopiert einen der beiden Semesterplaner-Links in die Adressleiste des Browsers._
+
+So, jetzt kann ich den Bildschirm wieder teilen.
+
+/ Kurz zusammengefasst: Du hast das Teilen beendet, in deinem Filesystem nach dem Link gesucht, diesen dann rauskopiert und die Seite dann im Browser geöffnet.:
+Genau.
+Ich kann euch auch meine Datei zeigen.
+Jetzt, wo ich sie gefunden habe, ist das ok.
+
+_Teilt den Bildschirm wieder und zeigt die Textdatei.
+Darin sieht man zwei Links, die jeweils mit "-- With SE (9)" und "-- Without SE (8)" betitelt sind._
+
+Die Datei heisst "Todo" damit ich weiss, dass ich sie noch umbenennen sollte.
+Ich habe zwei Pläne gemacht.
+Der Unterschied darin ist, dass ich bei einem Plan 9 und beim anderen 8 Semester machen würde.
+Der mit 8 Semestern hat jetzt aber auch schon 9 Semester, weil ich hier letztens mal noch was ausprobiert habe und das noch nicht zurückgesetzt habe.
+
+Entschuldigung, was war die eigentliche Aufgabe? Ich soll zeigen, wie ich das nächste Semester geplant habe, oder?
+
+/ Ja genau. Du hast den Plan jetzt geöffnet, wie bist du weiter vorgegangen?:
+Ich weiss nicht mehr genau, was der Plan letzte Woche für einen Stand aufwies.
+Aber das Semester HS25 hat es sicher noch nicht gegeben.
+
+_Löscht das "Semester HS25" aus dem Plan._
+
+Ich habe geschaut, was ich im nächsten Semester, dem FS25, bereits eingetragen habe.
+Das ist in diesem Fall jetzt die Bachelorarbeit und das Modul "Incident Response".
+Die Bachelorarbeit sollte ich auf jeden Fall machen, und "Incident Response" ist ein Modul, das ich unbedingt noch machen möchte.
+Und dann schaue ich oftmals noch was mir unten in der Kategorienübersicht noch fehlt.
+Z.B. fehlen mir noch 4 ECTS in der Kategorie "Mathematik und Physik".
+Und dann stellt sich mir die Frage, ob ich noch ein Semester mehr mache oder nicht.
+Für den Fall, dass ich das nicht möchte, habe ich zusätzlich bereits ein Mathemodul noch angemeldet.
+Das war in diesem Fall "Physik Anwendungen für Informatik".
+
+_Sucht nach dem genannten Modul und fügt es ins Semester "Semester FS25" ein._
+
+Und das ist mehr oder weniger der aktuellste Stand.
+Obwohl, dieses Modul habe ich abgewählt.
+
+_Zeigt im aktuellen Semester (HS24) auf das Modul ".NET Technologien" und entfernt dieses._
+
+Das muss ich noch aktualisieren.
+
+/ Du hast gesagt, dass du "Incident Response" unbedingt noch belegen möchtest. Seit wann weisst du das?:
+Seit ich mich bei der Modulauswahl hauptsächlich am Security-MSP orientiere.
+
+/ "Incident Response" klingt sehr spezifisch. Gibt es dazu auch spezielles Vorwissen, dass man mitbringen sollte?:
+Das müsste ich hier nachschauen.
+Da ich mehrheitlich dem MSP gefolgt bin, nehme ich aber an, dass ich das Vorwissen dazu habe.
+
+_Klickt auf das Modul im Semesterplaner.
+Die Modulbeschreibung im SLCM wird in einem neuen Tab geöffnet.
+Scrollt zur Sektion "Empfohlene Module"._
+
+Ja, diese Module habe ich alle schon gemacht.
+Es ist das letzte Modul im Security-MSP, deshalb hat man wahrscheinlich alle empfohlenen Module bereits gemacht.
+
+/ Zu welchen Modulen holst du dir Informationen?:
+Eigentlich schaue ich bei allen Modulen, welche ich anmelde, wie der Leistungsnachweis erfolgt, vor allem in Bezug auf Testate.
+Es ist mir wichtig, dass ich unter dem Semester nicht zu viele Module belegt habe, bei denen Arbeiten im Semester fällig sind.
+Die Zeit wird nämlich knapp, wenn man noch 50% daneben arbeitet.
+Vor allem bei Business und Recht Modulen schaue ich das gerne nach, da diese oft seltsame Anforderungen an die Studierenden stellen.
+
+/ Zum Beispiel?:
+Dass man vier Vorträge halten muss unter dem Semester.
+Also ich bin ja nicht an der OST, um Recht zu studieren.
+Deshalb schaue ich, wenn die Wirtschafts-Module möglichst wenig Aufwand generieren.
+
+/ Du holst dir also vor allem Informationen bezüglich der Leistungsnachweise, um zu sehen, was unter dem Semester verlangt wird?:
+Ja.
+
+/ Ich nehme an, du holst dir auch Informationen zum Inhalt eines Moduls?:
+Teils.
+Z.B. ist mir bei "Incident Response" der Inhalt nicht so wichtig, weil mich das Thema an sich bereits interessiert.
+Was dann genau angeschaut wird im Unterricht ist für mich dann zweitrangig.
+Bei anderen Modulen, vor allem bei Wirtschaftsmodulen, schaue ich schon noch eher rein.
+
+/ Gibt es abgesehen von der Modulbeschreibung auf unterricht.ost.ch noch andere Stellen, von welchen du dir Informationen holst?:
+Teilweise hole ich mir von anderen Studierenden noch Informationen.
+Da vor allem von Studierenden, die ein Modul bereits besucht haben.
+
+/ Was interessiert dich von Studierenden aus höheren Semestern?:
+Eigentlich, ob es im Endeffekt ein gutes Modul ist.
+Kommt drauf an, ob ich es nehmen muss oder ob ich es nehmen will.
+Bei welchen, die ich nehmen muss, kann ich nicht viel daran ändern.
+Aber bei Modulen, die ich freiwillig nehme, interessiert es mich, ob sie sagen, dass es der Dozent gut macht.
+Sonst muss ich es nicht nehmen, wenn ich da nichts lerne im Modul.
+
+/ Also geht es dir mehr darum, ob der Dozent dir Wissen vermitteln kann?:
+Ja, und auch wie es vom Aufwand her aussieht.
+Auch wie die Übungen sind, und der allgemeine Eindruck, den die anderen Studierenden vom Modul haben.
+
+/ Das heisst, du tauschst dich vor allem mit Studierenden aus, die ein Modul bereits besucht haben. Tauschst du dich auch mit Studierenden aus deinem Jahrgang aus, z.B. über den Plan selbst?:
+Weniger, es geht dann mehr in die Richtung "Nimmst du dieses Modul auch nächstes Semester?".
+Oder manchmal kommt es während oder auch vor der Anmeldephase vor, dass jemand fragt, ob ich ein Modul auch nehme, dann können wir das zusammen machen.
+Also direkt über den ganzen Plan tausche ich mich eigentlich nicht aus.
+Ausser vielleicht, dass mir ein Kollege letztens seinen Plan geschickt hat und gefragt hat, ob ich nicht Module eintragen könnte, die für ihn passen würden.
+
+/ Du tauschst dich also eher darüber aus, welche Module man gemeinsam belegen kann? Vielleicht auch, weil es alleine mühsam ist?:
+Ja, oder vielleicht auch wenn man sowieso schon weiss, dass es eine Gruppenarbeit geben wird.
+
+/ Dann schaust du auch, dass du im Vorfeld schon eine Gruppe bilden kannst?:
+Ja, es ist einfach angenehmer eine Gruppenarbeit mit Personen zu machen, von denen du weisst, wie sie arbeiten.
+
+16:05
 
 ==== Überprüfen des bisherigen Plans
 
