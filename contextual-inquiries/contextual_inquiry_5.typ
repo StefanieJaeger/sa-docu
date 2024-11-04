@@ -254,7 +254,6 @@ Das habe ich mit dem Adunis überprüft.
 Ja genau.
 Ich habe geschaut, dass ich in allen Kategorien meine Punkte habe.
 
-
 / Ich sehe hier gerade, dass bei dir die Vertiefung "Cyber Security" grün markiert ist. Man sieht, dass du diese Vertiefung planst. Tut mir leid, diese Frage ist irgendwie blöd. Du planst ja eine Vertiefung, und wie du diese planst, hast du uns ja schon zwischen den Zeilen erklärt\: Du schaust, welche Module du brauchst, und planst diese dann effektiv ein.:
 Ja, ich kann vielleicht noch sagen, dass ich mir auch schon mal überlegt habe, die Vertiefung "Network and Cloud Infrastructure" zusätzlich zu machen.
 Das Problem hier ist, dass ich hier zwei Module zur Auswahl habe, und nur eines davon noch bräuchte. 
@@ -274,12 +273,262 @@ Und es würde halt auch im Frühling durchgeführt werden.
 Das heisst, ich müsste das Modul zusätzlich noch neben der Bachelorarbeit belegen.
 Das würde knapp werden, von dem her ist das wohl eher nichts.
 
-19:00
+/ Was findest du an der allgemeinen Modulrecherche mühsam?:
+Sicher, über die Abhängigkeiten zwischen den Modulen Bescheid zu wissen.
 
+_Öffnet die Modulbeschreibung des Moduls "Cyber Defense"._
 
+Man sieht hier die Liste, mit den empfohlenen Modulen.
+Wie schlimm ist es überhaupt, wenn ich was davon nicht gehabt habe?
+Und ich finde es beispielsweise auch mühsam, dass ich die Abhängigkeiten im Semesterplaner nicht sehe.
 
+/ Es gibt ja ein neues Modul, "UI Patterns and Frameworks". Sagen wir, du möchtest da nehmen. Wie planst du das ein?:
+Also zuerst öffne ich die Modulbeschreibung.
+Dann schaue ich als erstes, wann es durchgeführt wird.
 
+_Markiert in der Modulbeschreibung "HS/24" im Abschnitt "Durchführungszeitraum"._
 
+/ Was bedeutet das, was du markiert hast?:
+Dass es im Herbstsemester durchgeführt wird.
+
+/ Das wäre die Information, die du auf deiner Excel-Liste hättest?:
+Ja, genau.
+Meine Excel-Liste erspart mir eigentlich nur, dass ich für jedes Modul einzeln schauen muss, wann es durchgeführt wird.
+
+_Sucht in der Modulbeschreibung nach den empfohlenen Modulen und findet einen Abschnitt namens "Zusätzlich vorausgesetzte Kenntnisse"._
+
+Cool, hier ist es jetzt sogar anders aufgebaut.
+Dann schaue ich, ob ich die empfohlenen Module schon gemacht habe, oder ob es noch Voraussetzungen gibt, die ich nachholen müsste.
+Und dann würde ich noch mit jemandem sprechen, der das Modul bereits gemacht hat und z.B. fragen, wie schlimm es ist, dass ich das Modul ".NET Technologien" nicht gemacht habe.
+
+/ Und die anderen Informationen, die du bereits erwähnt hast, würdest du auch nachschauen, wie z.B. wie der Leistungsnachweis erfolgt?:
+Ja, genau.
+
+_Scrollt in der Modulbeschreibung zum Abschnitt "Leistungsbewertung"._
+
+Gut, es gibt eine schriftliche Prüfung und scheinbar ein Miniprojekt.
+Hier stellt sich die Frage, gibt das Miniprojekt eine Note und wer schaut das an?
+
+/ Wie findest du heraus, zu welcher Kategorie das Modul gehört?:
+Ich glaube das steht hier drin.
+
+_Sucht nach der Kategoriezuteilung in der Modulbeschreibung, findet diese aber nicht direkt und bleibt bei den Modultypen hängen. Ist von den Modultypen verwirrt._
+
+Diese Ansicht finde ich lustig.
+Weil es im Informatikstudium angeboten wird und es nicht zu den Rahmenmodulen gehört, nehme ich an, dass es einfach zur Informatikkategorie gehört.
+Der Rest ist bei uns ja nicht relevant, weshalb ich das eigentlich gar nie anschaue.
+
+/ Gibt es etwas, dass du bei der Modulrecherche einfach findest?:
+Ich finde es toll, gibt es die MSPs.
+Auch wenn ich mich nicht daran halte, geben sie mir eine Übersicht darüber, welche Module ich für eine Vertiefung verfolgen muss und auch circa in welcher Reihenfolge oder in welchem Semester.
+Ich finde es toll, dass diese auch aktuell gehalten werden.
+Deshalb finde ich es auch cool, dass diese MSPs im Semesterplaner integriert sind, vor allem am Anfang des Studiums helfen diese sehr.
+Du weisst ja meistens schon, in welche Richtung du in etwa gehen möchtest in deinem Studium.
+
+/ Sagen wir, egal in welchem Semester, du würdest jetzt das Modul "Dbs 1" in deinen Plan einfügen wollen. Wie würdest du das machen?:
+Das habe ich glaube ich schon genommen.
+
+/ Das ist egal. Wie würdest du effektiv hier im Planer vorgehen, um das irgendwo einzufügen?:
+_Klickt in einem Semester auf den "+"-Button._
+
+Ich drücke das Plus, und dann suche ich das.
+Ich glaube, man findet das sogar mit der Abkürzung.
+
+_Gibt "dbs" in das Suchfeld ein und findet keine Ergebnisse._
+
+Nein, über die Abkürzung findet man es nicht, das ist super.
+Dann suche ich nach dem Modulnamen.
+Ich finde das Modul "Datenbanksysteme 1" und kann es auswählen, auch mit den Pfeiltasten.
+
+_Sucht nach "date" im Suchfeld, findet die Ergebnisse "Algorithmen und Datenstrukturen" und "Datenbanksysteme 1".
+Wählt das Modul "Datenbanksysteme 1" aus und drückt Enter.
+Es erscheint eine Fehlermeldung des Planers: "Modul Datenbanksysteme 1 ist bereits im Semester 3"._
+
+Wow, hat es die Fehlermeldung früher auch schon gegeben?
+Ich habe das noch nie ausprobiert.
+Aber so wie es aussieht geht das nicht, doppelt hinzufügen.
+
+/ Und wenn du das gleiche noch versuchst mit dem Modul "DSys"?:
+_Löscht den Suchterm "date" und gibt "dist" ein.
+Findet unter anderem das Modul "Distributed Systems" und wählt dieses aus._
+
+/ Wenn du es gleich wie vorher zuerst versuchst, also mit dem Kürzel, findest du es dann auch?:
+_Gibt "dsys" in das Suchfeld ein und findet keine Ergebnisse._
+
+/ Sagen wir nun, du studierst noch ein Semester länger als geplant. Wie würdest du das im Planer anpassen?:
+Ich klick hier hinten auf das Plus.
+Dann habe ich ein neues Semester, und dann kann ich hier beginnen, Module einzutragen.
+
+_Scrollt ganz nach rechts, um über den vertikalen "+"-Button ein weiteres Semester hinzuzufügen.
+Klickt danach auf den "+"-Button im neu hinzugefügten Semester._
+
+/ Auf welchen Geräten nutzt du den Planer?:
+Nur auf dem Laptop.
+
+/ Immer auf demselben Gerät? Und im selben Browser?:
+Ja, immer auf demselben Laptop und im Firefox.
+
+/ Wie validierst du die Studierbarkeit deiner Modulauswahl im Planer?:
+Wie meinst du das genau?
+
+/ Du hast jetzt ja "Incident Response" im nächsten Frühlingssemester eingeplant. Kannst du das auch im Herbstsemester einplanen?:
+Ich weiss nicht, ob das immer noch geht, aber früher ging das mal.
+Ich kann es ja mal in das HS25 verschieben.
+
+_Schiebt "Incident Response" vom FS25 ins HS25._
+
+Ja, das geht noch.
+
+/ Das wäre jetzt also von deinem Informationsstand aus gesehen ein nicht studierbarer Plan?:
+Ja, gemäss meinen Informationen geht das nicht.
+
+/ Siehst du das im Planer irgendwo?:
+Nicht das ich sehe.
+
+_Scrollt etwas im Planer umher, sieht aber nichts._
+
+/ Welche sichtbaren Informationen im Planer sind für dich relevant und weshalb?:
+Allgemein finde ich den Planer ser gut bezüglich angebotenen Informationen, weil alle angezeigten Informationen irgendwie relevant sind.
+Ich sehe im Plan selbst die Semester inklusive den geplanten Modulen, welche sich farblich unterscheiden, je nach Kategorie.
+Ich sehe sogar die Gesamt-ECTS pro Semester.
+Wenn ich nur plane, brauche ich den unteren Teil nicht, und den sehe ich auch nicht wenn ich nicht extra runterscrolle.
+Und wenn es mich doch interessiert, scroll ich runter und sehe zum Beispiel, wie viele ECTS ich pro Kategorie habe und noch einplanen muss.
+Und unten gibt es auch noch ein Meme, das finde ich auch sehr relevant.
+
+/ Also sind für dich alle sichtbaren Informationen irgendwie relevant, und du schaust dir auch alles an?:
+Ja, ich finde alle Informationen relevant.
+Ich schaue aber nicht bei jedem Besuch alle Informationen an.
+Das ist dann je nach Use Case.
+Ich finde es allgemein schön, dass die Seite nicht mit unwichtigen Informationen überladen ist.
+Alles, was wichtig ist, ist da.
+Du brauchst nicht mehr also gibt es auch nicht mehr.
+
+/ Wie schaust du, dass du deine ECTS pro Kategorie erreichst?:
+Wir haben vorher schon etwas darüber gesprochen.
+
+_Scrollt im Planer nach unten und zeigt die Kategorienübersicht.
+Zeigt auf die Kategorie "Aufbau"._
+
+Hier sehe ich, dass ich 48 ECTS haben sollte, 42 habe ich schon, und 8 sind noch geplant.
+
+/ Und diese Infos reichen dir schon?:
+Ich finde es eine gute Übersicht, aber auch etwas schade, dass ich selbst rechnen muss.
+Ich meine, ich musste gerade komische Captions lösen, bei denen man immer von fünf Würfeln die Augenzahlen addieren musste.
+Von daher bringe ich das glaube ich noch hin, selbst zu rechnen.
+Aber es wäre cool, wenn hier zusätzlich z.B. in Klammern stehen würde, was die bereits erreichten und die geplanten zusammen ergeben.
+
+/ Also eine Information, die dir das Rechnen abnimmt?:
+Ja.
+Sonst kann man ja auch immer im Adunis noch nachschauen gehen, dort muss man aber glaube ich auch rechnen.
+
+/ Konsultierst du diese Ansicht in Adunis auch?:
+Ja, jetzt gegen Ende meines Studiums eher mal, um sicherzustellen, dass die Informationen im Planer auch korrekt sind und sicher zu sein, dass nichts mehr fehlt.
+
+/ Du hast uns gezeigt, wie du das nächste Semester geplant hast. Gehst du nun diese Module im Adunis anmelden?:
+Ja, das habe ich bereits gemacht.
+
+/ Meldest du die Module an, bevor du den Semesterplaner anpasst oder passt du zuerst den Semesterplaner an oder vielleicht sogar beides durcheinander?:
+Ich öffne beides, schaue was ich anmelden wollte, dann frage ich mich, ob das noch passt und wenn ja, melde ich es direkt an.
+Ich mache eigentlich beides zusammen.
+
+/ Ist es möglich, dass du während der Anmeldephase noch Änderungen am Planer vornimmst?:
+Nein, eher nicht.
+Wenn ich etwas anmelde, dann ist es dann halt so.
+Ausser vielleicht jemand kommt noch auf mich zu und überredet mich, ein anderes Modul zusammen zu nehmen.
+
+Was ich auch mache, ist, dass ich mehr Module anmelde, als ich plane zu belegen.
+So kann ich dann in der Anmeldephase 2 schauen, wie der Stundenplan am besten aufgeht.
+Das würde ich dann aber auch nicht von Anfang an im Semesterplaner eintragen, sondern bei der Stundenplananmeldung dann.
+
+/ Wie persistierst du deinen Plan?:
+Ich kopiere den Link und speichere diesen wieder in meine Todo-Datei.
+
+/ Ist dieses Vorgehen für dich praktikabel?:
+Da ich nicht jeden Tag mein Semester plane, ist das okay.
+
+/ Wie schlimm wäre es für dich, wenn du den Link verlieren würdest?:
+Das ist egal.
+Ich weiss ja, welche Module ich bereits belegt habe, ich kann das ja einfach rekonstruieren auch mit Hilfe von Adunis.
+Ist vielleicht etwas zeitaufwändig, aber jetzt gegen Ende des Studiums ist das nicht mehr so schlimm.
+Und die Auswertung der ECTS pro Kategorie bekomme ich ja auch im Adunis.
+
+/ Deine Textdatei suchen ist mit etwas Aufwand verbunden, aber nicht wirklich schlimm für dich, da du das nur etwa einmal im Semester machst?:
+Ja.
+Ich meine, ich könnte den Link auch anders ablegen, aber ich habe einfach gerne meine eigene Ordnerstruktur.
+Wenn ich es öfter machen würde, würde ich das File wahrscheinlich an einem anderen Ort speichern.
+Aber ich brauche es viel zu selten dafür.
+
+/ Ich frage ganz direkt\: Weisst du, dass die Daten im LocalStorage gespeichert werden?:
+Das habe ich angenommen, weil ich vorher nur "lost.university" eingegeben habe und ein ganzer Plan erschienen ist.
+Nur ist das etwas blöd, wenn der letzte Plan, den du geöffnet hast, nicht dein eigener ist.
+
+/ Wie weiss der Planer, dass du neue Credits erreicht hast?:
+Ich nehme an, dass der Planer das anhand des aktuellen Datums und meinem eingegebenen Startsemester berechnet.
+
+/ Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
+Ich hoffe mal, er weiss das nicht, das wäre unheimlich.
+Ich nehme an, das ist mein Job, das zu entfernen oder zu verschieben.
+
+/ Ich würde ins Nachgespräch weiterleiten, wenn das für dich in Ordnung ist?:
+Ich würde gerne noch kurz schauen, ob der Bug noch da ist, den ich letztens gesehen habe.
+
+/ Ja klar, nur zu.:
+_Fügt im neuen Semester das Modul "Web Engineering 3" hinzu.
+Klickt erneut auf den "+"-Button.
+Im Suchfeld steht immer noch "Web Engineering 3"._
+
+Das regt mich so auf.
+Ist das ein Feature?
+Das ist ein schlechtes Feature.
+Das macht mich fertig, weil man das immer zuerst rauslöschen muss.
+Auch, dass dann der Fokus nicht automatisch dort gesetzt ist.
+Ich möchte beim Klicken auf das Plus direkt tippen.
+
+/ Wenn du nach dem Hinzufügen eines Moduls erneut "+" klickst, was erwartest du dann?:
+Dass das Suchfeld leer ist und der Fokus dort ist, damit ich direkt mit Tippen beginnen kann.
+
+/ Wenn du ein Modul hinzufügst, schliesst sich das Suchfeld ja. Ist das für dich okay?:
+Das ist nicht so schlimm.
+Es wäre natürlich cool, wenn das Suchfeld offen bleiben würde, damit man direkt das nächste Modul suchen kann.
+
+==== [Nachgespräch]
+
+/ Ich fasse kurz dein Vorgehen zusammen\: Du öffnest den Semesterplaner, schaust, welche Module du geplant hast, du öffnest gleichzeitig das Adunis und meldest die Module, die noch passen, direkt an. Ist das dein übliches Vorgehen, auch in anderen Semestern?:
+Ja.
+
+/ Wann holst du dir in diesem Ablauf Informationen von älteren Studierenden ab? Passiert das auch in dieser Phase oder ist das nicht so klar definiert?:
+Das passiert irgendwann unter dem Semester, z.B. bei sozialen Events.
+
+/ Inwiefern hilft dir der Planer?:
+Er hilft mir beim Semester Planen.
+Man kann sehr einfach Module planen, die man vielleicht noch belegen möchte.
+Und man kann es auch relativ einfach weiterschieben.
+Relativ, weil der Planer nicht überprüft, ob ein Modul im HS oder FS durchgeführt wird.
+Man sieht auch gleich, wie viele ECTS man geplant hat.
+Vor allem in den mittleren Semestern ist das sehr hilfreich, also wenn man die Rahmenmodule abgeschlossen hat.
+Man sieht so nämlich auch im Nachhinein, ob man z.B. zu viele Credits eingeplant hat und es neben der Arbeit sehr streng war, dann kann man das nächste Mal weniger einplanen.
+
+/ Ich habe herausgehört, dass du es schwierig findest, dass der Planer dich nicht darauf hinweist, wenn du ein Modul im falschen Semester einplanst. Auch, dass die empfohlenen Module nicht abgebildet sind und dein entdeckter Bug beim Suchen. Gibt es daneben sonst noch Aspekte, die du am Planer schwierig findest?:
+Ich weiss nicht, wie aufwändig das wäre.
+Aber ich fände es toll, wenn es eine Art Baum gäbe, welcher für alle Vertiefungen die Reihenfolge der Module anzeigt.
+Also dann auch, in welchem Semester was empfohlen wird, da bräuchte es wahrscheinlich auch einen Vollzeit- und einen Teilzeitbaum.
+
+/ Siehst du das nicht an den MSPs?:
+Ja, aber es gibt Module, die sind in mehreren Stundenplänen gleichzeitig eingeplant.
+Zum Beispiel "Application Architecture", was mir für zwei Vertiefungen etwas bringen würde.
+Dass man so etwas dann halt sieht.
+
+/ Wir sind sonst am Ende unseres Termins. Was möchtest du uns sonst noch sagen?:
+Das Meme ist super!
+
+/ [Stefi] Ist das, was dir am Meme gefällt, dass es einfach ein Meme ist oder dass es dieses spezifische Meme ist?:
+Dass es dieses Meme ist.
+Wenn ich mein Semester planen muss fühle ich mich jedesmal auch so.
+
+/ Wie würdest du dieses Gefühl in eigenen Worten beschreiben?:
+Desperate.
+
+/ Vielen Dank fürs Mitmachen und für deine Zeit!:
 
 ==== Überprüfen des bisherigen Plans
 
