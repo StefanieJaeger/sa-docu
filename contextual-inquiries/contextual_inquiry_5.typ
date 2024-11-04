@@ -232,7 +232,54 @@ Ja, oder vielleicht auch wenn man sowieso schon weiss, dass es eine Gruppenarbei
 / Dann schaust du auch, dass du im Vorfeld schon eine Gruppe bilden kannst?:
 Ja, es ist einfach angenehmer eine Gruppenarbeit mit Personen zu machen, von denen du weisst, wie sie arbeiten.
 
-16:05
+/ Wie tauschst du dich aus?:
+Verbal.
+Manchmal schreiben wir auch untereinander, da wir alle Teilzeitler sind und uns nicht jeden Tag sehen.
+
+/ Du teilst deinen Plan also nicht?:
+Nein, ich teile meinen Plan nicht.
+
+/ Wie überprüfst du, ob der Plan, den du gerade über deinen abgespeicherten Link geöffnet hast, korrekt ist?:
+Ich habe das die letzten Semester nicht wirklich überprüft, weil mir das nicht wichtig war.
+Ich weiss ja was ich genommen habe und was ich tendenziell noch nehmen möchte.
+Das würde ich ja einfach sehen, wenn etwas in den höheren Semester, also denen, die noch kommen, merkwürdig wäre.
+Und die vergangenen Semester haben mich bis jetzt nicht so interessiert.
+Jetzt wo es aber gegen Ende des Studiums geht, interessiert mich schon, dass alles korrekt eingetragen ist.
+Das habe ich dann auch schon überprüft.
+Also ob z.B. die Angaben in der Übersicht der ECTS Punkte korrekt sind.
+Das ist wichtig, weil ich auch wissen will, ob ich so abschliessen kann.
+Das habe ich mit dem Adunis überprüft.
+
+/ Also hast du das gegengeprüft?:
+Ja genau.
+Ich habe geschaut, dass ich in allen Kategorien meine Punkte habe.
+
+
+/ Ich sehe hier gerade, dass bei dir die Vertiefung "Cyber Security" grün markiert ist. Man sieht, dass du diese Vertiefung planst. Tut mir leid, diese Frage ist irgendwie blöd. Du planst ja eine Vertiefung, und wie du diese planst, hast du uns ja schon zwischen den Zeilen erklärt\: Du schaust, welche Module du brauchst, und planst diese dann effektiv ein.:
+Ja, ich kann vielleicht noch sagen, dass ich mir auch schon mal überlegt habe, die Vertiefung "Network and Cloud Infrastructure" zusätzlich zu machen.
+Das Problem hier ist, dass ich hier zwei Module zur Auswahl habe, und nur eines davon noch bräuchte. 
+Das Modul "Wireless and IoT" gibt es aber nicht mehr.
+Und das Mdodul "Intent-Based Networking" wird nur unter gewissen Umständen auch wirklich durchgeführt.
+Die Vertiefung würde mich schon auch noch interessieren, aber es ist schwierig, zu planen.
+
+/ Das heisst, für diese Vertiefung würdest du "Intent-Based Networking" anmelden und dann schauen, ob das Modul auch wirklich durchgeführt wird?:
+Ja, genau.
+
+/ Das ist nicht so einfach für deine Planung.:
+Ja.
+
+_Öffnet die Modulbeschreibung des Moduls._
+
+Und es würde halt auch im Frühling durchgeführt werden.
+Das heisst, ich müsste das Modul zusätzlich noch neben der Bachelorarbeit belegen.
+Das würde knapp werden, von dem her ist das wohl eher nichts.
+
+19:00
+
+
+
+
+
 
 ==== Überprüfen des bisherigen Plans
 
