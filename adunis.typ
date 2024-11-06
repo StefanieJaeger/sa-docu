@@ -1,6 +1,6 @@
 = Fragen und Antworten im Zusammenhang mit SLCM und dessen Daten
 
-== Interview mit Studiengangleiter
+== Interview mit Studiengangsleiter
 
 #grid(
   columns: (1fr, 1fr),
