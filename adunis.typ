@@ -86,7 +86,24 @@ So kann es auch vorkommen, dass Daten leicht anders eingegeben werden.
 / "Prototyping for Startup-Ideas" wurde von 3 auf 4 ECTS geändert, ohne dass sich das Kürzel verändert hat. Wieso das?:
 Hier ist wohl ein Tippfehler bei der originalen Erfassung passiert. 
 
-== Offene Fragen
+== Schriftliches Interview mit Teilzeit-SLCM-Entwickler
+#grid(
+  columns: (1fr, 1fr),
+  column-gutter: 5%,
+  [
+    Teilzeit-SLCM-Entwickler \
+    Datum Erhalt der Antworten \
+  ],
+  [
+    Joël Schwab \
+    06.11.2024 \
+  ]
+)
+
+Die Antworten des Entwicklers wurden unverändert übernommen.
+
+=== Disclaimer des Entwicklers
+Meine Antworten sind eventuell nicht ganz korrekt, es kann sein, dass ich nicht alle Details kenne. Es kann immer vorkommen, dass es Abweichungen gibt. Ebenfalls gibt es auch Dinge, die ich nicht herausfinden konnte. Es ist nicht einfach, von bestimmten Leuten Antworten zu erhalten, auch für mich.
 
 === Wieso werden archivierte Module auf unterschiedlichen Wegen also solche identifiziert?
 
@@ -123,8 +140,11 @@ Einige sind noch im STD referenziert und in der Modulbeschreibung nicht als "dea
 _Lernlabor "Digitalisieren Hands-on"_
 - #link("https://studien.ost.ch/allModules/41732_M_LLDIG.html", "LLDIG")
 
+==== Antwort Joël Schwab
+So weit ich das herausgefunden habe ist der Grund relativ Dumm -> Es gibt keinen offiziellen Weg, wie das ganze archiviert/deaktiviert werden soll. Das heisst je nachdem wer das Modul deaktiviert/archiviert, ist das Ergebnis anders.
+Für Gewisse Dinge gibt es interne Tools, wo Umstellungen gemacht werden können z.B. auch um die Modulbeschreibungen anzupassen, aber dort kann man nicht referenzen Entfernen. Das macht dann evt jemand direkt auf der Datenbank.
 
-== Wir erhalten ja nur das jeweils erste und letzte Semester, in welchen ein Modul durchgeführt wird. Teils ist dies jedoch nicht immer das gleiche Semester (FS/HS). Wie können wir herausfinden, wann das Semester der Durchführung jeweils geändert hat?
+=== Wir erhalten ja nur das jeweils erste und letzte Semester, in welchen ein Modul durchgeführt wird. Teils ist dies jedoch nicht immer das gleiche Semester (FS/HS). Wie können wir herausfinden, wann das Semester der Durchführung jeweils geändert hat?
 
 - #link("https://studien.ost.ch/allModules/25232_M_ComEng1.json", "ComEng1"): `{'count': 2, 'beginJahr': 2015, 'beginSemester': 'HS', 'endJahr': 2025, 'endSemester': 'FS'}`
 - #link("https://studien.ost.ch/allModules/23345_M_ComEng2.json", "ComEng2"): `{'count': 2, 'beginJahr': 2014, 'beginSemester': 'FS', 'endJahr': 2024, 'endSemester': 'HS'}`
@@ -137,14 +157,23 @@ _Lernlabor "Digitalisieren Hands-on"_
 Bei Modulen wie SA und BA sind Start- und Endsemester unterschiedlich, da sie jedes Semester angeboten werden.
 Bei IKTS Modulen sind Start- und Endsemester teils unterschiedlich, da sie jedes Semester, jedoch auf anderen Campussen, angeboten werden.
 
-== Bei einigen IKTS-Modulen steht bei "Bemerkungen" als Fliesstext, dass pro Semester die Durchführung auf einem anderen Campus stattfindet. Wieso existiert dieses Feld im JSON nicht?
+==== Antwort Joël Schwab
+Ihr könnt das mit den Informationen, die ihr Öffentlich habt gar nicht machen, ausser ihr schaut jedes Semester den Stundenplan dieses Modules an. Es gibt auch Module wie z.B. WED3 das früher jedes Semester durchgeführt wurde.
+
+=== Bei einigen IKTS-Modulen steht bei "Bemerkungen" als Fliesstext, dass pro Semester die Durchführung auf einem anderen Campus stattfindet. Wieso existiert dieses Feld im JSON nicht?
 
 - Demokratie im Zeitalter von KI
 - Prototyping for Startup-Ideas
 - Virtual Reality für gesundes Leben und Altern
 - Virtual Reality für Klima und Energie
 
-== Gibt es noch weitere APIs oder Endpunkte, die uns relevante Daten liefern könnten? Wir sind vor allem an mehr Informationen zu den Durchführungssemestern interessiert.:
+==== Antwort Joël Schwab
+Kann ich euch nicht sagen.
+
+=== Gibt es noch weitere APIs oder Endpunkte, die uns relevante Daten liefern könnten? Wir sind vor allem an mehr Informationen zu den Durchführungssemestern interessiert.
+
+==== Antwort Joël Schwab
+Ich arbeite eigentlich nur mit den Tools und der Datenbank direkt, also kenne ich leider keine weiteren Endpunkte.
 
 
 
