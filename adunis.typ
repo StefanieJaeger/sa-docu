@@ -142,7 +142,7 @@ _Lernlabor "Digitalisieren Hands-on"_
 
 ==== Antwort Joël Schwab
 So weit ich das herausgefunden habe ist der Grund relativ Dumm -> Es gibt keinen offiziellen Weg, wie das ganze archiviert/deaktiviert werden soll. Das heisst je nachdem wer das Modul deaktiviert/archiviert, ist das Ergebnis anders.
-Für Gewisse Dinge gibt es interne Tools, wo Umstellungen gemacht werden können z.B. auch um die Modulbeschreibungen anzupassen, aber dort kann man nicht referenzen Entfernen. Das macht dann evt jemand direkt auf der Datenbank.
+Für Gewisse Dinge gibt es interne Tools, wo Umstellungen gemacht werden können z.B. auch um die Modulbeschreibungen anzupassen, aber dort kann man nicht Referenzen entfernen. Das macht dann evt jemand direkt auf der Datenbank.
 
 === Wir erhalten ja nur das jeweils erste und letzte Semester, in welchen ein Modul durchgeführt wird. Teils ist dies jedoch nicht immer das gleiche Semester (FS/HS). Wie können wir herausfinden, wann das Semester der Durchführung jeweils geändert hat?
 
@@ -158,7 +158,7 @@ Bei Modulen wie SA und BA sind Start- und Endsemester unterschiedlich, da sie je
 Bei IKTS Modulen sind Start- und Endsemester teils unterschiedlich, da sie jedes Semester, jedoch auf anderen Campussen, angeboten werden.
 
 ==== Antwort Joël Schwab
-Ihr könnt das mit den Informationen, die ihr Öffentlich habt gar nicht machen, ausser ihr schaut jedes Semester den Stundenplan dieses Modules an. Es gibt auch Module wie z.B. WED3 das früher jedes Semester durchgeführt wurde.
+Ihr könnt das mit den Informationen, die ihr öffentlich habt, gar nicht machen, ausser ihr schaut jedes Semester den Stundenplan dieses Modules an. Es gibt auch Module wie z.B. WED3 das früher jedes Semester durchgeführt wurde.
 
 === Bei einigen IKTS-Modulen steht bei "Bemerkungen" als Fliesstext, dass pro Semester die Durchführung auf einem anderen Campus stattfindet. Wieso existiert dieses Feld im JSON nicht?
 
