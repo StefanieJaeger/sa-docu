@@ -33,8 +33,7 @@ Anhänge, Modulzuweisungen etc. unterliegen ebenfalls mir und müssen nicht vom 
 / Wie wird festgehalten, wann ein Modul durchgeführt wird?:
 Es wird - in einem separaten Tool - pro Semester erfasst, ob das Modul angeboten wird.
 
-_Mirko Stocker teilte im Nachgang des Interviews die intern verwendete Anleitung des Tools.
-TODO: Quelle hinzufügen_
+_Mirko Stocker teilte im Nachgang des Interviews die intern verwendete #link("https://wiki.ost.ch/display/SLCMP/SLCM+Dokumentation+und+Manuals?preview=%2F205785387%2F205790539%2FADUNIS+Angebotsplanung+Schritt+fuer+Schritt.pdf", "Anleitung des Tools")._
 
 / Wie entstehen Modulkürzel? Weshalb ändern diese manchmal?:
 Modulkürzel werden bei der Erfassung gewählt.
