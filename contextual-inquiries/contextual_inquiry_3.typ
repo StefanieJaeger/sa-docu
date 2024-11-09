@@ -28,7 +28,7 @@ Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtun
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
 1. Vorbereitung der Modulanmeldung
-- Die Testperson öffnet den Semesterplaner über ein Bookmark und prüft die Übersicht der bisherigen ECTS sowie den Stand der Credits pro Kategorie.
+- Die Testperson öffnet den Semesterplaner über ein Lesezeichen und prüft die Übersicht der bisherigen ECTS sowie den Stand der Credits pro Kategorie.
 - Sie stellt sicher, dass diese mit dem offiziellen Report von unterricht.ost.ch übereinstimmen, um eine zuverlässige Basis für die Planung zu haben.
 
 2. Provisorischer und finaler Plan

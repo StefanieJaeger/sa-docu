@@ -22,7 +22,25 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
-[TODO]
+
+1. Vorbereitung und Öffnen des Semesterplaners
+- Die Testperson öffnet ihren Browser und greift über ein gespeichertes Lesezeichen auf den Semesterplaner zu.
+- Sie scrollt zum nächsten geplanten Semester und prüft, welche Module dort eingeplant sind.
+2. Prüfung der ECTS-Übersicht
+- Die Testperson überprüft die Übersicht der ECTS-Punkte pro Kategorie, um sicherzustellen, dass alle Anforderungen erfüllt werden. Sie setzt dazu das Startsemester auf soweit zurück, dass alle Semester in der Vergangenheit liegen.
+3. Abgleich von Vorleistungen
+- Sie überprüft die Anzeige der Kategorienbalken. Einige Kategorien sind unvollständig, da Vorleistungen aus einem früheren Studium angerechnet wurden. Diese werden jedoch nicht im Planer eingetragen, da die Testperson den tatsächlichen Aufwand pro Semester abbilden möchte.
+4. Überprüfung der Modulbeschreibung und Durchführungszeiten
+- Wenn sie unsicher ist, in welchem Semester ein Modul durchgeführt wird, prüft sie dies in der Modulbeschreibung in Adunis.
+- Hierfür nutzt sie die Suchfunktion bei der Modulanmeldung, um die entsprechenden Module zu finden und sicherzustellen, dass die geplanten Module auch im richtigen Semester angeboten werden.
+- Die Testperson liest sich die Modulbeschreibung, insbesondere die Leistungsbewertung, vorausgesetzte Vorkenntnisse und die Inhalte, durch.
+- Zusätzlich tauscht sie sich mit Kommilitonen aus, um Informationen über den Aufwand und die Dozenten zu erhalten.
+5. Überprüfung der Vertiefung
+- Zur Überprüfung, welche Module sie für eine Vertiefung noch benötigt, nimmt die PDFs der MSP zur Hilfe.
+6. Modulanmeldung und Anpassungen
+- Die Testperson schaut im Semesterplaner, welche Module sie für das kommende Semester eingeplant hat, und meldet diese dann in Adunis an.
+- Bei Änderungen, z.B. bei Modulen, die ersetzt wurden, wie „Patterns und Frameworks“ durch „UI Patterns and Frameworks“, passt sie ihren Plan entsprechend an.
+- Die Testperson führt die Anmeldungen für das kommende Semester in der Regel nur einmal durch, es sei denn, es gibt Änderungen oder Probleme.
 
 ==== Generelle Fragen
 
