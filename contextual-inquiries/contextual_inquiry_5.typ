@@ -23,7 +23,33 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
-[TODO]
+
+1. Vorbereitung und Zugriff auf den Plan
+- Die Testperson öffnet ihren Semesterplan über den Browser, indem sie die Seite "lost.university" aufruft. Der Plan wird aus dem LocalStorage geladen.
+- Alternativ verwendet sie gespeicherte Links, die sie in einer Textdatei ("Todos.txt") abgelegt hat, um direkt auf ihre verschiedenen Pläne zuzugreifen. Diese Links enthalten verschiedene Szenarien, etwa Pläne für 8 oder 9 Semester.
+
+2. Überprüfung und Anpassung des Plans
+- Sie prüft, welche Module sie im kommenden Semester (aktuell FS25) bereits eingeplant hat. Aktuell hat sie für das nächste Semester die Bachelorarbeit und das Modul „Incident Response“ geplant.
+- Bei der Planung achtet sie darauf, welche ECTS-Punkte noch in den einzelnen Kategorien fehlen und entscheidet, ob sie gegebenenfalls ein weiteres Semester hinzufügen muss.
+- Falls sie Änderungen vornimmt, löscht sie Module oder fügt neue hinzu, um sicherzustellen, dass alle Anforderungen erfüllt werden. 
+- Sie sucht gezielt nach Modulen, die ihr noch fehlen, wie z.B. „Physik Anwendungen für Informatik“, und trägt diese in das nächste Semester ein.
+
+3. Prüfung von Modulvoraussetzungen
+- Die Testperson orientiert sich bei der Auswahl der Module am Musterstudienplan (MSP) der Vertiefung „Cyber Security“. 
+- Sie überprüft, ob sie alle empfohlenen Vorleistungen für ein Modul bereits erbracht hat. Sie öffnet die Modulbeschreibung im SLCM, um sicherzustellen, dass sie die erforderlichen Vorkenntnisse erfüllt.
+
+4. Informationsbeschaffung zu Modulen
+- Sie liest Modulbeschreibungen, um sich über den Leistungsnachweis und die Anforderungen während des Semesters zu informieren. Besonders bei Wirtschaftsmodulen achtet sie darauf, dass diese nicht zu viel Aufwand während des Semesters generieren, um ihr Teilzeitpensum mit dem Studium vereinbaren zu können.
+- Die Testperson tauscht sich mit Studierenden aus höheren Semestern aus, um Informationen darüber zu erhalten, wie anspruchsvoll ein Modul ist, wie die Dozenten unterrichten und ob sich der Aufwand lohnt. Dies geschieht meist in persönlichen Gesprächen.
+- Gelegentlich bespricht sie mit Kollegen, welche Module sie gemeinsam belegen könnten, insbesondere bei Modulen mit Gruppenarbeiten.
+
+5. Modulanmeldung und Validierung der Planung
+- Vor der Modulwahl meldet sie sich parallel im Adunis an und überprüft, ob die geplanten Module auch im kommenden Semester angeboten werden. Sie passt den Plan an, falls sich Änderungen ergeben.
+- Zur Validierung der Planung prüft sie die ECTS-Punkte pro Kategorie und gleicht diese mit den Anforderungen auf Adunis ab, um sicherzustellen, dass sie ihr Studium wie geplant abschließen kann.
+- Die Testperson meldet manchmal mehr Module an, als sie letztlich belegen möchte, um in der zweiten Anmeldephase flexibel zu sein und den Stundenplan optimal zu gestalten.
+
+6. Persistierung des Plans
+- Den Plan speichert sie durch Kopieren des Links in ihre Textdatei. Sollte der Link verloren gehen, könnte sie ihren Plan auch ohne den Semesterplaner rekonstruieren, da sie die Informationen auch auf Adunis einsehen kann.
 
 ==== Generelle Fragen
 

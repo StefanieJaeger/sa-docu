@@ -23,5 +23,6 @@
 === Fazit
 
 
+- Irgendwo erwähne, dass mer d Zemefassig vom Vorgehe mit GPT gmacht hend. Au wenn mers selber no überprüeft und apasst hend.
 
 
