@@ -33,25 +33,33 @@ Dabei führte Laura Thoma durch die Beobachtung und interagierte mit der Testper
 Die Beobachtungen wurden jeweils direkt unter die passende Forschungsfrage notiert.
 Dies hatte zur Folge, dass die Aufnahmen der Contextual Inquiries konsultiert werden mussten, um die Beobachtungen in der korrekten Reihenfolge zu transkribieren und den chronologischen Ablauf der Testpersonen zu rekonstruieren.
 Die chronologischen Zusammenfassungen aller Contextual Inquiries wurden mit Hilfe von GPT-3 erstellt und von den Autorinnen überprüft und angepasst.
+Die Protokolle sind keine verbatimen Transkriptionen und geben den indirekten Wortlaut der Testpersonen wieder.
+Aussagen sind in der ersten Person verfasst.
+Beobachtungen und Kommentare der Autorinnen sind kursiv dargestellt und in der dritten Person verfasst.
 
 [Disclaimer zu CI 1:]
 Das Protokoll der ersten CI ist leicht anders gegliedert als die restlichen vier.
 Dies ist darauf zurückzuführen, dass das erste Interview sehr unstrukturiert durchgeführt und auch protokolliert wurde.
 Aufgrund des Zeitaufwands, den das Transkribieren der Interviews in Textform im Nachhinein mit sich bringt, haben wir uns dazu entschieden, das erste Interview in der Form zu belassen, wie es im ersten Anlauf transkribiert wurde.
-Dies bedeutet, dass die ersten allgemeinen Fragen und Beobachtungen zum Prozess wie bei den anderen Protokollen separat aufgeführt sind, danach aber spezifische Fragen, die unseren Forschungsfragen entsprechen, direkt unter Forschungsfragen dokumentiert sind.
-Damit dennoch ein Überblick über das Vorgehen der Testperson gegeben ist, wurde für jedes Contextual Inquiry das chronologische Vorgehen der Testperson in Stichpunkten festgehalten.  
+Dies bedeutet, dass die ersten allgemeinen Fragen und Beobachtungen zum Prozess wie bei den anderen Protokollen separat aufgeführt sind, danach aber spezifische zusätzliche Fragen zu einem Schritt direkt in den Forschungsfragen selbst dokumentiert sind.
+Damit dennoch ein Überblick über das Vorgehen der Testperson gegeben ist, wurde für jedes Contextual Inquiry das chronologische Vorgehen der Testperson in Stichpunkten festgehalten.
+
+[Disclaimer zu Adunis/SLCM/unterricht.ost.ch]
+An der Ostschweizer Fachhochschule wurde das System "Adunis" durch "SLCM" ersetzt.
+Da die Testpersonen sich an den Begriff "Adunis" gewöhnt haben, werden in den Protokollen die jeweils ausgesprochenen Begriffe verwendet.
+Dies bedeutet, dass die Testpersonen in den Protokollen oft von "Adunis" sprechen, obwohl sie "SLCM" meinen.
+Das SLCM wird über die URL unterricht.ost.ch aufgerufen, weshalb die Testpersonen auch von "unterricht.ost.ch" sprechen.
+Diese drei Begriffe sind in den Protokollen synonym zu verstehen.
 
 === Ergebnisse
 
 [Hier die Zusammenfassung der CIs]
+Die Auswertung der Contextual Inquiries ergab,
 
-=== Reflektion über den Prozess
+=== Reflexion über den Prozess
 
 - Direkt in Typst, nicht Word
 - Schwierig, keine Leading Questions zu stellen
 - Wurde mit jedem Interview besser
 
 === Fazit
-
-
-
