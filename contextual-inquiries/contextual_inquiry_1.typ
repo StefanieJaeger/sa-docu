@@ -10,7 +10,7 @@
         Dauer \
       ],
       [
-        Testperon 1 [Patrick] \
+        Testperon 1 \
         09.10.2024 \
         Zuhause der Testperson \
         1 Stunde
@@ -225,7 +225,6 @@ Es kann sein, dass ich während der Anmeldephase zusätzliche Infos reinhole, wi
 Das kann weitere Änderungen mit sich bringen, also dass ich zusätzliche Module anmelde, angemeldete Module abmelde oder Module austausche.
 Das mache ich dann vorzu, bis die Anmeldephase abgeschlossen ist.
 
-
 ==== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
@@ -234,14 +233,15 @@ _Als Link-Datei in ihrem OneDrive._
 / Prüfst du den Plan? Wenn ja, wie und auf was?:
 _ Die Testperson hat sich die URL zuletzt ohne Startsemester abgespeichert, also setzt sie das Startsemester._
 
-Ich kontrollieren nach dem Anpassen des Startsemesters, dass sich die URL entsprechend angepasst hat. Man sieht das ja in der URL, ob das Startsemester drin ist.
+Ich kontrolliere nach dem Anpassen des Startsemesters, dass sich die URL entsprechend angepasst hat.
+Man sieht das ja in der URL, ob das Startsemester gesetzt ist.
 
 / Welche sichtbaren Informationen sind relevant für dich?:
-Die URL, die Module bzw. ECTS pro Semester, die Kategorien inkl. benötigte, erreichte und geplante ECTS darin und natürlich das Meme unten rechts.
+Die URL, die Module bzw. ECTS pro Semester, die Kategorien inkl. die jeweilig benötigten, erreichten und geplanten ECTS und natürlich das Meme unten rechts.
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
 _Die Testperson ist sich bewusst, dass sie über die Wahl des Startsemesters die erreichten Credits bis zum aktuellen Datum berechnen lassen kann.
-Sie bemerkt auch, dass durch die Wahl des Startsemesters die Semester mit den effektiven Semesternummern beschriftet werde, wie "HS21, HS22" etc._
+Sie bemerkt auch, dass durch die Wahl des Startsemesters die Semester mit den effektiven Semesternummern beschriftet werden, wie "HS21, HS22" etc._
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
 _Die Testperson hat bis jetzt kein Modul nicht bestanden, weshalb dies nicht aufkam._
@@ -256,7 +256,8 @@ Ich schaue zum einen, was meine Kollegen so machen, und zum anderen, ob Bekannte
 Da interessiert mich dann vor allem die Meinung zum Inhalt und Aufwand.
 Bei neuen Modulen ist mir wichtig, dass es mir vom Inhalt her gefällt, da es da noch keine Erfahrungsberichte gibt.
 Natürlich wäre es cool, wenn Kollegen mit mir zusammen ein Modul besuchen, aber wenn das nicht so ist, ist das auch in Ordnung.
-Man findet immer wieder Leute, die man kennt, ich war noch nie allein. Aber das ist eher sekundär für mich.
+Man findet immer wieder Leute, die man kennt, ich war noch nie allein.
+Aber das ist eher sekundär für mich.
 
 / Wie tauschst du dich aus? Online, IRL?:
 Mündlich und über Teams, weil wir das in der Schule nutzen.
@@ -269,16 +270,17 @@ Während der 1. und 2. Anmeldephase tausche ich mich gelegentlich mit Kollegen �
 / Zu welchen Modulen holst du dir Infos?:
 Zu Modulen aus dem Musterstudienplan oder zu Modulen, die einer bestimmten Kategorie angehören.
 _Die Testperson versucht auf unterricht.ost.ch auf die Kategorienzuteilung zu kommen, weiss aber im Moment nicht, wie sie dahin kommt.
-Nach etwas suchen findet sie die Kategorienzuteilung über die Studienreglemente._
+Nach etwas Suchen findet sie die Kategorienzuteilung über die Studienreglemente._
 
 / Welche Infos zu Modulen holst du dir?:
-Infos zu den Kursen im Modul, die "Empfohlene Module" und wer der durchführende Dozent ist.
+Infos unter "Kurse in diesem Modul", die "Empfohlene Module" und wer der durchführende Dozent ist.
 Allgemein sehe ich in der Liste der anmeldbaren Module, ob weitere Vorkenntnisse oder Bedingungen zur Anmeldung bestehen.
 Das sehe ich daran, dass Module in der Liste zur Modulanmeldung rot oder gelb hinterlegt sind.
 In der 2. Phase frage ich allenfalls auch bei Dozenten direkt nach, ob diese beabsichtigen die Vorlesung zum Modul zu streamen oder anderweitig aufzuzeichnen.
 
 / Wo holst du dir diese Infos?:
-Infos zu Modulen über unterricht.ost.ch, entweder über die Liste der anmeldbaren Module oder aber ich gehe direkt über den Link im Semesterplaner zur Modulbeschreibung. Ich hole mir auch Meinungen und Erfahrungen zu Modulen von Kollegen, die diese bereits besucht haben.
+Infos zu Modulen über unterricht.ost.ch, entweder über die Liste der anmeldbaren Module oder aber ich gehe direkt über den Link im Semesterplaner zur Modulbeschreibung.
+Ich hole mir auch Meinungen und Erfahrungen zu Modulen von Kollegen, die diese bereits besucht haben.
 
 / Holst du Infos zu den Modulabhängigkeiten? Wenn ja, wo?:
 Dazu schaue ich mir die Rubrik "Empfohlene Module" in den jeweiligen Modulbeschreibungen auf unterricht.ost.ch an.
@@ -303,7 +305,7 @@ Das hatte ich einmal, nämlich "Compilerbau".
 Da habe ich mich sehr darauf gefreut.
 
 / Wie hat du sichergestellt, dass du das Modul ohne Probleme besuchen konntest?:
-Ich habe mir die "Empfohlenen Module" angeschaut und geprüft, ob ich diese bereits besucht habe.
+Ich habe mir die "Empfohlenen Module" in der Modulbeschreibung angeschaut und geprüft, ob ich diese bereits besucht habe.
 
 / Hältst du dich generell an zuvor empfohlene Module? Wie planst du diese ein?:
 Da ich grob nach dem Musterstudienplan vorgehe, halte ich mich oft automatisch an die empfohlenen Module.
@@ -337,9 +339,10 @@ Ich bespreche mit sehr gerne mit einer bestimmten Kollegin, die mir immer gute T
 
 ==== Semesterplaner anpassen
 
-/ Wie gehst du normalerweise vor beim Planer anpassen?:
-Ich kann Module per Drag & Drop verschieben. früher ging das nicht, da musste ich die Module löschen und neu hinzufügen.
-Ich möchte ausprobieren, ob die Custom Order beibehalten wird, wenn ich die Seite neu lade. 
+/ Wie gehst du normalerweise bei der Anpassung des Plans vor?:
+Ich kann Module per Drag & Drop verschieben.
+Früher ging das nicht, da musste ich die Module löschen und neu hinzufügen.
+Ich möchte ausprobieren, ob die Custom Order beibehalten wird, wenn ich die Seite neu lade.
 
 _Testperson zieht ein Modul per Drag & Drop in eine andere Reihenfolge und aktualisiert die Seite._
 
@@ -354,7 +357,7 @@ _Die Testperson konnte problemlos nach Kürzeln suchen._
 Auf Laptop und Desktop.
 
 / Wie validierst du die Studierbarkeit deiner Modulauswahl?:
-_Der Testperson war nicht bewusst, dass Module im Planer in Semester hinzugefügt werden können, in denen sie gar nicht angeboten werden.
+_Der Testperson war nicht bewusst, dass Module im Planer in Semestern hinzugefügt werden können, in denen sie gar nicht angeboten werden.
 Da sie Module anhand vom MSP und der Liste bei der Modulanmeldung wählt, war dies jedoch nie ein Problem._
 
 / Wie erweiterst du die Semesterauswahl?:
@@ -393,12 +396,12 @@ Ich finde es auch gut, dass ich den Link teilen kann, wenn ich möchte.
 Eigentlich nichts.
 
 ==== Nachgespräch
+Die Fragen wurden, ausschliesslich der ersten Frage, von Stefanie Jäger gestellt.
+Am Anfang des Nachgesprächs gab es eine kurze Diskussion zwischen den Autorinnen, inwiefern die erste Forschungsfrage des Nachgesprächs stellbar ist, da die Testperson ihr persönliches Vorgehen geschildert hat und nichts über die Proto-Journey der Autorinnen weiss.
+Es wurde entschieden, diese Frage umzuformulieren.
 
-/ Hast du noch Anmerkungen in Bezug auf das Vorgehen, dass du uns eben geschildert hast?:
-/ Gerne fasse ich kurz zusammen, was wir besprochen haben. Bitte korrigiere mich, wenn ich etwas falsch verstanden habe.:
-
-/ Reflektiert diese Journey dein Vorgehen realistisch? Was machst du anders und gleich?:
-Ja.
+/ Das Vorgehen, dass du uns aufgezeigt hast, ist das dein typisches Vorgehen? Machst du das immer so oder machst du etwas anders?:
+Ja, das mache ich immer so.
 
 / Gehst du diese Schritte mehrfach durch? Auch in Bezug auf die verschiedenen Anmeldephasen?:
 Ja.
@@ -440,7 +443,7 @@ Dann die Lehrperson auf dem Studentenportal nachschauen, Kollegen fragen und das
 Man braucht also oft mindestens 5-6 Quellen, um einen Concern zu erledigen.
 Bei der zweiten Anmeldephase muss man dann den Stundenplan nochmals überprüfen und anpassen, vor allem, wenn sich Module überschneiden oder der Stundenplan Lehrveranstaltungen über zu viele Tage verteilt.
 Da muss man sehr rumjonglieren, damit am Ende alles zusammenpasst und man als Teilzeitler ganze Tage noch frei hat zum Arbeiten.
-Was mir auch noch in den Sinn kommt, ist, dass wenn man in St. Gallen studiert, man nicht alle ;Module vor Ort angeboten bekommt.
+Was mir auch noch in den Sinn kommt, ist, dass wenn man in St. Gallen studiert, man nicht alle Module vor Ort angeboten bekommt.
 Da muss man dann eventuell sogar auf Rapperswil pendeln, nur für ein Modul.
 Da bin ich jetzt jedoch nicht betroffen und kenne auch niemanden persönlich.
 Aber so hat man es natürlich noch schwieriger.
