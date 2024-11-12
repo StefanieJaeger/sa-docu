@@ -37,11 +37,11 @@
 
 4. Erste Modulauswahl und Anmeldung:
 - Auf der Anmeldeseite auf unterricht.ost.ch wählt sie die Module aus, die ihr zusagen, und speichert die Änderungen ab, sodass sie unter _Angemeldete Module_ erscheinen.
-- Während der Anmeldephase überprüft sie regelmässig, ob sich durch ihre Recherche weitere Informationen erhält, und meldet Module ggf. ab oder ersetzt sie durch andere.
+- Während der Anmeldephase überprüft sie regelmässig, ob sich durch ihre Recherche weitere Informationen ergeben, und meldet Module ggf. ab oder ersetzt sie durch andere.
 
 5. Anpassen des Semesterplaners:
 - Die Testperson passt ihren Plan erst an, wenn die Anmeldephase 1 abgeschlossen ist.
-- Sie überprüft, ob die Änderungen im Planer korrekt übernommen wurden, indem sie die URL überfliegt und kontrolliert, ob die Module, die sie hinzugefügt hat, drin sind.
+- Sie überprüft, ob die Änderungen im Planer korrekt übernommen wurden, indem sie die URL überfliegt und kontrolliert, ob die Module, die sie hinzugefügt hat, darin ersichtlich sind.
 - Sie speichert die URL in ihrem OneDrive ab, um von verschiedenen Geräten problemlos darauf Zugriff zu haben.
 
 6. Feinjustierung während Anmeldephase 2:
