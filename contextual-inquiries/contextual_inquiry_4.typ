@@ -10,16 +10,15 @@
         Dauer \
       ],
       [
-        Testperon 4 [Nina] \
+        Testperson 4 \
         14.10.2024 \
-        [Unterrichtszimmer an der OST, Campus Rapperswil-Jona] \
+        Unterrichtszimmer an der OST, Campus Rapperswil-Jona \
         37 Minuten 
       ]
     )
 
 Die Testperson wird von Laura begrüsst und gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
 Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
-Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
@@ -27,18 +26,18 @@ Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtun
 - Die Testperson öffnet ihren Browser und greift über ein gespeichertes Lesezeichen auf den Semesterplaner zu.
 - Sie scrollt zum nächsten geplanten Semester und prüft, welche Module dort eingeplant sind.
 2. Prüfung der ECTS-Übersicht
-- Die Testperson überprüft die Übersicht der ECTS-Punkte pro Kategorie, um sicherzustellen, dass alle Anforderungen erfüllt werden. Sie setzt dazu das Startsemester auf soweit zurück, dass alle Semester in der Vergangenheit liegen.
-3. Abgleich von Vorleistungen
+- Die Testperson überprüft die Übersicht der ECTS-Punkte pro Kategorie, um sicherzustellen, dass alle Anforderungen erfüllt werden. Sie setzt dazu das Startsemester soweit zurück, dass alle Semester in der Vergangenheit liegen, sie also das Studium bereits abgeschlossen hat. Sie sieht, dass alle Kategorien erfüllt sind.
+3. Abgleich von Vorleistungen [gehört das nicht zu schritt 2? ist ja kein separater schritt sondern gehört auch zur ects prüfung]
 - Sie überprüft die Anzeige der Kategorienbalken. Einige Kategorien sind unvollständig, da Vorleistungen aus einem früheren Studium angerechnet wurden. Diese werden jedoch nicht im Planer eingetragen, da die Testperson den tatsächlichen Aufwand pro Semester abbilden möchte.
-4. Überprüfung der Modulbeschreibung und Durchführungszeiten
-- Wenn sie unsicher ist, in welchem Semester ein Modul durchgeführt wird, prüft sie dies in der Modulbeschreibung in Adunis.
+4. Überprüfung der Modulbeschreibung und Durchführungszeiten [dh sie geht ins slcm zu _Nächstes Semester > Module > An-/Abmelden_ und sucht dort dann nach welchem modul? hier hat sie doch gesagt, sie nimmt eigentlich das, was sie eingetragen/geplant hat. also schaut sie sich diese module an, das müsste hier noch stehen. die reihenfolge der aufgelisteten punkte würde ich möglichst chronologisch nach dem geschilderten vorgehen anordnen, es wirkt etwas durcheinander.]
+- Wenn sie unsicher ist, in welchem Semester ein Modul durchgeführt wird, prüft sie dies in der Modulbeschreibung in Adunis. [dieser und der nächste punkt wirken irgendwie doppelt gemoppelt]
 - Hierfür nutzt sie die Suchfunktion bei der Modulanmeldung, um die entsprechenden Module zu finden und sicherzustellen, dass die geplanten Module auch im richtigen Semester angeboten werden.
 - Die Testperson liest sich die Modulbeschreibung, insbesondere die Leistungsbewertung, vorausgesetzte Vorkenntnisse und die Inhalte, durch.
 - Zusätzlich tauscht sie sich mit Kommilitonen aus, um Informationen über den Aufwand und die Dozenten zu erhalten.
 5. Überprüfung der Vertiefung
-- Zur Überprüfung, welche Module sie für eine Vertiefung noch benötigt, nimmt die PDFs der MSP zur Hilfe.
+- Zur Überprüfung, welche Module sie für eine Vertiefung noch benötigt, nimmt sie die PDFs der MSPs zur Hilfe. [welches msps?]
 6. Modulanmeldung und Anpassungen
-- Die Testperson schaut im Semesterplaner, welche Module sie für das kommende Semester eingeplant hat, und meldet diese dann in Adunis an.
+- Die Testperson schaut im Semesterplaner, welche Module sie für das kommende Semester eingeplant hat, und meldet diese dann in Adunis an. [dazwischen wäre dann doch recherche]
 - Bei Änderungen, z.B. bei Modulen, die ersetzt wurden, wie „Patterns und Frameworks“ durch „UI Patterns and Frameworks“, passt sie ihren Plan entsprechend an.
 - Die Testperson führt die Anmeldungen für das kommende Semester in der Regel nur einmal durch, es sei denn, es gibt Änderungen oder Probleme.
 

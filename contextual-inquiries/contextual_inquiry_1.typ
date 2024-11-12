@@ -10,7 +10,7 @@
         Dauer \
       ],
       [
-        Testperon 1 \
+        Testperson 1 \
         09.10.2024 \
         Zuhause der Testperson \
         1 Stunde

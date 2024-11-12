@@ -10,14 +10,14 @@
         Dauer \
       ],
       [
-        Testperon 2 [Mathias] \
+        Testperson 2 \
         11.10.2024 \
-        Mensa, Gebäude 4, Campus Rapperswil, OST \
+        Microsoft Teams Meeting \
         1 Stunde, 4 Minuten
       ]
     )
-Die Testperson wird von Laura gemäss den vorbereitenden Kommentaren des Leitfadens instruiert. Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt. Die Angaben werden streng vertraulich behandelt und anonymisiert, abgesehen von den Aufzeichnungen. Die Aufzeichnung werden bis zum Ende der Bewertung der Studienarbeit aufbewahrt und danach gelöscht. Die Aufzeichnungen werden nicht anonymsierit, sondern unbearbeitet.
-Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
+Die Testperson wird von Laura gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
+Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt. 
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
@@ -28,23 +28,23 @@ Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtun
 2. Modul- und ECTS-Überprüfung
 - Sie kontrolliert die aktuelle Anzahl der geplanten ECTS pro Kategorie, um sicherzustellen, dass alles korrekt erfasst ist, und vergleicht diese mit den Anforderungen ihres Studiengangs.
 - Für eine zusätzliche externe Leistung (Digicamp, 3 ECTS) überprüft sie, ob diese anrechenbar ist, obwohl das System dies nicht automatisch berücksichtigt.
-- Sie prüft auch jedes Semester, dass die geplanten Module noch mit ihren Interessen überinstimmen und sie den Plan auch so durchziehen will.
+- Sie prüft auch jedes Semester, dass die geplanten Module noch mit ihren Interessen übereinstimmen und sie den Plan so umsetzen will.
 
 3. Modulwahl und Planung zukünftiger Semester
-- Die Testperson plant mehrere Semester im Voraus und berücksichtigt, welche Module in welchen Semestern angeboten werden, um eine durchgehende Verfügbarkeit zu gewährleisten.
-- Sie priorisiert Module, die eine Mischung aus semesterbegleitenden Leistungen und Prüfungen bieten, um die Arbeitslast mit ihrem 60%-Arbeitspensum besser zu verteilen.
-- Sie interessiert sich meist wenig für die _Empfohlene Module_, persönliches Interesse ist ihr wichtiger.
+- Die Testperson plant mehrere Semester im Voraus und berücksichtigt, welche Module in welchen Semestern angeboten werden, um eine durchgehende Studierbarkeit zu gewährleisten.
+- Sie priorisiert Module, die eine Mischung aus semesterbegleitenden Leistungen und Prüfungen in der Prüfungsphase bieten, um die Arbeitslast mit ihrem 60%-Arbeitspensum besser zu vereinen.
+- Sie interessiert sich meist wenig für die unter _Empfohlene Module_ gelisteten Kurse, persönliches Interesse ist ihr wichtiger.
 
-4. Detailrecherche in Adunis
-- Für jedes Modul prüft die Testperson dessen Beschreibung, die _Kurse in diesem Modul_, die Art der Leistungsbewertung (semesterbegleitend oder Prüfung), mögliche Äquivalenzen und zugehörige Kategorien.
-- Bei Unsicherheiten über die Kategorisierung oder die Durchführungszeiten von Modulen verwendet sie Adunis, um die Modulordnung zu überprüfen.
+4. Detailrecherche in SLCM
+- Für jedes Modul prüft die Testperson in dessen Modulbeschreibung die inhaltliche Beschreibung, die _Kurse in diesem Modul_, die Art der Leistungsbewertung (semesterbegleitend oder Prüfung), mögliche äquivalente Module und die zugehörige Kategorie.
+- Bei Unsicherheiten über die Kategoriezuteilung oder die Durchführungszeiten von Modulen verwendet sie SLCM, um die Modulordnung zu überprüfen. [TODO: was ist hier genau mit Modulordnung gemeint?]
 
 5. Modulanmeldung und Double-Check
-- Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen.
-- Sie erwähnt, dass sie Module wieder entfernt, wenn sie diese nicht besteht, und passt den Planer entsprechend manuell an.
+- Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion unter _Nächstes Semester > Module > An-/Abmelden_ nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung unter der Liste der angemeldeten Module, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen. [TODO: ist diese anzeige gemeint oder die anzeige im semesterplaner?]
+- Sie erwähnt, dass sie Module wieder entfernt, wenn sie diese nicht besteht, und passt den Planer entsprechend manuell an. [TODO: wann/wo ist der schritt, wo sie den planer anpasst? der fehlt hier noch]
 
 6. Abgleich mit anderen Studenten
-- Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist.
+- Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist. [passiert das nicht auch vor der anmeldung auf slcm?]
 // - Die Testperson hat in der Vergangenheit versucht, Beratung durch die Studienadministration zu bekommen, war jedoch erfolglos.
 
 

@@ -10,9 +10,9 @@
         Dauer \
       ],
       [
-        Testperon 3 [Mario] \
+        Testperson 3 \
         11.10.2024 \
-        Mensa, Gebäude 4, Kampus Rapperswil, OST \
+        Mensa, Gebäude 4, Campus Rapperswil, OST \
         50 Minuten
       ]
     )
@@ -20,36 +20,33 @@
 ==== Einführung
 Die Testperson wird von Laura gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
 Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
-Die Angaben werden streng vertraulich behandelt und anonymisiert.
-Die Aufzeichnungen werden nicht anonymisiert, sondern unbearbeitet aufbewahrt bis zur Löschung.
-Die Aufzeichnungen werden nach der Bewertung der SA gelöscht.
-Die Testperson wird über den Ablauf der CI informiert (Vorinterview, Beobachtung, Nachinterview).
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
-1. Vorbereitung der Modulanmeldung
-- Die Testperson öffnet den Semesterplaner über ein Lesezeichen und prüft die Übersicht der bisherigen ECTS sowie den Stand der Credits pro Kategorie.
-- Sie stellt sicher, dass diese mit dem offiziellen Report von unterricht.ost.ch übereinstimmen, um eine zuverlässige Basis für die Planung zu haben.
+1. Vorbereitung der Modulanmeldung [Vllt öffnen des plans und überprüfug bessere beschreibung des schrittes?]
+- Die Testperson öffnet den Semesterplaner über ein Lesezeichen und prüft die Übersicht der bisherigen ECTS sowie den Stand der ECTS pro Kategorie.
+- Sie stellt sicher, dass diese mit dem offiziellen Report von unterricht.ost.ch übereinstimmen, um eine zuverlässige Basis für die Planung zu haben. [geschieht das jedesmal? das macht sie doch nur sporadisch?]
 
-2. Provisorischer und finaler Plan
+2. Provisorischer und finaler Plan [könnte man in schritt 1 integrieren, da beide pläne geöffnet werden im ersten schritt. das ganze hier ist ja eigentlich kein effektiver "schritt" in der journey oder]
 - Sie arbeitet mit zwei Plänen: einem provisorischen Plan, der Module enthält, die sie potenziell belegen möchte, und einem finalen Plan, der ihren bisherigen Studienverlauf dokumentiert. Der provisorische Plan hilft ihr, die fehlenden Credits zu identifizieren und zu überlegen, wie sie diese am besten erreichen kann.
-- Da sie neben dem Studium arbeitet, hat sie in den ersten Semestern mehr Module eingeplant und reduziert die ECTS in späteren Semestern, um eine Balance zwischen Studium und Arbeit zu schaffen.
+- Da sie neben dem Studium arbeitet, hat sie in den ersten Semestern mehr Module eingeplant und reduziert die ECTS in späteren Semestern, um eine Balance zwischen Studium und Arbeit zu schaffen. [der grund für das mehr module einplanen in den ersten semestern ist ja nicht die arbeit, sondern die unerfahrenheit und das nicht einschätzen können des aufwands, oder? ist aber die frage, ob das ins chronologische vorgehen reingehört, ist ja eher eine erklärung dazu, weshalb sie so und so viele module plant.]
 
 3. Verifizierung der Informationen über Adunis
-- Durch direkte Verlinkung kann die Testperson schnell in die Modulbeschreibungen wechseln, um Inhalte und Durchführungssemester der Module zu prüfen.
-- In Adunis schaut sie nach, ob ein Modul spezifische Vorkenntnisse oder _Empfohlene Module_ hat, um sicherzugehen, dass sie die nötigen Voraussetzungen erfüllt. Diese Informationen sind besonders in den ersten Semestern wichtig, da hier oft noch mehrere empfohlene Module fehlen.
+- Durch direkte Verlinkung kann die Testperson schnell in die Modulbeschreibungen wechseln, um Inhalte und Durchführungssemester der Module zu prüfen. [kann sie das oder macht sie das?]
+- In Adunis schaut sie nach, ob ein Modul spezifische Vorkenntnisse oder _Empfohlene Module_ hat, um sicherzugehen, dass sie die nötigen Voraussetzungen erfüllt. Diese Informationen sind besonders in den ersten Semestern wichtig, da hier oft noch mehrere empfohlene Module fehlen. [letzter satz ist eine aussage der person, das muss hier nicht rein.]
 - Sie prüft, ob sie die notwendigen Module für die angestrebte Vertiefung belegt hat und plant entsprechend weitere Module ein, die zur Vertiefung erforderlich sind.
 
-4. Abgleich mit anderen Studenten
+4. Abgleich mit anderen Studierenden
 - Die Testperson bespricht sich mit anderen Studierenden, um Informationen über die Module zu sammeln, wie deren Inhalt und Aufwand.
 - Sie nutzt das Studentenportal, um Zusammenfassungen zu Prüfungen zu finden und den geschätzten Schwierigkeitsgrad der Module besser einschätzen zu können.
 
-5. Finale Überprüfung der ECTS pro Kategorie:
+5. Finale Überprüfung der ECTS pro Kategorie: [wann hat die testperson die module im planer eingetragen?]
 - Abschließend überprüft sie die im Planer aufgeführten ECTS pro Kategorie, um sicherzustellen, dass die Summe der geplanten und bereits erreichten Credits ausreicht.
 
 6. Nutzung und Teilen der Pläne:
 - Die Testperson speichert die Links ihrer Pläne als Lesezeichen und teilt sie mit anderen, um Feedback und Vorschläge für zusätzliche Module zu erhalten.
 - Diese Links ermöglichen es ihr, verschiedene Versionen ihres Plans zu verwalten und anzupassen.
+[hier fehlt die finale anmeldung im slcm als schritt, wo gehört das hier chronologisch rein?]
 
 ==== Generelle Fragen
 
