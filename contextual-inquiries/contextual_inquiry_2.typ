@@ -26,27 +26,27 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 - Sie trägt anschliessend das Startsemester manuell ein, da dieses Feature nach der letzten Speicherung ihres Planes eingeführt wurde.
 
 2. Modul- und ECTS-Überprüfung
+- Die Testperson meldet sich während unserer Sitzung für ihr letztes Semester an. Sie hat dieses bereits vorgeplant und überprüft nun, ob sie die Module genau so auch anmelden möchte.
 - Sie kontrolliert die aktuelle Anzahl der geplanten ECTS pro Kategorie, um sicherzustellen, dass alles korrekt erfasst ist, und vergleicht diese mit den Anforderungen ihres Studiengangs.
-- Für eine zusätzliche externe Leistung (Digicamp, 3 ECTS) überprüft sie, ob diese anrechenbar ist, obwohl das System dies nicht automatisch berücksichtigt.
+- Für eine zusätzliche externe Leistung ("Digicamp", 3 ECTS) überprüft sie, ob diese anrechenbar ist, da der Semesterplaner dies nicht abbilden kann.
 - Sie prüft auch jedes Semester, dass die geplanten Module noch mit ihren Interessen übereinstimmen und sie den Plan so umsetzen will.
 
 3. Modulwahl und Planung zukünftiger Semester
-- Die Testperson plant mehrere Semester im Voraus und berücksichtigt, welche Module in welchen Semestern angeboten werden, um eine durchgehende Studierbarkeit zu gewährleisten.
+- Die Testperson plante mehrere Semester im Voraus und berücksichtigte, welche Module in welchen Semestern angeboten werden, um eine durchgehende Studierbarkeit zu gewährleisten.
 - Sie priorisiert Module, die eine Mischung aus semesterbegleitenden Leistungen und Prüfungen in der Prüfungsphase bieten, um die Arbeitslast mit ihrem 60%-Arbeitspensum besser zu vereinen.
 - Sie interessiert sich meist wenig für die unter _Empfohlene Module_ gelisteten Kurse, persönliches Interesse ist ihr wichtiger.
 
 4. Detailrecherche in SLCM
-- Für jedes Modul prüft die Testperson in dessen Modulbeschreibung die inhaltliche Beschreibung, die _Kurse in diesem Modul_, die Art der Leistungsbewertung (semesterbegleitend oder Prüfung), mögliche äquivalente Module und die zugehörige Kategorie.
-- Bei Unsicherheiten über die Kategoriezuteilung oder die Durchführungszeiten von Modulen verwendet sie SLCM, um die Modulordnung zu überprüfen. [TODO: was ist hier genau mit Modulordnung gemeint?]
+- Für jedes im Semesterplaner geplante Modul prüft die Testperson in dessen Modulbeschreibung die inhaltliche Beschreibung, die _Kurse in diesem Modul_, die Art der Leistungsbewertung (semesterbegleitend oder Prüfung), mögliche äquivalente Module und die zugehörige Kategorie.
+- Bei Unsicherheiten über die Kategoriezuteilung oder die Durchführungszeiten von Modulen verwendet sie SLCM. Etwas kompliziert über _Mein Studium > Informationen > Studiengang-/Modulinfo_ holt sich die Testperson Informationen zur Kategoriezugehörigkeit, indem sie in den Filtern links eine Kategorie auswählt. Danach erscheinen nur noch die Module der ausgewählten Kategorie im nächsten Filter "Modul". Die Durchführungszeiten der Module holt sie sich über die jeweilige Modulbeschreibung.
 
 5. Modulanmeldung und Double-Check
-- Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion unter _Nächstes Semester > Module > An-/Abmelden_ nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung unter der Liste der angemeldeten Module, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen. [TODO: ist diese anzeige gemeint oder die anzeige im semesterplaner?]
-- Sie erwähnt, dass sie Module wieder entfernt, wenn sie diese nicht besteht, und passt den Planer entsprechend manuell an. [TODO: wann/wo ist der schritt, wo sie den planer anpasst? der fehlt hier noch]
+- Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion unter _Nächstes Semester > Module > An-/Abmelden_ nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung unter der Liste der angemeldeten Module im SLCM, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen.
+- Sie erwähnt, dass sie Module wieder entfernt, wenn sie diese nicht bestehen würde, und passt den Planer entsprechend manuell an.
+- Die Testperson meldete sich für alle geplanten Module an, weshalb sie keine Änderungen am Semesterplaner vornehmen musste.
 
 6. Abgleich mit anderen Studenten
-- Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist. [passiert das nicht auch vor der anmeldung auf slcm?]
-// - Die Testperson hat in der Vergangenheit versucht, Beratung durch die Studienadministration zu bekommen, war jedoch erfolglos.
-
+- Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist. Der Austausch erfolgt meist persönlich und verteilt über das Semester.
 
 ==== Generelle Fragen
 
@@ -685,7 +685,7 @@ Sie achtet sich nicht auf das Feld "Vorwissen" oder "Empfohlene Module" bei Modu
 Bei Modulen, die stark aufeinander aufbauen, wie etwa Mathematik, achtet sie sich eher darauf.
 
 / Holst du dir Infos zu den Semestern/Moduldurchführungen? Wo?:
-Schaut die Durchführung auf Adunis nach.
+Schaut die Durchführung auf SLCM nach.
 
 / Wie planst du die Erreichung einer Vertiefung?:
 Durch den Semesterplaner.
@@ -693,21 +693,21 @@ Sie hat dies einmal überprüft und vertraut dem Semesterplaner seither.
 
 / Wie planst du die Erfüllung der notwendigen Credits pro Kategorie?:
 Über Adunis findet sie pro Kategorie eine Liste aller zugehörigen Module, welche sie mit den Modulen der momentanen Anmeldephase abgleicht, um ein Modul auszuwählen.
-Sie vertraut dem Semesterplaner jedoch mehr als Adunis, wenn es zur Berechnung der erreichten Credits pro Kategorie kommt.
+Sie vertraut dem Semesterplaner jedoch mehr als SLCM, wenn es zur Berechnung der erreichten Credits pro Kategorie kommt.
 
 / Hast du ein Zielmodul am Horizont?:
-Nicht wirklich, aus den Pflichtmodulen, wie SEP1, SEP2, SEPRoj, SA und BA.
+Nicht wirklich, ausser den Pflichtmodulen, wie SEP1, SEP2, SEPRoj, SA und BA.
 
 / Hältst du dich an zuvor empfohlene Module? Wie planst du diese ein?:
 Sie plant Semester grob nach Musterstudienplan und anhand der Empfehlungen von Kollegen.
 
 / Was ist mühsam bei der Recherche und weshalb?:
-Adunis ist zu mühsam, um Module zu finden.
+SLCM ist zu mühsam, um Module zu finden.
 Sie empfindet es als mühsam, wieviele Quellen sie nutzen muss.
 Das Überprüfen der Durchführung eines Moduls, bevor man es im Planer hinzufügt, ist ebenfalls mühsam.
 
 / Was ist einfach bei der Recherche und weshalb?:
-Sie kann unter unterricht.ost.ch auf "Mein Studium" > "Informationen" > "Studiengang-/Modulinfo" navigieren, um sich einfach Informationen zu holen.
+Sie kann unter unterricht.ost.ch auf _Mein Studium > Informationen > Studiengang-/Modulinfo_ navigieren, um sich einfach Informationen zu holen.
 
 ==== Semesterplaner anpassen
 
