@@ -10,9 +10,9 @@
         Dauer \
       ],
       [
-        Testperon 5 [Alice] \
+        Testperson 5 \
         14.10.2024 \
-        [Unterrichtszimmer an der OST, Campus Rapperswil-Jona] \
+        Unterrichtszimmer an der OST, Campus Rapperswil-Jona \
         43 Minuten
       ]
     )
@@ -24,31 +24,33 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
 1. Vorbereitung und Zugriff auf den Plan
-- Die Testperson öffnet ihren Semesterplan über den Browser, indem sie die Seite "lost.university" aufruft. Der Plan wird aus dem LocalStorage geladen. [nur der zweite punkt stimmt doch mit ihrem vorgehen überein, das mit dem localstorage ist ihr ja neu gewesen.]
-- Alternativ verwendet sie gespeicherte Links, die sie in einer Textdatei ("Todos.txt") abgelegt hat, um direkt auf ihre verschiedenen Pläne zuzugreifen. Diese Links enthalten verschiedene Szenarien, etwa Pläne für 8 oder 9 Semester.
+- Die Testperson öffnet ihren Plan, indem sie eine spezifische Textdatei mit dem Link dazu sucht und den Link in den Browser kopiert.
+- Die Textdatei enthält zwei Links, die Pläne für ihr Studium in jeweils 8 oder 9 Semestern darstellen.
 
-2. Überprüfung und Anpassung des Plans
+2. Überprüfung des Plans
 - Sie prüft, welche Module sie im kommenden Semester (aktuell FS25) bereits eingeplant hat. Aktuell hat sie für das nächste Semester die Bachelorarbeit und das Modul „Incident Response“ geplant.
-- Bei der Planung achtet sie darauf, welche ECTS-Punkte noch in den einzelnen Kategorien fehlen und entscheidet, ob sie gegebenenfalls ein weiteres Semester hinzufügen muss. [kommt diese entscheidung nicht später? also die steht noch an oder und hat nichts mit dem vorgehen zu tun?]
-- Falls sie Änderungen vornimmt, löscht sie Module oder fügt neue hinzu, um sicherzustellen, dass alle Anforderungen erfüllt werden.  [macht sie das nicht nach der recherche und dem anmelden? macht sie das schon vorher?]
-- Sie sucht gezielt nach Modulen, die ihr noch fehlen, wie z.B. „Physik Anwendungen für Informatik“, und trägt diese in das nächste Semester ein. [hat sie das direkt nach dem öffnen gemacht oder erst nach der recherche?]
+- Bei der Planung achtet sie darauf, welche ECTS-Punkte ihr in den einzelnen Kategorien noch fehlen. Da sie ihr Studium im nächsten Semester abschliessen könnte, sucht sie nach Modulen, die sie noch belegen muss, um die fehlenden ECTS-Punkte zu erreichen.
 
-3. Prüfung von Modulvoraussetzungen
-- Die Testperson orientiert sich bei der Auswahl der Module am Musterstudienplan (MSP) der Vertiefung „Cyber Security“. [also wählt sie welche module zur recherche aus?]
-- Sie öffnet die Modulbeschreibung im SLCM, um sicherzustellen, dass sie die erforderlichen Vorkenntnisse erfüllt.
-
-4. Informationsbeschaffung zu Modulen [hier gehört doch auch der schritt 3 dazu? also recherche allgemein]
-- Sie liest Modulbeschreibungen, um sich über den Leistungsnachweis und die Anforderungen während des Semesters zu informieren. Besonders bei Wirtschaftsmodulen achtet sie darauf, dass diese nicht zu viel Aufwand während des Semesters generieren, um ihr Teilzeitpensum mit dem Studium vereinbaren zu können.
-- Die Testperson tauscht sich mit Studierenden aus höheren Semestern aus, um Informationen darüber zu erhalten, wie anspruchsvoll ein Modul ist, wie die Dozenten unterrichten und ob sich der Aufwand lohnt. Dies geschieht meist in persönlichen Gesprächen.
+3. Recherche zu Modulen
+- Die Testperson orientiert sich bei der Auswahl der Module am Musterstudienplan (MSP) der Vertiefung „Cyber Security“.
+- Spannend klingende Module der Vertiefung fügt sie in den Plan ins nächste Semester ein. Ebenfalls sucht sie gezielt nach Modulen, die sie noch belegen muss, um die fehlenden ECTS-Punkte (auch per Kategorie) zu erreichen.
+- Danach navigiert sie über den Direktlink im Semesterplaner zu den Modulbeschreibungen der neu hinzugefügten Module.
+- Sie prüft die Voraussetzungen und empfohlenen Module, um sicherzustellen, dass sie die Anforderungen erfüllt.
+- In der Modulbeschreibung achtet sie sich besonders auf die folgenden Informationen: empfohlene Vorkenntnisse und Leistungsnachweise. Sie möchte die Vorkenntnisse mitbringen und achtet sich darauf, dass der Aufwand des Moduls zu ihrem Teilzeitpensum passt, das heisst, nicht zu viel Aufwand unter dem Semester.
+- Weiter tauscht sich die Testperson in persönlichen Gesprächen mit Studierenden aus höheren Semestern aus, um Informationen über die Dozierenden und den Aufwand des Moduls zu erhalten.
 - Gelegentlich bespricht sie mit Kollegen, welche Module sie gemeinsam belegen könnten, insbesondere bei Modulen mit Gruppenarbeiten.
 
+4. Anpassen des Plans
+- Während der Überprüfung des Plans sowie der Modulrecherche passt sie den Plan fortlaufend an.
+- Während der jetzigen Anmeldephase hat sie zwei Pläne erstellt: einen, mit welchem sie im nächsten Semester abschliesst und einen, mit welchem sie noch ein Semester länger studiert.
+
 5. Modulanmeldung und Validierung der Planung
-- Vor der Modulwahl meldet sie sich parallel im SLCM an und überprüft, ob die geplanten Module auch im kommenden Semester angeboten werden. Sie passt den Plan an, falls sich Änderungen ergeben. [Wiso vor der modulwahl? ist das nicht die modulwahl? ich würde hier ein schritt für die modulwahl auf slcm und ein schritt für die anpassung des plans machen, das nicht zusammentun.]
-- Zur Validierung der Planung prüft sie die ECTS-Punkte pro Kategorie und gleicht diese mit den Anforderungen im SLCM ab, um sicherzustellen, dass sie ihr Studium wie geplant abschließen kann. [welche anfordeurngen im slcm? wo sind diese gelistet, also welche seite öffnet sie? und welche ects-punkte pro kategorie übersicht schaut sie an, die im semesterplaner oder diejenige im slcm?]
-- Die Testperson meldet manchmal mehr Module an, als sie letztlich belegen möchte, um in der zweiten Anmeldephase mehr Auswahl zu haben und flexibel ihren Stundenplan gestalten zu können.
+- Die Testperson meldet die ausgewählten Module der Planung "Abschluss im nächsten Semester" an, um sicherzustellen, dass sie die Module belegen kann, wenn sie sich in der zweiten Anmeldephase denn dazu entscheidet.
+- Sie hat in der Vergangenheit auch schon mehr Module angemeldet, als sie effektiv belegen wollte, um in der zweiten Anmeldephase mehr Auswahl zu haben und flexibel ihren Stundenplan gestalten zu können.
+- Zur Validierung der Planung prüft sie die ECTS-Punkte pro Kategorie im Semesterplaner und gleicht diese mit den Anforderungen im SLCM ab, um sicherzustellen, dass sie ihr Studium wie geplant abschließen kann.
 
 6. Persistierung des Plans
-- Den Plan speichert sie durch Kopieren des Links in ihre Textdatei. Sollte der Link verloren gehen, könnte sie ihren Plan auch ohne den Semesterplaner rekonstruieren, da sie die Informationen auch auf Adunis einsehen kann. [adunis => SlCM]
+- Die beiden erstellten Pläne speichert sie durch Kopieren der Links in ihre Textdatei.
 
 ==== Generelle Fragen
 
