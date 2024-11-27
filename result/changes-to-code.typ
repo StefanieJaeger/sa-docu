@@ -7,6 +7,7 @@ Neu
 - validation-helper.ts: Hilft beim Validieren eines Modules. Die Logik zur Validierung kann im Kapitel [???] nachgelesen werden.
 
 Bestehend
+- BeautifulProgressIndicator.vue: [todo]
 - Focus.vue: Für Vertiefungen und deren Module. Button bei jedem Module, um zum nächstmöglichen Semester hinzuzufügen.
 - Module.vue: Für Modul in einem Semester. Icon links und Umrandung, wenn Infos aus Validierung bestehen. 
 - Semester.vue: Um ein eingeplantes Semester darzustellen. ModuleSearch für das Hinzufügen von Modulen. Holt Module zur Durchsuchung aus dem Store und aktualisiert bei Auswahl den Store.

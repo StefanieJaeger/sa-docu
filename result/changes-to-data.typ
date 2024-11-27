@@ -17,3 +17,10 @@ Werte
   - Entfernt: "isThesis", "isRequired", "recommendedSemester" (wurde nicht genutzt)
   - Hinzugefügt: "isDeactivated", "term", "recommendedModuleIds", "dependentModuleIds", "successorModuleId", "predecessorModuleId" (für Semesterzuteilung und Validierung) 
   - Umbenennt: "categories_for_coloring" zu "categoriesForColoring" (Format)
+
+Probleme bei Daten
+- Einige Module haben keine Durchführung. Darunter auch aktive, wie SEProj. => Overwrite
+- Einige Module haben unterschiedliche "beginSemester" und "endSemester". Für einige Module meint dies, dass sie in jedem Semester durchgeführt werden (SA/BA, IKTS pro Kampus), für andere, dass die Durchführung einmal gewechselt hat (EXEV, NetAut, CompEng, etc). => Wenn "beginSemester" und "endSemester" valide aber nicht gleich sind, dann "both"
+- Wir nehmen an, dass ein Modul deaktiviert ist, wenn der "zustand" "deaktiviert" ist und das "endJahr" der "durchfuehrungen" vor diesem Jahr liegt oder keine Durchführung angegeben ist.
+- SE1 und SEP1, SE2 und SEP2 sind nicht als Nachfolger und Vorgänger markiert => Overwrite
+
