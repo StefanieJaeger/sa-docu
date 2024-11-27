@@ -13,4 +13,7 @@ Erweiterungen
 - Zusätzliche Module, die nicht in der Studienordnung vorkommen, in die Liste aufnehmen.
 
 Werte
-- 
+- Modul:
+  - Entfernt: "isThesis", "isRequired", "recommendedSemester" (wurde nicht genutzt)
+  - Hinzugefügt: "isDeactivated", "term", "recommendedModuleIds", "dependentModuleIds", "successorModuleId", "predecessorModuleId" (für Semesterzuteilung und Validierung) 
+  - Umbenennt: "categories_for_coloring" zu "categoriesForColoring" (Format)
