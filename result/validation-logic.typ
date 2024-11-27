@@ -3,11 +3,11 @@ Validierungslogik
 Validationsmatrix
 ||Vergangenheit|Gegenwart|Zukunft|
 |---|---|---|---|
-|Modul im falschen Semester|i|!|!|
-|Modul schon in Plan|!|!|!|
-|Modul inaktiv mit Nachfolger|i|!|!|
-|Modul inaktiv ohne Nachfolger|-|!|!|
-|Modul ohne/vor Empfohlene|-|i|i|
+|Modul im falschen Semester|soft|hard|hard|
+|Modul schon in Plan|hard|hard|hard|
+|Modul inaktiv mit Nachfolger|soft|hard|hard|
+|Modul inaktiv ohne Nachfolger|-|hard|hard|
+|Modul ohne/vor Empfohlene|-|soft|soft|
 
 Durch die URL oder Übertrittsmodule kann es geschehen, dass ein invalider Plan entsteht.
 Modul mit Nachfolger soll auch in vergangen Semester markiert werden, jedoch nur als Info mit Tooltip, das Nachfolger erwähnt. Hat man den Vorgänger eines aktiven Modules im Plan, können wir eine korrekte Validation nicht garantieren.
