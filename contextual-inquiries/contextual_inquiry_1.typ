@@ -22,8 +22,8 @@
 - Die Testperson konsultiert als erstes den MSP, um zu schauen, welche Module im kommenden Semester empfohlen werden.
 - Sie prüft, zu welchen Kategorien die Module gehören.
 
-2. Überprüfung auf unterricht.ost.ch
-- Die Testperson schaut auf unterricht.ost.ch nach, welche Module im nächsten Semester angeboten werden (_Nächstes Semester > Module > An-/Abmelden_)
+2. Überprüfung im SLCM
+- Die Testperson schaut im SLCM nach, welche Module im nächsten Semester angeboten werden (_Nächstes Semester > Module > An-/Abmelden_)
 - Die gelbe Markierung auf einem Modul zeigt ihr, dass es Vorkenntnisse braucht, die rote, dass sie Bedingungen zur Anmeldung noch nicht erfüllt.
 - Die vom MSP empfohlenen Module schaut sie sich genauer an, genauso wie alle anderen, die sie interessieren.
 - Dazu klickt sie auf die Module und schaut sich die Modulbeschreibung an.
