@@ -14,6 +14,7 @@ Bestehend
 - color-helper.ts: Hilft dabei, die richtige Farbe pro Kategorie/Modul zu bestimmen. Umbenennung und wechsel von RGB zu Tailwind-Klassen.
 - semester-info.ts: Stellt ein Semester, unabhängig von der Planung, dar. Kann neu nächstmögliches Semester für gegebenen Term(?) und nächstes Semester zurückgeben.
 - types.ts: Enthält die Klassen für Term(?), Modul, Vertiefung, Kategorie, eingeplantes Semester, unbekanntes Module und Helfer. Felder analog den Daten aus dem JSON erweitert. Name auf eingeplantem Semester kann basierend auf dem Startsemester gesetzt werden. Auf dem Modul kann das nächstmögliche Semester basierend auf dem Startsemester gesetzt werden und die Validierung durchgeführt werden.
+- main.ts: Neue Icons und Registrierung des Stores.
 
 Installiert
 - vuex: [todo]
