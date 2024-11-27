@@ -22,24 +22,34 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 
 ==== Chronologische Zusammenfassung des geschilderten Vorgehens
 
-1. Vorbereitung und Öffnen des Semesterplaners
+1. Öffnen des Plans und Überprüfung
 - Die Testperson öffnet ihren Browser und greift über ein gespeichertes Lesezeichen auf den Semesterplaner zu.
 - Sie scrollt zum nächsten geplanten Semester und prüft, welche Module dort eingeplant sind.
-2. Prüfung der ECTS-Übersicht
-- Die Testperson überprüft die Übersicht der ECTS-Punkte pro Kategorie, um sicherzustellen, dass alle Anforderungen erfüllt werden. Sie setzt dazu das Startsemester soweit zurück, dass alle Semester in der Vergangenheit liegen, sie also das Studium bereits abgeschlossen hat. Sie sieht, dass alle Kategorien erfüllt sind.
-3. Abgleich von Vorleistungen [gehört das nicht zu schritt 2? ist ja kein separater schritt sondern gehört auch zur ects prüfung]
-- Sie überprüft die Anzeige der Kategorienbalken. Einige Kategorien sind unvollständig, da Vorleistungen aus einem früheren Studium angerechnet wurden. Diese werden jedoch nicht im Planer eingetragen, da die Testperson den tatsächlichen Aufwand pro Semester abbilden möchte.
-4. Überprüfung der Modulbeschreibung und Durchführungszeiten [dh sie geht ins slcm zu _Nächstes Semester > Module > An-/Abmelden_ und sucht dort dann nach welchem modul? hier hat sie doch gesagt, sie nimmt eigentlich das, was sie eingetragen/geplant hat. also schaut sie sich diese module an, das müsste hier noch stehen. die reihenfolge der aufgelisteten punkte würde ich möglichst chronologisch nach dem geschilderten vorgehen anordnen, es wirkt etwas durcheinander.]
-- Wenn sie unsicher ist, in welchem Semester ein Modul durchgeführt wird, prüft sie dies in der Modulbeschreibung in Adunis. [dieser und der nächste punkt wirken irgendwie doppelt gemoppelt]
-- Hierfür nutzt sie die Suchfunktion bei der Modulanmeldung, um die entsprechenden Module zu finden und sicherzustellen, dass die geplanten Module auch im richtigen Semester angeboten werden.
-- Die Testperson liest sich die Modulbeschreibung, insbesondere die Leistungsbewertung, vorausgesetzte Vorkenntnisse und die Inhalte, durch.
+
+2. Überprüfung des Plans
+- Die Testperson überprüft die Übersicht der ECTS-Punkte pro Kategorie, um sicherzustellen, dass alle Anforderungen erfüllt werden. Sie setzt dazu das Startsemester soweit zurück, dass alle Semester in der Vergangenheit liegen, sie also das Studium bereits abgeschlossen hat. 
+- Sie überprüft die Anzeige der Kategorienbalken. Einige Kategorien sind unvollständig, da Vorleistungen aus einem früheren Studium angerechnet wurden. Da die Testperson nur die tatsächlich belegten Module im Plan einplant, fehlen diese ECTS in den Berechnungen.
+
+3. Recherche zu Modulen
+- Die Testperson folgt mehrheitlich dem Musterstudienplan _Software Engineering_, weshalb sie normalerweise nur für die bereits vom MSP eingeplanten Module weitere Informationen einholt.
+- Dazu navigiert sie über den Direktlink vom Semesterplaner zu den jeweiligen Modulen im SLCM.
+- Sie schaut sich besonders die folgenden Punkte an: Leistungsbewertung, vorausgesetzte Vorkenntnisse und die Inhalte des Moduls.
 - Zusätzlich tauscht sie sich mit Kommilitonen aus, um Informationen über den Aufwand und die Dozenten zu erhalten.
+- Wenn Unsicherheiten über die Durchführungszeiten bestehen, prüft sie den _Durchführungszeitram_ in der Modulbeschreibung im SLCM.
+
+4. Überprüfung im SLCM
+- Für das Auffinden weiterer interessanter Module nutzt sie die Liste der anmeldbaren Module für das nächste Semester im SLCM unter _Nächstes Semester > Module > An-/Abmelden_.
+
 5. Überprüfung der Vertiefung
-- Zur Überprüfung, welche Module sie für eine Vertiefung noch benötigt, nimmt sie die PDFs der MSPs zur Hilfe. [welches msps?]
-6. Modulanmeldung und Anpassungen
-- Die Testperson schaut im Semesterplaner, welche Module sie für das kommende Semester eingeplant hat, und meldet diese dann in Adunis an. [dazwischen wäre dann doch recherche]
-- Bei Änderungen, z.B. bei Modulen, die ersetzt wurden, wie „Patterns und Frameworks“ durch „UI Patterns and Frameworks“, passt sie ihren Plan entsprechend an.
-- Die Testperson führt die Anmeldungen für das kommende Semester in der Regel nur einmal durch, es sei denn, es gibt Änderungen oder Probleme.
+- Zur Überprüfung, welche Module sie für eine Vertiefung noch benötigt, nimmt sie die PDFs der MSPs zur Hilfe. Dabei konzentriert sie sich hauptsächlich auf die MSPs _Software Engineering_ und _Frontend Engineering_.
+
+6. Anpassen des Plans
+- Die Testperson passt ihren Plan an, falls durch die Recherche Änderungen nötig sind. So ersetzt sie z.B. das Modul _Patterns und Frameworks_ im HS25 durch _UI Patterns and Frameworks_, entweder im FS25 oder dann FS26.
+- Nach den Änderungen aktualisiert sie ihr Lesezeichen, um den Plan zu speichern.
+
+7. Modulanmeldung im SLCM
+- Die Testperson schaut im Semesterplaner, welche Module sie für das kommende Semester nach der Recherche eingeplant hat, und meldet diese im SLCM an.
+- Die Testperson führt die Recherche und Anmeldung für das kommende Semester in der Regel nur einmal, also am Stück, durch.
 
 ==== Generelle Fragen
 
