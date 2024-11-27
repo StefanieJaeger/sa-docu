@@ -11,3 +11,6 @@ Erweiterungen
 - Empfohlene Module eines Modules referenzieren ebenfalls dieses abhängige Modul, was die Referenz bidirektional macht. Hat ein empfohlenes Modul einen Nachfolger, referenziert dieser ebenfall dieses abhängige Modul.
 - Deaktivierung für ein Modul bestimmen. Unter der Annahme, dass ein Modul mit "Zustand" "deaktiviert" und keiner Durchführung oder mit der letzten Durchführung vor diesem Jahr, als deaktiviert giltet.
 - Zusätzliche Module, die nicht in der Studienordnung vorkommen, in die Liste aufnehmen.
+
+Werte
+- 
