@@ -17,7 +17,9 @@
       (key: "spa", short: "SPA", long: "Single Page Application", desc:""),
       (key: "fontawesome", short: "Fontawesome", desc: ""),
       (key: "tailwind", short: "Tailwind CSS", desc: ""),
-      (key: "vite", short: "Vite", desc: "")
+      (key: "vite", short: "Vite", desc: ""),
+      (key: "githubPages", short: "GitHub Pages", desc: "https://docs.github.com/en/pages"),
+      (key: "githubActions", short: "", desc: "https://docs.github.com/en/actions")
 
       // UX
 
