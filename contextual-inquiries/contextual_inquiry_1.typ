@@ -386,8 +386,7 @@ Als Link-Datei in meinem OneDrive.
 Nein, das wusste ich nicht.
 _Die Testperson wollte uns einen leeren Plan auf lost.university zeigen, doch stattdessen erschien ihr vorausgefüllter Plan, was sie kurzzeitig verwirrte. Sie erkannte dann selbst, dass dieser vermutlich im LocalStorage gespeichert war._
 
-/ Was ist daran einfach?:
-[Link zu vorheriger Antwort]
+/ Was ist am Speichern des Plans einfach?:
 Ich finde es relativ angenehm, dass ich keinen Account anlegen muss.
 Ich kann einfach auf das Tool gehen, meinen Link reinkopieren und dran rumspielen.
 Ich finde es auch gut, dass ich den Link teilen kann, wenn ich möchte.

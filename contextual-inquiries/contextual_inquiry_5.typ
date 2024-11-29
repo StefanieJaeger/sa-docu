@@ -560,20 +560,21 @@ Desperate.
 ==== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
-Sie hat die URL in einem Text-File lokal auf ihrem Laptop gespeichert.
+Ich habe die URL in einem Text-File lokal auf meinem Laptop gespeichert.
 
 / Prüfst du den Plan? Wenn ja, wie und auf was?:
-Sie schaut, ob die Module und Credits pro Semester und Kategorie so stimmen.
-Sie vergleicht die Erfüllung der Kategorien manchmal auch mit den Informationen auf Adunis.
+Ja.
+Ob die Module und Credits pro Semester und Kategorie so stimmen.
+Ich vergleiche die Erfüllung der Kategorien manchmal auch mit den Informationen auf Adunis.
 
 / Welche sichtbaren Informationen sind relevant für dich?:
 Die Kategorien und ihre Erfüllung, und die Module pro Semester.
 
-/ Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
-Sie ist sich bewusst, dass sie über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
+/ Wie weiss der Planer, welche Credits du bereits erreicht hast?:
+Das berechnet er über das Startsemester.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
-Sie entfernt in diesem Fall das Modul aus dem betroffenen Semester.
+Das weiss er nicht, das muss man selbst aus dem Plan entfernen.
 
 ==== Austausch mit Kollegen
 
@@ -581,15 +582,14 @@ Sie entfernt in diesem Fall das Modul aus dem betroffenen Semester.
 Ja.
 
 / Weshalb und über was?:
-Sie tauscht sich gerne über einzelne Module aus.
-Vorallem bei den Modulen, die eine Gruppenarbeit enthalten, achtet sie darauf, ob Kollegen es gleichzeitig belegen.
+Über einzelne Module aus.
+Vorallem bei den Modulen, die eine Gruppenarbeit enthalten, achte ich darauf, ob Kollegen es gleichzeitig belegen.
 
 / Wie tauschst du dich aus? Online, IRL?:
-Sie tauscht sich in Person oder über Chats aus.
+In Person oder über Chats.
 
 / Wie teilst du/zeigst du deinen Plan?:
-Sie teilt ihren Plan eher selten.
-Jedoch senden Kollegen ihr gerne deren Plan und fragen sie um Hilfe beim Planen.
+Ich teile meinen Plan eher selten.
 
 ==== Recherche zu Modulen
 
@@ -599,73 +599,75 @@ Zu Modulen, die interessant klingen.
 / Welche Infos zu Modulen holst du dir?:
 Ob der Leistungsnachweis durch eine Prüfung und/oder unter dem Semester erfolgt, ob es ein Testat gibt.
 Was "Vorwissen" und Lerninhalt sind.
-Sie fragt Kollegen nach deren Meinung zu Dozenten, Aufwand, Übungen und wie wichtig die "Empfohlene Module" sind.
+Ich frage Kollegen nach deren Meinung zu Dozenten, Aufwand, Übungen und wie wichtig die "Empfohlene Module" sind.
 
 / Wo holst du dir diese Infos?:
 Infos zu Module über Adunis.
 Meinung und Erfahrungen zu Module über Kollegen, die es bereits besucht haben.
 
 / Holst du Infos zu den Modulabhängigkeiten? Wenn ja, wo?:
-Schaut die "Empfohlene Module" auf Adunis an. Es ist jedoch nicht immer klar, wie wichtig die wirklich sind.
+Ja, aber es ist nicht immer klar, wie wichtig diese wirklich sind.
+Über die "Empfohlene Module" auf Adunis in der Modulbeschreibung.
 
 / Holst du dir Infos zu den Semestern/Moduldurchführungen? Wo?:
-Sie hat ein Excel mit den Moduldurchführungen, schaut jedoch auch im Adunis nach.
+Ich habe mir am Anfang des Semesters ein Excel mit den Moduldurchführungen erstellt.
+Ich schaue dann dort nach aber ab und zu auch im Adunis, falls sich was ändern würde.
 
 / Wie planst du die Erreichung einer Vertiefung?:
-Sie versucht die nötigen Module für die Vertiefung einzuplanen, jedoch ist nicht garantiert, dass alle angeboten werden.
+Ich versuche einfach, die nötigen Module für die Vertiefung einzuplanen, jedoch ist nicht garantiert, dass diese alle durchgeführt werden.
 
 / Wie planst du die Erfüllung der notwendigen Credits pro Kategorie?:
-Sie schaut sich die ProgressBar der Kategorien an.
-Jedoch empfindet sie das Aussrechnen der noch benötigten Credits als etwas mühsam.
-Sie vergleicht auch noch mit der Erreichung der Kategorien auf Adunis, um den Planer zu überprüfen.
+Ich schaue mir die Fortschrittsbalken der Kategorien an im Semesterplaner.
+Ich empfinde das Aussrechnen der noch benötigten Credits als etwas mühsam.
+Ich vergleiche auch noch mit der Erreichung der Kategorien auf Adunis, um den Planer zu überprüfen.
 
 / Hast du ein Zielmodul am Horizont?:
 Incident Response.
 
 / Hältst du dich an zuvor empfohlene Module? Wie planst du diese ein?:
-Sie versucht, die "Empfohlene Module" pro Modul jeweils zu belegen.
+Ich versuche die "Empfohlene Module" jeweils zuvor zu belegen.
 
 / Was ist mühsam bei der Recherche und weshalb?:
 Adunis ist zu mühsam, um Module zu finden.
 
 / Was ist einfach bei der Recherche und weshalb?:
-Über den Musterstudienplan sieht sie empfohlene Module für eine Vertiefung und kann sich auch an deren Reihenfolge orientieren.
+Über den Musterstudienplan sehe ich empfohlene Module für eine Vertiefung und kann mich auch an deren Reihenfolge orientieren.
 
 ==== Semesterplaner anpassen
 
 / Wie findest du Module im Planer?:
-Sucht Module nach Namen.
-Suche nach Kürzel funktioniert bei ihr nicht.
+Ich suche nach dem vollen Namen bei der Suchfunktion.
+Kürzel suchen funktioniert nicht.
 
 / Auf welchen Geräten nutzt du den Planer/passt du den Planer an?:
 Laptop.
 
 / Wie validierst du die Studierbarkeit deiner Modulauswahl?:
-Ihr ist bewusst, dass Module in Semestern hinzugefügt werden können, in denen sie gar nicht angeboten werden.
+Da fliesst die ganze Recherche mit ein: Wann ein Modul durchgeführt wird ist das wichtigste Kriterium.
+Leider kann man im Semesterplaner Module in Semestern hinzufügen, in denen diese gar nicht durchgeführt werden.
 
 / Wie erweiterst du die Semesterauswahl?:
-Sie weiss, dass sie auf den Knopf mit dem Plus klicken kann.
+Rechts hinten mit dem Plus-Knopf.
 
 / Welche sichtbaren Informationen sind relevant und weshalb?:
 Kategorien und ihre Erfüllung, Module und Credits pro Semester, Vertiefungen, Startsemester und das Meme.
 
 / Wer denkst du, steht hinter lost.university?:
-Sie weiss, dass Studenten hinter dem Semesterplaner stehen und kennt diese sogar persönlich.
+Das ist ein Tool von Studenten für Studenten.
 
 ==== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
-Sie speichert die URL in einem lokalen Text-File.
-
-/ Weisst du, dass die Daten im LocalStorage gespeichert werden?:
-Sie wusste es zuvor nicht.
+Ich speichere die URL in meinem lokalen Text-File.
 
 / Was ist daran einfach?:
-Sie passt ihren Plan nur einmal im Semester an, deswegen spielt es für sie keine grosse Rolle.
+Eigentlich ist es mühsam, aber da ich das nur ein mal pro Semester mache, ist das kein Ding.
 
 / Was ist daran schwierig?:
 Das Finden des lokalen Files kann schwierig sein.
 
+/ Weisst du, dass die Daten im LocalStorage gespeichert werden?:
+Nein.
 
 ==== Nachgespräch
 
@@ -673,27 +675,21 @@ Das Finden des lokalen Files kann schwierig sein.
 Ja.
 
 / Gehst du diese Schritte mehrfach durch? Auch in Bezug auf die verschiedenen Anmeldephasen?:
-Sie passt ihn während der 1. Phase mehrfach an, während der 2. Phase erst, wenn der Studenplan final steht.
+Ich passe ihn während der 1. Phase mehrfach an, während der 2. Phase erst, wenn ich meinen Stundenplan definitiv angemeldet habe.
 
 / Inwiefern hilft dir der Planer?:
 Er bietet eine gute Übersicht und ermöglicht eine langfristigere Planung.
-Er ermöglicht ihr auch, Variationen von Plänen zu erstellen.
+Es ist auch möglich, Variationen von Plänen zu erstellen.
 
 / Welche Aspekte sind hilfreich am Planer?:
 Die Übersicht über Credits, Vertiefungen und Kategorien.
 
 / Welche Aspekte sind schwierig am Planer?:
 Die Durchführung, "Empfohlene Module" sind nicht ersichtlich.
-Die Suche ist etwas mühsam, wegen der unten genannten Problemen.
+Die Suche ist etwas mühsam, da der Fokus nicht im Suchfeld ist nach dem Klick auf das Plus, und da das Suchfeld nach der Suche nicht zurückgesetzt wird und man den letzten Suchtext manuell löschen muss.
 
 / Gibt es weitere Aspekte, die bei der Modulwahl wichtig sind und wir noch nicht angesprochen haben?:
-Sie würde gerne mehrere Vertiefungen planen, findet dies jedoch schwierig.
+Ich würde gerne mehrere Vertiefungen planen und erreichen, das ist jedoch momentan schwierig, da man die Modulabhängigkeiten selbst raussuchen muss.
 
 / Was möchtest du uns sonst noch sagen?:
-Sie findet das Meme super.
-
-
-==== Zusätzliche Bemerkungen
-
-- Sie empfindet es als mühsam, dass das Suchfeld nach der Suche nicht zurückgesetzt wird.
-- Sie empfindet es als mühsam, dass der Fokus nicht im Suchfeld bleibt, wenn man mehrere Module hinzufügen möchte.
+Das Meme ist super.

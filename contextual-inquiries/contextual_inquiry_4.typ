@@ -499,21 +499,23 @@ Ja, super.
 ==== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
-Sie speichert ihren Plan als Bookmark im Browser.
+Bookmark im Browser.
 
 / Prüfst du den Plan? Wenn ja, wie und auf was?:
-Sie schaut, ob die Module und Credits pro Semester und Kategorie so stimmen.
+Ob die Module und Credits pro Semester und Kategorie so stimmen.
 
 / Welche sichtbaren Informationen sind relevant für dich?:
-Die Kategorien und ihre Erfüllung sind sehr relevant für sie.
-Auch schätzt sie das Meme wert.
+Die Kategorien und ihre Erfüllung sind sehr relevant.
+Und das Meme natürlich.
 
 / Wie weiss der Planer, welche Credits du bereits erreicht hast?: 
-Sie ist sich bewusst, dass sie über die Wahl des Startsemesters die erreichten Credits berrechnen lassen kann.
+Über die Wahl des Startsemesters werden die erreichten Credits berechnet.
 
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
-Sie entfernt in diesem Fall das Modul aus dem betroffenen Semester.
-Jedoch würde sie Module gerne in mehreren Semester haben können, um ihrem effektiven Aufwand wiederzuspiegeln.
+Das weiss er nicht.
+In diesem Fall müsste ich das Modul aus dem Planer entfernen und dort eintragen, wo ich es dann wiederhole.
+Ich bevorzuge es jedoch, wenn ich das Modul als "nicht bestanden" markieren könnte, da ich so meinen Studiumsaufwand besser nachvollziehen könnte.
+Ich bilde allgemein z.B. auch meine extern angerechneten Module nicht im Planer ab, da diese nicht meinem effektiven Aufwand entsprechen.
 
 ==== Austausch mit Kollegen
 
@@ -521,18 +523,19 @@ Jedoch würde sie Module gerne in mehreren Semester haben können, um ihrem effe
 Ja.
 
 / Weshalb und über was?:
-Sie erkundigt sich bei Kollegen über deren Meinung zu Dozenten, Modulempfehlungen und welche Module aufgezeichnet werden.
+Über deren Meinung zu Dozenten, Modulempfehlungen und welche Module aufgezeichnet werden.
 
 / Wie tauschst du dich aus? Online, IRL?:
-Sie tauscht sich in Person.
+In Person.
 
 / Wie teilst du/zeigst du deinen Plan?:
-Sie tauscht sich eher durch Gespräche mit Kollegen aus und teilt ihren Plan selten. Wenn, dann zeigt sie ihrem Plan direkt auf dem Bildschirm.
+Da ich mich eher in Person austausche, teile ich den Plan selten per URL.
+Ich zeige den meist direkt auf dem Bildschirm.
 
 ==== Recherche zu Modulen
 
 / Zu welchen Modulen holst du dir Infos?:
-Zu Modulen aus dem Musterstudienplan, die sie zur gewünschten Vertiefung führen.
+Zu Modulen aus dem Musterstudienplan, die mich zur gewünschten Vertiefung führen.
 
 / Welche Infos zu Modulen holst du dir?:
 Wann die Durchführung ist, ob der Leistungsnachweis durch eine Prüfung und/oder unter dem Semester erfolgt, ob es ein Testat gibt.
@@ -542,65 +545,69 @@ Was die "Empfohlene Module", "Vorwissen" und Lerninhalt sind.
 Infos zu Modulen über Adunis.
 
 / Holst du Infos zu den Modulabhängigkeiten? Wenn ja, wo?:
-Schaut die "Empfohlene Module" auf Adunis an.
+Über die "Empfohlene Module" in der Modulbeschreibung.
 
 / Holst du dir Infos zu den Semestern/Moduldurchführungen? Wo?:
-Schaut die Durchführung auf Adunis nach.
+Ja, auch in der Modulbeschreibung auf Adunis.
 
 / Wie planst du die Erreichung einer Vertiefung?:
-Sie vergleicht ihren Plan mit dem PDF des Musterstudienplanes.
+Ich vergleiche meinen Plan mit dem PDF des Musterstudienplanes.
 
 / Wie planst du die Erfüllung der notwendigen Credits pro Kategorie?:
-Sie hält sich an den Musterstudienplan, achtet sich jedoch auch auf die ProgressBar.
+Ich halte mich mehrheitlich an den Musterstudienplan, achte mich jedoch auch auf die Fortschrittsbalken bei der ECTS-Berechnung pro Kategorie.
 
 / Hast du ein Zielmodul am Horizont?:
-Sie würde gerne "Patterns and Frameworks" belegen, erreicht die benötigten Vorkenntnisse dank dem Musterstudienplan.
+Ich würde gerne "Patterns and Frameworks" belegen. Ich erreiche auch das notwendige Vorwissen dafür.
 
 / Hältst du dich an zuvor empfohlene Module? Wie planst du diese ein?:
 Ja.
 
 / Was ist mühsam bei der Recherche und weshalb?:
-Sie empfindet das Auffinden des PDFs des Musterstudienplanes als mühsam, da der Link im Teams z.T. ungültig ist. Auch ist es mühsam, dass sie die Infos aus dem PDF auslesen muss.
+Das Auffinden des PDFs des Musterstudienplanes ist mühsam, da der Link im Teams z.T. ungültig ist. Auch ist es mühsam, dass ich die Infos aus dem PDF rauslesen muss.
 
 / Was ist einfach bei der Recherche und weshalb?:
-Sie plant ihr Studium nach dem Musterstudienplan, was es für sie sehr vereinfacht.
+Ich plane mein Studium mehrheitlich nach dem Musterstudienplan, was es für mich sehr vereinfacht.
+Ich muss nicht alle empfohlenen Module durchforsten, da ich eventuell eines nicht belegt habe.
+Das vereinfacht vieles.
 
 ==== Semesterplaner anpassen
 
 / Wie findest du Module im Planer?:
-Sucht Module nach Namen.
-Suche nach Kürzel funktioniert bei ihr nicht.
+Ich suche Module nach ihrem ganzen Namen über die Hinzufügefunktion.
+Suche nach Kürzel funktioniert bei mir nicht.
 
 / Auf welchen Geräten nutzt du den Planer/passt du den Planer an?:
 Laptop.
 
 / Wie validierst du die Studierbarkeit deiner Modulauswahl?:
-Ihr ist bewusst, dass Module in Semestern hinzugefügt werden können, in denen sie gar nicht angeboten werden. Sie empfindet dies als ungut.
+Da ich dem Musterstudienplan folge, gehe ich davon aus, dass die Module im jeweiligen Semester auch durchgeführt werden.
+Sonst muss man sich die Infos zu den Modulen nochmals genauer anschauen.
+Man kann im Semesterplaner nicht erkennen, in welchem Semester ein Modul durchgeführt wird, das ist ungut und erhöht den Überprüfungsaufwand.
 
 / Wie erweiterst du die Semesterauswahl?:
-Sie weiss, dass sie auf den Knopf mit dem Plus klicken kann.
+Ganz hinten kann man das mit dem Plus machen.
 
 / Welche sichtbaren Informationen sind relevant und weshalb?:
 Kategorien und ihre Erfüllung, Module und Credits pro Semester, Vertiefungen, Startsemester und das Meme.
 
 / Wer denkst du, steht hinter lost.university?:
-Sie weiss, dass Studenten hinter dem Semesterplaner stehen und kennt diese sogar persönlich.
+Das sind Studenten, die ich auch kenne.
 
 ==== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
-Sie speichert den Plan als ein Bookmark im Browser.
-
-/ Weisst du, dass die Daten im LocalStorage gespeichert werden?:
-Sie wusste es zuvor nicht.
+Als Bookmark im Browser.
 
 / Was ist daran einfach?:
 Hier wurde nichts explizit erwähnt.
 
 / Was ist daran schwierig?:
-Sie empfindet es als mühsam, dass sie das Bookmark nach jeder Änderung aktualisieren muss.
-Sie fände ein Login gut, möchte aber die Funktionalität des Links auch beibehalten.
+Dass man das Bookmark nach jeder Änderung aktualisieren muss.
+Ich fände ein Login gut, möchte aber die jetzige Funktionalität unbedingt beibehalten, also es sollte wenn dann beides gehen.
 
+/ Weisst du, dass die Daten im LocalStorage gespeichert werden?:
+Nein.
+Hier wären vielleicht Release Notes hilfreich, um auf neue Funktionen hinzuweisen?
 
 ==== Nachgespräch
 
@@ -608,28 +615,22 @@ Sie fände ein Login gut, möchte aber die Funktionalität des Links auch beibeh
 Ja.
 
 / Gehst du diese Schritte mehrfach durch? Auch in Bezug auf die verschiedenen Anmeldephasen?:
-Wenn möglich geht sie sie nur einmal durch.
+Wenn möglich nur einmal.
 
 / Inwiefern hilft dir der Planer?:
 Er bietet eine gute Übersicht.
 
 / Welche Aspekte sind hilfreich am Planer?:
 Einfache Erkennung, zu welcher Kategorie ein Modul zählt.
-Sie mag, dass das Tool den Fokus auf die Semesterplanung setzt. So bietet es eine gute Übersicht und macht nicht "zu viel".
+Ich mag, dass das Tool den Fokus auf die Semesterplanung setzt.
+So bietet es eine gute Übersicht und macht nicht "zu viel".
 
 / Welche Aspekte sind schwierig am Planer?:
-Sie empfindet es als leicht nervig, dass man teils seitwärts scrollen muss, um alle Semester zu sehen.
+Dass man bei vielen Semestern seitwärts scrollen muss.
+Das ist aber nicht schlimm, einfach leicht nervig manchmal.
 
 / Gibt es weitere Aspekte, die bei der Modulwahl wichtig sind und wir noch nicht angesprochen haben?:
-Hier wurde nichts mehr erwähnt.
+Nein.
 
 / Was möchtest du uns sonst noch sagen?:
-Hier wurde nichts mehr erwähnt.
-
-
-==== Zusätzliche Bemerkungen
-
-- Damit sie besser sieht, ob bis Ende ihres Studiums alle Kategorien erfüllt sind, verstellt sie für die Kontrolle jeweils das Startsemester. 
-- Beim Entfernen eines vergangenen Semesters fiel auf, dass die nachfolgenden Semester auffüllen, die Module so jedoch im jeweils falschen Semester landen.
-- Ihr fiel auf, dass es möglich ist, mehr als 14 Semester im Plan zu haben.
-- Sie bemerkte, dass sie ein Feature wie Release Notes gut fände, um über neue Features informiert zu werden.
+Nichts.
