@@ -104,4 +104,17 @@
 
 #include "thanks.typ"
 
-// attachments
+// appendix
+// Im Folgenden sind Beispiele aufgeführt, was in den Anhang gehört (nur falls vorhanden und relevant):
+// • Testreports, Usability Tests, Protokolle, weitere Artefakte
+// • Codemetriken, Testabdeckung
+// • Installationsanleitungen, Bedienungsanleitungen, API-Beschreibungen
+// • Screenshots oder Wireframes des GUIs
+// • Beispiele von Eingaben (Dateien, Kommandos) und der von Ihnen generierten Ausgaben
+// • Die erhaltene Aufgabenstellung
+// • Meeting-Protokolle (je nach dem, ggf. Hinweis, wo diese zu finden sind)*
+// • Unterzeichnete Vereinbarungen*, Urheber- und Nutzungsrechte*
+// • Eigenständigkeitserklärung (unterschrieben)*
+// • Persönlicher Bericht (selbstkritische Reflexion der Studierenden zu ihren Erfahrungen bei der Arbeit)*
+// • Projektpläne, Risikoanalysen, Zeiterfassung*
+// * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
