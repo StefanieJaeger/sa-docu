@@ -11,6 +11,7 @@
       (key: "focus", short: "Spezialisierung", desc: "foo, auch Vertiefung genannt"),
       (key: "std", short: "Studienordnungen", desc: "foo"),
       (key: "ects", short: "Credit", plural: "Credits", desc: "foo"),
+      (key: "msp", short: "MSP", long: "Musterstudienplan", desc: ""),
 
       // Tech
       (key: "spa", short: "SPA", long: "Single Page Application", desc:""),
