@@ -1,6 +1,6 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
 
-== Ist-Zustand
+= Ist-Zustand
 
 Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
 
@@ -8,9 +8,9 @@ Wir haben uns entschieden, einen Fork des Originalprojekts zu erstellen, um unse
 
 Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings (siehe @hosting).
 
-=== Architektur
+== Architektur
 
-==== Daten
+=== Daten
 
 Alle Daten zu #gls("module", display: "Modulen"), #gls("category", display: "Kategorien"), #gls("focus", display: "Spezialisierung") und #gls("std", display: "Studienordnungen"), welche die Applikation nutzt, sind öffentlich #link("https://studien.ost.ch") zugänglich.
 
@@ -148,7 +148,7 @@ Um sicherzustellen, dass die Daten von der Applikation effizient abgefragt und v
 ]
 ```
 
-==== Code
+=== Code
 
 Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
 Anstelle von JavaScript wird dabei TypeScript verwendet.
@@ -157,7 +157,7 @@ Als Build-Tool kommt #gls("vite") zum Einsatz.
 
 Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
 
-==== Hosting <hosting>
+=== Hosting <hosting>
 
 // Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
 Die Applikation wird über GitHub Pages gehostet.
@@ -174,7 +174,7 @@ Wird ein Branch in den main-Branch gemergt, wird über einen GitHub Workflow ein
 Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
 Die darin enthaltenen JSON-Dateien werden mithilfe von Tags versioniert.
 
-=== Funktionalität
+== Funktionalität
 
 Folgende Funktionalitäten bestanden bereits vor Beginn dieser Semesterarbeit.
 
@@ -216,9 +216,8 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
 #figure(image("Error_Unbekannt.png"), caption: [Die Fehlermeldung bei einem unbekannten Modul in der URL.]) <error_unbekannt>
 
 
-=== Probleme
-Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits zu Beginn unserer Arbeit bestanden, aber nicht im Rahmen unserer geplanten Anpassungen behoben werden sollen.
-Sollte genügend Zeit nach erreichen unseres eigentlichen Zieles übrig sein, könnten wir diese ebenfalls noch angehen.
+== Probleme
+Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn dieser Semesterarbeit in der Applikation vorhanden waren. Im Verlauf dieser Arbeit werden nur jene Probleme und Bugs behandelt, die im Rahmen des User-Centered-Design-Ansatzes als relevant identifiziert wurden. Die übrigen fallen nicht in den Umfang dieser Semesterarbeit.
 
 - Suche
   - Wird nach Hinzufügen eines Modules nicht zurückgesetzt.
