@@ -5,12 +5,11 @@
 // 2.1 Titelblatt
 #include "title-page.typ"
 
+// TODO: Abstract und Management Summary ohne Nummerierung?
+
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
 #include "abstract.typ"
-
-#outline(indent: 1em)
-#pagebreak()
 
 // 2.3 Management Summary
 // Das Management Summary (auch Lay Summary) richtet sich an ein breites Publikum und an das Management, welches in der Regel über keine Fachkenntnisse im bearbeiteten Thema verfügen. Das Management Summary soll kurz und verständlich beschreiben, worum es bei der Arbeit geht und welche Ergebnisse erzielt wurden. Die Sprache soll knapp, klar und stark untergliedert sein. Der Umfang beträgt in der Regel 2-3 (max. 5) Seiten. Bilder sind hier im Gegensatz zum Abstract erwünscht.
@@ -18,8 +17,11 @@
 // - Ausgangslage
 // - Vorgehen & Technologien
 // - Ergebnisse (ev. kleiner Ausblick)
+#include "management-summary.typ"
 
 // 2.4 Inhaltsverzeichnis
+#outline(indent: 1em)
+#pagebreak()
 
 // 2.5 Glossar und Abkürzungsverzeichnis
 // Kurze Erklärung der fachtechnischen oder projektspezifischen Begriffe, die nicht allgemein bekannt sind, sowie Ausschreibung der Arbeit verwendeten Abkürzungen.
@@ -43,6 +45,10 @@
 
 #pagebreak()
 #include "intro/intro.typ"
+
+// TODO: Passen hier die Methoden rein? Eigentlich das Hauptvorgehen, oder?
+
+#include "ux/methods.typ"
 
 // 2.9 Systemkontext
 // Beschreibt und analysiert den Systemkontext sowie die bestehende Infrastruktur. Beschreibung der fachlichen Domäne.
