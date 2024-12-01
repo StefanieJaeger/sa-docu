@@ -1,4 +1,7 @@
 Neu
+- AccreditedModuleBadge.vue: Stellt ein Übertrittsmodul dar. Enthält Name, ECTS, Kategorie-Farbe, Knopf zum Entfernen und Tooltip mit Validations Infos oder nochmals den erwähnten Daten.
+- AccreditedModules.vue: Für "Übertrittsmodule" unten an den Semestern. Listet die Übertrittsmodule auf.
+- AccreditedModulesModal.vue: Für den Button und das Modal bei "Übertrittsmodule" unten an den Semestern. Erlaubt das Erfassen von angerechneten Modulen und externen Leistungen.
 - Categories.vue: Für "Übersicht der ECTS Punkte". Bestehender Inhalt verschoben und ModuleSearch nach Progressbar, um Module der Kategorie in nächstmöglichem Semester hinzuzufügen.
 - GlobalValidtionInfo.vue: Um Fehler aus der Validierung anzuzeigen. Stellt nur Fehler vom Schweregrad "hard" dar. Nutzt Disclosure für Darstellung. Daten kommen aus dem Store. Kann über Buttons den Store aktualisieren, um Fehler zu beheben.
 - ModuleSearch.vue: Um über Button die Modulsuche zu öffnen. Bestehender Inhalt verschoben. DataList zu Select. Options in Select gestyled, um nächstes Semester oder Auswählbarkeit (falsches Semester oder schon im Plan) zu zeigen. Nutzt Store, um zu prüfen, ob Modul schon im Plan ist.
@@ -18,5 +21,10 @@ Bestehend
 - main.ts: Neue Icons und Registrierung des Stores.
 
 Installiert
-- vuex: [todo]
-- headless: [todo]
+- vuex: [todo Reason]
+- headless: [todo Reason]
+
+Entscheidungen (ausserhalb UX)
+- Bei späteren Packages generell leichte visuelle Anpassungen, da es so einfacher ging und wir dies dazumal noch nicht abschätzen konnten.
+- Name für externe Übertrittsmodule darf maximal 30 Zeichen lang sein. Dies, da dieser komplett in der URL gespeichert werden muss und die durchschnittliche Länge eines Modulnamens auch 30 Zeichen ist.
+- Name für externe Übertrittsmodule darf folgende Zeichen nicht enthalten: ".", "\_", "-", "~". Dies, da diese für die Struktur in der URL bereits verwendet werden und das Auslesen der Daten sonst zu komplex werden würde.
