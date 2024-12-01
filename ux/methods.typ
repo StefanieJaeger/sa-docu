@@ -4,7 +4,7 @@ Im folgenden Kapitel werden die Methoden beschrieben, die für die Erreichung de
 [TODO: Anders formulieren, gefällt mir noch nicht:]
 Dabei wird auf die Methoden eingegangen, die für die Konzeption, die Entwicklung und die Evaluation des Prototypen verwendet wurden.
 
-== Vorgehensweise nach dem User-Centered Design
+== Vorgehensweise nach dem User-Centered Design [TODO: Mehrere Abschnitte, die das gleiche ähnlich erklären, zusammennehmen und besser schreiben inkl. Quellen.]
 Das in dieser Arbeit angewandte Vorgehen orientiert sich am User-Centered Design, wie es in «Collaborative UX Design» beschrieben wird [QUELLE].
 Dieses Modell wurde gewählt, um die Bedürfnisse der Nutzenden in den Vordergrund zu rücken und benutzerfreundliche und menschzentrierte Lösungsansätze für die Applikation lost.university zu entwickeln.
 
@@ -44,8 +44,23 @@ Im Research-Workshop wird ein detaillierter Forschungsplan zur Validierung der i
 ===== Workshop: Synthese
 Im Synthese-Workshop werden durchgeführte Erhebungen ausgewertet und die erstellten Proto-Artefakte in validierte Artefakte überführt.
 
+==== Erkunden [TODO: überarbeiten, Naming (Englisch "Explore" oder Deutsch "Erkunden" nutzen? Einheitlich überall!)]
+In der Erkundungsphase werden Lösungsansätze generiert und weiterentwickelt.
+Auch hier sind mehrere Workshops vorgesehen.
 
-= Durchgeführte Workshops
+===== Workshop: Ideation
+Im Ideation-Workshop werden Ideen generiert, Lösungsansätze entwickelt und Konzepte skizziert.
+
+===== Workshop: Konzept
+Im Konzept-Workshop werden die Konzepte ausgearbeitet und eine Konzeptentscheidung getroffen.
+
+===== Workshop: Prototyping
+Im Prototyping-Workshop wird ein funktionaler Prototyp erstellt.
+
+===== Workshop: Validierung
+Im Validierung-Workshop werden Usability-Tests durchgeführt, die Ergebnisse ausgewertet und Verbesserungsvorschläge erarbeitet.
+
+= Durchgeführte Workshops [TODO: wo gehören die hin? (Anhang) Ergebnisse wo dokumentieren?]
 == Understand
 === Scoping Workshop
 - *Datum:* 21.09.2024
@@ -110,3 +125,11 @@ Erarbeitete Artefakte: Proto-Problem-Statement, Proto-Persona, Proto-Journey, An
 - *Methoden:* Usability-Tests, (methode?), Diskussionsrunden, Mapping
 - *Werkzeuge:* Usability-Test-Protokolle, Miro
 - *Erarbeitete Artefakte:* Usability-Test-Ergebnisse, Verbesserungsvorschläge
+
+=== Methoden zur Datenerhebung
+[TODO: Struktur]
+==== Beobachtungsstudien
+===== Tagebuchstudie
+===== Contextual Inquiry
+===== Usability-Tests
+===== Interviews (keine Beobachtungsstudien,)
