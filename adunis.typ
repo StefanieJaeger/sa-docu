@@ -1,18 +1,18 @@
 = Fragen und Antworten im Zusammenhang mit SLCM und dessen Daten
 
-== Interview mit Studiengangsleiter
+== Interview mit Studiengangsleitung
 
 #grid(
   columns: (1fr, 1fr),
   column-gutter: 5%,
   [
-    Studiengangsleiter Informatik \
+    Befragte Person \
     Interviewerin \
     Datum \
     Ort
   ],
   [
-    Mirko Stocker \
+    Studiengangsleitung Informatik \
     Stefanie Jäger \
     17.10.2024 \
     OST Campus Rapperswil-Jona
@@ -90,16 +90,16 @@ Hier ist wohl ein Tippfehler bei der originalen Erfassung passiert.
   columns: (1fr, 1fr),
   column-gutter: 5%,
   [
-    Teilzeit-SLCM-Entwickler \
+    Befragte Person \
     Datum Erhalt der Antworten \
   ],
   [
-    Joël Schwab \
+    Teilzeit-SLCM-Entwickler \
     06.11.2024 \
   ]
 )
 
-Die Antworten des Entwicklers wurden unverändert übernommen.
+Die Antworten des Entwicklers wurden mit seinem Einverständnis unverändert übernommen.
 
 === Disclaimer des Entwicklers
 Meine Antworten sind eventuell nicht ganz korrekt, es kann sein, dass ich nicht alle Details kenne. Es kann immer vorkommen, dass es Abweichungen gibt. Ebenfalls gibt es auch Dinge, die ich nicht herausfinden konnte. Es ist nicht einfach, von bestimmten Leuten Antworten zu erhalten, auch für mich.
