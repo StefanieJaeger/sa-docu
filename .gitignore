@@ -1,2 +1,5 @@
 # ignore generated html files,
 *.pdf
+
+#ignore ide settings
+.vscode/*
