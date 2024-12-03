@@ -48,7 +48,7 @@
 
 // TODO: Passen hier die Methoden rein? Eigentlich das Hauptvorgehen, oder?
 
-#include "ux/methods.typ"
+#include "ux/ux.typ"
 
 // 2.9 Systemkontext
 // Beschreibt und analysiert den Systemkontext sowie die bestehende Infrastruktur. Beschreibung der fachlichen Domäne.
@@ -103,8 +103,6 @@
 // • Installationsanleitung / Bedienungsanleitung
 // • Test-Logs
 // • Bei Systemen mit User Interfaces: Dokumentation der Usability Tests
-
-#include "ux/ux.typ"
 
 #include "thanks.typ"
 

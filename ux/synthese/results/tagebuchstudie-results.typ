@@ -1,4 +1,16 @@
 = Resultate der Tagebuchstudie
+Die Einträge der Tagebuchstudie wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von Hsieh & Shannon, 2005, [TODO: Quelle richtig angeben und verlinken] einer deduktiven Inhaltsanalyse unterzogen.
+Dabei wurde jeder Eintrag mehrmals gelesen und mit passenden Codes versehen.
+Insgesamt wurden 9 Tagebucheinträge von 6 Testpersonen verfasst.
+Im nächsten Schritt wurden für jeden Tagebucheintrag die folgenden Kategorien bearbeitet und festgehalten:
+- Hauptziel und Nutzung
+- Funktionen & besondere Aktionen
+- Positive Aspekte
+- Probleme & Verbesserungsvorschläge
+- ZUsätzliche Tools & Systeme
+- Speicherung & Teilen
+- Zitate für weitere Nutzung
+
 Die deduktive Inhaltsanalyse der Tagebuchstudie zeigt die vielseitige Nutzung des Semesterplaners als Werkzeug für die akademische Planung.
 Die Hauptziele der Nutzenden reichen von der Organisation von Modulen und ECTS-Kategorien bis hin zur Simulation komplexer Szenarien, beispielsweise zur Integration von Familienplanung in den Studienalltag.
 

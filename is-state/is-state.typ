@@ -3,6 +3,7 @@
 #set heading(numbering: "1.")
 
 = Ist-Zustand
+[TODO: Kürzeren Text für Hauptteil schreiben, Details wie JSON-Struktur in Anhang. Grundlage für Interviews technischer Natur.]
 
 Das ursprüngliche Projekt, auf welchem diese Studienarbeit aufbaut, kann als öffentliches GitHub Repository eingesehen werden unter: #link("https://github.com/lost-university/web").
 
