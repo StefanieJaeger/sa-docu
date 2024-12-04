@@ -102,10 +102,10 @@ Link: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod
 
 1. Öffne den verlinkten Plan.
 2. Du hast deinen Leistungsreport im SLCM - ehemalig Adunis - geöffnet und siehst diesen Eintrag.
-  - [Bild]
+  - #figure(image("BEC.png"), caption: [Angerechnetes Modul]) <bec>
   - Halte diese Leistung im Plan fest. Idealerweise spiegelt dein Plan trotzdem noch deine faktischen Leistungen pro Semester wieder.
 3. Du hast deinen Leistungsreport im SLCM - ehemalig Adunis - geöffnet und siehst diesen Eintrag.
-  - [Bild]
+  - #figure(image("DigiCamp.png"), caption: [Externe Leistung]) <digicamp>
   - Halte diese Leistung im Plan fest. Idealerweise spiegelt dein Plan trotzdem noch deine faktischen Leistungen pro Semester wieder.
 
 *Erwartung*
