@@ -5,6 +5,7 @@ Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später
 Um möglichst viele Lösungsideen zu generieren, werden hierbei die unterschiedlichen Produktchancen betrachtet.
 Es gilt das Prinzip "Quantität vor Qualität".
 Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.
+In diesem Workshop griffen die Autorinnen bereits in den Konzept-Workshop vor, um von den vielen generierten Ideen die vielversprechendsten zu identifizieren.
 
 == Vorgehen
 Der Ideation-Workshop wurde vom 8.11. - zum 15.11. durchgeführt und dauerte 26 Stunden.
