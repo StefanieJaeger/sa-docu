@@ -15,8 +15,9 @@ Dabei entstand der funktionale High-Fidelity-Prototyp, der auf der Webseite "htt
 Die Resultate des Prototyp-Workshops sind der funktionalen High-Fidelity-Prototyp, der auf der Webseite "https://sa.lost.university" [todo: verlinken] erreichbar ist sowie die Validierungs-Map.
 
 === Funktionaler High-Fidelity-Prototyp
-Den Source-Code des funktionalen Prototypen ist auf GitHub unter "" zu finden.
+Den Source-Code des funktionalen Prototypen ist auf GitHub unter "https://github.com/StefanieJaeger/lost-university-web"[todo:verlinken] zu finden.
 Weiter ist der Prototyp auf der Webseite "https://sa.lost.university" [todo: verlinken] erreichbar.
+Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: Streamlinen, verschieben und verlinken].
 
 Nachfolgend sind Bilder des funktionalen High-Fidelity-Prototypen abgebildet:
 
