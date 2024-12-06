@@ -1,6 +1,8 @@
 = Workshop: Validierung
 
 Testperson: Alice
+Dauer: 32min
+Ort: OST
 
 == Einleitung
 

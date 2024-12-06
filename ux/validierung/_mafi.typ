@@ -1,6 +1,8 @@
 = Workshop: Validierung
 
 Testperson: Mafi
+Dauer: 
+Ort: 
 
 == Einleitung
 

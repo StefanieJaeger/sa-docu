@@ -1,6 +1,8 @@
 = Workshop: Validierung
 
 Testperson: Mario
+Dauer: 
+Ort: 
 
 == Einleitung
 

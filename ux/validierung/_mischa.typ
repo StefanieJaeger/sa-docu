@@ -1,6 +1,8 @@
 = Workshop: Validierung
 
 Testperson: Mischa
+Dauer: 
+Ort: 
 
 == Einleitung
 

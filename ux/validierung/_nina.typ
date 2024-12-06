@@ -1,6 +1,8 @@
 = Workshop: Validierung
 
 Testperson: Nina
+Dauer: 
+Ort: 
 
 == Einleitung
 
