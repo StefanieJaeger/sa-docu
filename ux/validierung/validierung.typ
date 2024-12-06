@@ -7,7 +7,8 @@ Auf eine weitere Iteration der Erkundungsphase im negativen Fall wurde aufgrund 
 Der Validierungs-Workshop fand vom 3.12. bis zum 8.12.2024 statt und dauerte x Stunden. [TODO: korrigieren]
 Dabei wurden die Usability-Tests vorbereitet, durchgeführt und ausgewertet.
 Das Ziel der Auswertung war es, vorliegende Unzulänglichkeiten im erarbeiteten Lösungskonzept zu identifizieren sowie Hinweise auf dessen Stärke zu erhalten.
-DAfür wurden die Protokolle der Usability-Tests ausgewertet und Erkenntnisse und Schlussfolgerungen nachfolgend festgehalten.
+Dafür wurden die Protokolle der Usability-Tests ausgewertet und Erkenntnisse und Schlussfolgerungen nachfolgend festgehalten.
+Die ausgearbeiteten Artefakte beinhalten den Leitfaden[TODO: erstellen und verlinken] und die Protokolle für die Usability-Tests[TODO: erstellen und verlinken], welche beide im Anhang zu finden sind, sowie die nachfolgenden Erkenntnisse und Schlussfolgerungen.
 
 == Resultate
 Die Protokolle der Usability-Tests sind im Anhang zu finden.[TODO: erstellen und verlinken].
