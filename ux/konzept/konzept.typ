@@ -1,12 +1,4 @@
 = Workshop: Konzept
-Abweichung:
-Weiter wurde die Reihenfolge der Umsetzung des Prototypen darin festgelegt.
-
-Mit Hilfe von Szenarien werden im Konzept-Workshop die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
-Dies ermöglicht es bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen zu identifizieren und zu beheben.
-Im Workshop entstehen verschiedene Artefakte, wie Keyscreens, Szenarien und eine User-Story-Map.
-Letztere enthält eine erste Version eines Produkt-Backlogs.
-
 Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
 Somit konnten bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen identifiziert und behoben werden.
 
