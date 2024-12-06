@@ -1,11 +1,12 @@
 = Workshop: Ideation
 Abweichung: 6-3-5 wurde zu 2-3-4 da nur zwei Personen anwesend waren.
 [CUXD aus Methodenteil:]
-Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später neben der Persona und Journey Map als Basis für den Konzept Workshop dient.
-Um möglichst viele Lösungsideen zu generieren, werden hierbei die unterschiedlichen Produktchancen betrachtet.
-Es gilt das Prinzip "Quantität vor Qualität".
-Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.
-In diesem Workshop griffen die Autorinnen bereits in den Konzept-Workshop vor, um von den vielen generierten Ideen die vielversprechendsten zu identifizieren.
+Im Ideation-Workshop wurde ein umfassender Ideenkatalog erstellt.
+Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
+Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
+Um möglichst viele Lösungsideen zu generieren, wurden hierbei die unterschiedlichen Produktchancen betrachtet.
+Es galt das Prinzip "Quantität vor Qualität".
+Um dies erreichen zu können, kamen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.
 
 == Vorgehen
 Der Ideation-Workshop wurde vom 8.11. - zum 15.11. durchgeführt und dauerte 26 Stunden.
@@ -170,18 +171,7 @@ Die Anzahl geöffneter Tabs zur Überprüfung bzw. Recherche kann durch die Anze
 Die Überprüfung der Kategoriezuteilung eines Moduls kann ebenfalls durch die Anzeige der Kategoriezuteilung in der Modulsuche vereinfacht werden.
 Die Anzeige der Semesterdurchführung in der modulsuche vereinfacht die Überprüfung dieser ebenfalls. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+== Fazit
+Der Ideation-Workshop brachte eine Vielzahl von Ideen hervor, die im Anschluss systematisch mit den Erkenntnissen aus den Interviews sowie dem Wissen über die technische Struktur und den vorhandenen Code des Tools abgeglichen wurden.
+Dieser Abgleich diente dazu, die Umsetzbarkeit der Ideen in einem funktionalen Prototyp sicherzustellen.
+Das ausgearbeitete MVP-Konzept wird im nächsten Kapitel vorgestellt.
