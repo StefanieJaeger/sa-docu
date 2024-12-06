@@ -1,7 +1,6 @@
 = Vorgehen
-
 In dieser Studienarbeit wurde ein iteratives Vorgehen nach dem User-Centered Design angewandt.
-Dabei lässt der Zeitaufwand der Studienarbeit für eine detaillierte Auseinandersetzung mit den Nutzenden und deren Bedürfnissen nicht für alle identifizierten Probleme genügend Zeit, weshalb im Ideation Workshop ein MVP definiert und validiert wurde.
+Nachfolgend wird dieses erläutert.
 
 == Vorgehensweise nach dem User-Centered Design [TODO: Mehrere Abschnitte, die das gleiche ähnlich erklären, zusammennehmen und besser schreiben inkl. Quellen.]
 Das in dieser Arbeit angewandte Vorgehen implementiert das Vorgehensmodell, wie es in «Collaborative UX Design» beschrieben wird [QUELLE].
@@ -36,6 +35,7 @@ Es werden Leitfäden für die Durchführung der gewählten Forschungsmethoden er
 Im Synthese-Workshop werden durchgeführte Erhebungen ausgewertet und die erstellten Proto-Artefakte in validierte Artefakte überführt.
 Es wird eine Annahmen-Überprüfung durchgeführt und neue Erkenntnisse festgehalten.
 Während der Überarbeitung der Proto-Artefakte wird eine neue Sicht auf die Problemstellung gewonnen, mit welchem sich die Aufgabenstellung validieren lässt.
+Die dabei entstehenden Artefakte definieren indirekt etwaige funktionale wie auch nicht-funktionale Anforderungen, weshalb auf eine explizite Definition dieser verzichtet wird.
 
 ==== Erkunden [TODO: überarbeiten, Naming (Englisch "Explore" oder Deutsch "Erkunden" nutzen? Einheitlich überall!)]
 In der Erkundungsphase werden Lösungsansätze gesammelt und zu einem Lösungskonzept weiterentwickelt.
