@@ -1,8 +1,8 @@
 = Workshop: Validierung
 
 Testperson: Mafi
-Dauer: 
-Ort: 
+Dauer: 36 Minuten
+Ort: Online
 
 == Einleitung
 
