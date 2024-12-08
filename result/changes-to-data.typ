@@ -1,26 +1,33 @@
-Überarbeitungen
-- Einzelne Schritte zur Anreicherung eines Modules in Funktionen ausgelagert.
-- Keine Module müssen mehr ignoriert werden, da wir nun die Deaktivierung und den Nachfolger bestimmen können.
+Nachfolgend sind alle Änderungen an den Daten und dem Crawler, welche im Verlauf der Arbeit vorgenommen wurden, oberflächlich beschrieben.
+
+*Überarbeitungen*
+- Einzelne Schritte zur Anreicherung eines Modules wurde in Funktionen ausgelagert.
+- Module, welche zuvor explizit ignoriert wurden, können nun wieder inkludiert werden. Diese werden nun durch die Deaktivierung und einen Nachfolger markiert.
 - Können Informationen zu einem Modul nicht gefunden werden, wird dies gemeldet und das Modul übersprungen.
 
-Erweiterungen
-- Einfach erweiterbare Möglichkeit zum Überschreiben von Werten eines Modules.
-- Term(?) für ein Modul bestimmen. "FS" für Frühlingssemester, "HS" für Herbstsemester und "both" für Durchführung in beiden Semestern.
-- Vorgänger und Nachfolger für ein Modul bestimmen. Referenz von Modul zum Vorgänger oder Nachfolger ist bidirektional.
-- Empfohlene Module für ein Modul bestimmen. Dabei werden Module, die nicht in der Studienordnung enthalten sind, ignoriert.
-- Empfohlene Module eines Modules referenzieren ebenfalls dieses abhängige Modul, was die Referenz bidirektional macht. Hat ein empfohlenes Modul einen Nachfolger, referenziert dieser ebenfall dieses abhängige Modul.
-- Deaktivierung für ein Modul bestimmen. Unter der Annahme, dass ein Modul mit "Zustand" "deaktiviert" und keiner Durchführung oder mit der letzten Durchführung vor diesem Jahr, als deaktiviert giltet.
-- Zusätzliche Module, die nicht in der Studienordnung vorkommen, in die Liste aufnehmen.
+*Erweiterungen*
+- Informationen zu einem Modul können nun einfach über eine zentrale Stelle im Code überschrieben werden.
+- Die Durchführung eines Modules wird neu bestummen. Dies kann den Wert "FS" für Frühlingssemester, "HS" für Herbstsemester und "both" für eine Durchführung in beiden Semestern annehmen.
+- Ein allfälliges Vorgänger oder Nachfolger Modul eines Modules wird neu gespeichert. Diese Referenzieren auch das Modul selbst, die Beziehung ist also bidirektional.
+- Die empfohlenen Module für ein Modul werden neu gespeichert.
+- Für ein empfohlenes Modul werden auch die abhängigen Module gesammelt. Die Beziehung ist also ebenfalls bidirektional. Hat ein empfohlenes Modul einen Nachfolger, referenziert dieser ebenfall das abhängige Modul.
+- Es wird neu gespeichert, ob ein Modul als Deaktiviert angesehen wird.
+- Zusätzlich können Module, welche nicht in der Studienordnung vorkommen, explizit in die Liste aufgenommen werden.
 
-Werte
-- Modul:
-  - Entfernt: "isThesis", "isRequired", "recommendedSemester" (wurde nicht genutzt)
-  - Hinzugefügt: "isDeactivated", "term", "recommendedModuleIds", "dependentModuleIds", "successorModuleId", "predecessorModuleId" (für Semesterzuteilung und Validierung) 
-  - Umbenennt: "categories_for_coloring" zu "categoriesForColoring" (Format)
+*Änderungen an der Datenstruktur*
+Einzig die Werte eines Modules wurden geändert.
+- "isThesis", "isRequired" und "recommendedSemester" wurden entfernt, da sie nicht benötigt wurden.
+- "isDeactivated", "term", "recommendedModuleIds", "dependentModuleIds", "successorModuleId" und "predecessorModuleId" wurden hinzugefügt, um die Semesterzuteilung bestimmen und die Validierung durchführen zu können.
+- "categories_for_coloring" wurde zu "categoriesForColoring" umbenennt.
 
-Probleme bei Daten
-- Einige Module haben keine Durchführung. Darunter auch aktive, wie SEProj. => Overwrite
-- Einige Module haben unterschiedliche "beginSemester" und "endSemester". Für einige Module meint dies, dass sie in jedem Semester durchgeführt werden (SA/BA, IKTS pro Kampus), für andere, dass die Durchführung einmal gewechselt hat (EXEV, NetAut, CompEng, etc). => Wenn "beginSemester" und "endSemester" valide aber nicht gleich sind, dann "both"
-- Wir nehmen an, dass ein Modul deaktiviert ist, wenn der "zustand" "deaktiviert" ist und das "endJahr" der "durchfuehrungen" vor diesem Jahr liegt oder keine Durchführung angegeben ist.
-- SE1 und SEP1, SE2 und SEP2 sind nicht als Nachfolger und Vorgänger markiert => Overwrite
+*Probleme*
+1. Einige Module enthalten keine Durchführung. Auch aktive, wie etwa "SE Project".
+2. Einige Module haben unterschiedliche "beginSemester" und "endSemester". Für einige Module meint dies, dass sie in jedem Semester durchgeführt werden, so etwa "Studienarbeit Informatik", "Bachelorarbeit Informatik" und diverse IKTS Module. Für andere Module bedeutet dies, dass sich ihre Durchführung in der Vergangenheit geändert hat, zum Beispiel "Experimentieren und Evaluieren, Network Automation, Web Engineering 3". 
+3. Nicht alle Module referenzieren ihre empfohlenen Module, ihren Nachfolger oder ihren Vorgänger korrekt.
+4. Die Daten enthalten kein konsequentes Muster, wie deaktivierte Module gekennzeichnet werden.
 
+*Lösungen zu den Problemen* <data-solutions>
+1. Für Module, bei denen dies bekannt ist, wird das Feld "isDeactivated" explizit überschrieben.
+2. Sollten "beginSemester" und "endSemester" ein valider Wert, "HS" oder "FS", aber nicht derselbe Wert sein, wird für "term" der Wert "both" gewählt.
+3. Für Module, bei denen dies bekannt ist, werden diese Werte explizit überschrieben.
+4. Ist das Feld "zustand" auf "deaktiviert" gesetzt und ist der "endJahr" der "durchfuehrungen" vor diesem Jahr oder es ist gar keine Durchführung angegeben, wird das Modul als Deaktiviert markiert.

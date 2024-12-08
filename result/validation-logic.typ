@@ -1,5 +1,7 @@
 Validierungslogik
 
+// [todo: add Übertrittsmodul!]
+
 Validationsmatrix
 ||Vergangenheit|Gegenwart|Zukunft|
 |---|---|---|---|
