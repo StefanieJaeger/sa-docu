@@ -1,10 +1,13 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
 
+#set heading(numbering: "1.")
+
 = Ist-Zustand
+[TODO: Kürzeren Text für Hauptteil schreiben, Details wie JSON-Struktur in Anhang. Grundlage für Interviews technischer Natur.]
 
-Das ursprüngliche Projekt, auf dem unsere Arbeit aufbaut, kann als öffentliches GitHub Repository hier gefunden werden: #link("https://github.com/lost-university/web").
+Das ursprüngliche Projekt, auf welchem diese Studienarbeit aufbaut, kann als öffentliches GitHub Repository eingesehen werden unter: #link("https://github.com/lost-university/web").
 
-Wir haben uns entschieden, einen Fork des Originalprojekts zu erstellen, um unsere Anpassungen unabhängig davon vornehmen zu können. Dadurch stellen wir sicher, dass spätere Änderungen am Originalprojekt, die nach Beginn unserer Semesterarbeit erfolgen, keinen Einfluss auf unseren Entwicklungsprozess haben. 
+Es wurde entschieden, einen Fork des Originalprojekts zu erstellen, um prototypische Anpassungen unabhängig vornehmen zu können. Dadurch wird sichergestellt, dass spätere Änderungen am Originalprojekt, die nach Beginn der Semesterarbeit erfolgen, keinen Einfluss auf den Entwicklungsprozess haben. 
 
 Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings (siehe @hosting).
 
@@ -18,7 +21,7 @@ Die Daten werden von einem Python-Crawler gesammelt, verarbeitet und anschliesse
 
 Die Detailseiten der Studienordnungen dienen dem Crawler als Einstiegspunkt. Informationen zu den geltenden Kategorien und benötigten #glspl("ects"), den möglichen Spezialisierungen und den zugehörigen Modulen können so entnommen werden.
 
-Die Aktualisierung der Daten erfolgt manuell. Vor Beginn eines jeden Semesters führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden. 
+Die Aktualisierung der Daten erfolgt manuell. Vor Beginn eines jeden Semesters führt ein Maintainer den Crawler lokal aus, überprüft die Änderungen der Daten auf Spezialfälle und erstellt anschliessend ein neues Tag für die Daten. Zuletzt kann die verwendete Version der Daten im Client über den Tag in der URL angepasst werden.
 
 Nachfolgend sind die relevanten Felder für eine Studienordnung gelistet. Die Beispieldaten dazu stammen von #link("https://studien.ost.ch/allStudies/10191_I.json").
 ```json
@@ -155,28 +158,35 @@ Anstelle von JavaScript wird dabei TypeScript verwendet.
 Die Icons stammen von #gls("fontawesome"), während das Styling überwiegend mit #gls("tailwind") umgesetzt wird.
 Als Build-Tool kommt #gls("vite") zum Einsatz.
 
-Vor Beginn unserer Arbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass dieser Tech-Stack im Verlauf unserer Arbeit unverändert bleibt.
+Vor Beginn der Studienarbeit wurde mit dem Stakeholder, welcher gleichzeitig Haupt-Maintainer ist, vereinbart, dass der identifizierte Tech-Stack unverändert bleiben soll.
 
 === Hosting <hosting>
 
-// Glossar or Bib? https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#about-github-pages
-Die Applikation wird über GitHub Pages gehostet.
+Die Applikation wird über #gls("githubPages") gehostet.
 Da sie lediglich eine #gls("spa") ohne Backend ist, entfallen somit jegliche Kosten für das Hosting.
 
-// I want the steps to be styled differently
-Die gewünschte URL, #link("lost.university"), wird auf GitHub unter Settings -> Pages -> Custom Domain hinterlegt.
+Die gewünschte URL, #link("lost.university"), wird auf GitHub unter _Settings > Pages > Custom Domain_ hinterlegt.
 Die Domain wird so konfiguriert, dass sie über einen CNAME-Eintrag auf das Repository der Applikation verweist.
 
-// I want "main" to be styled differently
-// Glossar or Bib? https://docs.github.com/en/actions/about-github-actions
-Wird ein Branch in den main-Branch gemergt, wird über einen GitHub Workflow eine GitHub Action ausgelöst, welche die #gls("spa") baut und deployt.
+Wird ein Branch in den main-Branch gemergt, wird über einen Workflow eine #gls("githubActions") ausgelöst, welche die #gls("spa") baut und deployt.
 
 Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
 Die darin enthaltenen JSON-Dateien werden mithilfe von Tags versioniert.
 
+=== Diagramm
+
+Wir haben uns dagegen entschieden, die Architektur mittels arch42 zu dokumentieren, da wir nicht die Entscheidungen fällen, sondern lediglich die existierende Architektur dokumentieren.
+Für diese Bedürfnisse reicht ein C4 Diagramm vollkommen aus.
+Jedoch limitieren wir uns auf die ersten drei Cs, da dieses Diagram zum Ziel hat, den Aufbau der bestehenden Applikation zu erklären, nicht den Code zu dokumentieren.
+
+#figure(image("structurizr-System.png"), caption: [C4 Diagram, Level Context]) <c4_context>
+#figure(image("structurizr-Containers.png"), caption: [C4 Diagram, Level Containers]) <c4_containers>
+#figure(image("structurizr-Data.png"), caption: [C4 Diagram, Level Component, Data]) <c4_component_data>
+#figure(image("structurizr-Web.png"), caption: [C4 Diagram, Level Component, Web]) <c4_component_web>
+
 == Funktionalität
 
-Folgende Funktionalitäten bestanden bereits vor Beginn dieser Semesterarbeit.
+Die im folgenden as User Stories beschriebenen Funktionalitäten bestanden bereits vor Beginn dieser Studienarbeit.
 
 Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vorausgefüllt angezeigt wird, sodass ich diesen als Grundlage für meinen eigenen Plan verwenden und bei Bedarf anpassen kann. Es stehen die Musterstudienpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
   - @musterplan
@@ -217,14 +227,14 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
 
 
 == Probleme
-Im folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn dieser Semesterarbeit in der Applikation vorhanden waren. Im Verlauf dieser Arbeit werden nur jene Probleme und Bugs behandelt, die im Rahmen des User-Centered-Design-Ansatzes als relevant identifiziert wurden. Die übrigen fallen nicht in den Umfang dieser Semesterarbeit.
+Im Folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn dieser Semesterarbeit in der Applikation vorhanden waren. Im Verlauf dieser Arbeit werden jene Probleme und Bugs behandelt, welche im Rahmen des User-Centered-Design-Ansatzes als relevant identifiziert wurden. Die übrigen entfallen somit aus dem Umfang dieser Arbeit.
 
 - Suche
   - Wird nach Hinzufügen eines Modules nicht zurückgesetzt.
   - Funktionalität eingeschränkt auf gewissen Browsern.
   - Modul nicht über Kürzel auffindbar.
 - Daten
-  - Keine Dokumentation der Daten von Adunis.
+  - Keine Dokumentation der Daten von SLCM.
   - Vermutete Inkonsistenzen.
-  - Jedes Semester manuelle Anpassungen für korrekte Migration notwendig.
+  - Jedes Semester sind manuelle Anpassungen für korrekte Migration notwendig.
 
