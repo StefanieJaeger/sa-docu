@@ -1,18 +1,22 @@
 = Vorgehen
-In dieser Studienarbeit wurde ein iteratives Vorgehen nach dem User-Centered Design angewandt.
-Nachfolgend wird dieses erläutert.
+Nachfolgend wird das für diese Studienarbeit gewählte Vorgehensmodell erläutert.
 
-== Vorgehensweise nach dem User-Centered Design [TODO: Mehrere Abschnitte, die das gleiche ähnlich erklären, zusammennehmen und besser schreiben inkl. Quellen.]
-Das in dieser Arbeit angewandte Vorgehen implementiert das Vorgehensmodell, wie es in «Collaborative UX Design» beschrieben wird [QUELLE].
+== Vorgehensweise nach dem User-Centered Design
+Das in dieser Arbeit angewandte Vorgehen implementiert das CUXD-Vorgehensmodell, wie es von #cite(<cuxd>, form: "prose") in ihrem Buch «Collaborative UX Design» beschrieben wird.
+Im nächsten Abschnitt wird dieses genauer erläutert.
 Dieses Modell wurde gewählt, um die Bedürfnisse der Nutzenden in den Vordergrund zu rücken und benutzerfreundliche und menschzentrierte Lösungsansätze für die Applikation lost.university zu entwickeln.
 
 === Angewandte Methodik im Entwicklungsprozess
-Das Vorgehen gliedert sich in zwei, in dieser Arbeit zum Teil parallel ablaufende Phasen: «Verstehen» und «Erkunden».
+Die in diesem Abschnitt beschriebene Methodik basiert auf dem CUXD-Vorgehensmodell, wie es von #cite(<cuxd>, form: "prose") beschrieben wird.
+Wie in der untenstehenden Grafik ersichtlich @cuxd-prozess, gliedert sich das Vorgehen in zwei, in dieser Arbeit zum Teil parallel ablaufende Phasen: «Verstehen» und «Erkunden».
 Die Erkundungsphase kann dabei mehrfach durchlaufen werden.
+Die Phase "Deliver" steht in dieser Arbeit nicht im Fokus und wird daher nicht weiter erläutert.
+
+#figure(image("cuxd-prozess.png"), caption: "CUXD Vorgehensmodell")
 
 In jeder Phase werden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
 Im Folgenden werden diese näher erklärt.
-Das Buch stellt klar fest, dass das CUXD-Vorgehensmodell keinesfalls ein starrer Prozess ist, sondern je nach zugrunde liegender Aufgabenstellung angepasst werden kann und sollte [QUELLE].
+#cite(<cuxd>, form: "prose") stellen klar fest, dass das CUXD-Vorgehensmodell keinesfalls ein starrer Prozess ist, sondern je nach zugrunde liegender Aufgabenstellung angepasst werden kann und sollte.
 Es können Workshops bei komplexen Aufgabenstellungen beispielsweise weiter unterteilt werden oder einzelne Schritte sogar weggelassen werden.
 Abweichungen vom CUXD-Vorgehensmodell werden in dieser Arbeit explizit genannt und begründet.
 
@@ -37,7 +41,7 @@ Es wird eine Annahmen-Überprüfung durchgeführt und neue Erkenntnisse festgeha
 Während der Überarbeitung der Proto-Artefakte wird eine neue Sicht auf die Problemstellung gewonnen, mit welchem sich die Aufgabenstellung validieren lässt.
 Die dabei entstehenden Artefakte definieren indirekt etwaige funktionale wie auch nicht-funktionale Anforderungen, weshalb auf eine explizite Definition dieser verzichtet wird.
 
-==== Erkunden [TODO: überarbeiten, Naming (Englisch "Explore" oder Deutsch "Erkunden" nutzen? Einheitlich überall!)]
+==== Erkunden
 In der Erkundungsphase werden Lösungsansätze gesammelt und zu einem Lösungskonzept weiterentwickelt.
 Auch hier sind mehrere Workshops vorgesehen.
 
@@ -63,16 +67,16 @@ Die Ergebnisse werden in Kontrast zu den ursprünglich definierten Annahmen gest
 Im negativen Fall erfolgt erneut eine Iteration über die Erkundungs-Phase.
 
 == Qualitative Forschungsmethoden
-Qualitative Forschungsmethoden eignen sich besonders für die vorliegende Studienarbeit, da sie eine tiefgehende Auseinandersetzung mit den Bedürfnissen und Erfahrungen der Nutzenden ermöglichen [QUELLE: S 56 CUXD].
-Im Vordergrund steht die Erfassung subjektiver Eindrücke, Meinungen und Emotionen der Nutzenden, die durch Methoden wie Interviews oder Beobachtungen detailliert untersucht werden können.
-Diese Methoden bieten die Möglichkeit, Herausforderungen in der Nutzung des Tools zu identifizieren und die zugrunde liegenden Ursachen besser zu verstehen. 
+Qualitative Forschungsmethoden eignen sich besonders für die vorliegende Studienarbeit, da sie nach #cite(<cuxd>, form: "prose") eine tiefgehende Auseinandersetzung mit den Bedürfnissen und Erfahrungen der Nutzenden ermöglichen.
+Im Vordergrund steht dabei die Erfassung subjektiver Eindrücke, Meinungen und Emotionen der Nutzenden, die durch Methoden wie Interviews oder Beobachtungen detailliert untersucht werden können.
+Diese Methoden bieten die Möglichkeit, Herausforderungen in der Nutzung des Tools zu identifizieren und die zugrunde liegenden Ursachen besser zu verstehen.
 
-Insbesondere die menschzentrierte Weiterentwicklung erfordert ein tiefes Verständnis der Nutzungskontexte sowie der Interaktionen der Anwender und Anwenderinnen mit dem Tool [Quelle glaub anderes buch].
-Qualitative Methoden erlauben es, flexibel auf unerwartete Erkenntnisse während der Datenerhebung einzugehen und so eine umfassendere Analyse der Nutzungsszenarien zu ermöglichen [Quelle glaub anderes buch].
-Darüber hinaus sind qualitative Ansätze hilfreich, um Verbesserungsvorschläge aus Sicht der Nutzenden zu erheben und konkrete Usability-Probleme zu erfassen, die für die Optimierung des Tools relevant sind [Quelle  glaub anderes buch].
+Insbesondere die menschzentrierte Weiterentwicklung erfordert gemäss #cite(<us-ux>, form: "prose") ein tiefes Verständnis der Nutzungskontexte sowie der Interaktionen der Anwender und Anwenderinnen mit dem Tool.
+Dabei erlauben qualitative Methoden, flexibel auf unerwartete Erkenntnisse während der Datenerhebung einzugehen und so eine umfassendere Analyse der Nutzungsszenarien zu ermöglichen.
+Darüber hinaus sind qualitative Ansätze hilfreich, um Verbesserungsvorschläge aus Sicht der Nutzenden zu erheben und konkrete Usability-Probleme zu erfassen, die für die Optimierung des Tools relevant sind @cuxd.
 
-Da der Fokus auf der Erfassung komplexer Interaktionen und subjektiver Erfahrungen der Nutzenden liegt, bieten qualitative Methoden eine geeignete Basis, um explorative Forschung durchzuführen.
-Diese Herangehensweise ermöglicht es, tiefgründige Einblicke in die Nutzung des Tools zu gewinnen, die für dessen zielgerichtete Weiterentwicklung von zentraler Bedeutung sind.
+Da der Fokus in der vorliegenden Arbeit auf der Erfassung komplexer Interaktionen und subjektiver Erfahrungen der Nutzenden liegt, bieten qualitative Methoden somit eine geeignete Basis, um explorative Forschung durchzuführen.
+Diese Herangehensweise ermöglicht es, während dieser Arbeit tiefgründige Einblicke in die Nutzung des Tools zu gewinnen, die für dessen zielgerichtete Weiterentwicklung von zentraler Bedeutung sind.
 
 == Methoden zur Datenerhebung
 Die folgenden Methoden zur Datenerhebung wurden im Rahmen dieser Studienarbeit angewandt:

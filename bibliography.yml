@@ -28,6 +28,33 @@ leitlinie-ki:
         - OST - Kommission Lehre
         - OST - Kommission Weiterbildung
     date: 2024
+cuxd:
+    type: Book
+    title: "Collaborative UX Design: Lean UX und Design Thinking: Teambasierte Entwicklung menschzentrierter Produkte"
+    author:
+        - Toni Steimle
+        - Dieter Wallach
+    publisher: dpunkt.verlag
+    date: 2023
+    edition: 2
+cuxd-prozess:
+    type: misc
+    title: "Collaborative UX Design Prozess - Grafik"
+    author:
+        - Toni Steimle
+        - Dieter Wallach
+    url:
+        value: https://www.collaborative-uxdesign.com/overview
+        date: 2024-12-09
+us-ux:
+    type: Book
+    title: "Usability und UX: Was alle wissen sollten, die Websites und Apps entwickeln"
+    author:
+        - Jens Jacobsen
+        - Lorena Meyer
+    publisher: Rheinwerk Computing
+    date: 2024
+    edition: 4
 
         
 
