@@ -1,9 +1,8 @@
 = Workshop: Scoping
 == Kontext
-CUXD:
-Im Scoping-Workshop werden Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial abgesteckt.
-Weiter werden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
-Die erarbeiteten Artefakte werden mit dem "Proto-" Präfix versehen, um ihre vorläufige Natur zu kennzeichnen.
+Gemäss dem von #cite(<cuxd>, form: "prose") definierten Designprozess wurden im Scoping-Workshop Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial abgesteckt.
+Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
+Die erarbeiteten Artefakte wurden mit dem "Proto-" Präfix versehen, um ihre vorläufige Natur zu kennzeichnen.
 
 == Vorgehen
 Der Scoping-Workshop fand am 21.09.2024 statt und dauerte 5 Stunden.
@@ -15,15 +14,15 @@ Als Artefakte wurden ein Proto-Problem-Statement, eine Proto-Persona, eine Proto
 Die Artefakte wurden nachträglich auf Miro digitalisiert und finden sich in Anhang XYZ.
  
 == Resultate
-Die folgenden Artefakte wurden im Rahmen des Scoping-Workshops erstellt und dienen als Grundlage für die weiteren Workshops:
+Die folgenden Artefakte wurden im Rahmen des Scoping-Workshops erstellt und dienten als Grundlage für die weiteren Workshops:
 
 === Proto-Problem-Statement
 
 Im unten dargestellten Proto-Problem-Statement werden die Nutzenden, ihre Herausforderungen und die identifizierten Probleme im Kontext der Semesterplanung mit lost.university beschrieben.
 Weiter werden Lösungsansätze und Metriken zur Erfolgsmessung vorgeschlagen, sowie Stakeholder, Randbedingungen und Risiken aufgeführt.
 
-Die Autorinnen selbst nutzen das Tool und bringen ihre eigenen Erfahrungen mit spezifischen Schwierigkeiten ein.
-Darüber hinaus sind sie gut vernetzt und können bereits erste zusätzliche Probleme, die ihnen aus Gesprächen mit anderen Nutzenden zugetragen wurden, in die Analyse einfliessen lassen.
+Die Autorinnen selbst nutzen das Tool und brachten in diesem initialen Schritt ihre eigenen Erfahrungen mit spezifischen Schwierigkeiten ein.
+Darüber hinaus sind sie gut vernetzt und konnten bereits erste zusätzliche Probleme, die ihnen aus Gesprächen mit anderen Nutzenden zugetragen wurden, in die Analyse einfliessen lassen.
 
 #figure(image("Proto-Problem-Statement.jpg"), caption: [Proto-Problem-Statement])
 
@@ -71,7 +70,7 @@ In der unten abgebildeten Grafik wird der Ablauf der Planung von der Suche nach 
 === Annahmen-Map
 
 In der Annahmen-Map werden die im Workshop identifizierten Annahmen in einer Risiko-Ungewissheits-Matrix dargestellt.
-Da die beiden Autorinnen das Tool bereits mehrere Jahre nutzen, gibt es Annahmen, bei denen sie sich sicher sind, dass sie zutreffen, jedoch ungewiss ist, wie risikoreich sie sind.
+Da die beiden Autorinnen das Tool bereits seit mehreren Jahren verwenden, haben sie Annahmen, von deren Richtigkeit sie überzeugt sind, jedoch bleibt unklar, wie hoch das damit verbundene Risiko ist.
 In der untenstehenden Grafik ist die Annahmen-Map dargestellt.
 
 #figure(image("Annahmen-Map.jpg"), caption: [Annahmen-Map])
