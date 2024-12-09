@@ -94,6 +94,8 @@
 // • Qualitätssicherung (Test-Philosophie, Definition-of-Done, CI/CD Pipelines …)
 // • Risikoanalyse und Risikomanagement
 // • Zeiterfassung: Stunden pro Woche, Stunden pro Person, Stunden pro Kategorie (Implementation, Doku, Meeting etc.). Bei Teamarbeiten sollte klar ersichtlich sein, wer für welchen Teil der Arbeit verantwortlich war und wieviel Zeit dafür aufgewendet hat.
+#pagebreak()
+#include("project-plan/project-plan.typ")
 
 // 2.18 Literaturverzeichnis / Bibliography
 // Im Literaturverzeichnis sind alle verwendeten Quellen (Bücher, Publikationen, URL, evtl. auch Hinweise auf Gespräche oder Interviews) aufgeführt. Für Referenzen aus dem Internet soll eine kommentierte und datierte URL angegeben werden (vermeiden Sie URLs direkt im Fliesstext der Arbeit). Verwenden Sie einen allgemein bekannten Zitierstil (z. B. APA oder MLA) und bleiben Sie konsistent.
@@ -102,11 +104,12 @@
 
 // 2.19 Abbildungs- und Tabellenverzeichnis, Code-Listings
 // Nummerierte Verweise auf alle in der Arbeit vorkommenden Abbildungen, Tabellen und Listings (Codebeispiele) unter Angabe der entsprechenden Seitenzahl.
-
+#pagebreak()
 #outline(
-  title: [Abbildungs- und Tabellenverzeichnis],
-  target: figure,
+  title: [Abbildungsverzeichnis],
+  target: figure.where(kind: image),
 )
+#pagebreak()
 // 2.20 Operationelle Hinweise
 // Vor allem bei Softwareprojekten: Gehen Sie auf folgende Punkte ein (bei grösserer Dokumentation verweisen Sie auf den Anhang).
 // • Verwendete SDK, IDE und Werkzeuge
