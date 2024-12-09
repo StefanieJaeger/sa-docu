@@ -1,24 +1,26 @@
 = Workshop: Konzept
 Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
 Somit konnten bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen identifiziert und behoben werden.
+Auch dieser Workshop wurde in enger Anlehnung an das CUXD-Vorgehensmodell von #cite(<cuxd>, form:"prose") durchgeführt.
 
 == Vorgehen
-Da die Autorinnen bereits konzeptuell die vielverpsrechendsten Lösungsansätze identifiziert und diskutiert haben, wurde dieser Workshop von nur einer autorin durchgeführt.
-Dabei hat eine Autorin die folgenden Artefakte erstellt:
+Da die Autorinnen bereits konzeptuell die vielverpsrechendsten Lösungsansätze identifiziert und diskutiert hatten, wurde dieser Workshop hautpsächlich von nur einer Autorin durchgeführt.
+Dabei wurden die folgenden Artefakte erstellt:
 - Keyscreens vor und nach den Änderungen
 - Szenario
 - User Story Map
 - Reihenfolge Umsetzung Prototyp inkl. Arbeiten, Risiken und Wichtigem zu Design/Technik
 - Mockups
-Während der Erstellung dieser Artefakte hat die zweite Autorin bereits mit der Prototypentwicklung Phase 0: Datenaufbereitung & Abklärung begonnen.
+Während der Erstellung dieser Artefakte begann die zweite Autorin bereits mit der Prototypentwicklung "Phase 0: Datenaufbereitung & Abklärung".
 Die erstellten Artefakte wurden anschliessend zusammen diskutiert und optimiert, um die bestmögliche Lösung zu finden.
+Dafür wurden insgesamt 27 Stunden aufgewendet.
 Zur Erstellung der Mockups wurden Screenshots, Manipulationen der Webseite mit Hilfe der DevTools und das Tool Miro verwendet.
 
 == Resultate des Workshops
 Nachfolgend sind die wichtigsten Artefakte des Konzept-Workshops aufgeführt.
 
 === User Story Map
-Die folgende User Story Map bildet den Ablauf des Semesterplanens mit den neu angestrebten Funktionen ab:
+Die folgende User Story Map bildet den Ablauf der Semesterplanung mit den neu angestrebten Funktionen ab:
 
 #figure(image("User-Story-Map.jpg"), caption: ["User Story Map"]);
 
@@ -73,7 +75,7 @@ Nun meldet er seine vier ausgewählten Module im SLCM an.
 === Keyscreens
 Es wurden zwei Keyscreens erstellt: einer, welcher den Plan vor den Änderungen zeigt, und einer, welcher den Plan nach den Änderungen zeigt.
 
-Unten ist der Keyscreen nach den Änderungen abgebildet.
+Unten ist der Keyscreen mit den neuen Funktionsbereichen abgebildet.
 Der Keyscreen vor den Änderungen ist im Anhang zu finden [TODO: erstellen und verlinken].
 Dabei ist die folgende Legende zu beachten:
 - *Blau:* Bereichsdefinition
