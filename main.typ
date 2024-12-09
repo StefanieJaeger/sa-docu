@@ -10,6 +10,7 @@
 
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
+// -- DONE
 #include "abstract.typ"
 
 // 2.3 Management Summary
@@ -18,6 +19,7 @@
 // - Ausgangslage
 // - Vorgehen & Technologien
 // - Ergebnisse (ev. kleiner Ausblick)
+// -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
 
 // 2.4 Inhaltsverzeichnis
@@ -27,8 +29,6 @@
 // 2.5 Glossar und Abkürzungsverzeichnis
 // Kurze Erklärung der fachtechnischen oder projektspezifischen Begriffe, die nicht allgemein bekannt sind, sowie Ausschreibung der Arbeit verwendeten Abkürzungen.
 #include "glossary.typ"
-
-//#bibliography("bibliography.yml", style: "apa")
 
 // 2.6 Ausgangslage / Problemstellung / Stand der Technik
 // Beschreibung der Motivation für die Arbeit sowie der Schwächen der heutigen Praktiken und Lösungen.
@@ -60,20 +60,23 @@
 
 // 2.10 Anforderungen (Requirements)
 // Diese werden aus der Aufgabenstellung sowie Ihrer Analyse abgeleitet. Funktionale Anforderungen (FA) können zum Beispiel als Use Cases oder User Stories beschrieben werden. Alle relevanten nichtfunktionalen Anforderungen (NFA) und Qualitätsattribute sollten abgedeckt sein. Bleiben Sie kurz und sachlich und wenden Sie die erlernten Techniken aus den Software-Engineering Modulen an. Stellen Sie insbesondere sicher, dass Anforderungen (auch NFA) überprüfbar sind und plattform- und technologieneutral sind.
+// -- DONE IN SYNTHESE
 
 // 2.12 Vorarbeiten
 // Bei Fortsetzungsarbeiten (auch von Ihnen selbst) muss klar erkenntlich sein, was in dieser Arbeit erstellt wird und was bereits durch die Vorgängerarbeit vorgegeben war.
 // Stellen Sie sich folgende Fragen:
 // • Was wurde in den Vorarbeiten erreicht, was fehlt noch (jedoch ohne Wertung)?
 // • Worin unterscheidet sich Ihre Arbeit von den vorherigen?
+// -- DONE, SINCE WE ARE DOING A PROTOTYPE AND DOCUMENT THE CHANGES IN THE PROTOTYPE
 
 // 2.13 Design / Architektur
 // Beschreibung Ihrer Konzepte und Lösung sowie der Architektur. Bleiben Sie möglichst plattformneutral und technologieübergreifend. Begründen Sie Entscheide (auf welche anderen Lösungsoptionen haben Sie bewusst verzichtet und wieso?). Zeigen Sie auf, wie Qualitätsattribute und NFAs sichergestellt werden. Das Kapitel kann in Internes Design (Subsysteme, Komponenten, Klassen) und Externes Design (UI) unterteilt werden. Setzen Sie beispielsweise UML-Diagramme mit Erläuterungen ein und verzichten Sie wenn möglich auf Code-Listings (siehe Implementation).
-
+// WE DONT NEED THIS CHAPTER
 
 
 // 2.15 Ergebnisse / Resultate
 // Ergebnisse der Arbeit: Was wurde erreicht, was wurde nicht erreicht? Stellen Sie einen konkreten Bezug zu den Anforderungen (FA, NFA) her und verknüpfen Sie diese mit Ihren Ergebnissen. Bleiben Sie objektiv und nehmen Sie (noch) keine Wertung Ihrer Arbeit vor (siehe «Schlussfolgerungen»).
+// DONE IN UX-VALIDIERUNG
 
 // 2.16 Schlussfolgerungen und Ausblick
 // Ergebnisdiskussion: In der Schlussfolgerung werden die Ergebnisse reflektiert und von Ihnen bewertet. Somit wird die Zielerreichung gemessen (Abgleich mit «Aufgabenstellung» und «Ziel der Arbeit») und ein Vergleich mit anderen/vorherigen Lösungen hergestellt. Die Schlussfolgerungen bilden einen wichtigen Abschnitt eines Berichts und sollen daher sorgfältig ausgearbeitet sein.
@@ -132,3 +135,4 @@
 // • Persönlicher Bericht (selbstkritische Reflexion der Studierenden zu ihren Erfahrungen bei der Arbeit)*
 // • Projektpläne, Risikoanalysen, Zeiterfassung*
 // * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
+#include("appendix/appendix.typ")
