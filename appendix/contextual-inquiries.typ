@@ -1,8 +1,5 @@
 = Contextual Inquiries
 
-#include "/contextual-inquiries/questionnaire.typ"
-#pagebreak()
-
 == Protokolle
 Nachfolgend sind die Protokolle der Contextual Inquiries aufgeführt, die im Rahmen der Arbeit durchgeführt wurden.
 
