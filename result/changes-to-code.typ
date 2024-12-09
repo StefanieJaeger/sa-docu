@@ -1,3 +1,5 @@
+= Änderungen am Code
+
 Nachfolgend sind alle Änderungen am Code, welche im Verlauf der Arbeit vorgenommen wurden, oberflächlich beschrieben.
 
 *Neue Komponenten*

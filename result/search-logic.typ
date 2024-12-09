@@ -1,4 +1,4 @@
-Suchlogik
+= Suchlogik <search-logic>
 
 Es werden stets alle Module in der Suche dargestellt, gruppiert nach ihrer Kategorie.
 Zählt ein Modul zu mehreren Kategorien, ist es auch mehrfach in der Suche enthalten.

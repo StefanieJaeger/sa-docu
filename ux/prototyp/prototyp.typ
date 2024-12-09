@@ -41,8 +41,8 @@ Pro Fehler wird eine Fehlermeldung angezeigt, inklusive vorhandener Aktionen, um
 In der nachfolgenden Grafik ist die Validierung ausgeschaltet:
 #figure(image("Validierung-ausgeschaltet.png"), caption: ["Validierung ausgeschaltet"]);
 
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-// Do wör eifach zu data-solutions verlinke
+// [Todo: link will nicht?]
+Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Übertrittsmodule, ECTS-Übersicht, Vertiefungen*
 Die nachfolgende Grafik zeigt die Änderungen in der unteren Hälfte des Semesterplaners:
@@ -64,8 +64,8 @@ Die Übertrittsmodule werden ebenfalls validiert, wie die folgende Grafik zeigt:
 Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgeführt.
 Diese beinhaltet das Überprüfen, ob das angerechnete Modul in der URL doppelt vorkommt.
 
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-// Do wör eifach zu validation-logic verlinke
+// [Todo: link will nicht?]
+Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Hinzufügen von Übertrittsmodulen*
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
@@ -79,8 +79,8 @@ Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmod
 
 Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterhalb der geplanten Semester angezeigt, wie bereits in der Grafik "Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen" aufgezeigt wurde.
 
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-// Do wör eifach zu code-decisions verlinke
+// [Todo: link will nicht?]
+Mehr Informationen zu den Entscheidungen bezüglich der Übertrittsmodule können hier gefunden werden: @code-decisions
 
 *Erweiterte Suche und Constraints Enforcement*
 Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, ECTS, Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _Constraints Enforcement_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
@@ -93,8 +93,8 @@ Die nachfolgende Grafik zeigt die Suche mit einem Suchbegriff:
 Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgende Grafik zeigt:
 #figure(image("Constraint-Semester.png"), caption: ["Constraints Enforcement beim Hinzufügen eines 15. Semesters inklusive Tooltip"]);
 
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-// Do wör eifach zu search-logic verlinke
+// [Todo: link will nicht?]
+Mehr Informationen zur Suche können hier gefunden werden: @search-logic
 
 === Validierungs-Map
 Die Validierungs-Map wurde erstellt, um die zuvor definierten Funktionalitäten mit den entsprechenden Methoden und Erfolgreich-Wenn-Kriterien zur Validierung zu verknüpfen.
