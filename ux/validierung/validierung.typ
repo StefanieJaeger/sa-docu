@@ -1,32 +1,25 @@
 = Workshop: Validierung
-Abweichung hier:
-Da in der vorliegenden Arbeit die Zeit begrenzt war, wurde nur eine Iteration des genutzten agilen UX-Prozesses durchgeführt.
-Etwaige Erkenntnisse wurden dokumentiert, um ausserhalb der Arbeit eine neue Iteration der Erkunden-Phase vorzunehmen.
-Für bestätigte Teile des Prototypen wurde abschliessend eine Roadmap zur Entwicklung und Integration in das bestehende Tool erstellt.
+Im Validierungs-Workshop wurden die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
+Die Ergebnisse wurden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, inwiefern das erarbeitete Lösungskonzept die gestellten Anforderungen erfüllt.
+Auf eine weitere Iteration der Erkundungsphase im negativen Fall wurde aufgrund der begrenzten Zeit verzichtet.
 
 == Bericht
 
-=== Management Summary
+=== Vorgehen
 
-- Grösste Probleme
-- Bitz Positives
-
-Aus 
-
-
-=== Hintergrundinformationen zum Test
-
-- Warum? (???)
-- Was? (High fidelity Prototype, sa.lost.university)
-
-=== Methodik
+Der Validierungs-Workshop fand vom 3.12. bis zum 8.12.2024 statt.
+Dabei wurden die Usability-Tests vorbereitet, durchgeführt und ausgewertet.
+Das Ziel der Auswertung war es, vorliegende Unzulänglichkeiten im erarbeiteten Lösungskonzept zu identifizieren sowie Hinweise auf dessen Stärke zu erhalten.
 
 Die Testpersonen für die Usability Tests wurden anhand der initial durchgeführten Umfragen gewählt.
 5 Testpersonen hatten sich innerhalb des Zeitraumes für einen Test zur Verfügung gestellt.
 Mit jeder Person wurde ein Termin an 45 Minuten vereinbart, in dem der Usability Test durchgeführt wurde.
+
 Der Testperson wurde jeweils ein Dokument ausgehändigt, welches eine Einleitung und die Aufgaben enthielt.
-Diese Dokument kann [TODO] hier gefunden werden.
+Das ausgehändigte Dokument kann hier [TODO] gefunden werden.
+
 Die Szenarien waren an einer normalen Interaktion mit dem Semesterplaner orientiert und sollten diese möglichst gut abdecken.
+Die Protokolle der Tests können hier [TODO] gefunden werden.
 
 === Testergebnisse
 
@@ -95,7 +88,61 @@ table(
 3 neue Features wurden von fast allen Testpersonen als sehr positive Ergänzung erwähnt.
 Dies wäre die Validierung, die neuen Farben und die Möglichkeit zur Erfassung von Übertrittsmodulen.
 
-// [TODO: Antworten zu Wissenszielen]
+#table(
+  columns: 2,
+  [Wissensziel], [Erreicht?],
+  [Erkennt Testperson, dass sie die Zahlen ablesen kann und nicht zählen muss?], [],
+  [Ist die neue Anzeige der ECTS pro Kategorie selbsterklärend?], [],
+  [Wird die Verlinkung zur Studienordnung genutzt?], [],
+  [Ist der Zusammenhang des Studiumsstarts und der Verlinkung selbsterklärend?], [],
+  [Ist das Hinzufügen von Modulen über eine Kategorie verständlich?], [],
+  [Ist das Suchen nach einem Modul und dessen Kategorie-Zuordnung in der Suche verständlich?], [],
+  [Ist das Hinzufügen von Modulen über eine Vertiefung verständlich?], [],
+  [Ist das Hinzufügen von Module in einem bestimmten Semester verständlich?], [],
+  [Ist die Gruppierung der Module nach Kategorie in der Suche verständlich?], [],
+  [Ist die direkte Suche nach einem Modul in der Suche verständlich?], [],
+  [Ist eine Nicht-Auswählbarkeit in der Suche und deren Grund klar?], [],
+  [Ist die Verknüpfung von angerechneten Modulen zu Übertrittsmodulen klar?], [],
+  [Ist die Erfassung von angerechneten Modulen selbsterklärend?], [],
+  [Ist die Verknüpfung von externen Leistungen zu Übertrittsmodulen klar?], [],
+  [Ist die Erfassung von externen Leistungen selbsterklärend?], [],
+  [Ist die Darstellung von Übertrittsmodulen verständlich?], [],
+  [Wird das Prinzip der Validierung verstanden?], [],
+  [Ist der Fehler bei doppelten Modulen (Plan und Übertritt) verständlich?], [],
+  [Ist der Fehler bei einem Modul im falschen, offenen Semester verständlich?], [],
+  [Ist der Fehler bei einem inaktiven Modul in einem offenen Semester verständlich?], [],
+  [Ist der Hinweis bei einem Modul im falschen, vergangenen Semester verständlich?], [],
+  [Ist der Hinweis bei einem inaktiven Modul in einem vergangenen Semester verständlich?], [],
+  [Ist der Hinweis bei einem Modul, das vor oder ohne seine empfohlenen Modulen geplant ist, verständlich?], [],
+  [Konnten alle Fehler behoben werden, sei dies über den Plan oder die Meldung?], [],
+  [Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?], [],
+)
+
+=== Fazit
+
+Folgende Probleme haben den Schweregrad 2 erreicht und beanspruchen somit nochmals Aufmerksamkeit.
+
+// todo: wend mer die no gnauer erlütere?
+#table(
+  columns: 2,
+  [Id], [Name],
+  [P2], [Übertritt - Erstellen benötigt zu
+viele Klicks],
+  [P4], [Übertritt - Unklar, dass mehrere
+Kategorien wählbar sind],
+  [P8], [Hinzufügen über Kategorie - Nur
+nächstmögliches Semester zur
+Auswahl],
+  [P10], [Hinzufügen über Vertiefung - Nur
+nächstmögliches Semester zur
+Auswahl],
+  [P14], [Validierung - Folgen von
+Aktionen in der globalen
+Fehlermeldung sind zu unklar],
+)
+
+In einer späteren Iteration sollten diese nochmals angegangen werden.
+
 
 
 // - Übertrittmodul
@@ -195,15 +242,6 @@ Dies wäre die Validierung, die neuen Farben und die Möglichkeit zur Erfassung 
 //   - Validierung 1 2 3 4 5
 //   - Farben 1 2 4 5
 //   - Übertrittsmodule 2 4 5
-
-
-
-// - Probleme raus schreiben
-//   - Häufigkeit, Auswirkung, Hartnäckigkeit
-//   - Kritisch, Schwer, Geringfügig
-// - Probleme big to small
-// - Antworten zu Wissenszielen/Fragen
-// - Positives und Negatives
 
 
 

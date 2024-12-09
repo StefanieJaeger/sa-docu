@@ -2,6 +2,10 @@
 Nachfolgend sind die zusammengefassten Ergebnisse der durchgeführten Fragebogenstudie aufgeführt.
 Die Tabelle mit den gesamten Antworten ist im Anhang zu finden. [TODO: Erstellen & Verlinken]
 
+Die Antworten der beiden Fragebögen wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von Hsieh & Shannon, 2005,[TODO: Quelle korrekt angeben und verlinken] einer induktiven Inhaltsanalyse unterzogen.
+Dies, um unvoreingenommen alle möglichen Personen des Nutzendenkreises zu erfassen und nichts zu verpassen.
+Weiter wurden interessante Aspekte und Interpretationen daraus gezogen und im weiteren Studienverlauf berücksichtigt.
+
 == Fragebogen Studierende
 === Teilnehmende
 An der Fragebogenstudie nahmen zehn Informatikstudierende der OST - Ostschweizer Fachhochschule teil.
@@ -32,7 +36,6 @@ Acht erwähnen die jeweiligen Modulbeschreibungen, die im SLCM zu finden sind, a
 Als drittwichtigstes Hilfsmittel wird die Meinung Dritter genannt (vier Nennungen), die bei der Planung miteinbezogen wird. Dabei wird zum einen der persönliche Austausch mit anderen Studierenden genannt, zum anderen die Nutzung der Online-Plattform _Studentenportal_.
 Ebenfalls drei Mal genannt werden eigens erstellte Excel-Dateien, deren Inhalte jedoch nicht weiter spezifiziert wurden.
 Am wenigsten genannt wurden die Musterstudienpläne (zwei Nennungen).
-
 
 === Entscheidungsfaktoren für Modulauswahl
 Da die meisten Teilnehmenden ihre Planung an ihren Interessen ausrichten, ist die Modulauswahl stark von den Interessen der Studierenden abhängig.

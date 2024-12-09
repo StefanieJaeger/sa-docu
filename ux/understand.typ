@@ -6,4 +6,5 @@ Das vertiefte Verständnis des Problemraums wird in der Phase 2: Erkunden genutz
 
 #include("scoping/scoping.typ")
 #include("research/research.typ")
+#include("synthese/results/research-results.typ")
 #include("synthese/synthese.typ")

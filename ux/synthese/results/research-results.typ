@@ -1,5 +1,5 @@
 = Resultate der Erhebungen
-Nachfolgend sind die Ergebnisse der durchgeführten Erhebungen aufgeführt.
+Nachfolgend sind die Auswertungen der durchgeführten Erhebungen aufgeführt.
 
 #include("fragebogen-persona-results.typ")
 #include("contextual_inquiries-results.typ")
