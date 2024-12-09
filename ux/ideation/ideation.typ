@@ -1,15 +1,12 @@
 = Workshop: Ideation
-Abweichung: 6-3-5 wurde zu 2-3-4 da nur zwei Personen anwesend waren.
-[CUXD aus Methodenteil:]
-Im Ideation-Workshop wurde ein umfassender Ideenkatalog erstellt.
+Im Ideation-Workshop wurde, wie von #cite(<cuxd>, form: "prose") in ihrem CUXD-Vorgehensmodell beschrieben, ein umfassender Ideenkatalog erstellt.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
 Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
-Um möglichst viele Lösungsideen zu generieren, wurden hierbei die unterschiedlichen Produktchancen betrachtet.
-Es galt das Prinzip "Quantität vor Qualität".
+Um möglichst viele Lösungsideen zu generieren, wurden hierbei die unterschiedlichen Produktchancen unter Beachtung des Prinzips "Quantität vor Qualität" betrachtet.
 Um dies erreichen zu können, kamen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.
 
 == Vorgehen
-Der Ideation-Workshop wurde vom 8.11. - zum 15.11. durchgeführt und dauerte 26 Stunden.
+Der Ideation-Workshop wurde vom 8.11. - zum 15.11. durchgeführt und dauerte insgesamt 34.5 Stunden.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
 Als Methoden wurden How Might We & 6-3-5, Dot Voting, Design Studio und Diskussionsrunden eingesetzt.
@@ -21,11 +18,13 @@ Die Ideenfindung für das so abgeleitete MVP[TODO: Glossar & Abkürzung] konnte 
 Danach wurden in einem 2-3-4 (Abwandlung des 6-3-5, da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten How-Might-We-Fragen generiert.
 
 == Workshop-Resultate
+Nachfolgend werden die wichtigsten Ergebnisse des Ideation-Workshops vorgestellt.
 
-== How-Might-We-Fragen und wichtigste Opportunity Areas (MVP)
-Die nachfolgende Grafik zeigt die erarbeiteten How-Might-We-Fragen sowie die Regeln für das Dot-Voting.
+=== How-Might-We-Fragen und wichtigste Opportunity Areas (MVP)
+Die nachfolgende Grafik zeigt die erarbeiteten How-Might-We-Fragen sowie die Regeln für das Dot-Voting:
 
 #figure(image("How-Might-We-Dot.jpg"), caption: [How-Might-We-Fragen])
+
 Jede Teilnehmerin konnte 25 Punkte auf die How-Might-We-Fragen verteilen und dabei zwischen 0 - 2 Punkte pro Area vergeben.
 Je ein Favorit durfte mit drei Punkten markiert werden.
 Somit wurde das folgende Ranking ermittelt:
@@ -52,17 +51,16 @@ Aus diesem Ranking heraus wurde definiert, dass die wichtigsten Opportunity Area
 Die anderen Opportunity Areas wurden in dieser Studienarbeit nicht weiter verfolgt.
 Im Anschluss an das Dot-Voting wurden diese in einem 2-3-4 Workshop weiter bearbeitet.
 
-== 2-3-4 und Design Studio
+=== 2-3-4 und Design Studio
 In einem 2-3-4 wurden zu den wichtigsten Opportunity Areas Ideen generiert.
 Die meistversprechenden wurden im Anschluss in einem Design Studio weiter ausgearbeitet.
-Die vollständigen Ergebnisse des 2-3-4 und Design Studios sind im Anhang zu finden [TODO: In Anhang tun und verlinken].
 
 Die Ideen wurden nachfolgend direkt diskutiert, wobei die Autorinnen bereits bewusst in den Konzept-Workshop vorgriffen, um die vielversprechendsten Ideen zu identifizieren.
 
 Die kompletten Artefakte des Ideation-Workshops sind im Anhang zu finden [TODO: In Anhang tun und verlinken].
 Nachfolgend werden die wichtigsten Ideen kurz vorgestellt.
 
-=== Planvalidierung
+==== Planvalidierung
 Die komplexesten Ideen gehören zur Planvalidierung.
 Hierbei wurde eine vielzahl von Ideen generiert, die in einem Design Studio weiter ausgearbeitet wurden.
 Die wichtigsten Ideen und Konzepte beinhalten nebst einer Validierung auch ein _Constraints Enforcement_, mit Hilfe dessen nicht valide Planungen verhindert werden können.
@@ -115,21 +113,21 @@ Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semest
 [QUELLE: https://studien.ost.ch/I/VZ/STD_21/Studienordnung.html, ist in 14 und 23 auch so.]
 #figure(image("DS-Validierung-14Sem.jpg"),caption: [Design Studio: Nicht mehr als 14 Semester planbar]);
 
-=== Nutzerführung
+==== Nutzerführung
 Die Ideen zur Nutzerführung verfolgen einen geradlinigen Ansatz:
 - Nutzende sollen möglichst schnell die Semesternummer einsehen können. Da ohne ein gesetztes Startsemester die Semester bereits mit "1. Semester", "2. Semester" etc. bezeichnet werden, wird diese Idee als Grundlage genommen und die entsprechende Bezeichnung, wie "HS24" dahinter angezeigt.
 - Nutzende sollen bereits referenzierte Module direkt hinzufügen können. Mit einer Ausarbeitung des nächstmöglichen Semesters soll dies möglich sein.
 #figure(image("DS-Semesternummer.jpg"), caption: [Design Studio: Semester Nummer]);
 #figure(image("DS-Ref-Mod-hinzufügen.jpg"), caption: [Design Studio: Referenzierte Module direkt hinzufügen]);
 
-=== Berechnung der ECTS pro Kategorie
+==== Berechnung der ECTS pro Kategorie
 Die Ideen zur Berechnung der ECTS pro Kategorie verfolgten verschiedene Ansätze zur Erweiterung: von der Anzeige aller möglichen Stati, wie beispielsweise "zu erreichende ECTS", "erreichte ECTS", "geplante ECTS" und "zu planende ECTS" bis hin zur minimalen Information mit nur "zu planende ECTS" wurde alles diskutiert.
 
 Im Endeffekt wurde die Änderung der bisherigen Anzeige von "X noch geplant" zu "X noch zu planen" als sinnvoll erachtet, da dies explizit von verschiedenen Personen in den CIs erwähnt wurde.
 In der untenstehenden Grafik ist weiter die Idee ersichtlich, wie die die Nutzerführung durch die Möglichkeit, direkt neben den jeweiligen Kategorien Module hinzufügen zu können, verbessert werden kann.
 #figure(image("DS-zu-planende-ECTS.jpg"), caption: [Design Studio: Zu planende ECTS anzeigen, verknüpft mit "Referenzierte Module hinzufügen"]);
 
-=== Suchfunktion
+==== Suchfunktion
 Mit der Idee des _Constraints Enforcement_ soll das Hinzufügen von Modulen in falsche Semester, die nicht mehr angeboten werden oder bereits in der Planung vorhanden sind, verhindert werden.
 Dabei wurde die Idee entwickelt, dass in der Modulsuche statt nicht einplanbare Module auszublenden, diese zwar anzuzeigen, jedoch nicht hinzufügbar zu machen.
 Damit die Nutzenden adäquat informiert sind, weshalb ein Modul nicht hinzugefügt werden kann, werden entsprechende Zusatzinformationen, wie etwa das Durchführungssemester oder ob ein Modul bereits eingeplant ist, angezeigt.
@@ -141,7 +139,7 @@ Somit wird den Nutzenden die Möglichkeit gegeben, gezielt nach Modulen einer Ka
 #figure(image("DS-Modulsuche-Dropdown.jpg"), caption: [Design Studio: Dropdown-Platzierung der Modulsuche]);
 #figure(image("DS-Modulsuche-Suchkomponente-Logik.jpg"), caption: [Design Studio: Logik und Aufbau der erweiterten Suchkomponente]);
 
-=== ECTS-Verwaltung
+==== ECTS-Verwaltung
 Für die Opportunity Area "ECTS-Verwaltung" wurden verschiedene Ideen entwickelt.
 Die meistversprechenden werden im Folgenden kurz vorgestellt.
 
@@ -155,7 +153,7 @@ Für das in Zusammenarbeit mit der Interkantonalen Hochschule für Heilpädagogi
 #figure(image("DS-Übertrittsmodule-Anzeige-Validierung.jpg"), caption: [Design Studio: Anzeige und Validierung der Übertrittsmodule]);
 #figure(image("DS-Übertrittsmodule-Modal.jpg"), caption: [Design Studio: Modal für das Hinzufügen von Übertrittsmodulen]);
 
-=== Verlinkung zu SLCM-Bereichen
+==== Verlinkung zu SLCM-Bereichen
 Die Ideengenerierung zur Verlinkung zu SLCM-Bereichen gestaltete sich schwierig, da die Anforderungen an die Verlinkung nicht klar definiert waren.
 Studienteilnehmende riefen das SLCM zur Modulbeschreibung auf und um die Kategoriezuteilung eines Moduls zu überprüfen oder ein Liste aller verfügbaren Module einer Kategorie zu erhalten.
 Dabei ist die Verlinkung zur Modulbeschreibung bereits umgesetzt, und die Kategoriezuteilung eines Moduls kann gemäss der ausgearbeiteten Ideen in der Modulsuche sowie in der Übersicht
@@ -165,13 +163,13 @@ Die Platzierung der Verlinkung wurde neben dem Startsemester in der Übersicht d
 
 #figure(image("DS-Link-STD.jpg"), caption: [Design Studio: Link zu SLCM-Bereichen]);
 
-=== Hoher Überprüfungsaufwand, wenn nicht einem MSP strikt gefolgt wird
+==== Hoher Überprüfungsaufwand, wenn nicht einem MSP strikt gefolgt wird
 Durch die zuvor durchgeführten 2-3-4 und Design Studios von "Planvalidierung" wurden die How-Might-We-Fragen indirekt bereits beantwortet.
 Die Anzahl geöffneter Tabs zur Überprüfung bzw. Recherche kann durch die Anzeige von Kategorien in der Suche, der Durchführungen sowie der Modulabhängigkeiten reduziert werden.
 Die Überprüfung der Kategoriezuteilung eines Moduls kann ebenfalls durch die Anzeige der Kategoriezuteilung in der Modulsuche vereinfacht werden.
 Die Anzeige der Semesterdurchführung in der modulsuche vereinfacht die Überprüfung dieser ebenfalls. 
 
 == Fazit
-Der Ideation-Workshop brachte eine Vielzahl von Ideen hervor, die im Anschluss systematisch mit den Erkenntnissen aus den Interviews sowie dem Wissen über die technische Struktur und den vorhandenen Code des Tools abgeglichen wurden.
-Dieser Abgleich diente dazu, die Umsetzbarkeit der Ideen in einem funktionalen Prototyp sicherzustellen.
+Der Ideation-Workshop brachte eine Vielzahl von Ideen hervor, die im Anschluss systematisch mit den technischen Erkenntnissen aus den Interviews zu SLCM und Datenstruktur sowie dem bereits vorhandenen Wissen über die technische Struktur und den vorhandenen Code des Tools abgeglichen wurden.
+Dieser Abgleich diente dazu, die Umsetzbarkeit der Ideen mittels einem funktionalen Prototyp sicherzustellen.
 Das ausgearbeitete MVP-Konzept wird im nächsten Kapitel vorgestellt.
