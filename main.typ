@@ -50,8 +50,6 @@
 
 #include "intro/intro.typ"
 
-// TODO: Passen hier die Methoden rein? Eigentlich das Hauptvorgehen, oder?
-
 
 #include "ux/ux.typ"
 
@@ -72,8 +70,7 @@
 // 2.13 Design / Architektur
 // Beschreibung Ihrer Konzepte und Lösung sowie der Architektur. Bleiben Sie möglichst plattformneutral und technologieübergreifend. Begründen Sie Entscheide (auf welche anderen Lösungsoptionen haben Sie bewusst verzichtet und wieso?). Zeigen Sie auf, wie Qualitätsattribute und NFAs sichergestellt werden. Das Kapitel kann in Internes Design (Subsysteme, Komponenten, Klassen) und Externes Design (UI) unterteilt werden. Setzen Sie beispielsweise UML-Diagramme mit Erläuterungen ein und verzichten Sie wenn möglich auf Code-Listings (siehe Implementation).
 
-// 2.14 Implementation
-// Beschreibt ausgewählte und interessante Implementationsaspekte sowie die verwendeten oder entwickelten Technologien (Algorithmen, Datenstrukturen usw.) und Abhängigkeiten (Frameworks, Libraries usw.). Ebenfalls wird in diesem Kapitel das Testing beschrieben. Verwenden Sie nur Codebespiele, wenn diese sinnvoll sind und etwas zur Erläuterung beitragen. Zudem sollten diese kurz und stark vereinfacht sein (z. B. Includes/Import sowie unwichtige Teile weglassen oder nur als Kommentar erwähnen).
+
 
 // 2.15 Ergebnisse / Resultate
 // Ergebnisse der Arbeit: Was wurde erreicht, was wurde nicht erreicht? Stellen Sie einen konkreten Bezug zu den Anforderungen (FA, NFA) her und verknüpfen Sie diese mit Ihren Ergebnissen. Bleiben Sie objektiv und nehmen Sie (noch) keine Wertung Ihrer Arbeit vor (siehe «Schlussfolgerungen»).
@@ -86,7 +83,8 @@
 // • Was wurde nicht oder noch nicht genügend gut erreicht?
 // • Was bleibt noch zu tun?
 // • Welche neuen Fragestellungen ergeben sich aus Ihrer Arbeit?
-
+#pagebreak()
+#include "schlussfolgerung.typ"
 // 2.17 Projekt- und Zeitmanagement
 // Das Projekt- und Zeitmanagement umfasst folgende Teile:
 // • Vorgehen im Projekt (Prozess, Reviews, Workflows)
