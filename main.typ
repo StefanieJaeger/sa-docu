@@ -1,5 +1,6 @@
 #set heading(numbering: "1.")
 #set page(numbering: "1")
+#set text(lang: "de")
 #show bibliography: set heading(numbering: "1.")
 
 // 2.1 Titelblatt
@@ -26,6 +27,8 @@
 // 2.5 Glossar und Abkürzungsverzeichnis
 // Kurze Erklärung der fachtechnischen oder projektspezifischen Begriffe, die nicht allgemein bekannt sind, sowie Ausschreibung der Arbeit verwendeten Abkürzungen.
 #include "glossary.typ"
+
+#bibliography("bibliography.yml", style: "apa")
 
 // 2.6 Ausgangslage / Problemstellung / Stand der Technik
 // Beschreibung der Motivation für die Arbeit sowie der Schwächen der heutigen Praktiken und Lösungen.
@@ -92,7 +95,8 @@
 
 // 2.18 Literaturverzeichnis / Bibliography
 // Im Literaturverzeichnis sind alle verwendeten Quellen (Bücher, Publikationen, URL, evtl. auch Hinweise auf Gespräche oder Interviews) aufgeführt. Für Referenzen aus dem Internet soll eine kommentierte und datierte URL angegeben werden (vermeiden Sie URLs direkt im Fliesstext der Arbeit). Verwenden Sie einen allgemein bekannten Zitierstil (z. B. APA oder MLA) und bleiben Sie konsistent.
-#bibliography("bibliography.bib", style: "apa")
+
+// #bibliography("bibliography.bib", style: "apa")
 
 // 2.19 Abbildungs- und Tabellenverzeichnis, Code-Listings
 // Nummerierte Verweise auf alle in der Arbeit vorkommenden Abbildungen, Tabellen und Listings (Codebeispiele) unter Angabe der entsprechenden Seitenzahl.
