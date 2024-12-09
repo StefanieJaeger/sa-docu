@@ -1,32 +1,48 @@
 Validierungslogik
 
-// [todo: add Übertrittsmodul!]
+Durch dir URL oder ein Übertrittsmodul kann es geschehen, dass ein invalider Plan entsteht.
 
-Validationsmatrix
-||Vergangenheit|Gegenwart|Zukunft|
-|---|---|---|---|
-|Modul im falschen Semester|soft|hard|hard|
-|Modul schon in Plan|hard|hard|hard|
-|Modul inaktiv mit Nachfolger|soft|hard|hard|
-|Modul inaktiv ohne Nachfolger|-|hard|hard|
-|Modul ohne/vor Empfohlene|-|soft|soft|
+Deshalb können eingeplante Module und Übertrittsmodule validiert werden.
 
-Durch die URL oder Übertrittsmodule kann es geschehen, dass ein invalider Plan entsteht.
-Modul mit Nachfolger soll auch in vergangen Semester markiert werden, jedoch nur als Info mit Tooltip, das Nachfolger erwähnt. Hat man den Vorgänger eines aktiven Modules im Plan, können wir eine korrekte Validation nicht garantieren.
+Ein Modul oder Übertrittsmodul mit einem Fehler wird rot umrandet und erhält ein Icon mit einem "!".
+Ein Modul mit einem Hinweis erhält ein Icon mit einem "i".
 
-Empfohlene Module
-Ein Module (M1) mit einem empfohlenen Modul (M2) kann in einer dieser Fälle fallen:
-1. M2 ist im STD (zB WE1)
-2. M2 ist nicht im STD, mit Nachfolger (M3) im STD (zB DS1 -> DSy)
-3. M2 ist nicht im STD, ohne Nachfolger im STD (zB DigT)
-Wir strukturieren unsere Daten wie folgt:
-M1 soll das Kürzel des effektiv empfohlenen Modules M2 speichern.
-Fall 1: M2 speichert das Kürzel von M1.
-Fall 2: M3 speichert das Kürzel von M1.
-Fall 3: Keine zusätzliche Aktion, da weder M2 noch M3 existiert.
+*Modul*
 
-Bei der Prüfung der Abhängigkeiten im Plan muss dann folgend vorgegangen werden:
-- Sind alle "recommendedModuleIds" im Plan? -> OK
-- Sonst: Enthalten andere, vorherige Module eine "predecessorModuleId", die dann die "recommendedModuleIds" abdecken? -> OK
-- Sonst: NOK
-Es kann folgenden Fall geben: Modul A empfiehlt Modul B. B ist der Nachfolger von C. Der Plan enthält C im 1. Semester und A im 2. Semester. A enthält eine Info, dass B fehlt. Dies ist bewusst so, da die Infos von A vom Dozenten aktualisiert wurden und nun explizit B verlangt.
+#table(
+  columns: 4,
+  [], [In einem vergangenen Semester], [Im gegenwärtigen Semester], [In einem zukünftigen Semester],
+  [Modul ist bereits im Plan], [Fehler], [Fehler], [Fehler],
+  [Modul hat in diesem Semester keine Durchführung], [Hinweis], [Fehler], [Fehler],
+  [Modul ist inaktiv mit Nachfolger], [Hinweis], [Fehler], [Fehler],
+  [Modul ist inaktiv ohne Nachfolger], [-], [Fehler], [Fehler],
+  [Modul ist vor/ohne empfohlene Module im Plan], [-], [Hinweis], [Hinweis]
+)
+
+*Übertrittsmodul*
+
+Ist das Übertrittsmodul ein angerechnetes Modul und dasselbe Modul ist bereits im Plan, erhält das Übertrittsmodul einen Fehler.
+Ist das Übertrittsmodul eine externe Leistung und existieren weitere Übertrittsmodule mit demselben Namen, erhält das Übertrittsmodul einen Fehler.
+
+*Empfohlene Module*
+
+Module haben teils empfohlene Module. Es ist jedoch möglich, dass ein empfohlenes Modul inaktiv ist, aber einen Nachfolger hat.
+
+Ein Modul _M1_ mit einem empfohlenen Modul _M2_ kann also in einer dieser Fälle fallen:
+1. _M2_ ist aktiv.
+2. _M2_ ist nicht aktiv, hat aber einen aktiven Nachfolger _M3_.
+3. _M2_ ist nicht aktiv und hat keinen Nachfolger.
+
+- Fall 1: _M2_ erhält _M1_ als abhängiges Modul.
+- Fall 2: _M3_ erhält _M1_ als abhängiges Modul.
+- Fall 3: Keine zusätzliche Aktion, da weder _M2_ noch _M3_ existiert.
+
+Bei der Prüfung der empfohlenen Module für _M1_ wird darum wie folgt vorgegangen:
+- Ist _M2_ im Plan?
+  - Ist _M2_ vorher oder gleichzeitig wie _M1_ im Plan? Dann zeigen einen Hinweis.
+  - Ist _M2_ nach _M1_ im Plan? Dann zeigen einen Hinweis.
+- Existiert ein _M3_, welches _M2_ als Vorgänger referenziert?
+  - Ist _M3_ vorher oder gleichzeitig wie _M1_ im Plan? Dann zeigen einen Hinweis.
+  - Ist _M3_ nach _M1_ im Plan? Dann zeigen einen Hinweis.
+  - Ist _M3_ gar nicht im Plan? Dann zeigen einen Hinweis.
+- Kein empfohlenes Modul ist im Plan, also zeige einen Hinweis.
