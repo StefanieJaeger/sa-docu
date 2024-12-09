@@ -55,7 +55,17 @@ us-ux:
     publisher: Rheinwerk Computing
     date: 2024
     edition: 4
-
+task-analysis:
+    type: blog
+    title: "Task Analysis: Support Users in Achieving Their Goals"
+    author: Maria Rosala
+    url:
+        value: https://www.nngroup.com/articles/task-analysis/
+        date: 2024-12-09
+    date: 2020-09-20
+    parent:
+        type: blog
+        title: "Nielsen Norman Group"
         
 
 
