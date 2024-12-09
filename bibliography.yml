@@ -66,7 +66,20 @@ task-analysis:
     parent:
         type: blog
         title: "Nielsen Norman Group"
-        
+qualitative-content-analysis:
+    type: article
+    title: "Three Approaches to Qualitative Content Analysis"
+    author:
+        - H. F. Hsieh
+        - S. E. Shannon
+    date: 2005
+    page-range: 1277-1288
+    serial-number:
+        doi: 10.1177/1049732305276687
+    parent:
+        type: periodical
+        title: "Qualitative Health Research"
+        volume: 15(9)        
 
 
 
