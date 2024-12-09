@@ -1,14 +1,27 @@
-= Workshop: Validierung
+= Usability Test 4 <ut_4>
 
-Testperson: Nina
-Dauer: 
-Ort: 
+#grid(
+      columns: (1fr, 1fr),
+      column-gutter: 5%,
+      [
+        Teilnehmer \
+        Datum \
+        Ort \
+        Dauer \
+      ],
+      [
+        Testperson 4 \
+        07.12.2024 \
+        Microsoft Teams Meeting \
+        ???
+      ]
+    )
 
 == Einleitung
 
 Hallo und danke für deine Teilnahme.
 
-Wie bereits im Vorfeld besprochen, werden diesen Usability Test aufnehmen. Dies inkludiert ein Screen- und Voicerecording. Wir anonymisieren die Daten in unserer Dokumentation, die Aufnahmen werden noch bis zur Abgabe gepseichert, anschliessend gelöscht. Bist du damit einverstanden?
+Wie bereits im Vorfeld besprochen, werden diesen Usability Test aufnehmen. Dies inkludiert ein Screen- und Voicerecording. Wir anonymisieren die Daten in unserer Dokumentation, die Aufnahmen werden noch bis zur Abgabe gespeichert, anschliessend gelöscht. Bist du damit einverstanden?
 
 Du studierst Informatik an der OST, kennst den Semesterplaner und nutzt ihn im Alltag, korrekt?
 Dieser Test wird etwa 45min brauchen.
@@ -59,7 +72,7 @@ Ja, das sollte man vielleicht noch überarbeiten und dann prüfen, wie es darges
 == Aufgaben
 
 === 1. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Deine Kollegin fragt dich ein paar Sachen zu deinem Plan.
 Im wievielten Semester bist du laut Plan aktuell?
@@ -71,7 +84,7 @@ Nach wievielen Semestern würdest du nach dem Plan abschliessen?
 Ja, die Testperson liest die Nummerierung von den Titeln der Semester ab.
 
 === 2. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du weisst nicht mehr genau, wie es um die Erreichung deiner Kategorien steht.
 Wie sieht es mit "Mathematik und Physik" aus?
@@ -83,7 +96,7 @@ Ja, die Testperson erkennt, dass sie keine ECTS planen muss, wenn "0 zu planen" 
 Weiter überprüft sie jedoch doppelt, ob dann auch genügend "Mathematik und Physik"-Module geplant sind im Planer.
 
 === 3. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Ein Kollege, der 4 Semester vor dir mit dem Studium begonnen hat, hat gestern von einem "Analysis 3" Modul erzählt.
 Du würdest gerne mehr über ein solches Modul wissen und suchst es im Planer.
@@ -98,7 +111,7 @@ Ja, der Testperson fällt die neue Verlinkung sofort auf und sie nutzt diese auc
 Ja, die Testperson wählt automatisch das Startsemester des Kollegen aus, um dessen Studienordnung zu sehen.
 
 === 4. Aufgabe
-Dein Link zum Tool für dieses Szenario:  http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du weisst, dass du noch offene Kategorien hast und deine angestrebte Vertiefung noch nicht fertig geplant hast.
 Spezifisch möchtest du die Erreichung der Kategorie "Kommunikation und Englisch" und der Vertiefung "Data Science" sicherstellen.
@@ -111,24 +124,23 @@ Sie hat jedoch die Annahme, dass das Modul gemäss Musterstudienplan eingeplant 
 
 - Ist das Suchen nach einem Modul und dessen Kategorie-Zuordnung in der Suche verständlich?
 Ja, die Testperson kann die neue Suchfunktion erfolgreich nutzen.
-Sie bemängelt jedoch die Grösse der Schrift, da die zusätzlichen Infornatioenen wie ECTS und Durchführungssemester sehr klein sind.
+Sie bemängelt jedoch die Grösse der Schrift, da die zusätzlichen Informationen wie ECTS und Durchführungssemester sehr klein sind.
 
 - Ist das Hinzufügen von Modulen über eine Vertiefung verständlich?
 Ja, obwohl die Testperson zuerst auf den Modulnamen zum Hinzufügen klickt, findet sie danach die Funktionalität über den "+"-Button.
 Sie führt aus, dass der Button jedoch die logische Wahl ist, da alle anderen Buttons gleich aussehen.
 Sie versteht auch, dass das Modul im jeweils angegebenen Semester eingeplant wird.
 
-- Zusätzliche Anmerkungen:
 Dass im Tooltip für ein Modul die Abkürzung angezeigt wird, ist suboptimal, da nicht alle Abkürzungen bekannt sind.
 Auch dauert es etwas lange, bis das Tooltip erscheint, das könnte schneller gehen.
 
 === 5. Aufgabe
-Dein Link zum Tool für dieses Szenario:  http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du hast dich mit anderen Studierenden unterhalten und selbst etwas recherchiert.
 Nun möchtest du ein paar Änderungen an deinem Plan vornehmen.
 Du möchtest "UX" im 6. Semester belegen.
-Im 8. Semester wäre noch ein "GWR" Modul gut.
+Im 8. Semester wäre noch ein "Gesellschaft, Wirtschaft und Recht" Modul gut.
 "C++" hört sich interessant an, du möchtest es so bald als möglich belegen.
 
 *Wissensziele*
@@ -148,11 +160,10 @@ Hier Kommentare von vorheriger Frage beachten.
 Ja, die Testperson versteht die zusätzlichen Informationen, die bei einem nicht auswählbaren Modul angezeigt werden.
 Leider ist jedoch im Edge zum Teil das "nur im HS/FS" nicht ganz sichtbar.
 
-- Zusätzliche Anmerkungen:
-Die Testperson merkt an, dass der Stu^ndenplan im Szenario nicht realistisch ist, da zu viele ECTS pro Semester geplant sind.
+Die Testperson merkt an, dass der Stundenplan im Szenario nicht realistisch ist, da zu viele ECTS pro Semester geplant sind.
 
 === 6. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du hast vor dem Studium das "Cambridge Advanced Certificate" gemacht und für dies "English: Where Tech meets BEC" angerechnet erhalten.
 Von einer Kollegin hast du gehört, dass es einen neuen Weg gibt, um dies im Plan einzutragen.
@@ -160,7 +171,6 @@ Von einer Kollegin hast du gehört, dass es einen neuen Weg gibt, um dies im Pla
 *Wissensziele*
 - Ist die Verknüpfung von angerechneten Modulen zu Übertrittsmodulen klar?
 Ja, der Testperson fällt die neue Funktionalität sofort auf und sie nutzt diese auch.
-
 
 - Ist die Erfassung von angerechneten Modulen selbsterklärend?
 Ja, die Testperson kann angerechnete Module erfolgreich erfassen.
@@ -174,7 +184,7 @@ Nach dem erfolgreichen Hinzufügen überprüft die Testperson, ob die ECTS auch 
 Ja, die Testperson findet die Darstellung der Übertrittsmodule verständlich.
 
 === 7. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Im SLCM - ehemalig Adunis - hast du in deinem Leistungsreport neuerdings folgenden Eintrag:
 #figure(image("DigiCamp.png"), caption: [Externe Leistung]) <digicamp>
@@ -183,7 +193,7 @@ Du würdest diese Leistung ebenfalls gerne im Plan eintragen.
 *Wissensziele*
 - Ist die Verknüpfung von externen Leistungen zu Übertrittsmodulen klar?
 Die Testperson sucht zuerst in den "Angerechnete Module" nach "Digicamp" und findet dort aber nichts.
-Deshalb öffent sie den zweiten Tab "Externe Eingabe".
+Deshalb öffnet sie den zweiten Tab "Externe Eingabe".
 Dort kann sie erfolgreich alles abfüllen.
 
 - Ist die Erfassung von externen Leistungen selbsterklärend?
@@ -195,16 +205,7 @@ Sie nimmt an, dass es in beiden Kategorien angerechnet wird und gibt dies dann a
 Ja, die Testperson findet die Darstellung der Übertrittsmodule verständlich.
 
 === 8. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_AutoSpr_DMI_An1I_MGE-FP_OOP2_DigCod_CySec_An2I-AlgDat_Bsys1_AIFo_Dbs1_WE3_EnglScience-ParProg_SecSoW_Bsys2_KommIng2_WE2_CN1_DatEng-PmQm_MsTe_SEP1_ExEv_PF-CPlA_CPl_DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_BuPro-CldSol_BAI21_PhAI/DatEng_AIAp_AI%20Applications.4.Auf~Inf?startSemester=HS23
-// [Doppelt zwsch past n future]
-// [Doppelt zwsch Übertritt und Plan]
-// [Doppelt in Übertritt]
-// [Falsches Sem in past, AutSpr]
-// [Falsches Sem in future, C++]
-// [Inaktiv mit Nachfolger in past, MGE]
-// [Inaktiv mit Nachfolger in future, BuPro]
-// [Inaktiv ohne Nachfolger in future, PF]
-// [Modul vor und ohne Empf in future, WE2 und WE3]
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_AutoSpr_DMI_An1I_MGE-FP_OOP2_DigCod_CySec_An2I-AlgDat_Bsys1_AIFo_Dbs1_WE3_EnglScience-ParProg_SecSoW_Bsys2_KommIng2_WE2_CN1_DatEng-PmQm_MsTe_SEP1_ExEv_PF-CPlA_CPl_DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_BuPro-CldSol_BAI21_PhAI/DatEng_AIAp_AI%20Applications.4.Auf~Inf?startSemester=HS23")
 
 Ein Kollege hat seit längerem seinen Plan wiedermal geöffnet.
 Nun ist dieser aber wegen dem Update des Tools irgendwie komisch.
@@ -250,6 +251,6 @@ Das Tooltip erscheint zu spät, als dass sie länger darauf warten würde.
 - Konnten alle Fehler behoben werden, sei dies über den Plan oder die Meldung?
 Ja, die Testperson konnte alle Fehler beheben.
 
-- Wurde erkannt, dass die Validierung auch abgeschalten werden kann?
+- Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?
 Ja, die Testperson hat den Toggle schon bei vorherigen Szenarien gesehen.
 Sie hat ihn auch als erste Aktion betätigt in diesem Szenario.

@@ -1,14 +1,27 @@
-= Workshop: Validierung
+= Usability Test 5 <ut_5>
 
-Testperson: Mafi
-Dauer: 36 Minuten
-Ort: Online
+#grid(
+      columns: (1fr, 1fr),
+      column-gutter: 5%,
+      [
+        Teilnehmer \
+        Datum \
+        Ort \
+        Dauer \
+      ],
+      [
+        Testperson 5 \
+        08.12.2024 \
+        Microsoft Teams Meeting \
+        36 Minuten
+      ]
+    )
 
 == Einleitung
 
 Hallo und danke für deine Teilnahme.
 
-Wie bereits im Vorfeld besprochen, werden diesen Usability Test aufnehmen. Dies inkludiert ein Screen- und Voicerecording. Wir anonymisieren die Daten in unserer Dokumentation, die Aufnahmen werden noch bis zur Abgabe gepseichert, anschliessend gelöscht. Bist du damit einverstanden?
+Wie bereits im Vorfeld besprochen, werden diesen Usability Test aufnehmen. Dies inkludiert ein Screen- und Voicerecording. Wir anonymisieren die Daten in unserer Dokumentation, die Aufnahmen werden noch bis zur Abgabe gespeichert, anschliessend gelöscht. Bist du damit einverstanden?
 
 Du studierst Informatik an der OST, kennst den Semesterplaner und nutzt ihn im Alltag, korrekt?
 Dieser Test wird etwa 45min brauchen.
@@ -65,19 +78,19 @@ Nachdem Hinzufügen eines Modules über eine Kategorie oder eine Vertiefung hät
 _Was meinst du zu den visuellen Veränderungen?_
 Die Testperson empfindet die Farben als angenehm.
 
-Auf einem grossen Bildschirm wirken die einzelnen Teile jedoch etwas verstücklet.
+Auf einem grossen Bildschirm wirken die einzelnen Teile jedoch etwas zerstückelt.
 
 Die Buttons zum Hinzufügen für Module bei den Kategorien empfindet sie als unzentriert.
 Sie erkennt, dass sie wohl zentriert ausgerichtet sind, aber durch unterschiedlichen visuellen Schwerpunkt nicht danach aussehen.
 
-Sie empfindet den neuen Semesterplaner als visuel ähnlich oder besser.
+Sie empfindet den neuen Semesterplaner als visuell ähnlich oder besser.
 
 Die Darstellung der Übertrittsmodule empfindet sie als nicht so schön, begründet es aber nicht weiter.
 
 == Aufgaben
 
 === 1. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Deine Kollegin fragt dich ein paar Sachen zu deinem Plan.
 Im wievielten Semester bist du laut Plan aktuell?
@@ -92,7 +105,7 @@ Jedoch merkte sie an, dass sie die Reihenfolge der Semesternummer und des Semest
 Sie würde den Semestername zuerst erwarten.
 
 === 2. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du weisst nicht mehr genau, wie es um die Erreichung deiner Kategorien steht.
 Wie sieht es mit "Mathematik und Physik" aus?
@@ -103,7 +116,7 @@ Und "Kommunikation und Englisch"?
 Die Testperson versteht die Anzeige.
 
 === 3. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Ein Kollege, der 4 Semester vor dir mit dem Studium begonnen hat, hat gestern von einem "Analysis 3" Modul erzählt.
 Du würdest gerne mehr über ein solches Modul wissen und suchst es im Planer.
@@ -121,7 +134,7 @@ Die Testperson ändert das Startsemester und öffnet die Studienordnung.
 Sie merkt an, dass sie gerne sehen würde, welche Studienordnung (21 oder 23) verlinkt ist.
 
 === 4. Aufgabe
-Dein Link zum Tool für dieses Szenario:  http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du weisst, dass du noch offene Kategorien hast und deine angestrebte Vertiefung noch nicht fertig geplant hast.
 Spezifisch möchtest du die Erreichung der Kategorie "Kommunikation und Englisch" und der Vertiefung "Data Science" sicherstellen.
@@ -141,12 +154,12 @@ Die Testperson findet die Buttons und kann Module hinzufügen.
 Sie verschiebt die Module dann jedoch in ein späteres Semester.
 
 === 5. Aufgabe
-Dein Link zum Tool für dieses Szenario:  http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du hast dich mit anderen Studierenden unterhalten und selbst etwas recherchiert.
 Nun möchtest du ein paar Änderungen an deinem Plan vornehmen.
 Du möchtest "UX" im 6. Semester belegen.
-Im 8. Semester wäre noch ein "GWR" Modul gut.
+Im 8. Semester wäre noch ein "Gesellschaft, Wirtschaft und Recht" Modul gut.
 "C++" hört sich interessant an, du möchtest es so bald als möglich belegen.
 
 *Wissensziele*
@@ -164,7 +177,7 @@ Der Testperson war die Suche klar.
 Der Testperson ist die Nicht-Auswählbarkeit klar.
 
 === 6. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du hast vor dem Studium das "Cambridge Advanced Certificate" gemacht und für dies "English: Where Tech meets BEC" angerechnet erhalten.
 Von einer Kollegin hast du gehört, dass es einen neuen Weg gibt, um dies im Plan einzutragen.
@@ -173,7 +186,7 @@ Von einer Kollegin hast du gehört, dass es einen neuen Weg gibt, um dies im Pla
 - Ist die Verknüpfung von angerechneten Modulen zu Übertrittsmodulen klar?
 Die Testperson hat das Modal schon in einem vorherigen Schritt entdeckt.
 Ihr war die Verknüpfung anschliessend klar.
-Jedoch merkte sie an, dass das Wort "Übertrittsmodul" ihr kein bekannter Begriff ist und dies nicht direkt mit angerechneten Modulen asoziiert.
+Jedoch merkte sie an, dass das Wort "Übertrittsmodul" ihr kein bekannter Begriff ist und dies nicht direkt mit angerechneten Modulen assoziiert.
 
 - Ist die Erfassung von angerechneten Modulen selbsterklärend?
 Der Testperson schien die Erfassung klar.
@@ -186,7 +199,7 @@ Sie merkte jedoch an, dass die Darstellung der Übertrittsmodule als ein eigenes
 
 
 === 7. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Im SLCM - ehemalig Adunis - hast du in deinem Leistungsreport neuerdings folgenden Eintrag:
 #figure(image("DigiCamp.png"), caption: [Externe Leistung]) <digicamp>
@@ -196,7 +209,7 @@ Du würdest diese Leistung ebenfalls gerne im Plan eintragen.
 - Ist die Verknüpfung von externen Leistungen zu Übertrittsmodulen klar?
 Die Testperson hat das Modal schon in einem vorherigen Schritt entdeckt.
 Ihr war die Verknüpfung anschliessend klar.
-Jedoch merkte sie an, dass das Wort "Übertrittsmodul" ihr kein bekannter Begriff ist und dies nicht direkt mit externen Leistungen asoziiert.
+Jedoch merkte sie an, dass das Wort "Übertrittsmodul" ihr kein bekannter Begriff ist und dies nicht direkt mit externen Leistungen assoziiert.
 
 - Ist die Erfassung von externen Leistungen selbsterklärend?
 Der Testperson schien die Erfassung klar.
@@ -210,16 +223,7 @@ Grundsätzlich schien die Darstellung klar.
 Die Testperson merkte jedoch noch an, dass sie gerne eine Einheit neben der Anzahl ECTS hätte.
 
 === 8. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_AutoSpr_DMI_An1I_MGE-FP_OOP2_DigCod_CySec_An2I-AlgDat_Bsys1_AIFo_Dbs1_WE3_EnglScience-ParProg_SecSoW_Bsys2_KommIng2_WE2_CN1_DatEng-PmQm_MsTe_SEP1_ExEv_PF-CPlA_CPl_DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_BuPro-CldSol_BAI21_PhAI/DatEng_AIAp_AI%20Applications.4.Auf~Inf?startSemester=HS23
-// [Doppelt zwsch past n future]
-// [Doppelt zwsch Übertritt und Plan]
-// [Doppelt in Übertritt]
-// [Falsches Sem in past, AutSpr]
-// [Falsches Sem in future, C++]
-// [Inaktiv mit Nachfolger in past, MGE]
-// [Inaktiv mit Nachfolger in future, BuPro]
-// [Inaktiv ohne Nachfolger in future, PF]
-// [Modul vor und ohne Empf in future, WE2 und WE3]
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_AutoSpr_DMI_An1I_MGE-FP_OOP2_DigCod_CySec_An2I-AlgDat_Bsys1_AIFo_Dbs1_WE3_EnglScience-ParProg_SecSoW_Bsys2_KommIng2_WE2_CN1_DatEng-PmQm_MsTe_SEP1_ExEv_PF-CPlA_CPl_DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_BuPro-CldSol_BAI21_PhAI/DatEng_AIAp_AI%20Applications.4.Auf~Inf?startSemester=HS23")
 
 Ein Kollege hat seit längerem seinen Plan wiedermal geöffnet.
 Nun ist dieser aber wegen dem Update des Tools irgendwie komisch.
@@ -227,7 +231,7 @@ Er bittet dich um Hilfe, das Ganze zu verstehen und seinen Plan auf Vordermann z
 
 *Wissensziele*
 - Wird das Prinzip der Validierung verstanden?
-Die Testperon hat das Prinzip sofort verstanden.
+Die Testperson hat das Prinzip sofort verstanden.
 Sie merkt jedoch an, dass die Fehler klarer wären, wenn das Semester selbst auch entsprechend markiert wäre.
 
 - Ist der Fehler bei doppelten Modulen (Plan und Übertritt) verständlich?
@@ -241,7 +245,6 @@ Die Testperson verschiebt das Modul.
 - Ist der Fehler bei einem inaktiven Modul in einem offenen Semester verständlich?
 Die Testperson entfernt ein inaktives Modul und ersetzt es durch gleichwertige Module aus derselben Kategorie.
 Die Testperson entfernt ein anderes inaktives Modul und ersetzt es mit dem Modul, welches sie als dessen Nachfolger ansieht.
-// Wir erlauben Vorgänger und Nachfolger im gleichen Plan!!!!! MGE und UIP!!!!
 
 - Ist der Hinweis bei einem Modul im falschen, vergangenen Semester verständlich?
 Die Testperson sieht den Hinweis, belässt ihn jedoch, da er in der Vergangenheit liegt.
@@ -256,5 +259,5 @@ Die Testperson sieht die Hinweise und verschiebt die Module entsprechend oder f�
 Die Testperson konnte alle Fehler über den Plan beheben.
 Sie sah die globale Fehlermeldung zwar, kam jedoch nicht auf die Idee, dies auszuklappen.
 
-- Wurde erkannt, dass die Validierung auch abgeschalten werden kann?
+- Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?
 Die Testperson versuchte nicht, die Validierung abzuschalten.

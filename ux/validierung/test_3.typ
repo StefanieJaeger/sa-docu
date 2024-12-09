@@ -1,14 +1,27 @@
-= Workshop: Validierung
+= Usability Test 3 <ut_3>
 
-Testperson: Mischa
-Dauer: 33 Minuten
-Ort: OST
+#grid(
+      columns: (1fr, 1fr),
+      column-gutter: 5%,
+      [
+        Teilnehmer \
+        Datum \
+        Ort \
+        Dauer \
+      ],
+      [
+        Testperson 3 \
+        06.12.2024 \
+        Unterrichtszimmer an der OST, Campus Rapperswil-Jona \
+        33 Minuten
+      ]
+    )
 
 == Einleitung
 
 Hallo und danke für deine Teilnahme.
 
-Wie bereits im Vorfeld besprochen, werden diesen Usability Test aufnehmen. Dies inkludiert ein Screen- und Voicerecording. Wir anonymisieren die Daten in unserer Dokumentation, die Aufnahmen werden noch bis zur Abgabe gepseichert, anschliessend gelöscht. Bist du damit einverstanden?
+Wie bereits im Vorfeld besprochen, werden diesen Usability Test aufnehmen. Dies inkludiert ein Screen- und Voicerecording. Wir anonymisieren die Daten in unserer Dokumentation, die Aufnahmen werden noch bis zur Abgabe gespeichert, anschliessend gelöscht. Bist du damit einverstanden?
 
 Du studierst Informatik an der OST, kennst den Semesterplaner und nutzt ihn im Alltag, korrekt?
 Dieser Test wird etwa 45min brauchen.
@@ -29,11 +42,11 @@ Sie dachte, man müsse für jedes Modul die zugehörige Kategorie wissen, um es 
 Auch sah sie bei der Suche in einer Kategorie die Module anderer Kategorien nicht, da sie zugeklappt waren, und fühlte sich so bestätigt, dass man die Kategorie im Vorfeld wissen müsse.
 Sie wurde von der Testerin darauf hingewiesen, dass man Module auch direkt im Semester hinzufügen kann.
 Dies leuchtete der Testperson ein.
-Sie meinte, es liege wohl daran, dass sie den Semesterplaner schon länger nicht mehr angepasst habe.
+Sie meinte, es liege wohl daran, dass sie den Semesterplaner schon länger nicht mehr genutzt habe.
 
 Die Testperson versuchte mehrfach auf das "!" und "i" Icon zu klicken.
 Sie empfand das Tooltip als zu langsam.
-Sie würde gerne diese Informationen auch bei einem Klick erhalten.
+Sie würde gerne diese Informationen auch bei einem Klick auf das Modul erhalten.
 
 Die Testperson empfand die Validierung als sehr cooles Feature.
 Sie würde jedoch gerne noch wissen, aus welchem Semester ein Duplikat entfernt wird, da dies nicht klar ist.
@@ -46,7 +59,7 @@ Ein Button mit "+" und einer mit "hinzufügen" sei nicht ganz klar, was welcher 
 Sie empfand es auch als mühsam, zuerst "hinzufügen" und dann "speichern" klicken zu müssen.
 
 _Fiel dir etwas besonders positiv oder negativ auf?_
-Bei den Kategorien würde die Person lieber sehen, wieviele man noch geplant oder noch nicht erreicht hat. Sie kann sich die zu plannenden dann selbst ausrechnen.
+Bei den Kategorien würde die Person lieber sehen, wie viele man noch geplant oder noch nicht erreicht hat. Sie kann sich die zu planenden dann selbst ausrechnen.
 
 _Hast du sonst noch Feedback?_
 Die Testperson fand, dass die Tests ihre Interaktionen gut abdecken.
@@ -61,17 +74,17 @@ Bei den Kategorien störte sie die Ausrichtung der Labels. Bei Labels, die sich 
 Auch scheinen ihr die Buttons etwas zu gross im Vergleich zu den Progressbars.
 
 Bei den Übertrittsmodulen würde sie den "+" Button auf gleicher Linie bevorzugen.
-Im Modal würd ein Pointer Cursor die Interaktion mit dem Dropdown für Kategorien vebessern.
+Im Modal würde ein Pointer Cursor die Interaktion mit dem Dropdown für Kategorien verbessern.
 
 == Aufgaben
 
 === 1. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Deine Kollegin fragt dich ein paar Sachen zu deinem Plan.
 Im wievielten Semester bist du laut Plan aktuell?
 Im wievielten Semester hast du das Modul "Application Architecture" eingeplant?
-Nach wievielen Semestern würdest du nach dem Plan abschliessen?
+Nach wie vielen Semestern würdest du nach dem Plan abschliessen?
 
 *Wissensziele*
 - Erkennt Testperson, dass sie die Zahlen ablesen kann und nicht zählen muss?
@@ -79,7 +92,7 @@ Die Testperson war sich von einer früheren Version des Semesterplaners gewöhnt
 Als die Testperson dies realisierte, wurde ihr auch klar, dass sie die Nummer beim Semester ablesen kann.
 
 === 2. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du weisst nicht mehr genau, wie es um die Erreichung deiner Kategorien steht.
 Wie sieht es mit "Mathematik und Physik" aus?
@@ -90,7 +103,7 @@ Und "Kommunikation und Englisch"?
 Der Testperson waren die Zahlen bei den Kategorien klar.
 
 === 3. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Ein Kollege, der 4 Semester vor dir mit dem Studium begonnen hat, hat gestern von einem "Analysis 3" Modul erzählt.
 Du würdest gerne mehr über ein solches Modul wissen und suchst es im Planer.
@@ -105,7 +118,7 @@ Die Testperson hat den Link schnell gefunden und geöffnet.
 Die Testperson verstand sofort, dass sie durch Änderung des Startsemester auch den Link anpassen kann.
 
 === 4. Aufgabe
-Dein Link zum Tool für dieses Szenario:  http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du weisst, dass du noch offene Kategorien hast und deine angestrebte Vertiefung noch nicht fertig geplant hast.
 Spezifisch möchtest du die Erreichung der Kategorie "Kommunikation und Englisch" und der Vertiefung "Data Science" sicherstellen.
@@ -124,12 +137,12 @@ Sie möchte die Module jedoch nicht im nächstmöglichen Semester hinzufügen, s
 Dazu navigiert sie zum Zielsemester, sucht dort nach dem Modul und fügt es hinzu.
 
 === 5. Aufgabe
-Dein Link zum Tool für dieses Szenario:  http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du hast dich mit anderen Studierenden unterhalten und selbst etwas recherchiert.
 Nun möchtest du ein paar Änderungen an deinem Plan vornehmen.
 Du möchtest "UX" im 6. Semester belegen.
-Im 8. Semester wäre noch ein "GWR" Modul gut.
+Im 8. Semester wäre noch ein "Gesellschaft, Wirtschaft und Recht" Modul gut.
 "C++" hört sich interessant an, du möchtest es so bald als möglich belegen.
 
 *Wissensziele*
@@ -150,7 +163,7 @@ Jedoch stiess sie beim generellen Erkunden darauf.
 Dort verstand sie, dass nur anmeldbare und durchgeführte Module auswählbar sind.
 
 === 6. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Du hast vor dem Studium das "Cambridge Advanced Certificate" gemacht und für dies "English: Where Tech meets BEC" angerechnet erhalten.
 Von einer Kollegin hast du gehört, dass es einen neuen Weg gibt, um dies im Plan einzutragen.
@@ -168,7 +181,7 @@ Der Testperson war die Darstellung klar.
 Sie kontrollierte die Berechnung anhand der Kategorien.
 
 === 7. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Im SLCM - ehemalig Adunis - hast du in deinem Leistungsreport neuerdings folgenden Eintrag:
 #figure(image("DigiCamp.png"), caption: [Externe Leistung]) <digicamp>
@@ -191,16 +204,7 @@ Der Testperson war die Darstellung klar.
 Sie kontrollierte die Berechnung anhand der Kategorien.
 
 === 8. Aufgabe
-Dein Link zum Tool für dieses Szenario: http://localhost:5173/#/plan/RheKoI_OOP1_AutPy_CN1_AutoSpr_DMI_An1I_MGE-FP_OOP2_DigCod_CySec_An2I-AlgDat_Bsys1_AIFo_Dbs1_WE3_EnglScience-ParProg_SecSoW_Bsys2_KommIng2_WE2_CN1_DatEng-PmQm_MsTe_SEP1_ExEv_PF-CPlA_CPl_DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_BuPro-CldSol_BAI21_PhAI/DatEng_AIAp_AI%20Applications.4.Auf~Inf?startSemester=HS23
-// [Doppelt zwsch past n future]
-// [Doppelt zwsch Übertritt und Plan]
-// [Doppelt in Übertritt]
-// [Falsches Sem in past, AutSpr]
-// [Falsches Sem in future, C++]
-// [Inaktiv mit Nachfolger in past, MGE]
-// [Inaktiv mit Nachfolger in future, BuPro]
-// [Inaktiv ohne Nachfolger in future, PF]
-// [Modul vor und ohne Empf in future, WE2 und WE3]
+Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_AutoSpr_DMI_An1I_MGE-FP_OOP2_DigCod_CySec_An2I-AlgDat_Bsys1_AIFo_Dbs1_WE3_EnglScience-ParProg_SecSoW_Bsys2_KommIng2_WE2_CN1_DatEng-PmQm_MsTe_SEP1_ExEv_PF-CPlA_CPl_DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_BuPro-CldSol_BAI21_PhAI/DatEng_AIAp_AI%20Applications.4.Auf~Inf?startSemester=HS23")
 
 Ein Kollege hat seit längerem seinen Plan wiedermal geöffnet.
 Nun ist dieser aber wegen dem Update des Tools irgendwie komisch.
@@ -235,5 +239,5 @@ Sie konnte alle Fehler im Plan über die globale Fehlermeldung beheben, die Übe
 Sie versuchte auf das "!" Icon zu klicken, um mehr Infos zu erhalten.
 Da der Tooltip etwas lange hatte, bis er erschien, sah sie die Infos nicht.
 
-- Wurde erkannt, dass die Validierung auch abgeschalten werden kann?
+- Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?
 Sie hat den Toggle beim Erkunden betätigt, ging bei diesem Schritt jedoch nicht mehr darauf ein.
