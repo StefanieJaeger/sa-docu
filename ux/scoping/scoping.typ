@@ -1,5 +1,4 @@
 = Workshop: Scoping
-== Kontext
 Gemäss dem von #cite(<cuxd>, form: "prose") definierten Designprozess wurden im Scoping-Workshop Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial abgesteckt.
 Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
 Die erarbeiteten Artefakte wurden mit dem "Proto-" Präfix versehen, um ihre vorläufige Natur zu kennzeichnen.
