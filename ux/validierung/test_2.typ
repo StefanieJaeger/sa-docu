@@ -181,7 +181,7 @@ Der Testperson war die Verknüpfung klar.
 
 - Ist die Erfassung von angerechneten Modulen selbsterklärend?
 Die Testperson war der Meinung, dass angerechnete Module nicht "standart" Module sind.
-Deswegen versuchte sie, dies über "Externe Eingabe" zu erfassen.
+Deswegen erfasste sie dies über "Externe Eingabe".
 Anschliessend entfernt sie das Modul aus dem Plan.
 
 Im Nachgespräch erwähnte die Person, dass die selbst noch nie ein Modul angerechnet bekommen hat.
@@ -203,7 +203,7 @@ Du würdest diese Leistung ebenfalls gerne im Plan eintragen.
 Der Testperson war die Verknüpfung klar.
 
 - Ist die Erfassung von externen Leistungen selbsterklärend?
-Die Testperson such zuerst "Digi" als angerechnetes Modul.
+Die Testperson sucht zuerst "Digi" als angerechnetes Modul.
 Als sie nichts findet, navigiert sie zu "Externe Eingabe".
 Sie erfasst Name und ECTS korrekt.
 Bei den Kategorien erfasst sie jedoch nur "Aufbau".

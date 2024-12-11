@@ -155,7 +155,7 @@ Der Testperson war klar, dass Module nach Kategorien gruppiert sind.
 
 - Ist die direkte Suche nach einem Modul in der Suche verständlich?
 Die Testperson konnte per Name oder Kürzel nach einem Modul suchen.
-Sie dachte, dass das nächstmögliche Semester in der Suche bei der Kategorie bedeutet, es sei bereits dort eingeplant. Nach kurzer Kontrolle verstand sie aber, dass dies das nächstmögliche ist.
+Sie dachte, dass das nächstmögliche Semester in der Suche bei der Kategorie bedeutet, es sei bereits dort eingeplant. Nach kurzer Kontrolle verstand sie aber, dass dies das nächstmögliche Semester ist.
 
 - Ist eine Nicht-Auswählbarkeit in der Suche und deren Grund klar?
 Die Person stiess in diesem Test nicht auf die Nicht-Auswählbarkeit, da sie das Modul über die Kategorie ins nächstmögliche Semester hinzufügte.
@@ -196,6 +196,7 @@ Die Testperson hat zuerst bei den angerechneten Module nach "Wintercampus" und "
 Nachdem kein Modul auftauchte, hat sie zu "Externe Eingaben" gewechselt.
 Hier gibt die den Namen und die ECTS korrekt ein.
 Jedoch wählt sie nur eine Kategorie.
+
 Im Nachgespräch erklärte sie, dass ihr aus dem Screenshot nicht klar war, dass hier 2 Kategorien zugehören. Sie fasste "Aufbau Informatik" als eine Kategorie auf.
 Für sie war klar, dass man mehrere hätte wählen können.
 

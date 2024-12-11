@@ -114,7 +114,7 @@ Die Testperson hat im Semesterplaner über die Suche in einem Semester versucht,
 - Ist der Zusammenhang des Studiumsstarts und der Verlinkung selbsterklärend?
 Die Testperson interagierte gar nicht erst mit dem Link.
 
-Im Gespräch nach dem Test wurde klar, dass der Begriff "Studienordnung" für sie gar keine richtige Bedeutung hatte.
+Im Nachgespräch wurde klar, dass der Begriff "Studienordnung" für sie gar keine richtige Bedeutung hatte.
 Nach Hinweis auf den Link war es ihr klar, jedoch hat sie selbst diese Seite noch nie aufgesucht.
 
 === 4. Aufgabe
