@@ -7,12 +7,12 @@
 
 == Ausgangslage
 Die Plattform lost.university wird von Informatikstudierenden der OST - Ostschweizer Fachhochschule genutzt, um individuelle Studienpläne zu erstellen und zu verwalten.
-Sie wurde von Studierenden für Studierende auf freiwilliger Basis entwickelt und ist seit 20xx [TODO: anpassen] in Betrieb. 
+Sie wurde von Studierenden für Studierende auf freiwilliger Basis entwickelt und ist seit 2022 in Betrieb. 
 Die Plattform unterstützt die Planung von Modulen und bietet Musterstudienpläne als Vorlage an. Trotz der positiven Resonanz der Studierenden weist die Plattform Schwächen in der Benutzerfreundlichkeit und Funktionalität auf.
 Ziel dieser Studienarbeit war es, die Plattform mithilfe eines menschzentrierten Ansatzes grundlegend zu verbessern und einen validierten Prototypen zu entwickeln, der die Anforderungen der Studierenden erfüllt.
 
 == Vorgehen & Technologien
-Für die Entwicklung wurde das CUXD-Vorgehensmodell nach #cite(<cuxd>, form: "prose") angewendet.
+Für die Entwicklung wurde ein Vorgehensmodell gewählt, welches stark an den User-Centered-Design-Prozess anlehnt.
 Dieses gewährleistet einen systematischen und menschzentrierten Ansatz.
 Der Arbeitsprozess umfasste zwei Phasen: die Verstehen- und die Erkundungs-Phase, die nacheinander durchgeführt wurden.
 In jeder Phase wurden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
@@ -61,6 +61,6 @@ Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusamme
 
 [TODO: Wo welche Bilder einfügen?]
 
-Die Ergebnisse der Studienarbeit zeigen, dass die Plattform lost.university durch die Anwendung des CUXD-Vorgehensmodells grundlegend verbessert werden konnte.
+Die Ergebnisse der Studienarbeit zeigen, dass die Plattform lost.university durch die Anwendung des gewählten Vorgehensmodells grundlegend verbessert werden konnte.
 Ausblickend auf die Weiterentwicklung der Plattform empfehlen wir, die validierten Funktionalitäten in die bestehende Plattform zu integrieren und die Plattform weiteren Usability-Tests zu unterziehen, um die Benutzerfreundlichkeit weiter zu verbessern.
 #pagebreak()
