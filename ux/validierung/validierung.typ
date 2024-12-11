@@ -130,25 +130,31 @@ Ein Wissensziel gilt als nicht-erfüllt, sollten 2 oder mehr Probleme stärkere 
 Folgende Probleme haben den Schweregrad 2 erreicht und sollten somit bei der Umsetzung der Lösungsvorschläge priorisiert werden.
 
 - P2 - "Übertritt - Unnötige Klicks zur Erfassung"
-  - Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks nötig, spezifisch Button-Klicks. Ein Erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in zusätzlichen, als unnötig wahrgenommenen, Schritten. 
-  - // todo: Lösung (Text? Mockup?)
+  - Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks nötig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in zusätzlichen, als unnötig wahrgenommenen, Schritten. 
+  - // todo: Radio anstatt Tabs, mehr Infos bei Eingaben, Um geeignetes Wording zu finden, empfehlen wir einen Workshop mit Studierenden.
 - P4 - "Übertritt - Unklar, dass mehrere Kategorien wählbar sind"
   - Beim Erfassen einer externen Leistung können mehrere Kategorien gewählten werden, dies wurde jedoch selten getan. Die Unklarheit kam teils davon, dass die Möglichkeit einer doppelten Kategoriezuteilung eines Modules nicht bekannt war. Teils aber auch davon, dass das Multiselect nicht als ein solches wahrgenommen wurde.
-  - // todo: Lösung (Mehr Infotext? Multiselect klarer?)
+  - // todo: Lösung
 - P8 - "Hinzufügen über Kategorie - Option für spätere Semester fehlt"
   - Beim Hinzufügen eines Modules über eine Kategorie wird dies automatisch in das nächstmögliche Semester eingeplant. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
-  - // todo: Lösung (Buttons in Dropdown? Dropdown in Dropdown? Modal für Hinzufügen?)
+  - // todo: Lösung
 - P10 - "Hinzufügen über Vertiefung - Option für spätere Semester fehlt"
   - Beim Hinzufügen eines Modules über eine Vertiefung kann lediglich das nächstmögliche Semester gewählt werden. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
-  - // todo: Lösung (Mehr Buttons? Dropdown? Modal für Hinzufügen?)
+  - // todo: Lösung
 - P13 - "Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind zu unklar"
   - Beim Lösen von Fehlern im Plan über die globale Fehlermeldung war Usern oft nicht ganz klar, welche Änderungen eine Aktion nun genau mit sich zieht.
-  - // todo: Lösung (Mehr Text in Button? Toast?)
+  - // todo: Lösung (Mehr Text in Button. Gleicher Button, mehr Text vorne dran. Modal mit Auswahl. Liste an Optionen mit Icon-Button. Gemeinsam mit anderen Problemen in weiterer Iteration entscheiden.)
 
 Erfreulich zu sehen ist, dass diese 5 Probleme auch die nicht erfüllten Wissensziele abdecken.
 Mit deren Behebung wären diese somit höchstwahrscheinlich erfüllt.
 
 Nachfolgend sind die restlichen 22 Probleme nach der Art des Problems gruppiert.
+
+*Etwas ist unklar*
+
+Davon betroffene Probleme: P4, P5, P6, P11, P13, P14, P15, P17, P25.
+
+Ein passender Lösungsansatz wäre hier das Ergänzen von kurzen Infotexten, kleinen Hinweisen, farblichen Markierungen und besseren Tooltips.
 
 *Etwas fehlt*
 
@@ -156,11 +162,11 @@ Davon betroffene Probleme: P1, P3, P8, P10, P12, P19, P22, P26.
 
 Ein passender Lösungsansatz wäre hier das Ergänzen des fehlenden Elements.
 
-*Etwas ist unklar*
+*Etwas ist unnötig*
 
-Davon betroffene Probleme: P4, P5, P6, P11 (Tooltip), P13, P14, P15, P17, P25.
+Davon betroffene Probleme: P2, P9, P16, P18.
 
-Ein passender Lösungsansatz wäre hier das Ergänzen von kurzen Infotexten, kleinen Hinweisen, farblichen Markierungen und besseren Tooltips.
+Ein passender Lösungsansatz wäre hier das entfernen der unnötigen Elemente. Gegebenenfalls kann dies durch eine Einstellung im Semesterplaner gesteuert werden, um eine höhere Anpassbarkeit anzubieten.
 
 *Etwas ist unschön*
 
@@ -168,27 +174,18 @@ Davon betroffene Probleme: P7, P20, P23.
 
 Ein passender Lösungsansatz wäre hier das Verschönern der betroffenen Bereiche. Sei dies durch bessere Kompatibilität mit diversen Browsern oder einer ausgewogenerem Ausrichtung.
 
-*Etwas ist unnötig*
-
-Davon betroffene Probleme: P2, P9, P16, P18.
-
-Ein passender Lösungsansatz wäre hier das entfernen der unnötigen Elemente. Gegebenenfalls kann dies durch eine Einstellung im Semesterplaner gesteuert werden, um eine höhere Anpassbarkeit anzubieten.
-
 *Zu kleine Informationen*
 
 Davon betroffene Probleme: P21.
 
 Ein passender Lösungsansatz wäre hier eine grössere Darstellung der Informationen, sei dies dauerhaft oder durch eine Einstellung im Semesterplaner steuerbar.
 
-
-In einer nächsten Iteration könnte generell mehr auf die Usability, mit Fokus auf die Klarheit, eingegangen werden, da bei dieser Art die meisten Probleme auftauchten.
-Die 5 Probleme des Schweregrades 2 sollten jedoch höhere Priorität haben.
-
 === Fazit
 
-
-
-
+// todo: Laura please make words pretty
+In einer nächsten Erkunden-Iteration könnte mehr auf die Probleme der Art "Etwas ist unklar" eingegangen werden, da diese am häufigsten auftauchten.
+Die 5 Probleme des Schweregrades 2 haben dabei eine höhere Priorität.
+Die Lösungen zu den Problem sollten in einem Konzept-Workshop vereinheitlicht werden.
 
 // todo: evtl als Fazit, dass unseri Wissesziel nit alles abdeckt hend? Drum hend mer Problem, wo zu keim ghöre. ZB Ob d Aktione us de globale Meldig verständlich sind.
 // Bogen schlagen zu "Unstimmigkeiten im SLCM führen zu Unsicherheiten" -> Sie wollen wissen, was passiert, wenn ein Fehler gelöst wird.
