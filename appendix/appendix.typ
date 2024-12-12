@@ -4,7 +4,7 @@
 // #pagebreak()
 #include("research-workshop/leitfäden.typ")
 #pagebreak()
-#include("results/results.typ")
+#include("research-results/research-results.typ")
 #pagebreak()
 #include("ideation/ideation.typ")
 #pagebreak()
