@@ -35,7 +35,6 @@ Ihr Impact wird daran gemessen, wie gross ihre Auswirkung auf den User ist.
 2 steht für eine leichte Verwirrung oder Unsicherheit beim User, seit dies durch Unklarheit oder eine Abweichung vom erwarteten Ablauf.
 3 steht für einen grossen Einfluss, der die Nutzenden von der Benutzung der Applikation abhalten könnte. Sei dies durch einen Fehler oder durch Auslösen von Frustration.
 
-Aufgrund der Anzahl Testpersonen, die dieses Problem erfahren haben und dessen Impact, wird der Schweregrad bestimmt.
 Dazu wird die Anzahl mit dem Impact multipliziert und anschliessend durch die gesamte Anzahl Testpersonen dividiert.
 Was in dieser Formel resultiert: $("Anzahl" * "Impact") / 5$
 Der Schweregrad kann geringfügig (0), schwer (1) oder kritisch (2) sein.
