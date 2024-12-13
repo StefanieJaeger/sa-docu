@@ -1,4 +1,4 @@
-= Usability Test 4 <ut_4>
+= Protokoll Usability Test 4 <ut_4>
 
 #grid(
       columns: (1fr, 1fr),
@@ -33,41 +33,6 @@ Damit du möglichst natürlich im Flow bleibst, beantworten wir etwaige Fragen w
 Dann kommen wir jetzt zum Test selbst.
 Im Dokument existiert für jede Aufgabe eine Seite.
 Bitte liest die Aufgabe laut vor und versuche, so gut wie möglich, die Frage ausführlich zu beantworten oder die Aktion auszuführen.
-
-_Was ist dein Eindruck nach diesem Test?_
-Ihr habt sehr coole Änderungen umgesetzt, ich glaube, das würde ich sehr schätzen, wenn das so im richtigen Semesterplaner wäre.
-
-_Fiel dir etwas besonders positiv oder negativ auf?_
-Besonders positiv:
-- die Farben sind besser unterscheidbar
-- die Semester werden nummeriert
-- Validierung insgesamt ist sehr cool, vor Allem, dass man Informationen zu den Modulabhängigkeiten sieht
-- Übertrittsmodule angeben ist sehr praktisch, das würde mir von den neuen Funktionen am meisten etwas nützen
-- Auch dass die Studienordnung verlinkt ist, ist sehr praktisch. Ich wusste vorher gar nicht, dass es da mehrere gibt.
-- Das Hinzufügen von Modulen bei den Kategorien der ECTS-Übersicht finde ich auch sehr gut.
-
-Ich würde gerne eine Möglichkeit haben, Übertrittsmodule nach dem Hinzufügen zu bearbeiten, das fehlt mir noch.
-Aber ganz allgemein finde ich alle Änderungen sehr gut praktisch nutzbar für den Semesterplaner.
-
-_Hast du sonst noch Feedback?_
-Kann man immer noch mehr als 14 Semester hinzufügen?
-(Testperson probiert es aus) Das ist neu beschränkt, das finde ich auch cool.
-
-_Wie findest du die Bedienung?_
-Relativ intuitiv, obwohl ich beim Hinzufügen von Modulen aus der Vertiefung zuerst nicht gecheckt habe, dass ich auf den Button klicken muss.
-Ist aber logisch, da alle anderen Buttons gleich aussehen.
-
-_Was meinst du zu den visuellen Veränderungen?_
-Sehr schön, die Farben sind gut gewählt, ich glaub, etwas dunkler als vorher.
-Beim Suchdropdown ist es schade, dass nicht alle Informationen sichtbar sind.
-Beispielsweise ist das "nur im HS/FS" je nach Modul nicht ganz sichtbar.
-
-_Nutzt du sonst auch den Edge als Standardbrowser?_
-Nein.
-
-_Kannst du den Link mal noch in deinem Standardbrowser öffnen und vergleichen?_
-(Testperson öffnet den Link in Chrome) Ah, hier sieht es besser aus.
-Ja, das sollte man vielleicht noch überarbeiten und dann prüfen, wie es dargestellt wird in allen gängigen Browsern.
 
 == Aufgaben
 
@@ -253,3 +218,39 @@ Sie hat ihn auch als erste Aktion betätigt in diesem Szenario.
 
 Dass im Tooltip für ein Modul die Abkürzung angezeigt wird, ist suboptimal, da nicht alle Abkürzungen bekannt sind.
 Auch dauert es etwas lange, bis das Tooltip erscheint, das könnte schneller gehen.
+
+== Nachgespräch
+_Was ist dein Eindruck nach diesem Test?_
+Ihr habt sehr coole Änderungen umgesetzt, ich glaube, das würde ich sehr schätzen, wenn das so im richtigen Semesterplaner wäre.
+
+_Fiel dir etwas besonders positiv oder negativ auf?_
+Besonders positiv:
+- die Farben sind besser unterscheidbar
+- die Semester werden nummeriert
+- Validierung insgesamt ist sehr cool, vor Allem, dass man Informationen zu den Modulabhängigkeiten sieht
+- Übertrittsmodule angeben ist sehr praktisch, das würde mir von den neuen Funktionen am meisten etwas nützen
+- Auch dass die Studienordnung verlinkt ist, ist sehr praktisch. Ich wusste vorher gar nicht, dass es da mehrere gibt.
+- Das Hinzufügen von Modulen bei den Kategorien der ECTS-Übersicht finde ich auch sehr gut.
+
+Ich würde gerne eine Möglichkeit haben, Übertrittsmodule nach dem Hinzufügen zu bearbeiten, das fehlt mir noch.
+Aber ganz allgemein finde ich alle Änderungen sehr gut praktisch nutzbar für den Semesterplaner.
+
+_Hast du sonst noch Feedback?_
+Kann man immer noch mehr als 14 Semester hinzufügen?
+(Testperson probiert es aus) Das ist neu beschränkt, das finde ich auch cool.
+
+_Wie findest du die Bedienung?_
+Relativ intuitiv, obwohl ich beim Hinzufügen von Modulen aus der Vertiefung zuerst nicht gecheckt habe, dass ich auf den Button klicken muss.
+Ist aber logisch, da alle anderen Buttons gleich aussehen.
+
+_Was meinst du zu den visuellen Veränderungen?_
+Sehr schön, die Farben sind gut gewählt, ich glaub, etwas dunkler als vorher.
+Beim Suchdropdown ist es schade, dass nicht alle Informationen sichtbar sind.
+Beispielsweise ist das "nur im HS/FS" je nach Modul nicht ganz sichtbar.
+
+_Nutzt du sonst auch den Edge als Standardbrowser?_
+Nein.
+
+_Kannst du den Link mal noch in deinem Standardbrowser öffnen und vergleichen?_
+(Testperson öffnet den Link in Chrome) Ah, hier sieht es besser aus.
+Ja, das sollte man vielleicht noch überarbeiten und dann prüfen, wie es dargestellt wird in allen gängigen Browsern.
