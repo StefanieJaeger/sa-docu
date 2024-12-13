@@ -1,6 +1,6 @@
 #show figure: set block(breakable: true)
 
-= Workshop: Validierung
+= Workshop: Validierung 
 Im Validierungs-Workshop wurden die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
 Die Ergebnisse wurden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, inwiefern das erarbeitete Lösungskonzept die gestellten Anforderungen erfüllt.
 Dieses Vorgehen basiert auf dem von #cite(<cuxd>, form: "prose") definierten CUXD-Vorgehensmodell.
@@ -19,12 +19,17 @@ Laut dem Buch [todo] sollten mit 5 Testpersonen mindestens 55%, durchschnittlich
 // (Buch S. 241)
 
 Der Testperson wurde jeweils ein Dokument ausgehändigt, welches eine Einleitung und die Aufgaben enthielt.
+// Laura verschiebt noch
 Das ausgehändigte Dokument kann hier [TODO] gefunden werden.
 
 Die Szenarien waren an einer normalen Interaktion mit dem Semesterplaner orientiert und sollten diese möglichst gut abdecken.
 Die Protokolle der Tests können hier [TODO] gefunden werden.
 
 == Resultate des Workshops
+
+=== Vorbereitung Usability Tests <ut-preparation>
+
+// todo: Laura
 
 === Resultate der Usability Tests
 

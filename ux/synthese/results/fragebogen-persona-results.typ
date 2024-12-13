@@ -1,6 +1,6 @@
 = Resultate der Persona-Fragebogenstudien
 Nachfolgend sind die zusammengefassten Ergebnisse der durchgeführten Fragebogenstudie aufgeführt.
-Die Tabelle mit den gesamten Antworten ist im Anhang zu finden. [TODO: Erstellen & Verlinken]
+Die Tabelle mit den gesamten Antworten ist im Anhang unter @student-questionnaire-appendix zu finden.
 
 Die Antworten der beiden Fragebögen wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von #cite(<qualitative-content-analysis>, form: "prose") einer induktiven Inhaltsanalyse unterzogen.
 Dies, um unvoreingenommen alle möglichen Personen des Nutzendenkreises zu erfassen und nichts zu verpassen.

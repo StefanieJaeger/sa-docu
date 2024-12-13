@@ -1,6 +1,6 @@
-= Resultate der technischen Interviews
+= Resultate der technischen Interviews @adunis-results
 Im Nachfolgenden sind die Ergebnisse der durchgeführten technischen Interviews zusammengefasst.
-Die Protokolle mit den gesamten Antworten sind im Anhang zu finden. [TODO: Erstellen (überprüfen adunis.typ) & Verlinken]
+Die Protokolle mit den gesamten Antworten sind im Anhang unter @adunis-appendix zu finden.
 
 == Interview mit der Studiengangsleitung
 + *Datenverantwortlichkeit und Erfassung*

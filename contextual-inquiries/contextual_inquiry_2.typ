@@ -631,8 +631,6 @@ Bei unseren Arbeiten haben wir auch geschaut, dass jede Schnittstelle auch ohne 
 
 / Das ist ein super Tipp, danke vielmals dafür und auch fürs Mitmachen bei der CI.:
 
-[TODO: Fragen unterhalb noch anpassen an "ich-Form"].
-
 ==== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:

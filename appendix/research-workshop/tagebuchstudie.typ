@@ -1,4 +1,4 @@
-= Leitfaden Tagebuchstudie
+= Leitfaden Tagebuchstudie <leitfaden-dairy>
 == Einleitung
 *Willkommen zur Tagebuchstudie für den Semesterplaner!*
 In dieser Studie möchten wir verstehen, wie du den Semesterplaner im Verlauf der Zeit nutzt, welche Ziele du verfolgst und wie er dir bei der Planung deines Studiums hilft. Deine Antworten helfen uns dabei, das Tool weiter zu verbessern.

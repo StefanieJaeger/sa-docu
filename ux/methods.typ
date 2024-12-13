@@ -80,10 +80,9 @@ Diese Herangehensweise ermöglicht es, während dieser Arbeit tiefgründige Einb
 
 == Methoden zur Datenerhebung
 Die folgenden Methoden zur Datenerhebung wurden im Rahmen dieser Studienarbeit angewandt:
-[TODO: Verlinken zu wo diese Methoden erklärt werden]
-- Nutzungskontextanalyse
-  - Contextual Inquiry (research)
-  - Tagebuchstudie (research)
-- Technische Interviews (research)
-- Fragebogen (research)
-- Usability-Tests (prototyp)
+- Nutzungskontextanalyse @nutzungskontextanalyse
+  - Contextual Inquiry @contextual-inquiry
+  - Tagebuchstudie @tagebuchstudie
+- Interviews technischer Natur @technical-interview
+- Fragebogen @persona-fragebogenstudie
+- Usability Tests @ut-preparation
