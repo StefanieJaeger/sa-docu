@@ -76,7 +76,7 @@ Nun meldet er seine vier ausgewählten Module im SLCM an.
 Es wurden zwei Keyscreens erstellt: einer, welcher den Plan vor den Änderungen zeigt, und einer, welcher den Plan nach den Änderungen zeigt.
 
 Unten ist der Keyscreen mit den neuen Funktionsbereichen abgebildet.
-Der Keyscreen vor den Änderungen ist im Anhang zu finden [TODO: erstellen und verlinken].
+Der Keyscreen vor den Änderungen ist im Anhang unter @old-keyscreen zu finden.
 Dabei ist die folgende Legende zu beachten:
 - *Blau:* Bereichsdefinition
 - *Dunkelblau:* neue Bereichsdefinition

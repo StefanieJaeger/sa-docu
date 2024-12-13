@@ -25,6 +25,10 @@ Dabei wurde ein Leitfaden erstellt, der um die Wissensziele bereinigt den Testpe
 Die Usability Tests wurden einzeln durchgeführt sowie protokolliert.
 Die Protokolle sind ebenfalls im Anhang unter @ut-protocols zu finden. 
 
+=== Vorbereitung Usability Tests <ut-preparation>
+
+// todo: Laura
+
 === Resultate der Usability Tests
 Die Auswertung der Usability Tests sowie die Struktur dieses Unterkapitels lehnen stark an das vorgeschlagene Vorgehen von #cite(<us-ux>, form: "prose") zum Thema Usability-Tests auswerten.
 

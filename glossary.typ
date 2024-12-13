@@ -14,7 +14,6 @@
       (key: "msp", short: "MSP", long: "Musterstudienplan", desc: ""),
 
       // Tech
-      (key: "spa", short: "SPA", long: "Single Page Application", desc:""),
       (key: "fontawesome", short: "Fontawesome", desc: ""),
       (key: "tailwind", short: "Tailwind CSS", desc: ""),
       (key: "vite", short: "Vite", desc: ""),
@@ -22,6 +21,7 @@
       (key: "githubActions", short: "", desc: "https://docs.github.com/en/actions")
 
       // UX
+      (key: "mvp", short: "MVP", desc: ""),
 
   )
 )

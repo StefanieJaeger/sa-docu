@@ -10,7 +10,7 @@ Dies führt zu einer Vielzahl von möglichen Kombinationen. Die Plattform lost.u
 
 Die Motivation für diese Arbeit ergibt sich aus der weitreichenden Nutzung und der positiven Resonanz der Studierenden auf die Plattform, die jedoch durch Einschränkungen in ihrer Benutzerfreundlichkeit und insbesondere ihrer Funktionalität geprägt ist.
 
-== Aufgabenstellung
+== Aufgabenstellung <aufgabenstellung>
 // 2.7 Aufgabenstellung / Ziel der Arbeit
 // Beinhaltet die Vision oder das Ziel der Arbeit. Grobe Zusammenfassung der von der Betreuungsperson gestellten Aufgabenstellung. Die konkrete Aufgabenstellung kommt in den Anhang. Konkrete, selbst ausgearbeitete oder feingranulare Anforderungen kommen ins Kapitel «Anforderungen».
 Die Aufgabenstellung dieser Studienarbeit formuliert das Ziel, einen durch Usability-Tests validierten Prototypen für die Plattform lost.university zu erarbeiten.

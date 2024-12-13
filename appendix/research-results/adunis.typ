@@ -1,4 +1,4 @@
-= Fragen und Antworten im Zusammenhang mit SLCM und dessen Daten
+= Fragen und Antworten im Zusammenhang mit SLCM und dessen Daten <adunis-appendix>
 
 == Interview mit Studiengangsleitung
 
@@ -27,13 +27,13 @@ Sie können vorzunehmende Anpassungen jedoch auch an die Studienadministration d
 
 / Wer ist für die Studienreglemente verantwortlich?:
 Der Hochschulrat ist für das grosse Reglement verantwortlich.
-Ich als Studiengangsleiter kümmere mich um die Ausführungsbestimmungen für meinen Studiengang, welche vom Hochschulrat freigegeben werden.
+Ich als Studiengangleiter kümmere mich um die Ausführungsbestimmungen für meinen Studiengang, welche vom Hochschulrat freigegeben werden.
 Anhänge, Modulzuweisungen etc. unterliegen ebenfalls mir und müssen nicht vom Hochschulrat freigegeben werden.
 
 / Wie wird festgehalten, wann ein Modul durchgeführt wird?:
 Es wird - in einem separaten Tool - pro Semester erfasst, ob das Modul angeboten wird.
 
-_Mirko Stocker teilte im Nachgang des Interviews die intern verwendete #link("https://wiki.ost.ch/display/SLCMP/SLCM+Dokumentation+und+Manuals?preview=%2F205785387%2F205790539%2FADUNIS+Angebotsplanung+Schritt+fuer+Schritt.pdf", "Anleitung des Tools")._
+_Die Person teilte im Nachgang des Interviews die intern verwendete #link("https://wiki.ost.ch/display/SLCMP/SLCM+Dokumentation+und+Manuals?preview=%2F205785387%2F205790539%2FADUNIS+Angebotsplanung+Schritt+fuer+Schritt.pdf", "Anleitung des Tools")._
 
 / Wie entstehen Modulkürzel? Weshalb ändern diese manchmal?:
 Modulkürzel werden bei der Erfassung gewählt.
@@ -51,11 +51,11 @@ Die Durchführungen werden, wie bereits erwähnt, über ein weiteres Tool erfass
 Ja, diese sind in einem Excel ersichtlich.
 Während diesen Zeiten kann es durchaus sein, dass die Daten der jeweiligen HTML- und JSON-Dateien inkonsistent sein können.
 
-/ Wärst du als Studiengangsleiter daran interessiert, die Pläne der Studierenden einsehen zu können?:
+/ Wärst du als Studiengangleiter daran interessiert, die Pläne der Studierenden einsehen zu können?:
 Nicht wirklich.
 Die Pläne, die die Studierenden aufstellen, sind nicht verpflichtend und die Schule kann daher auch keine Entscheidungen darauf basieren.
 
-/ Wer wäre ein Ansprechspartner für technischere Fragen?:
+/ Wer wäre ein Ansprechpartner für technischere Fragen?:
 Clemens Meier entwickelt am SLCM mit und kann eventuell technischere Fragen beantworten.
 Ich weiss auch, dass einer eurer Mitstudenten - Jan Meier - mit der #link("https://matricula.app/", "Matricula App") ebenfalls Daten vom SLCM abruft.
 Eventuell hat er Erfahrungen gemacht, die euch helfen könnten.
@@ -76,7 +76,7 @@ Jedoch ist das 1. noch nicht deaktiviert.
 Ja, dies sind Module, die schon sehr lange angeboten werden und wohl nie aktualisiert wurden.
 
 / Bei einigen Modulen steht im Fliesstext, dass sie pro Semester auf einem anderen Campus angeboten werden. Wieso wird hier ein solches Format gewählt?:\
-Dies sind IKTS-Module. Wahrscheinlich sind die Daten hier in etwas ungewohnterem Format, da St. Gallen erst seit kurzem ebenfalls Module über dieses Tool ausschreibt.
+Dies sind IKTS-Module. Wahrscheinlich sind die Daten hier in etwas ungewohntem Format, da St. Gallen erst seit kurzem ebenfalls Module über dieses Tool ausschreibt.
 
 / Es existiert ja eine Struktur, in der die Daten erfasst werden sollten. Jedoch kann es vorkommen, dass Daten stattdessen im Fliesstext oder in einem falschen Feld erfasst werden. Wie kommt das?:
 Modulverantwortliche sind sich nicht immer bewusst, dass sie Daten zu ihrem Modul eingeben und bearbeiten können.
@@ -157,7 +157,7 @@ Bei Modulen wie SA und BA sind Start- und Endsemester unterschiedlich, da sie je
 Bei IKTS Modulen sind Start- und Endsemester teils unterschiedlich, da sie jedes Semester, jedoch auf anderen Campussen, angeboten werden.
 
 ==== Antwort Joël Schwab
-Ihr könnt das mit den Informationen, die ihr öffentlich habt, gar nicht machen, ausser ihr schaut jedes Semester den Stundenplan dieses Modules an. Es gibt auch Module wie z.B. WED3 das früher jedes Semester durchgeführt wurde.
+Ihr könnt das mit den Informationen, die ihr öffentlich habt, gar nicht machen, ausser ihr schaut jedes Semester den Stundenplan dieses Moduls an. Es gibt auch Module wie z.B. WED3 das früher jedes Semester durchgeführt wurde.
 
 === Bei einigen IKTS-Modulen steht bei "Bemerkungen" als Fliesstext, dass pro Semester die Durchführung auf einem anderen Campus stattfindet. Wieso existiert dieses Feld im JSON nicht?
 

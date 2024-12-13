@@ -21,7 +21,7 @@ Stattdessen glauben wir, dass ZAB
 Was wir im Rahmen dieser Arbeit konzipiert haben.
 
 == Positives
-Rückblickend auf die in Kapitel [TODO: verlinken] definierte Aufgabenstellung glauben wir, dass wir die Anforderungen dieser Studienarbeit übertroffen haben.
+Rückblickend auf die unter @aufgabenstellung definierte Aufgabenstellung glauben wir, dass wir die Anforderungen dieser Studienarbeit übertroffen haben.
 Wir behaupten dies, weil wir nicht nur alle Anforderungen erfüllt haben, sondern auch den breiteren Konzext des komplexen Themas "Semesterplanung" durch die gründlichen Datenerhebungen und die Anwendung des CUXD-Prozesses kritisch bewertet haben.
 Die identifizierten Probleme und Bedürfnisse der Studierenden wurden in den Fokus gerückt und damit der Prototyp erstellt und validiert.
 Durch die gewonnenen Erkenntnisse können die bestätigten Funktionalitäten und die weiter identifizierten Problembereiche in der Weiterentwicklung des Tools berücksichtigt werden.
