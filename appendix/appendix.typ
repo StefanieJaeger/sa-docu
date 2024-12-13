@@ -10,4 +10,4 @@
 #pagebreak()
 #include("konzept/konzept.typ")
 #pagebreak()
-// #include("prototype/prototype.typ") TODO: erstellen
+#include("prototype/prototype.typ")

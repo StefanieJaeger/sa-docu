@@ -59,7 +59,6 @@
 // 2.9 Systemkontext
 // Beschreibt und analysiert den Systemkontext sowie die bestehende Infrastruktur. Beschreibung der fachlichen Domäne.
 
-
 // 2.10 Anforderungen (Requirements)
 // Diese werden aus der Aufgabenstellung sowie Ihrer Analyse abgeleitet. Funktionale Anforderungen (FA) können zum Beispiel als Use Cases oder User Stories beschrieben werden. Alle relevanten nichtfunktionalen Anforderungen (NFA) und Qualitätsattribute sollten abgedeckt sein. Bleiben Sie kurz und sachlich und wenden Sie die erlernten Techniken aus den Software-Engineering Modulen an. Stellen Sie insbesondere sicher, dass Anforderungen (auch NFA) überprüfbar sind und plattform- und technologieneutral sind.
 // -- DONE IN SYNTHESE

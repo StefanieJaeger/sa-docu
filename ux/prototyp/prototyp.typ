@@ -14,9 +14,9 @@ Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erst
 Die Resultate des Prototyp-Workshops sind der funktionale High-Fidelity-Prototyp sowie die Validierungs-Map, auf die im Folgenden eingegangen wird.
 
 === Funktionaler High-Fidelity-Prototyp
-Den Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden.
+Den Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
 Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
-Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: packet_1 etc. Streamlinen, verschieben und verlinken].
+Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang unter @prototype-appendix zu finden.
 
 Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Prototypen erläutert.
 
@@ -32,19 +32,14 @@ Weiter wurde das Farbschema leicht überarbeitet, um rot als primäre Farbe für
 Dafür wurde die Farbe der Kategorie "Mathematik und Physik" von rot auf dunkelblau geändert.
 
 In der untenstehenden Grafik sieht man den globalen Fehlerbereich erweitert:
-#figure(image("Validierung-ausgeklappt.png"), caption: [" Globaler Fehlerbereich erweitert"]);
+#figure(image("Validierung-ausgeklappt.png"), caption: ["Globaler Fehlerbereich erweitert"]);
 
 Pro Fehler wird eine Fehlermeldung angezeigt, inklusive vorhandener Aktionen, um den Fehler zu beheben.
 
 In der nachfolgenden Grafik ist die Validierung ausgeschaltet:
 #figure(image("Validierung-ausgeschaltet.png"), caption: ["Validierung ausgeschaltet"]);
 
-Die Validierung der Übertrittsmodule wird im folgenden Abschnitt erläutert.
-
-[TODO: Entscheidungen kurz und knackig dazu dokumentieren]
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-- *Entscheidung 1:* Kurzerläuterung
-- *Entscheidung 2:* Kurzerläuterung
+Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Übertrittsmodule, ECTS-Übersicht, Vertiefungen*
 Die nachfolgende Grafik zeigt die Änderungen in der unteren Hälfte des Semesterplaners:
@@ -65,12 +60,6 @@ Die Übertrittsmodule werden ebenfalls validiert, wie die folgende Grafik zeigt:
 #figure(image("Validierung-Übertritt.png"), caption:["Validierung der Übertrittsmodule"]);
 Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgeführt.
 Diese beinhaltet das Überprüfen, ob das angerechnete Modul in der URL doppelt vorkommt.
-[TODO: Stefi du kannst hier kurz genauer ausführen]
-
-[TODO: Entscheidungen kurz und knackig dazu dokumentieren]
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-- *Entscheidung 1:* Kurzerläuterung
-- *Entscheidung 2:* Kurzerläuterung
 
 *Hinzufügen von Übertrittsmodulen*
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
@@ -84,10 +73,7 @@ Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmod
 
 Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterhalb der geplanten Semester angezeigt, wie bereits in der Grafik "Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen" aufgezeigt wurde.
 
-[TODO: Entscheidungen kurz und knackig dazu dokumentieren]
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-- *Entscheidung 1:* Kurzerläuterung
-- *Entscheidung 2:* Kurzerläuterung
+Mehr Informationen zu den Entscheidungen bezüglich der Übertrittsmodule können hier gefunden werden: @code-decisions
 
 *Erweiterte Suche und Constraints Enforcement*
 Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, ECTS, Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _Constraints Enforcement_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
@@ -100,10 +86,7 @@ Die nachfolgende Grafik zeigt die Suche mit einem Suchbegriff:
 Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgende Grafik zeigt:
 #figure(image("Constraint-Semester.png"), caption: ["Constraints Enforcement beim Hinzufügen eines 15. Semesters inklusive Tooltip"]);
 
-[TODO: Entscheidungen kurz und knackig dazu dokumentieren]
-Die folgenden *Entscheidungen* wurden dabei bei der Umsetzung des Prototypen getroffen:
-- *Entscheidung 1:* Kurzerläuterung
-- *Entscheidung 2:* Kurzerläuterung
+Mehr Informationen zur Suche können hier gefunden werden: @search-logic
 
 === Validierungs-Map
 Die Validierungs-Map wurde erstellt, um die zuvor definierten Funktionalitäten mit den entsprechenden Methoden und Erfolgreich-Wenn-Kriterien zur Validierung zu verknüpfen.
