@@ -16,7 +16,7 @@ Den Leitfaden, das den Testpersonen ausgehändigte Dokument sowie die Protokolle
 Die Testpersonen für die Usability Tests wurden anhand der initial durchgeführten Umfrage gewählt.
 Fünf Testpersonen hatten sich innerhalb des Zeitraumes für einen Test zur Verfügung gestellt.
 Mit jeder Person wurde ein Termin an 45 Minuten vereinbart, in dem der Usability Test durchgeführt wurde.
-Da gemäss #cite(<usux>, form: "prose") mit fünf Personen mindestens 55%, durchschnittlich jedoch sogar 85.55% der Usability-Probleme aufgedeckt werden, wurde auf eine weitere Testperson verzichtet.
+Da gemäss #cite(<us-ux>, form: "prose") mit fünf Personen mindestens 55%, durchschnittlich jedoch sogar 85.55% der Usability-Probleme aufgedeckt werden, wurde auf eine weitere Testperson verzichtet.
 
 Das den Testpersonen ausgehändigte Dokument enthielt eine Einleitung, die Aufgabenstellung sowie die zu testenden Szenarien jeweils auf einer neuen Seite.
 Das Dokument entspricht dem im Anhang zu findenden Leitfaden [TODO: verlinken], dabei wurden die aufgeführten Wissensziele ausgelassen.
@@ -27,7 +27,7 @@ Diese sind im Nachfolgenden dokumentiert.
 == Resultate des Workshops
 
 === Resultate der Usability Tests
-Die Auswertung der Usability Tests sowie die Struktur dieses Unterkapitels lehnen stark an das vorgeschlagene Vorgehen von #cite(<usux>, form: "prose") zum Thema Usability-Tests auswerten.
+Die Auswertung der Usability Tests sowie die Struktur dieses Unterkapitels lehnen stark an das vorgeschlagene Vorgehen von #cite(<us-ux>, form: "prose") zum Thema Usability-Tests auswerten.
 
 ==== Probleme
 Im Folgenden sind sämtliche aufgetretenen Probleme dokumentiert.
@@ -138,7 +138,7 @@ Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständi
 ), caption: ["Alle Wissensziele und deren Erreichung"])<wissensziele>
 
 === Erkenntnisse
-Folgende Probleme haben den Schweregrad 2 erreicht und sollen gemäss #cite(<usux>, form: "prose") priorisiert behoben werden.
+Folgende Probleme haben den Schweregrad 2 erreicht und sollen gemäss #cite(<us-ux>, form: "prose") priorisiert behoben werden.
 Dazu wurde direkt im Validierungs-Workshop ein kurzes Design Studio durchgeführt, um potenzielle Lösungsvorschläge zu erarbeiten.
 
 - *P2* - "Übertritt - Übermässige Klicks zur Erfassung"
