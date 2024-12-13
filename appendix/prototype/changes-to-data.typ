@@ -31,5 +31,5 @@ Einzig die Werte eines Modules wurden geändert.
 *Lösungen zu den Problemen* <data-solutions>
 + Für Module, bei denen bekannt ist, dass sie deaktiviert sind, wird das Feld "isDeactivated" explizit überschrieben.
 + Sollten "beginSemester" und "endSemester" ein valider Wert, "HS" oder "FS", aber nicht derselbe Wert sein, wird für "term" der Wert "both" gewählt.
-+ Für Module, bei denen dies bekannt ist, werden diese Werte explizit überschrieben.
++ Wo nötig, können einzelne Werte eines Moduls explizit überschrieben werden.
 + Ist das Feld "zustand" auf "deaktiviert" gesetzt und ist der "endJahr" das "durchfuehrungen" vor diesem Jahr oder es ist gar keine Durchführung angegeben, wird das Modul als "deaktiviert" markiert.
