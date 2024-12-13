@@ -113,6 +113,11 @@
   target: figure.where(kind: image),
 )
 #pagebreak()
+#outline(
+  title: [Abbildungsverzeichnis],
+  target: figure.where(kind: table),
+)
+#pagebreak()
 // 2.20 Operationelle Hinweise
 // Vor allem bei Softwareprojekten: Gehen Sie auf folgende Punkte ein (bei grösserer Dokumentation verweisen Sie auf den Anhang).
 // • Verwendete SDK, IDE und Werkzeuge
