@@ -27,7 +27,7 @@ Diese sind im Nachfolgenden dokumentiert.
 == Resultate des Workshops
 
 === Resultate der Usability Tests
-Die Auswertung der Usability Tests erfolgte in starker Anlehnung an das vorgeschlagene Vorgehen von #cite(<usux>, form: "prose").
+Die Auswertung der Usability Tests sowie die Struktur dieses Unterkapitels lehnen stark an das vorgeschlagene Vorgehen von #cite(<usux>, form: "prose") zum Thema Usability-Tests auswerten.
 
 ==== Probleme
 Im Folgenden sind sämtliche aufgetretenen Probleme dokumentiert.
