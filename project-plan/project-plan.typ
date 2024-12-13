@@ -2,9 +2,7 @@
 In den folgenden Abschnitten wird der Projektplan genauer beschrieben. Dabei wird auf den Prozess, die Zeitplanung und die Aufwände eingegangen.
 
 == Prozess
-Wir haben uns bei unserer Projektplanung am von 
-//#cite(<cuxd>, form: "prose")
- beschriebenen CUXD-Vorgehensmodell orientiert.
+Wir haben uns bei unserer Projektplanung am von #cite(<cuxd>, form: "prose") beschriebenen CUXD-Vorgehensmodell orientiert.
 
 Eine Iteration wurde angestrebt, um die anfangs unbekannten Anforderungen zu klären, prototypisch umzusetzen und diese anschliessend zu validieren.
 Zu Beginn der Erkundungsphase entschieden wir, uns in der Erkundungs-Phase auf die wichtigsten Anforderungen zu konzentrieren.
@@ -20,10 +18,10 @@ Aus diesem Grund wurde kein Zeitstrahl erstellt, sondern die folgende Grafik mit
 == Zeitplanung und Erfassung
 Der Aufwand der Epics wurde prozentual geschätzt und in der folgenden Grafik mit den effektiven Aufwänden dargestellt:
 
-[TODO: Grafik einfügen von "Epics" Tab]
-// #figure(image("Zeitplanung.png", width: 70%), caption :["Zeitplanung: Gegenüberstellung geschätzte und effektive Aufwände"]);
+#figure(image("Zeitplanung.png", width: 70%), caption :["Zeitplanung: Gegenüberstellung geschätzter und effektiver Aufwände"]);
 
 Die Aufwände wurden dabei fortlaufend im eigens dafür erstellten Google-Sheet in einer 15-Minuten-Taktung erfasst und den entsprechenden Epics zugeordnet.
 
-Beide Autorinnen haben im Schnitt 16.5 Stunden pro Woche investiert, was insgesamt 22 Stunden pro Woche und auf die Studienarbeit gerechnet 462 Stunden ergibt.
-Somit wurde die Zeitvorgabe von 476 Stunden um 3% unterschritten. [TODO: Stundenaufwand überprüfen und aktualisieren]
+Beide Autorinnen haben im Schnitt 18 Stunden pro Woche investiert.
+Die genaue Zeitnachführung weist exakt 479 aufgewendete Stunden aus.
+Somit wurde die Zeitvorgabe von 476 Stunden mit einer Toleranz von einem Prozent eingehalten.
