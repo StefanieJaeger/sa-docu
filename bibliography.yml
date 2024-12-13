@@ -1,0 +1,118 @@
+ostInhaltInf:
+    type: Web
+    title: Aufbau und Inhalt des Studiengangs Bachelor Informatik
+    url: 
+        value: https://www.ost.ch/de/studium/informatik/bachelor-informatik/studieninhalt-und-aufbau"
+        date: 2024-11-29
+    author:
+        - name: "OST - Ostschweizer Fachhochschule"
+          alias: "OST"
+leitfaden-geschlechtergerecht:
+    type: Misc
+    title: Geschlechtergerechte Sprache - Leitfaden zum geschlechtergerechten Formulieren in deutschsprachigen Texten des Bundes
+    url: 
+        value: https://www.bk.admin.ch/bk/de/home/dokumentation/sprachen/hilfsmittel-textredaktion/leitfaden-zum-geschlechtergerechten-formulieren.html
+        date: 2024-11-29
+    author:
+        - name: "Bundeskanzlei"
+          alias: "BK"
+    date: 2023
+    edition: 3
+leitlinie-ki:
+    type: Misc
+    title: Leitlinie zum Umgang mit KI-basiertenHilfsmitteln in Lehre und Weiterbildung
+    url:
+        value: https://wiki.ost.ch/display/public/FN/Verfassen+schriftlicher+Arbeiten+Soziale+Arbeit
+        date: 2024-11-29
+    author:
+        - OST - Kommission Lehre
+        - OST - Kommission Weiterbildung
+    date: 2024
+cuxd:
+    type: Book
+    title: "Collaborative UX Design: Lean UX und Design Thinking: Teambasierte Entwicklung menschzentrierter Produkte"
+    author:
+        - Toni Steimle
+        - Dieter Wallach
+    publisher: dpunkt.verlag
+    date: 2023
+    edition: 2
+cuxd-prozess:
+    type: misc
+    title: "Collaborative UX Design Prozess - Grafik"
+    author:
+        - Toni Steimle
+        - Dieter Wallach
+    url:
+        value: https://www.collaborative-uxdesign.com/overview
+        date: 2024-12-09
+us-ux:
+    type: Book
+    title: "Usability und UX: Was alle wissen sollten, die Websites und Apps entwickeln"
+    author:
+        - Jens Jacobsen
+        - Lorena Meyer
+    publisher: Rheinwerk Computing
+    date: 2024
+    edition: 4
+task-analysis:
+    type: blog
+    title: "Task Analysis: Support Users in Achieving Their Goals"
+    author: Maria Rosala
+    url:
+        value: https://www.nngroup.com/articles/task-analysis/
+        date: 2024-12-09
+    date: 2020-09-20
+    parent:
+        type: blog
+        title: "Nielsen Norman Group"
+qualitative-content-analysis:
+    type: article
+    title: "Three Approaches to Qualitative Content Analysis"
+    author:
+        - H. F. Hsieh
+        - S. E. Shannon
+    date: 2005
+    page-range: 1277-1288
+    serial-number:
+        doi: 10.1177/1049732305276687
+    parent:
+        type: periodical
+        title: "Qualitative Health Research"
+        volume: 15(9)        
+
+
+
+# Entry Type
+# Needs a keyword with one of the following values:
+
+# - article. A short text, possibly of journalistic or scientific nature, appearing in some greater publication (default parent: periodical).
+# - chapter. A section of a greater containing work (default parent: book).
+# - entry. A short segment of media on some subject matter. Could appear in a work of reference or a data set (default parent: reference).
+# - anthos. Text published within an Anthology (default parent: anthology).
+# - report. A document compiled by authors that may be affiliated to an organization. Presents information for a specific audience or purpose.
+# - thesis. Scholarly work delivered to fulfill degree requirements at a higher education institution.
+# - web. Piece of content that can be found on the internet and is native to the medium, like an animation, a web app, or a form of content not found elsewhere. Do not use this entry type when referencing a textual blog article, instead use an article with a blog parent (default parent: web).
+# - scene. A part of a show or another type of performed media, typically all taking place in the same location (default parent: video).
+# - artwork. A form of artistic/creative expression (default parent: exhibition).
+# - patent. A technical document deposited at a government agency that describes an invention to legally limit the rights of reproduction to the inventors.
+# - case. Reference to a legal case that was or is to be heard at a court of law.
+# - newspaper. The issue of a newspaper that was published on a given day.
+# - legislation. Legal document or draft thereof that is, is to be, or was to be enacted into binding law (default parent: anthology).
+# - manuscript. Written document that is submitted as a candidate for publication.
+# - original. The original container of the entry before it was re-published.
+# - post. A post on a micro-blogging platform like Twitter (default parent: post).
+# - misc. Items that do not match any of the other Entry type composites.
+# - performance. A live artistic performance.
+# - periodical. A publication that periodically publishes issues with unique content. This includes scientific journals and news magazines.
+# - proceedings. The official published record of the events at a professional conference.
+# - book. Long-form work published physically as a set of bound sheets.
+# - blog. Set of self-published articles on a website.
+# - reference. A work of reference. This could be a manual or a dictionary.
+# - conference. Professional conference. This Entry type implies that the item referenced has been an event at the conference itself. If you instead want to reference a paper published in the published proceedings of the conference, use an article with a proceedings parent.
+# - anthology. Collection of different texts on a single topic/theme.
+# - repository. Publicly visible storage of the source code for a particular software, papers, or other data and its modifications over time.
+# - thread. Written discussion on the internet triggered by an original post. Could be on a forum, social network, or Q&A site.
+# - video. Motion picture of any form, possibly with accompanying audio (default parent: video).
+# - audio. Recorded audible sound of any kind (default parent: audio).
+# - exhibition. A curated set of artworks.

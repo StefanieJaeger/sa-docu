@@ -1,6 +1,7 @@
 = Workshop: Validierung
 Im Validierungs-Workshop wurden die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
 Die Ergebnisse wurden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, inwiefern das erarbeitete Lösungskonzept die gestellten Anforderungen erfüllt.
+Dieses Vorgehen basiert auf dem von #cite(<cuxd>, form: "prose") definierten CUXD-Vorgehensmodell.
 Auf eine weitere Iteration der Erkundungsphase im negativen Fall wurde aufgrund der begrenzten Zeit verzichtet.
 
 == Vorgehen

@@ -1,8 +1,7 @@
 = Workshop: Synthese
-Aus Methoden kopiert:
-Im Synthese-Workshop werden durchgeführte Erhebungen ausgewertet und die erstellten Proto-Artefakte in validierte Artefakte überführt.
-Es wird eine Annahmen-Überprüfung durchgeführt und neue Erkenntnisse festgehalten.
-Während der Überarbeitung der Proto-Artefakte wird eine neue Sicht auf die Problemstellung gewonnen, mit welchem sich die Aufgabenstellung validieren lässt.
+Das von #cite(<cuxd>, form: "prose") beschriebene CUXD-Vorgehensmodell sieht in der Synthese-Phase die Auswertung der durchgeführten Erhebungen und die Überführung der Proto-Artefakte in validierte Artefakte vor.
+Durch die Überarbeitung der Proto-Artefakte wurde eine neue Sicht auf die Problemstellung gewonnen, mit welcher sich die Aufgabenstellung validieren liess.
+Die dabei entstandenen und validierten Artefakte definieren indirekt etwaige funktionale wie auch nicht-funktionale Anforderungen, weshalb auf eine explizite Definition dieser verzichtet wird.
 
 == Vorgehen
 Der Synthese-Workshop fand verteilt vom 23.10. bis zum 06.11.2024 statt.
@@ -10,17 +9,19 @@ Die Tagebuchstudie wurde separat ausgewertet und floss am 4.12.2024 in die Synth
 Insgesamt wurden 27.5 Stunden für die Synthese der Forschungsergebnisse aufgewendet.
 Davon entfielen 7.5 auf das nachträgliche Auswerten der Tagebuchstudie.
 Als Grundlage für den Workshop dienten die Zusammenfassungen durchgeführten Contextual Inquiries und die chronologische Zusammenfassung des Vorgehens dieser, sowie die ausgewerteten Umfragen der Nutzungsgruppen und die technische Befragung.
-Die Tagebuchstudie floss erst Anfang Dezember in die Synthese ein.
-[TODO: Besser formulieren, sie fliesst ja nicht mehr ein, da wir ja von hier aus bereits weitergegangen sind. Sie bestätigt eher was wir hier erarbeitet haben bzw. widerlegt es nicht.]
 Im Workshop wurden die Proto-Artefakte anhand der Forschungsergebnisse in validierte Artefakte überführt.
 Dazu wurde persönlich vor Ort im Miro einsam und gemeinsam gebrainstormt, diskutiert und gemappt. 
 Zusätzlich wurde eine Task Analysis erstellt, um die Aufgaben der Nutzenden besser zu verstehen und die Journey Map zu validieren.
+Die ausgewertete Tagebuchstudie wurde nachträglich im Dezember dazu verwendet, die validierten Artefakte erneut zu überprüfen und allfällige Unstimmigkeiten zu korrigieren, was jedoch nicht nötig war.
 
 == Workshop-Resultate
 Die folgenden Artefakte wurden im Rahmen des Synthese-Workshops erstellt und dienen als Grundlage für die weiteren Workshops:
 
 === Validiertes Problem-Statement
+Die folgende Grafik zeigt das überarbeitete Problem-Statement, welches unter anderem die Nutzenden, ihre Herausforderungen und die identifizierten Probleme im Kontext der Semesterplanung mit lost.university beschreibt.
 #figure(image("artifacts/Val-Problem-Statement-personenlos.jpg"), caption: "Validiertes Problem-Statement");
+
+Nachfolgend wird genauer auf Geändertes, Bestätigtes sowie Neu Erkanntes eingegangen.
 
 ==== Identifizierte Nutzende
 Die Zielgruppe des Tools wurde angepasst: Es wurde bestätigt, dass ausschliesslich Studierende als Nutzende gelten.
@@ -59,9 +60,10 @@ Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu ad
 Die Bewertungskriterien wurden angepasst, um die Ziele des Tools besser abzubilden.
 + *Geänderte Metriken:*
   - Die Anzahl der Aufrufe im Peak wird als Metrik entfernt, da es nicht darum geht, mehr Aufrufe zu generieren, sondern die bestehenden Aufrufe effizienter und nutzerfreundlicher zu gestalten.
-  - Die Funktionalität der Suche im Chrome-Browser auf Android wurde aus den Metriken entfernt, da dies in das Testen der funktionellen Anforderungen (FR-Testing) überführt wurde. [TODO: glossar und abkürzung defnieren]
+  - Die Funktionalität der Suche im Chrome-Browser auf Android wurde aus den Metriken entfernt, da die Suche generell optimiert werden soll und nicht nur für eine spezifische Plattform. Ebenfalls ist zu diesem Zeitpunkt noch nicht klar, welche identifizierten Probleme im Rahmen dieser Arbeit effektiv bearbeitet werden können.
+  - FR-Testing wurde entfernt, da in dieser Arbeit keine funktionellen Anforderungen explizit definiert werden.
 + *Neu identifizierte Metriken:*
-  - Zusätzlich zum FR-Testing wird ein separates Usability Testing eingeführt, um den Prototypen umfassend zu evaluieren.
+  - Usability Testing wird eingeführt, um den Prototypen umfassend zu evaluieren.
 
 === Validierte Persona
 #figure(image("artifacts/Val-Persona.jpg"), caption: "Validierte Persona");
@@ -130,34 +132,42 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 - Schnell einen Überblick über das bisherige Studium und die ECTS pro Kategorie erhalten.
 - Nicht interessante Module des Semesterplaners mit spannenderen Modulen austauschen.
 
-[TODO: Zitat Päde einfügen vom ende der CI mit stress als tz studi und schnelle planung]
-
-[Aus CI 1 Protokoll]
-"[SLCM] ist ehrlich gesagt zu mühsam, um Module zu finden.
-Ich werde von der Liste der anmeldbaren Module in Anmeldephase 1 erschlagen, man kann diese auch nicht filtern.
-Ich würde z.B. gerne nach Kategorien, Thema oder den empfohlenen Modulen filtern können.
-Dasselbe mit der Liste der Kategorien und Module bei der Studienordnungsbeschreibung.
-Man ist auf sich allein gestellt, vor allem als Teilzeitstudent, da man nicht so viel Zeit hat und immer schauen muss, wie man die ganze Arbeit in die wenige Zeit reinquetschen kann."
-
 === Validierte Journey Map
 Die Journey Map wurde angepasst: Der Schritt „Austausch“ wurde nach hinten verschoben, da er oft erst nach einer ersten Recherche stattfindet.
 Während Austauschsituationen auch ausserhalb der Journey auftreten, stehen Recherchen zu Modulen im SLCM typischerweise vor irgendwelchen Recherchen im Semesterplaner.
 Dies liegt daran, dass das SLCM umfassendere Informationen bietet, während der Planer als Recherchegrundlage hauptsächlich Modulverlinkungen, Vorlagen der MSPs sowie Module für Vertiefungen enthält.
 
 Die validierte Journey Map fasst die verschiedenen Schritte der Planung sowie die damit verbundenen Beobachtungen (Findings, grün), Erkenntnisse (Insights, dunkelgrün) und Verbesserungspotenziale (Opportunity Areas, rosa) zusammen und dient als Basis für die Optimierung der Nutzererfahrung.
+Die folgende Grafik zeigt die validierte Journey Map:
+
 #figure(image("artifacts/Val-Journey-Map-ganz.jpg"), caption: "Validierte Journey Map inklusive Findings, Insights und Opportunity Areas");
 
+Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity Areas identifiziert, die im Folgenden erläutert werden:
+
+- *Meme:* Die Testpersonen nehmen das Meme positiv wahr und schätzen die humorvolle Darstellung der Studienplanung.
+- *Release Notes:* Nicht alle Testpersonen wussten über alle Funktionen des Semesterplaners bescheid. Eine bessere Kommunikation über neue Funktionen und Änderungen könnte die Nutzung des Semesterplaners verbessern.
+- *Verlinkung zu SLCM-Bereichen:* Einige Testpersonen suchten im SLCM nach der Studiengangsordnung. Eine direkte Verlinkung zu den relevanten Bereichen im SLCM könnte die Recherche erleichtern.
+- *Viele vergangene Semester v.a. bei TZ:* Einige Testpersonen beklagten die horizontale Ausdehnung der Semesterübersicht, insbesondere bei fortgeschrittenem Studienverlauf von Teilzeitstudierenden. Eine Möglichkeit zur Ein- und Ausblendung vergangener Semester könnte die Übersichtlichkeit verbessern. 
+- *Hoher Überprüfungsaufwand (nicht MSP):* Testpersonen, die nicht strikt dem MSP folgten, mussten mehrere Bereiche in den Modulbeschreibungen überprüfen, wie z.B. die empfohlenen Vorkenntnisse. Eine bessere Übersicht über die relevanten Informationen könnte den Überprüfungsaufwand reduzieren.
+- *Personalisierter Studienplan:* Alle Testpersonen passten ihren Studienplan an persönliche Bedürfnisse an. Insbesondere suchten die meisten nach Modulen, die zu ihren Interessen passten. Eine Möglichkeit zur schnelleren Modulsuche könnte diesen Prozess erleichtern.
+- *Modulabhängigkeiten:* Die empfohlenen Vorkenntnisse müssen in den Modulbeschreibungen überprüft werden. Ist hier ein Modul gelistet, dass die Testperson nicht besucht hat, muss sie die Modulbeschreibung des verlinkten Moduls überprüfen, und so weiter. Eine Darstellung der Modulabhängigkeiten im Semesterplaner könnte den Überprüfungsaufwand reduzieren.
+- *Berechnung der ECTS pro Kategorie:* Die Übersicht der ECTS pro Kategorie wurde von allen Testpersonen gelobt. Jedoch wurde hier mehrfach der Wunsch geäussert, die noch benötigten, also einzuplanenden ECTS pro Kategorie zu sehen und nicht selbst ausrechnen zu müssen. Ebenfalls wurde der Wunsch geäussert, die Ansicht einer erreichten Kategorie besser darzustellen, da man den Unterschied zwischen 134/136 ECTS und 136/136 ECTS nicht auf den ersten Blick erkennt, weder in den Zahlen noch im fast ausgefüllten Balken.
+- *Peer-Feedback:* Der Austausch mit Peers war für alle Testpersonen ein wichtiger Bestandteil der Studienplanung. Eine Möglichkeit zur direkten Integration von Peer-Feedback könnte die Planung erleichtern.
+- *Aufwandsschätzung:* Zur Aufwandsschätzung wurden mehrere Methoden angewandt: Leistungsnachweise in der Modulbeschreibung nachschauen, Zusammenfassungen für Prüfungen auf dem Studentenportal einsehen, Austausch mit Peers. Eine Darstellung dazu im Semesterplaner könnte den Aufwand reduzieren.
+- *Suchfunktion:* Die Suchfunktion wurde von allen Testpersonen genutzt und von einigen bemängelt. Insbesondere störte, dass beim Klick auf das "+" der Fokus nicht im Suchfeld war und sich das Suchfeld nicht automatisch leerte, nachdem ein Modul hinzugefügt wurde. Weiter wurde die Resultatliste von zwei Testpersonen als "überwältigend" empfunden, da sie die gesamte Seite einnahm und ohne Suchbegriff alle verfügbaren Module alphabetisch listete. Ebenfalls wurde erwähnt, dass das Hinzufügen von Modulen auf Mobile nicht immer funktioniert.
+- *Planung mehrerer Varianten:* Einige Testpersonen planten mehrere Varianten ihres Studiums, um flexibel auf Änderungen reagieren zu können. Eine Möglichkeit zum Speichern und direkten Vergleichen der Varianten könnte die Planung erleichtern.
+- *ECTS-Verwaltung:* Testpersonen, die angerechnete Leistungen hatten, mussten entweder die entsprechenden Module im Plan eintragen oder darauf verzichten. Eine Testperson zog es vor, nur die effektiv besuchten Module im Plan einzutragen, weshalb ihr in der Übersicht der ECTS pro Kategorie nicht die korrekte Anzahl erreichter ECTS angezeigt wurde. Eine Möglichkeit zur Verwaltung angerechneter Leistungen ausserhalb des Plans könnte die Übersichtlichkeit verbessern.
+- *Faktische Abbildung vergangener Semester:* Es gibt momentan keine Möglichkeit, das Nichtbestehen eines Moduls im Plan abzubilden. Nicht bestandene Module müssen manuell verschoben werden. Einige Testpersonen wünschten sich eine Möglichkeit, die verganenen Semester faktisch korrekt abzubilden. Hier fliesst die Angabe des Nichtbestehens eines Moduls sowie die Anrechnung von ECTS aus früherem Studium ein.
+- *Planvalidierung:* Einige Testpersonen bemängelten, dass Module in Semestern hinzufügbar sind, wo sie nicht durchgeführt werden. Eine Validierung der Planung könnte dies verhindern. Ebenfalls könnte hier in einem weiteren Schritt die Suche miteinbezogen werden (Module anzeigen aber nicht hinzufügbar in entsprechenden Semestern).
+- *Nutzerführung (Semesternummer und Hinzufügen von Modulen):* Einige Testpersonen äusserten die Wünsche, die Semester nicht manuell zählen zu müssen sowie die Möglichkeit zu haben, Module direkt aus der Vertiefungsliste hinzuzufügen.
+- *Flexible Speicheroptionen:* Eine Testperson äusserte den Wunsch, zusätzlich zur Speicherung des Plans lokal in der URL eine Lösung mit Login zu haben. Es wurde jedoch explizit darauf hingewiesen, dass die jetzige Lösung weiter funktionieren sollte, da diese sehr flexibel einsetzbar ist.
 === Task Analysis
-Aus den gesammelten Erkenntnissen aller Erhebungsmethoden wurde eine Task Analysis angelehnt an [https://www.nngroup.com/articles/task-analysis/] erstellt.
-Die untenstehende Grafik "Task Analysis"[Verlinken] zeigt die einzelnen Schritte, die Nutzende während der Planung des nächsten Semesters in den Anmeldephasen 1 und 2 durchlaufen.
+Aus den gesammelten Erkenntnissen aller Erhebungsmethoden wurde eine Task Analysis angelehnt an #cite(<task-analysis>, form: "prose") erstellt.
+Die untenstehende Grafik zeigt die identifizierten Schritte, die Nutzende während der Planung des nächsten Semesters in den Anmeldephasen 1 und 2 durchlaufen, im Detail.
 
 #figure(image("artifacts/Task-Analysis.jpg"), caption: "Task Analysis");
 
-=== Funktionelle Anforderungen
-Neue, funktionelle Anforderungen konnten aus den Erkenntnissen der Synthese abgeleitet werden. Diese sind in der folgenden Tabelle aufgeführt:
-
-[TODO: Tabelle erstellen, siehe wip auf Miro]
-
 == Fazit
-
-[TODO: Fazit schreiben]
+Die erstellten Proto-Artefakte konnten mit den Forschungsergebnissen validiert und weiterentwickelt werden.
+Sie stellen eine solide Basis für die folgenden Workshops dar.
+Insbesondere wurden einige neue Probleme und Herausforderungen identifiziert, die in den weiteren Workshops genauer beleuchtet werden sollten.
