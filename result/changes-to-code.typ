@@ -43,7 +43,7 @@ _types.ts:_ Enthält die Klassen für Durchführung, Modul, Übertrittsmodul, Ve
 _main.ts:_ Neue Icons und Registrierung des Stores.
 
 *NPM Packages*
-_vuex:_ Der Hauptgrund, der uns dazu bewegte einen Store einzuführen war, dass Attribute auf einem Modul sich neu ändern können. So zum Beispiel die Validierung oder das nächstmögliche Semester. Um sicherzustellen, dass alle Komponenten diese Änderungen immer sofort erhalten, wurde ein Store eingeführt.
+_vuex:_ Der Hauptgrund für die Einführung eines Stores war die Möglichkeit, Änderungen an Attributen eines Moduls flexibel abzubilden. Dazu zählen beispielsweise die Validierung oder das nächstmögliche Semester. Um sicherzustellen, dass alle Komponenten diese Änderungen stets unmittelbar erhalten, wurde ein Store eingeführt.
 Es wurde #link("https://vuex.vuejs.org/", "vuex") gewählt, da diese Library von vue selbst ist und auch häufig mit vue eingesetzt wird. Dies lässt gute Kompatibilität, eine grosse Auswahl an Tutorials und Ressourcen und eine langfristige Unterhaltung (maintained) erwarten.
 
 _headless:_ Um unsere geplanten Änderungen umzusetzen, mussten einige neue UI Elemente eingeführt werden, wie ein Toggle, Modal, Tabs, ComboBox, usw.
