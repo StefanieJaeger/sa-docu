@@ -76,7 +76,6 @@
 // Beschreibung Ihrer Konzepte und Lösung sowie der Architektur. Bleiben Sie möglichst plattformneutral und technologieübergreifend. Begründen Sie Entscheide (auf welche anderen Lösungsoptionen haben Sie bewusst verzichtet und wieso?). Zeigen Sie auf, wie Qualitätsattribute und NFAs sichergestellt werden. Das Kapitel kann in Internes Design (Subsysteme, Komponenten, Klassen) und Externes Design (UI) unterteilt werden. Setzen Sie beispielsweise UML-Diagramme mit Erläuterungen ein und verzichten Sie wenn möglich auf Code-Listings (siehe Implementation).
 // WE DONT NEED THIS CHAPTER
 
-
 // 2.15 Ergebnisse / Resultate
 // Ergebnisse der Arbeit: Was wurde erreicht, was wurde nicht erreicht? Stellen Sie einen konkreten Bezug zu den Anforderungen (FA, NFA) her und verknüpfen Sie diese mit Ihren Ergebnissen. Bleiben Sie objektiv und nehmen Sie (noch) keine Wertung Ihrer Arbeit vor (siehe «Schlussfolgerungen»).
 // DONE IN UX-VALIDIERUNG

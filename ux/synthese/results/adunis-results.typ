@@ -1,4 +1,4 @@
-= Resultate der technischen Interviews @adunis-results
+= Resultate der technischen Interviews <adunis-results>
 Im Nachfolgenden sind die Ergebnisse der durchgeführten technischen Interviews zusammengefasst.
 Die Protokolle mit den gesamten Antworten sind im Anhang unter @adunis-appendix zu finden.
 
