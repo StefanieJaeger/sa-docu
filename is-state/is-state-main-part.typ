@@ -1,5 +1,5 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
-= Ist-Zustand
+= Vorarbeiten
 In diesem Kapitel wird der Ist-Zustand der Applikation vor Beginn der Studienarbeit beschrieben.
 Dabei wird auf die Technologien und das Hosting, die Datenstruktur und die Architektur eingegangen.
 Die bestehenden Funktionalitäten sind im Anhang[TODO: erstellen und verlinken] als User Stories beschrieben.
