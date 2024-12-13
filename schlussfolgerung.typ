@@ -1,45 +1,39 @@
 = Schlussfolgerung
+Die Verwendung des von #cite(<cuxd>, form: "prose") beschriebenen CUXD-Vorgehensmodells erwies sich als wertvoll, da es eine empirisch fundierte Ausarbeitung und Validierung eines High-Fidelity-Prototyps ermöglichte.
+Die in der Verstehen-Phase gefundenen Probleme und Erkenntnisse wurden anhand des erarbeiteten High-Fidelity-Prototypen validiert.
+Das erarbeitete Lösungskonzept zeigte seine Nützlichkeit, indem es einige der gefundenen Probleme adressierte.
+Allerdings wurden im Zuge der Validierung neue Erkenntnisse, Schwachstellen und mögliche Weiterentwicklungsbereiche entdeckt.
 
-hier schlussfolgerung nach der validierung reinhauen.
-mit was in neue iterationen gehen, was nicht, was ist gut, was ist schlecht, was ist zu verbessern, was ist zu verwerfen.
-
-Die Verwendung vom CUXD-Vorgehensmodell ermöglichte eine empirische belegte Ausarbeitung eines Prototypen.
-Dieser wurde dann getestet und die gefundenen Probleme konnten validiert werden.
-Das erarbeitete Lösungskonzept erwies sich als nützlich und konnte die gefundenen Probleme teils lösen.
-Bei den erarbeiteten Lösungskonzepten stellten sich aber wiederum neue Findings, Insights und Opportunity Areas heraus.
-Mit diesen Erkenntnissen könnte eine neue Iteration der Erkundungsphase durchgeführt werden.
-Dabei könnten die gefundenen Probleme in der Erkundungsphase zusammen betrachtet werden. 
-Die Aufgabenstellung kann somit als erfüllt betrachtet werden, da die gefundenen Probleme validiert werden konnten und ein Lösungskonzept in Form eines High-Fidelity-Prototypen erarbeitet wurde.
+Diese neuen Einsichten könnten als Grundlage für eine weitere Iteration der Erkundungsphase dienen, in der die Probleme vertieft betrachtet werden.
+Insgesamt kann die Aufgabenstellung als erfüllt angesehen werden, da ein validiertes Lösungskonzept in Form eines High-Fidelity-Prototyps vorliegt, welches die Basis für weitere Entwicklungen bildet.
 
 == Ausblick
-hier wie es weitergehen könnte.
+Abschliessend werden mögliche zukünftige Schritte skizziert, die auf den in dieser Arbeit erzielten Ergebnissen aufbauen könnten:
 
-Zum Abschluss dieser Arbeit möchten wir über mögliche zukünftige Arbeiten sprechen, die auf die in dieser Arbeit durchgeführte Konzeptualisierung aufbauen könnten.
-- die gefundenen Probleme im Validierungsworkshop in eine neue iteration der erkundungsphase tragen
-  - Die weiter identifizierten probleme ebenfalls ausarbeiten und validieren. wording, suche etc.
-
-- Bestätigtes umsetzen in Roadmap/Delivery-Phase
-  - Die gefundenen Probleme und Lösungen in die Roadmap für die Delivery-Phase übernehmen und umsetzen.
-  - CAVE: prototyp != entstehendes produkt, prototyp definiert lediglich verhaltensweise und was es können soll.
-  - Suche: Best Practices mit zb icon (und nachschauen was noch), und styling möglichkeiten für bessere lesbarkeit
-
-- Eine weitere Persona definieren und validieren im Hinblick auf die Studienplanung.
-  - Nur zur Abbildung der Planung, nicht fürs Planen selber, gibt es andere Bedürfnisse?
-
-- 1 Iterration mit Fokus Accessibility-Check durchführen, da fokus auf funktionalität.
-  - Browserkompatibiliät prüfen
-  - Screenreader-Test durchführen (zB auch Labels für Buttons, Menü shortcut, springen zu Hauptinhalt)
-  - Farbkontrast prüfen
-  - Tastaturbedienbarkeit prüfen
-  
-- Abklären, wie die weitere Maintainability aussieht. Ohne dies macht eine Weitere Entwicklung keinen Sinn.
-  - Gründliche Analyse der verfügbaren Daten hinter SLCM. Da dies nur eine Studienarbeit war, wollte sich niemand die Mühe machen, uns die Informationen zu geben, die wir benötigt hätten. Eine Person war so lieb da ich sie kenne und hat sich trotzdem Zeit genommen. sollte übernommen werden, muss datenabklärung eh stattfinden.
++ *Neue Iteration der Erkundungsphase:*
+   - Die im Validierungsworkshop neu identifizierten Probleme sollten in einer weiteren Erkundungsphase untersucht werden.
+   - Auch die neu erkannten Problembereiche, wie beispielsweise Wording oder Suchfunktionalitäten, sollten ausgearbeitet und validiert werden.
+   - Ebenfalls könnten die initial gefundenen, aber nicht adressierten Probleme in dieser oder einer weiteren Iteration bearbeitet werden.
++ *Umsetzung in der Delivery-Phase:*
+   - Die validierten Probleme und Lösungen können in die Roadmap für die Delivery-Phase übernommen werden. Dabei ist zu beachten, dass der Prototyp nicht mit dem finalen Produkt gleichzusetzen ist, sondern lediglich das Verhalten und die Funktionen definiert.
+   - Best Practices sollten berücksichtigt werden, beispielsweise bei der Gestaltung der Suchfunktion und des Stylings, um die Lesbarkeit zu verbessern.
++ *Erweiterung um zusätzliche Persona:*
+   - Eine weitere Persona, die nach Musterstudienplan studiert und im Semesterplaner lediglich die Studienplanung betrachtet, könnte definiert und validiert werden. Es wäre interessant zu prüfen, ob diese Zielgruppe andere Bedürfnisse hat als aktiv planende Nutzende.
++ *Iteration mit Fokus auf Accessibility:*
+   - Eine Überprüfung der Barrierefreiheit des Prototyps sollte erfolgen, da bisher der Fokus auf der Funktionalität lag. Wichtige Schritte wären:
+    - Screenreader-Tests durchführen (z.B. Labels für Buttons, Menü-Shortcuts, Springen zum Hauptinhalt)
+    - Farbkontraste prüfen
+    - Tastaturbedienbarkeit sicherstellen
+    - Browserkompatibilität testen
++ *Abklärung der weiteren Maintainability:*
+   - Ohne eine klare Strategie zur Wartung des Tools macht eine weitere Entwicklung wenig Sinn. Hier wäre eine gründliche Abklärung angezeigt. Sollte der Studiengang Informatik oder das Departement Informatik der OST - Ostschweizer Fachhochschule Interesse an einer Weiterentwicklung des Semesterplaners haben, wäre eine umfassende interne Analyse der verfügbaren Daten aus dem SLCM unerlässlich, da die in dieser Arbeit verwendeten Daten teils unzureichend waren.
 
 == Limitationen
-- Die Datengrundlage war nicht optimal. Die Daten, die wir von SLCM erhalten haben, waren nicht ausreichend, um die Validierung der gefundenen Probleme zu gewährleisten.
-  - Es mussten Annahmen getroffen werden für Validierung. Diese Annahmen könnten falsch sein und somit die Validierung nicht korrekt sein.
-- Aus Zeitgründen nicht alle identifizierten Probleme in der Erkundungsphase zusammen behandelt.
-  - Hier könnten sich grössere Änderungen am Konzept ergeben, wenn alles zusammen angeschaut wird.
-- Wir sind ebenfalls Nutzerinnen des Tools und sind nicht neutrale Beobachterinnen. Dies könnte dazu führen, dass wir die Probleme nicht objektiv genug betrachtet haben, obwohl wir uns bemüht haben, dies zu tun und eigene Vorlieben und Abneigungen nicht zu berücksichtigen in diesem Prozess.
-  - You are not the user
-- Ebenfalls sind wir nicht so trainiert in der Durchführung eines gesamten User-Centered Design-Prozesses, da wir mehr in der Softwareentlickung zu Hause sind. Nichtsdestotrutz fasziniert uns dieses Thema und wir haben uns bemüht, so gut wie möglich zu arbeiten und Wissenslücken im Rahmen dieser Arbeit zu schliessen.
+Trotz der positiven Ergebnisse und Erkenntnisse dieser Arbeit gibt es einige Einschränkungen, die zu beachten sind:
+
+- *Datengrundlage:* Die Datenbasis aus dem SLCM war unzureichend, um alle gefundenen Probleme vollständig zu validieren. Es mussten Annahmen getroffen werden, die möglicherweise nicht korrekt sind und die Validität der Ergebnisse beeinträchtigen könnten.
+- *Begrenzter Zeitrahmen:* Aufgrund der zeitlichen Beschränkungen konnten nicht alle identifizierten Probleme in der Erkundungsphase gemeinsam betrachtet werden. Dies könnte dazu führen, dass zukünftige Iterationen grössere Änderungen am Konzept erfordern.
+- *Eigene Perspektive als Nutzerinnen:* Da die Autorinnen selbst Nutzerinnen des Tools sind, konnte keine vollständige Neutralität gewährleistet werden. Dies könnte die Beurteilungen beeinflusst haben, obwohl versucht wurde, persönliche Vorlieben und Abneigungen auszuschliessen.
+- *Erfahrung im User-Centered Design:* Trotz vorhandener Expertise in der Softwareentwicklung fehlte den Autorinnen umfassendes Training in der Durchführung eines gesamten User-Centered-Design-Prozesses. Dennoch wurde intensiv daran gearbeitet, Wissenslücken zu schliessen und die erworbenen Erkenntnisse bestmöglich anzuwenden.
+
+Trotz dieser Limitationen konnte die Arbeit wertvolle Erkenntnisse liefern, die als solide Basis für weitere Forschungen und Entwicklungen im Bereich der Studiumsplanung dienen können.
