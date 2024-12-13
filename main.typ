@@ -6,6 +6,7 @@
 // 2.1 Titelblatt
 #include "title-page.typ"
 
+
 // TODO: Abstract und Management Summary ohne Nummerierung?
 
 // todo: bei allen includes schauen, ob die Headings dann noch stimmen. Wenn nicht, dann das hier anwenden: https://forum.typst.app/t/how-to-increase-heading-level-in-an-included-document/1819/2

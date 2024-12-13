@@ -7,24 +7,23 @@ Dieses Vorgehen basiert auf dem von #cite(<cuxd>, form: "prose") definierten CUX
 Auf eine weitere Iteration der Erkundungsphase im negativen Fall wurde aufgrund der begrenzten Zeit verzichtet.
 
 == Vorgehen
-
 Der Validierungs-Workshop fand vom 3.12. bis zum 8.12.2024 statt und dauerte insgesamt 24 Stunden.
 Dabei wurden die Usability-Tests vorbereitet, durchgeführt und ausgewertet.
 Das Ziel der Auswertung war es, vorliegende Unzulänglichkeiten im erarbeiteten Lösungskonzept zu identifizieren sowie Hinweise auf dessen Stärke zu erhalten.
-Den Leitfaden, das den Testpersonen ausgehändigte Dokument sowie die Protokolle der Usability-Tests sind im Anhang zu finden. [TODO: an anfang von vlaidierung im appendix verlinken]
 
 Die Testpersonen für die Usability Tests wurden anhand der initial durchgeführten Umfrage gewählt.
 Fünf Testpersonen hatten sich innerhalb des Zeitraumes für einen Test zur Verfügung gestellt.
 Mit jeder Person wurde ein Termin an 45 Minuten vereinbart, in dem der Usability Test durchgeführt wurde.
 Da gemäss #cite(<us-ux>, form: "prose") mit fünf Personen mindestens 55%, durchschnittlich jedoch sogar 85.55% der Usability-Probleme aufgedeckt werden, wurde auf eine weitere Testperson verzichtet.
 
-Das den Testpersonen ausgehändigte Dokument enthielt eine Einleitung, die Aufgabenstellung sowie die zu testenden Szenarien jeweils auf einer neuen Seite.
-Das Dokument entspricht dem im Anhang zu findenden Leitfaden [TODO: verlinken], dabei wurden die aufgeführten Wissensziele ausgelassen.
-
-Nach der Durchführung der Usability-Tests sowie deren Protokollierung, welche im Anhang zu finden ist [TODO: zu Protokollen verlinken], wurden die Ergebnisse ausgewertet.
-Diese sind im Nachfolgenden dokumentiert.
-
 == Resultate des Workshops
+Nachfolgend sind die Resultate des Validierungs-Workshops dokumentiert.
+
+=== Vorbereitung, Durchführung und Protokollierung der Usability Tests <ut-preparation>
+Die Usability Tests wurden in Anlehnung an #cite(<us-ux>, form: "prose") vorbereitet und durchgeführt.
+Dabei wurde ein Leitfaden erstellt, der um die Wissensziele bereinigt den Testpersonen ausgehändigt wurde und im Anhang unter @ut-leitfaden zu finden ist.
+Die Usability Tests wurden einzeln durchgeführt sowie protokolliert.
+Die Protokolle sind ebenfalls im Anhang unter @ut-protocols zu finden. 
 
 === Vorbereitung Usability Tests <ut-preparation>
 
