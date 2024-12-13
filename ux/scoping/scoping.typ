@@ -4,7 +4,7 @@ Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
 Die erarbeiteten Artefakte wurden mit dem "Proto-" Präfix versehen, um ihre vorläufige Natur zu kennzeichnen.
 
 == Vorgehen
-Der Scoping-Workshop fand am 21.09.2024 statt und dauerte 5 Stunden.
+Der Scoping-Workshop fand am 21.09.2024 statt und dauerte insgesamt 10.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit sowie der Inhaber und Haupt-Maintainer des Tools.
 Der Workshop diente dazu, den Projektauftrag zu klären, Annahmen sichtbar zu machen und hypothetische Nutzende zu identifizieren.
 Als Methoden wurden Brainstorming zu den einzelnen Kategorien des Problem-Statements (einsam und gemeinsam), Diskussionsrunden und Mapping eingesetzt.

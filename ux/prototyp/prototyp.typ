@@ -5,7 +5,7 @@ Die Grundlage zur Erstellung des Prototypen wurde bereits in den beiden vorherig
 Es fand in diesem Workshop keine weitere Anpassung des Konzepts statt.
 
 == Vorgehen
-Der Prototyp-Workshop fand vom 16.11. bis zum 6.12.2024 statt.
+Der Prototyp-Workshop fand vom 16.11. bis zum 6.12.2024 statt und dauerte insgesamt 62 Stunden.
 Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen High-Fidelity-Prototypen umgesetzt.
 Die Umsetzung erfolgte gemäss den im Konzept-Workshop definierten Phasen, dabei wurde die Hauptarbeit von Stefanie Jäger übernommen.
 Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erstellte und die Ergebnisse der einzelnen Phasen testete und reviewte.
