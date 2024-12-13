@@ -1,5 +1,6 @@
 #set heading(numbering: "1.")
 #set page(numbering: "1")
+#set text(lang: "de")
 #show bibliography: set heading(numbering: "1.")
 
 // 2.1 Titelblatt
@@ -9,6 +10,7 @@
 
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
+// -- DONE
 #include "abstract.typ"
 
 // 2.3 Management Summary
@@ -17,6 +19,7 @@
 // - Ausgangslage
 // - Vorgehen & Technologien
 // - Ergebnisse (ev. kleiner Ausblick)
+// -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
 
 // 2.4 Inhaltsverzeichnis
@@ -44,9 +47,9 @@
 // -- DONE IN INTRO
 
 #pagebreak()
+
 #include "intro/intro.typ"
 
-// TODO: Passen hier die Methoden rein? Eigentlich das Hauptvorgehen, oder?
 
 #include "ux/ux.typ"
 
@@ -57,21 +60,23 @@
 
 // 2.10 Anforderungen (Requirements)
 // Diese werden aus der Aufgabenstellung sowie Ihrer Analyse abgeleitet. Funktionale Anforderungen (FA) können zum Beispiel als Use Cases oder User Stories beschrieben werden. Alle relevanten nichtfunktionalen Anforderungen (NFA) und Qualitätsattribute sollten abgedeckt sein. Bleiben Sie kurz und sachlich und wenden Sie die erlernten Techniken aus den Software-Engineering Modulen an. Stellen Sie insbesondere sicher, dass Anforderungen (auch NFA) überprüfbar sind und plattform- und technologieneutral sind.
+// -- DONE IN SYNTHESE
 
 // 2.12 Vorarbeiten
 // Bei Fortsetzungsarbeiten (auch von Ihnen selbst) muss klar erkenntlich sein, was in dieser Arbeit erstellt wird und was bereits durch die Vorgängerarbeit vorgegeben war.
 // Stellen Sie sich folgende Fragen:
 // • Was wurde in den Vorarbeiten erreicht, was fehlt noch (jedoch ohne Wertung)?
 // • Worin unterscheidet sich Ihre Arbeit von den vorherigen?
+// -- DONE, SINCE WE ARE DOING A PROTOTYPE AND DOCUMENT THE CHANGES IN THE PROTOTYPE
 
 // 2.13 Design / Architektur
 // Beschreibung Ihrer Konzepte und Lösung sowie der Architektur. Bleiben Sie möglichst plattformneutral und technologieübergreifend. Begründen Sie Entscheide (auf welche anderen Lösungsoptionen haben Sie bewusst verzichtet und wieso?). Zeigen Sie auf, wie Qualitätsattribute und NFAs sichergestellt werden. Das Kapitel kann in Internes Design (Subsysteme, Komponenten, Klassen) und Externes Design (UI) unterteilt werden. Setzen Sie beispielsweise UML-Diagramme mit Erläuterungen ein und verzichten Sie wenn möglich auf Code-Listings (siehe Implementation).
+// WE DONT NEED THIS CHAPTER
 
-// 2.14 Implementation
-// Beschreibt ausgewählte und interessante Implementationsaspekte sowie die verwendeten oder entwickelten Technologien (Algorithmen, Datenstrukturen usw.) und Abhängigkeiten (Frameworks, Libraries usw.). Ebenfalls wird in diesem Kapitel das Testing beschrieben. Verwenden Sie nur Codebespiele, wenn diese sinnvoll sind und etwas zur Erläuterung beitragen. Zudem sollten diese kurz und stark vereinfacht sein (z. B. Includes/Import sowie unwichtige Teile weglassen oder nur als Kommentar erwähnen).
 
 // 2.15 Ergebnisse / Resultate
 // Ergebnisse der Arbeit: Was wurde erreicht, was wurde nicht erreicht? Stellen Sie einen konkreten Bezug zu den Anforderungen (FA, NFA) her und verknüpfen Sie diese mit Ihren Ergebnissen. Bleiben Sie objektiv und nehmen Sie (noch) keine Wertung Ihrer Arbeit vor (siehe «Schlussfolgerungen»).
+// DONE IN UX-VALIDIERUNG
 
 // 2.16 Schlussfolgerungen und Ausblick
 // Ergebnisdiskussion: In der Schlussfolgerung werden die Ergebnisse reflektiert und von Ihnen bewertet. Somit wird die Zielerreichung gemessen (Abgleich mit «Aufgabenstellung» und «Ziel der Arbeit») und ein Vergleich mit anderen/vorherigen Lösungen hergestellt. Die Schlussfolgerungen bilden einen wichtigen Abschnitt eines Berichts und sollen daher sorgfältig ausgearbeitet sein.
@@ -81,7 +86,8 @@
 // • Was wurde nicht oder noch nicht genügend gut erreicht?
 // • Was bleibt noch zu tun?
 // • Welche neuen Fragestellungen ergeben sich aus Ihrer Arbeit?
-
+#pagebreak()
+#include "schlussfolgerung.typ"
 // 2.17 Projekt- und Zeitmanagement
 // Das Projekt- und Zeitmanagement umfasst folgende Teile:
 // • Vorgehen im Projekt (Prozess, Reviews, Workflows)
@@ -89,13 +95,22 @@
 // • Qualitätssicherung (Test-Philosophie, Definition-of-Done, CI/CD Pipelines …)
 // • Risikoanalyse und Risikomanagement
 // • Zeiterfassung: Stunden pro Woche, Stunden pro Person, Stunden pro Kategorie (Implementation, Doku, Meeting etc.). Bei Teamarbeiten sollte klar ersichtlich sein, wer für welchen Teil der Arbeit verantwortlich war und wieviel Zeit dafür aufgewendet hat.
+#pagebreak()
+#include("project-plan/project-plan.typ")
 
 // 2.18 Literaturverzeichnis / Bibliography
 // Im Literaturverzeichnis sind alle verwendeten Quellen (Bücher, Publikationen, URL, evtl. auch Hinweise auf Gespräche oder Interviews) aufgeführt. Für Referenzen aus dem Internet soll eine kommentierte und datierte URL angegeben werden (vermeiden Sie URLs direkt im Fliesstext der Arbeit). Verwenden Sie einen allgemein bekannten Zitierstil (z. B. APA oder MLA) und bleiben Sie konsistent.
-#bibliography("bibliography.bib", style: "apa")
+
+#bibliography("bibliography.yml", style: "apa")
 
 // 2.19 Abbildungs- und Tabellenverzeichnis, Code-Listings
 // Nummerierte Verweise auf alle in der Arbeit vorkommenden Abbildungen, Tabellen und Listings (Codebeispiele) unter Angabe der entsprechenden Seitenzahl.
+#pagebreak()
+#outline(
+  title: [Abbildungsverzeichnis],
+  target: figure.where(kind: image),
+)
+#pagebreak()
 // 2.20 Operationelle Hinweise
 // Vor allem bei Softwareprojekten: Gehen Sie auf folgende Punkte ein (bei grösserer Dokumentation verweisen Sie auf den Anhang).
 // • Verwendete SDK, IDE und Werkzeuge
@@ -120,3 +135,4 @@
 // • Persönlicher Bericht (selbstkritische Reflexion der Studierenden zu ihren Erfahrungen bei der Arbeit)*
 // • Projektpläne, Risikoanalysen, Zeiterfassung*
 // * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
+#include("appendix/appendix.typ")

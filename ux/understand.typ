@@ -1,8 +1,8 @@
 = Phase 1: Verstehen
-Diese Phase befasst sich, wie es ihr Name bereits vermuten lässt, mit dem Verstehen des Problemraums.
-Als Ergebnis der drei untergeordneten Workshops wird ein empirisch validiertes Verständnis des Problemraums erarbeitet. 
-Dieses Verständnis wird in Form der validierten Artefakte Persona, User Journey, Problem-Statement und einer Task Analysis festgehalten.
-Das vertiefte Verständnis des Problemraums wird in der Phase 2: Erkunden genutzt, um passende Lösungsansätze zu entwickeln.
+Diese Phase befasste sich, wie es ihr Name bereits vermuten lässt und wie #cite(<cuxd>, form:"prose") es in ihrem CUXD-Vorgehensmodell definieren, mit dem Verstehen des Problemraums.
+Als Ergebnis der drei untergeordneten Workshops wurde ein empirisch validiertes Verständnis des Problemraums erarbeitet. 
+Dieses Verständnis wurde in Form der validierten Artefakte Persona, User Journey, Problem-Statement und einer Task Analysis festgehalten.
+Das vertiefte Verständnis des Problemraums wurde in der Phase 2: Erkunden genutzt, um passende Lösungsansätze zu entwickeln.
 
 #include("scoping/scoping.typ")
 #include("research/research.typ")

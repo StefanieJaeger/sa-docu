@@ -9,17 +9,17 @@ Der Prototyp-Workshop fand vom 16.11. bis zum 6.12.2024 statt.
 Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen High-Fidelity-Prototypen umgesetzt.
 Die Umsetzung erfolgte gemäss den im Konzept-Workshop definierten Phasen, dabei wurde die Hauptarbeit von Stefanie Jäger übernommen.
 Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erstellte und die Ergebnisse der einzelnen Phasen testete und reviewte.
-Dabei entstand der funktionale High-Fidelity-Prototyp, der auf der Webseite #link("https://sa.lost.university") erreichbar ist.
 
 == Resultate
-Die Resultate des Prototyp-Workshops sind der zuvor erwähnte funktionale High-Fidelity-Prototyp sowie die Validierungs-Map.
+Die Resultate des Prototyp-Workshops sind der funktionale High-Fidelity-Prototyp sowie die Validierungs-Map, auf die im Folgenden eingegangen wird.
 
 === Funktionaler High-Fidelity-Prototyp
-Der Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
-Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: verschieben und verlinken].
+Den Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
+Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
+Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: packet_1 etc. Streamlinen, verschieben und verlinken].
 // TODO: Meine Bemerkungen zum Code und Data in Anhang verschieben und hier verlinken.
 
-Nachfolgend sind Bilder des funktionalen High-Fidelity-Prototypen abgebildet:
+Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Prototypen erläutert.
 
 *Erweiterte Übersicht mit Validierung*
 In der nachfolgenden Grafik ist die erweiterte Übersicht mit Validierung abgebildet:
@@ -30,7 +30,7 @@ Der Unterschied darin liegt einerseits im verwendeten Icon und andererseits in d
 Warnhinweise weisen lediglich ein Info-Icon auf, während Fehlerhinweise ein Ausrufezeichen-Icon aufweisen und das Modul zusätzlich rot umrandet ist.
 
 Weiter wurde das Farbschema leicht überarbeitet, um rot als primäre Farbe für Fehler nutzen zu können.
-Dafür wurde die Kategorienfarbe von "Mathematik und Physik" von rot auf dunkelblau geändert.
+Dafür wurde die Farbe der Kategorie "Mathematik und Physik" von rot auf dunkelblau geändert.
 
 In der untenstehenden Grafik sieht man den globalen Fehlerbereich erweitert:
 #figure(image("Validierung-ausgeklappt.png"), caption: ["Globaler Fehlerbereich erweitert"]);

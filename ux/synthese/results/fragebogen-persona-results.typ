@@ -2,7 +2,7 @@
 Nachfolgend sind die zusammengefassten Ergebnisse der durchgeführten Fragebogenstudie aufgeführt.
 Die Tabelle mit den gesamten Antworten ist im Anhang zu finden. [TODO: Erstellen & Verlinken]
 
-Die Antworten der beiden Fragebögen wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von Hsieh & Shannon, 2005,[TODO: Quelle korrekt angeben und verlinken] einer induktiven Inhaltsanalyse unterzogen.
+Die Antworten der beiden Fragebögen wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von #cite(<qualitative-content-analysis>, form: "prose") einer induktiven Inhaltsanalyse unterzogen.
 Dies, um unvoreingenommen alle möglichen Personen des Nutzendenkreises zu erfassen und nichts zu verpassen.
 Weiter wurden interessante Aspekte und Interpretationen daraus gezogen und im weiteren Studienverlauf berücksichtigt.
 
@@ -17,7 +17,7 @@ Ebenfalls verfolgen fünf der Teilnehmenden eine Vertiefung.
 Es zeigte sich aber, dass das nicht zwingend dieselben Personen sind: Nicht alle, die einen MSP als Planungsvorlage verwenden, verfolgen auch eine Vertiefung, und nicht alle, die keine Planungsvorlage nutzen, verfolgen keine Vertiefung.
 Eine Planungsvorlage ist demnach nicht zwingend verknüpft mit einer geplanten Vertiefung.
 
-So verwendet keine der zehn Testpersonen die Vertiefung "Cyber Security" zur Planung, jedoch verfolgt eine Person diese Vertiefung. Dies ist in den beiden unten aufgeführten Grafiken [Verlinkung] ersichtlich. 
+So verwendet keine der zehn Testpersonen die Vertiefung "Cyber Security" zur Planung, jedoch verfolgt eine Person diese Vertiefung. Dies ist in den beiden folgenden Grafiken ersichtlich:
 
 #figure(image("MSP-als-Vorlage.png", height: 20%), caption: [Antworten auf die Frage: "Welchem Musterstudienplan folgst du als Vorlage für die Planung deines Studiums?"])
 #figure(image("Vertiefung.png", height: 20%), caption: [Antworten auf die Frage: "Welchen Schwerpunkt/welche Vertiefung verfolgst du?"])
