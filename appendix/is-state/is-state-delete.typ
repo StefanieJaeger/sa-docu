@@ -3,15 +3,11 @@
 #set heading(numbering: "1.")
 
 = Ist-Zustand
-[TODO: Kürzeren Text für Hauptteil schreiben, Details wie JSON-Struktur in Anhang. Grundlage für Interviews technischer Natur.]
-
 Das ursprüngliche Projekt, auf welchem diese Studienarbeit aufbaut, kann als öffentliches GitHub Repository eingesehen werden unter: #link("https://github.com/lost-university/web").
 
 Es wurde entschieden, einen Fork des Originalprojekts zu erstellen, um prototypische Anpassungen unabhängig vornehmen zu können. Dadurch wird sichergestellt, dass spätere Änderungen am Originalprojekt, die nach Beginn der Semesterarbeit erfolgen, keinen Einfluss auf den Entwicklungsprozess haben. 
 
 Ein weiterer Vorteil eines Forks gegenüber einem Branch ist die einfachere Handhabung des Hostings (siehe @hosting).
-
-== Architektur
 
 === Daten
 

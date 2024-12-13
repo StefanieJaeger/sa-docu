@@ -10,13 +10,14 @@ Vor Beginn der Studienarbeit wurde mit dem Haupt-Maintainer und Owner des Reposi
 == Technologien und Hosting
 Das ursprüngliche Projekt, auf welchem diese Studienarbeit aufbaut, kann als öffentliches GitHub Repository unter: #link("https://github.com/lost-university/web") eingesehen werden.
 
-Die Applikation selbst ist eine #gls("spa"), entwickelt mit Vue.
+Die Applikation selbst ist eine Single-Page-Webanwendung (Abkürzung: SPA) 
+#gls("spa") [TODO: wie genau abkürzungen darstellen?], entwickelt mit Vue.
 Anstelle von JavaScript wird dabei TypeScript verwendet.
 Die Icons stammen von #gls("fontawesome"), während das Styling überwiegend mit #gls("tailwind") umgesetzt wird.
 Als Build-Tool kommt #gls("vite") zum Einsatz.
 
 Die Applikation wird über #gls("githubPages") gehostet.
-Da sie lediglich eine #gls("spa") ohne Backend ist, entfallen somit jegliche Kosten für das Hosting.
+Da sie lediglich eine SPA ohne Backend ist, entfallen somit jegliche Kosten für das Hosting.
 Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://github.com/lost-university/data").
 
 == Datenstruktur

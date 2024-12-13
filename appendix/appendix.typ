@@ -1,7 +1,7 @@
 = Anhang
 
-// #include("is-state/is-state.typ") // TODO erstellen
-// #pagebreak()
+#include("is-state/is-state.typ")
+#pagebreak()
 #include("research-workshop/leitfäden.typ")
 #pagebreak()
 #include("research-results/research-results.typ")
