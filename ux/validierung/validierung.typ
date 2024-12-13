@@ -25,10 +25,6 @@ Dabei wurde ein Leitfaden erstellt, der um die Wissensziele bereinigt den Testpe
 Die Usability Tests wurden einzeln durchgeführt sowie protokolliert.
 Die Protokolle sind ebenfalls im Anhang unter @ut-protocols zu finden. 
 
-=== Vorbereitung Usability Tests <ut-preparation>
-
-// todo: Laura
-
 === Resultate der Usability Tests
 Die Auswertung der Usability Tests sowie die Struktur dieses Unterkapitels lehnen stark an das vorgeschlagene Vorgehen von #cite(<us-ux>, form: "prose") zum Thema Usability-Tests auswerten.
 
@@ -225,115 +221,14 @@ Diese Lösung bringt mehr Klarheit und Kontrolle für Nutzende. Sie führt jedoc
 In dieser Lösung erhält jede Aktion einer Fehlermeldung einen Unterpunkt. Der Unterpunkt beschreibt die Aktion genauer und bietet einen Button mit passendem Icon an.
 Diese Lösung erklärt die Aktionen während die Buttons nicht mit Text aufgeblasen werden. Die Fehlermeldung muss dafür grösser gestaltet werden und könnte somit in ausgeklapptem Zustand mehr Informationen als zuvor verdecken.
 
-=== Fazit
+=== Vollständige Validierungs-Map
+Die nachfolgende Grafik zeigt die durch den Validierungs-Workshop vervollständigte Validierungs-Map:
+#figure(image("Validierungsmapping_vollst.jpg"), caption: ["Vollständige Validierungs-Map"])
+
+== Fazit
 Mit dem funktionalen Prototypen konnte gezeigt werden, dass die Lösungskonzepte grundsätzlich funktionieren und die gestellten Anforderungen erfüllen.
 
 Die fünf Probleme mit dem Schweregrad 2 stellen jedoch die wichtigsten Herausforderungen dar, die in der nächsten Iteration als erstes behoben werden sollten.
 Darüber hinaus sollten die häufigsten Probleme, bei denen "etwas unklar ist", angegangen werden, da sie das grösste Verbesserungspotenzial bieten.
 Besonders wichtig ist dies, da unsere Persona "Felix" die Schwierigkeit hat, dass Unübersichtlichkeit sein Vertrauen in die Korrektheit der Daten im SLCM beeinträchtigt [TODO: Verlinkung zur Persona in der Synthese].
 Um zu verhindern, dass diese Herausforderung auch auf den Semesterplaner übertragen wird, müssen die Probleme der Kategorie "Etwas ist unklar" sowie Unklarheiten bei der Fehlerbehebung vor einem möglichen Deployment gelöst werden.
-
-//TODO: Validierungsmapping aktualisieren und vervollständigen
-// todo: evtl als Fazit, dass unseri Wissesziel nit alles abdeckt hend? Drum hend mer Problem, wo zu keim ghöre. ZB Ob d Aktione us de globale Meldig verständlich sind.
-
-
-// - Übertrittmodul
-//   - Kein Close Button 1 5
-//     C: 2
-//     V: 2
-//   - Zu viele Buttons nötig 1 3 4 5
-//     C: 4
-//     V: 3
-//   - Tabs etwas unklar 1
-//     C: 1
-//     V: 2
-//   - Nur eine Kategorie 1 2 3 5
-//     C: 4
-//     V: 3
-//   - "+" zum Öffnen 2 3
-//     C: 2
-//     V: 2
-//   - Mehr Info/Begriff unklar 2 3 5
-//     C: 3
-//     V: 2
-//   - Darstellung nicht schön 3 5
-//     C: 2
-//     V: 1
-// - Hinzufügen über Kategorie
-//   - Mehr als nur nächstmögliches 1 2 3 5
-//     C: 4
-//     V: 2
-//   - Andere Kategorien nicht nötig 2 5
-//     C: 2
-//     V: 1
-// - Hinzufügen über Vertiefung
-//   - Mehr als nur nächstmögliches 1 2 3 5
-//     C: 4
-//     V: 2
-// - Validierung
-  // - Tooltip brauch lange 1 3 4
-  //   C: 3
-  //   V: 2
-  // - Globale Info nicht gesehen 1 3 5
-  //   C: 3
-  //   V: 1
-  // - Toggle nicht gsehen/nicht genutzt 1 2 3 5
-  //   C: 4
-  //   V: 1
-  // - Übertrittsmodul nicht in global 2 4
-  //   C: 2
-  //   V: 2
-  // - Mehr Info, was Aktion tut/tat 3 4 5
-  //   C: 3
-  //   V: 2
-  // - Markierung am Semester 5
-  //   C: 1
-  //   V: 2
-// - Semester
-//   - Markierung von aktuellem/altem 2 4 5
-//     C: 3
-//     V: 2
-//   - Abgeschlossene zu klappen 2
-//     C: 1
-//     V: 1
-//   - Name vor Nummer 5
-//     C: 1
-//     V: 2
-// - Suche
-//   - Erschlagend 2
-//     C: 1
-//     V: 2
-//   - Mühsam, alle zuklappen zu müssen 2
-//     C: 1
-//     V: 3
-//   - Je nach Browser anders (Edge) 4
-//     C: 1
-//     V: 2
-//   - Infos zu klein 4
-//     C: 1
-//     V: 2
-// - Kategorie
-//   - Lieber, wie viele noch geplant 3
-//     C: 1
-//     V: 1
-//   - Button und Progressbar nicht schön 3 5
-//     C: 2
-//     V: 1
-//   - Farbe nur sichtbar, wenn schon was erreicht 5
-//     C: 1
-//     V: 2
-//   - GWR - IKTS und GWR 5
-//     C: 1
-//     V: 2
-// - Studienordnung
-//   - Name der Verlinkten 5
-//     C: 1
-//     V: 2
-
-// - Positives
-//   - Validierung 1 2 3 4 5
-//   - Farben 1 2 4 5
-//   - Übertrittsmodule 2 4 5
-
-
-
