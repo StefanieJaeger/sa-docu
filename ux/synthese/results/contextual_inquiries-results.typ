@@ -1,4 +1,4 @@
-= Resultate der Contextual Inquiries
+= Resultate der Contextual Inquiries <ci_results>
 
 Im Rahmen der durchgeführten Contextual Inquiries konnten die verschiedenen Herangehensweisen der Testpersonen bei der Planung ihres Studiums dokumentiert werden.
 Trotz individueller Unterschiede in der Planung und Nutzung des Semesterplaners lassen sich wiederkehrende Muster und Ansätze identifizieren, die im Folgenden zusammengefasst dargestellt werden:
@@ -13,7 +13,7 @@ Oft wurde der Musterstudienplan (MSP) der jeweiligen Vertiefung als Ausgangspunk
 *Überprüfung bestehender Pläne*
 
 Ein zentraler Aspekt der Planung war die regelmässige Überprüfung der bestehenden Pläne.
-Dabei wurde überprüft, ob alle Anforderungen des Studiengangs, insbesondere die Erreichung der ECTS-Punkte in den jweiligen Kategorien, erfüllt werden.
+Dabei wurde überprüft, ob alle Anforderungen des Studiengangs, insbesondere die Erreichung der ECTS-Punkte in den jeweiligen Kategorien, erfüllt werden.
 Einige Testpersonen kontrollierten dies direkt im Semesterplaner, während andere spezifische Modulübersichten im SLCM nutzten.
 Es wurde zudem sichergestellt, dass geplante Module den individuellen Interessen entsprechen.
 Das dargestellte Meme wurde von fast allen Testpersonen positiv hervorgehoben.

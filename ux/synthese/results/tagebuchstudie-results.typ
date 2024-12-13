@@ -1,4 +1,4 @@
-= Resultate der Tagebuchstudie
+= Resultate der Tagebuchstudie <dairy_results>
 Die Einträge der Tagebuchstudie wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von #cite(<qualitative-content-analysis>, form: "prose") einer deduktiven Inhaltsanalyse unterzogen.
 Dabei wurde jeder Eintrag mehrmals gelesen und mit passenden Codes versehen.
 Insgesamt wurden 9 Tagebucheinträge von 6 Testpersonen verfasst.

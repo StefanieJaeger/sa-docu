@@ -42,7 +42,7 @@
 - *Datum:* 18. & 21.11.2024
 - *Dauer:* 14 Stunden
 - *Teilnehmende:* beide Autorinnen der Studienarbeit
-- *Ziel:* Konzepte ausarbeiten, Konzeptentscheidung treffen [TODO: checken mit buch]
+- *Ziel:* Konzepte ausarbeiten, Konzeptentscheidung treffen
 - *Methoden:* Design Studio, Diskussionsrunden, Mapping
 - *Werkzeuge:* Miro
 - *Erarbeitete Artefakte:* Keyscreens bisher und neu, Szenario, Reihenfolge Umsetzung Prototyp, Mockups je Phase

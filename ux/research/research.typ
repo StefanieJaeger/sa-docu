@@ -21,15 +21,6 @@ Die folgenden Artefakte wurden im Rahmen des Research-Workshops erstellt und die
 Der Forschungsplan dient als Leitfaden für die Durchführung der geplanten Forschungsmethoden.
 #figure(image("Forschungsplan.jpg"), caption: [Forschungsplan])
 
-=== Leitfaden Contextual Inquiry
-[TODO: Artefakt erstellen & verlinken]
-=== Fragebogen zum Kreis der Nutzenden
-[TODO: Artefakt erstellen & verlinken]
-=== Leitfaden Tagebuchstudie
-[TODO: Artefakt erstellen & verlinken]
-=== Leitfaden Interviews
-[TODO: Artefakt erstellen & verlinken]
-
 == Methoden zur Datenerhebung
 Nachfolgend sind die gewählten Methoden zur Datenerhebung sowie deren Ergebnisse ausgeführt.
 Die Autorinnen entschieden sich für eine anonymisierte Protokollierung der Ergebnisse, um die Anonymität der Studienteilnehmenden zu gewährleisten.
@@ -44,16 +35,16 @@ Das Banner erhielt einen Link zu einem selbst erstellten Microsoft Teams-Channel
 So wurde sichergestellt, dass nur der Ostschweizer Fachhochschule angehörige Personen an der Studie teilnehmen konnten.
 
 Auf den initialen Banner-Aufruf hin haben sich zehn Personen gemeldet und sind dem Teams-Channel beigetreten.
-Als erste Aktion im Teams-Channel wurde der Persona-Fragebogen [TODO: Verlinkung zu Abschnitt?] geteilt, um die Nutzenden zu identifizieren und gleichzeitig die Bereitschaft zur Teilnahme an weiteren Studien zu prüfen.
+Als erste Aktion im Teams-Channel wurde der Persona-Fragebogen @leitfaden-student-persona geteilt, um die Nutzenden zu identifizieren und gleichzeitig die Bereitschaft zur Teilnahme an weiteren Studien zu prüfen.
 So konnten die Autorinnen früh in der Arbeit bereits absehen, mit wie vielen Personen sie in dieser Arbeit weitere Studien durchführen können.
 
-=== Nutzungskontextanalyse
+=== Nutzungskontextanalyse <nutzungskontextanalyse>
 Gemäss #cite(<us-ux>, form: "prose") ist es wichtig, den Kontext der Nutzenden zu verstehen, um die Bedürfnisse und Anforderungen an das Tool zu ermitteln.
 Dabei ist den Nutzenden der Kontext oder die Einflussfaktoren dieses selbst oft nicht bewusst, weshalb man sie dazu nicht direkt fragen kann.
 Daher wurden Methoden zur Datenerhebung gewählt, die es ermöglichen, den Kontext bei der Datenerhebung mit zu erfassen.
 #cite(<us-ux>, form: "prose") nennen hier insbesondere Vor-Ort-Beobachtungen oder Tagebuchstudien als geeignete Methoden, weshalb in dieser Arbeit auf diese zurückgegriffen wird.
 
-==== Contextual Inquiry
+==== Contextual Inquiry <contextual-inquiry>
 Die Contextual Inquiry ist gemäss #cite(<us-ux>, form: "prose") eine Sonderform der Beobachtung und nicht anonym und abgekapselt von den Beobachtenden.
 Oft wird eine Lehrling-Lehrmeister-Beziehung angestrebt, bei der sich der Lehrmeister vom Lehrling Dinge erklären lässt und sich dabei immer wieder auf Beobachtetes beziehen kann @us-ux.
 
@@ -61,7 +52,7 @@ Die Contextual Inquiries im Rahmen dieser Studienarbeit dienen dazu, nebst der B
 Dabei können direkt Rückfragen gestellt werden, um sich Beobachtungen und Intentionen dahinter erklären zu lassen.
 
 ===== Vorbereitung
-Die Vorbereitung der Contextual Inquiries erfolgte durch die Erstellung eines Interviewleitfadens, der die Forschungsfragen zur erstellten Proto-Journey enthielt. [TODO in Anhang verlinken]
+Die Vorbereitung der Contextual Inquiries erfolgte durch die Erstellung eines Interviewleitfadens, der die Forschungsfragen zur erstellten Proto-Journey enthielt, welcher unter @leitfaden-ci im Anhang gefunden werden kann.
 Dabei griffen die Autorinnen auf den von #cite(<cuxd>, form: "prose") beschriebenen Leitfaden zurück, um die Beobachtungsstudie zu strukturieren.
 
 Die Beobachtungsstudie gliedert sich in vier Phasen:
@@ -77,14 +68,14 @@ Ein Test wurde Remote durchgeführt.
 Bei allen Beobachtungen wurde jeweils der Bildschirm sowie das Mikrofon der Testperson aufgezeichnet.
 Dazu wurde zuvor die Einwilligung der Testperson eingeholt.
 
-Die vollständigen Protokolle der Contextual Inquiries sind im Anhang [TODO: Verlinken]zu finden.
+Die vollständigen Protokolle der Contextual Inquiries sind im Anhang unter @ci_appendix zu finden.
 
 Nach den Beobachtungen wurden für jede durchgeführte Beobachtung zusätzlich zu der Beantwortung der Forschungsfragen eine saubere, wortgetreue Transkription inklusive Aktionen der Testpersonen erstellt.
 Dies ermöglichte es den Autorinnen, nebst der detaillierten Definition von Opportunity Areas eine chronologische Zusammenfassung des jeweiligen Vorgehens zu erstellen, um die Journey-Map zu validieren und eine Task Analysis zu erstellen.
 
-Die Ergebnisse finden sich im Kapitel Resultate Contextual Inquiry [TODO: Verlinken].
+Die Ergebnisse befinden sich unter @ci_results.
 
-==== Tagebuchstudie
+==== Tagebuchstudie <tagebuchstudie>
 Gemäss #cite(<us-ux>, form: "prose") ist die Tagebuchstudie eine Methode zur Datenerhebung, bei der die Testpersonen über einen bestimmten Zeitraum hinweg ihre Erfahrungen mit einem Produkt oder einer Dienstleistung dokumentieren.
 #cite(<cuxd>, form: "prose") heben hervor, dass ein wesentlicher Vorteil darin besteht, dass Testpersonen unbeeinflusst von der Beobachtung durch andere mit einem Tool interagieren können und anschließend ihre persönlichen Erfahrungen in ihrem eigenen Tempo festhalten können.
 
@@ -95,7 +86,7 @@ Wichtig ist dabei, dass die Testpersonen ihre Gedanken und Gefühle während der
 Die Vorbereitung der Tagebuchstudie umfasste die Definition der Tagebuchfragen basierend auf den Forschungsfragen.
 Ziel war es, relevante und dennoch leicht verständliche Fragen zu formulieren, um den Aufwand für die Testpersonen möglichst gering zu halten.
 
-Zusätzlich wurde ein einfacher Leitfaden erstellt, der den Testpersonen die Zielsetzung und den Ablauf der Studie erklärte. Dieser Leitfaden, zusammen mit den Fragen, ist im Anhang ("Leitfaden Tagebuchstudie") zu finden [TODO: Verlinken] und angelehnt an den von #cite(<cuxd>, form: "prose") beschriebenen Leitfaden zu Tagebuchstudien.
+Zusätzlich wurde ein einfacher Leitfaden erstellt, der den Testpersonen die Zielsetzung und den Ablauf der Studie erklärte. Dieser Leitfaden, zusammen mit den Fragen, ist im Anhang unter @leitfaden-dairy zu finden und angelehnt an den von #cite(<cuxd>, form: "prose") beschriebenen Leitfaden zu Tagebuchstudien.
 
 Der Link zum Tagebuch wurde den Testpersonen im Teams-Kanal sowie zusätzlich per E-Mail zur Verfügung gestellt.
 
@@ -105,9 +96,9 @@ Die Testpersonen erhielten ein digitales Formular, das sie nach jeder Nutzung de
 Um eine zeitnahe und vollständige Auswertung zu gewährleisten, wurden die Tagebucheinträge bereits eine Woche vor Ende der Studie vorausgewertet.
 In der letzten Erhebungswoche kamen keine neuen Einträge dazu.
 
-Die Ergebnisse finden sich im Kapitel Resultate Tagebuchstudie [TODO: Verlinken].
+Die Ergebnisse befinden sich unter @dairy_results.
 
-=== Persona-Fragebogenstudie
+=== Persona-Fragebogenstudie <persona-fragebogenstudie>
 Mit der Persona-Fragebogenstudie sollen Nutzende identifiziert werden.
 Weiter können die Antworten dazu verwendet werden, um erste Bedürfnisse sowie Verhaltensweisen abzuleiten.
 Der Fragebogen fungierte in dieser Studie als Eintrittstor, um die relevanten Nutzergruppen zu definieren und sicherzustellen, dass alle Personas erfasst werden
@@ -119,7 +110,7 @@ Um die Zugehörigkeit der Studienberater zum Kreis der Personas zu überprüfen,
 
 Die beiden Fragebögen wurden mit Microsoft Forms erstellt.
 Dabei wurde darauf geachtet, dass pro Person nur ein Fragebogen ausgefüllt werden konnte.
-Die Fragebögen sind im Anhang [TODO: Erstellen & Verlinken] zu finden.
+Der Leitfaden zu den Fragebögen ist im Anhang unter @leitfaden-counselor-persona zu finden.
 
 Im Teams-Channel wurde der Link zum Fragebogen sowie eine kurze Erklärung zur Studie geteilt.
 
@@ -129,9 +120,9 @@ Der Fragebogen für die Studienberater wurde diesen direkt per E-Mail versendet,
 Die Fragebogenstudie war im Zeitraum vom 27.09. bis zum 23.10.2024 live geschaltet.
 Die Ergebnisse dienten als Grundlage für die Validierung der erstellten Persona, die in den weiteren Projektphasen verwendet wurde.
 
-Die Ergebnisse finden sich im Kapitel Resultate Persona-Fragebogenstudie [TODO: Verlinken].
+Die Ergebnisse befinden sich unter @counselor-questionnaire-appendix.
 
-=== Interviews technischer Natur
+=== Interviews technischer Natur <technical-interview>
 Um für eine prototypische Umsetzung bestens gewappnet zu sein, haben sich die Autorinnen dazu entschieden, Interviews mit technischem Fokus durchzuführen.
 Dabei wurden gezielt Fragen in Bezug auf die Datenerfassung im SLCM und die Aussagekraft verschiedener abrufbarer Informationen gestellt.
 
@@ -140,6 +131,8 @@ Die Vorbereitung der Interviews umfasste die Erstellung eines Interviewleitfaden
 Dabei wurde gezielt festgelegt, welche technischen Aspekte kritisch sind und welche Fragen diese Themen am besten beleuchten.
 Dies erfolgte anhand der persönlichen Erfahrungen der Autorinnen mit den zur Verfügung stehenden Endpunkten.
 Für die Interviews wurden die Studiengangsleitung des Studiengangs Informatik sowie ein Entwickler des SLCM-Teams rekrutiert.
+Der Leitfaden zu den Interviews ist im Anhang unter @leitfaden-slcm zu finden.
+
 
 ==== Durchführung
 Das erste Interview mit der Studiengangsleitung des Studiengangs Informatik fand am 17.10.2024 statt.
@@ -149,11 +142,11 @@ Die schriftlichen Antworten wurden am 6.11.2024 erhalten.
 Die Interviews wurden frühzeitig durchgeführt beziehungsweise angefragt, um sicherzustellen, dass Ergebnisse direkt in Konzept und Prototyp einfliessen konnten.
 Dadurch wurde eine effiziente Entwicklung eines funktionalen Prototyps ermöglicht, der eine realitätsnahe Erprobung der erarbeiteten Erweiterungen unterstützt.
 
-Die Ergebnisse der Interviews finden sich in Kapitel XY [TODO: Verlinken] und flossen direkt in die weiteren Phasen ein.
+Die Ergebnisse der Interviews befinden sich unter @adunis-results und flossen direkt in die weiteren Phasen ein.
 
 == Fazit
 Die abgerundeten Forschungsmethoden dieser Studie lieferten eine solide Grundlage für den nächsten Workshop.
-Die Ergebnisse der durchgeführten Methoden werden im nächsten Kapitel [TODO: Verlinke] aufgearbeitet und bilden eine Brücke zwischen dem Research- und dem Synthese-Workshop.
+Die Ergebnisse der durchgeführten Methoden werden im nächsten Kapitel aufgearbeitet und bilden eine Brücke zwischen dem Research- und dem Synthese-Workshop.
 
 Die qualitativen Methoden haben sich als besonders wertvoll für die Beantwortung der Forschungsfragen erwiesen.
 Sie ermöglichten ein tiefes Verständnis unterschiedlicher Perspektiven der Nutzenden und lieferten wichtige Impulse für die Weiterentwicklung des Tools.

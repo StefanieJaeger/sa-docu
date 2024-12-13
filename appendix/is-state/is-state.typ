@@ -1,9 +1,9 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
 
-= Ausführungen zum Ist-Zustand
-In diesem Kapitel werden die im Kapitel Ist-Zustand[TODO: Verlinken?] erwähnten Artefakte aufgeführt.
+= Ausführungen zum Ist-Zustand <is-state-appendix>
+In diesem Kapitel werden die im @is-state erwähnten Artefakte aufgeführt.
 
-== Funktionalität
+== Funktionalität <is-state-appendix-features>
 Die im folgenden as User Stories beschriebenen Funktionalitäten bestanden bereits vor Beginn dieser Studienarbeit.
 
 Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vorausgefüllt angezeigt wird, sodass ich diesen als Grundlage für meinen eigenen Plan verwenden und bei Bedarf anpassen kann. Es stehen die Musterstudienpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
@@ -43,7 +43,7 @@ Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vor
 
 #figure(image("Error_Unbekannt.png"), caption: [Die Fehlermeldung bei einem unbekannten Modul in der URL.]) <error_unbekannt>
 
-== Probleme und Bugs
+== Probleme und Bugs <is-state-appendix-bugs>
 Im Folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn dieser Studienarbeit in der Applikation vorhanden waren.
 
 - Suche
@@ -55,7 +55,7 @@ Im Folgenden werden alle Probleme und Bugs dokumentiert, die bereits vor Beginn 
   - Vermutete Inkonsistenzen.
   - Jedes Semester sind manuelle Anpassungen für korrekte Migration notwendig.
 
-== Vorgehensweise Python Crawler
+== Vorgehensweise Python Crawler <is-state-appendix-crawler>
 Das Vorgehen des Crawlers bei der Verarbeitung der Endpunkte ist im Diagramm @crawler ersichtlich.
 #figure(image("Crawler.drawio.png"), caption: [Ablauf des Crawlers]) <crawler>
 
@@ -120,7 +120,7 @@ Für jede Spezialisierung wird anhand der `"spezialisierungen[].url"` eine Anfra
 }
 ```
 
-== Erstellte Datenmodelle Crawler
+== Erstellte Datenmodelle Crawler <is-state-appendix-data>
 Um sicherzustellen, dass die Daten von der Applikation effizient abgefragt und verarbeitet werden können, wird ihr Format entsprechend angepasst. Auf diese Weise werden zudem redundante Daten für die Applikation nicht übernommen.
 
 *Module*

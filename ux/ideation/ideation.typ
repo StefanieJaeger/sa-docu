@@ -1,3 +1,5 @@
+#import "@preview/glossarium:0.4.1": gls
+
 = Workshop: Ideation
 Im Ideation-Workshop wurde, wie von #cite(<cuxd>, form: "prose") in ihrem CUXD-Vorgehensmodell beschrieben, ein umfassender Ideenkatalog erstellt.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
@@ -14,13 +16,13 @@ Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.
 Als erstes wurden zu jeder Opportunity Area How-Might-We-Fragen formuliert.
 Da die Zeit für diese Studienarbeit begrenzt war, wurde anschliessend ein Dot-Voting durchgeführt, um die wichtigsten Opportunity Areas und How-Might-We-Fragen zu identifizieren.
-Die Ideenfindung für das so abgeleitete MVP[TODO: Glossar & Abkürzung] konnte somit zielgerichteter gestaltet werden und in die jeweiligen Thematiken tiefer eingestiegen werden.
+Die Ideenfindung für das so abgeleitete #gls("mvp") konnte somit zielgerichteter gestaltet werden und in die jeweiligen Thematiken tiefer eingestiegen werden.
 Danach wurden in einem 2-3-4 (Abwandlung des 6-3-5, da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten How-Might-We-Fragen generiert.
 
 == Workshop-Resultate
 Nachfolgend werden die wichtigsten Ergebnisse des Ideation-Workshops vorgestellt.
 
-=== How-Might-We-Fragen und wichtigste Opportunity Areas (MVP)
+=== How-Might-We-Fragen und wichtigste Opportunity Areas (#gls("mvp"))
 Die nachfolgende Grafik zeigt die erarbeiteten How-Might-We-Fragen sowie die Regeln für das Dot-Voting:
 
 #figure(image("How-Might-We-Dot.jpg"), caption: [How-Might-We-Fragen])
@@ -57,7 +59,7 @@ Die meistversprechenden wurden im Anschluss in einem Design Studio weiter ausgea
 
 Die Ideen wurden nachfolgend direkt diskutiert, wobei die Autorinnen bereits bewusst in den Konzept-Workshop vorgriffen, um die vielversprechendsten Ideen zu identifizieren.
 
-Die kompletten Artefakte des Ideation-Workshops sind im Anhang zu finden [TODO: In Anhang tun und verlinken].
+Die kompletten Artefakte des Ideation-Workshops sind im Anhang unter @ideation-appendix zu finden.
 Nachfolgend werden die wichtigsten Ideen kurz vorgestellt.
 
 ==== Planvalidierung
@@ -172,4 +174,4 @@ Die Anzeige der Semesterdurchführung in der modulsuche vereinfacht die Überpr�
 == Fazit
 Der Ideation-Workshop brachte eine Vielzahl von Ideen hervor, die im Anschluss systematisch mit den technischen Erkenntnissen aus den Interviews zu SLCM und Datenstruktur sowie dem bereits vorhandenen Wissen über die technische Struktur und den vorhandenen Code des Tools abgeglichen wurden.
 Dieser Abgleich diente dazu, die Umsetzbarkeit der Ideen mittels einem funktionalen Prototyp sicherzustellen.
-Das ausgearbeitete MVP-Konzept wird im nächsten Kapitel vorgestellt.
+Das ausgearbeitete #gls("MVP")-Konzept wird im nächsten Kapitel vorgestellt.

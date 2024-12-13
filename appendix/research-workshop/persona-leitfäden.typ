@@ -1,4 +1,4 @@
-= Nutzendenumfrage: Fragebogen für Studierende
+= Nutzendenumfrage: Fragebogen für Studierende <leitfaden-student-persona>
 == Einleitung
 Mit den folgenden Fragen hilfst du uns, den beabsichtigten Nutzerkreis genauer zu verstehen.
 Vielen Dank schon im Voraus für deine Mithilfe! Stefi & Laura
@@ -47,7 +47,7 @@ Bitte bewerte die nachfolgenden Aussagen, damit wir uns einen besseren Überblic
 
 #pagebreak()
 
-= Nutzendenumfrage: Fragebogen für Studienberatung
+= Nutzendenumfrage: Fragebogen für Studienberatung <leitfaden-counselor-persona>
 
 == Fragen
 + Wie oft führen Sie als Studienberater Gespräche mit Studierenden, bei denen es um deren Modulplanung für die kommenden Semester geht? _Laut Reglement müssten ja alle Studierenden, die vom Musterstudienplan abweichen, ein Gespräch mit Ihnen suchen. Wir beobachten aber, dass viele Studierenden dies nicht tun._

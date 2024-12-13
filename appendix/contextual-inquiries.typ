@@ -1,4 +1,4 @@
-= Contextual Inquiries
+= Contextual Inquiries <ci_appendix>
 
 == Protokolle
 Nachfolgend sind die Protokolle der Contextual Inquiries aufgeführt, die im Rahmen der Arbeit durchgeführt wurden.

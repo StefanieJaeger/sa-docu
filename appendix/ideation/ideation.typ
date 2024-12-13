@@ -1,4 +1,4 @@
-= Artefakte Ideation Workshop
+= Artefakte Ideation Workshop <ideation-appendix>
 Nachfolgend sind die vollständigen Artefakte des Ideation Workshops zu finden.
 
 == How Might We & Design Studio
