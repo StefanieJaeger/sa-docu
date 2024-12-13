@@ -1,56 +1,61 @@
 #show figure: set block(breakable: true)
 
 = Workshop: Validierung
-Im Validierungs-Workshop wurden die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
+Im Validierungs-Workshop wurde die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
 Die Ergebnisse wurden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, inwiefern das erarbeitete Lösungskonzept die gestellten Anforderungen erfüllt.
 Dieses Vorgehen basiert auf dem von #cite(<cuxd>, form: "prose") definierten CUXD-Vorgehensmodell.
 Auf eine weitere Iteration der Erkundungsphase im negativen Fall wurde aufgrund der begrenzten Zeit verzichtet.
 
 == Vorgehen
 
-Der Validierungs-Workshop fand vom 3.12. bis zum 8.12.2024 statt.
+Der Validierungs-Workshop fand vom 3.12. bis zum 8.12.2024 statt und dauerte insgesamt 24 Stunden.
 Dabei wurden die Usability-Tests vorbereitet, durchgeführt und ausgewertet.
 Das Ziel der Auswertung war es, vorliegende Unzulänglichkeiten im erarbeiteten Lösungskonzept zu identifizieren sowie Hinweise auf dessen Stärke zu erhalten.
+Den Leitfaden, das den Testpersonen ausgehändigte Dokument sowie die Protokolle der Usability-Tests sind im Anhang zu finden. [TODO: an anfang von vlaidierung im appendix verlinken]
 
-Die Testpersonen für die Usability Tests wurden anhand der initial durchgeführten Umfragen gewählt.
-5 Testpersonen hatten sich innerhalb des Zeitraumes für einen Test zur Verfügung gestellt.
+Die Testpersonen für die Usability Tests wurden anhand der initial durchgeführten Umfrage gewählt.
+Fünf Testpersonen hatten sich innerhalb des Zeitraumes für einen Test zur Verfügung gestellt.
 Mit jeder Person wurde ein Termin an 45 Minuten vereinbart, in dem der Usability Test durchgeführt wurde.
-Laut dem Buch [todo] sollten mit 5 Testpersonen mindestens 55%, durchschnittlich jedoch 85.55% der Probleme abgedeckt werden.
-// (Buch S. 241)
+Da gemäss #cite(<usux>, form: "prose") mit fünf Personen mindestens 55%, durchschnittlich jedoch sogar 85.55% der Usability-Probleme aufgedeckt werden, wurde auf eine weitere Testperson verzichtet.
 
-Der Testperson wurde jeweils ein Dokument ausgehändigt, welches eine Einleitung und die Aufgaben enthielt.
-Das ausgehändigte Dokument kann hier [TODO] gefunden werden.
+Das den Testpersonen ausgehändigte Dokument enthielt eine Einleitung, die Aufgabenstellung sowie die zu testenden Szenarien jeweils auf einer neuen Seite.
+Das Dokument entspricht dem im Anhang zu findenden Leitfaden [TODO: verlinken], dabei wurden die aufgeführten Wissensziele ausgelassen.
 
-Die Szenarien waren an einer normalen Interaktion mit dem Semesterplaner orientiert und sollten diese möglichst gut abdecken.
-Die Protokolle der Tests können hier [TODO] gefunden werden.
+Nach der Durchführung der Usability-Tests sowie deren Protokollierung, welche im Anhang zu finden ist [TODO: zu Protokollen verlinken], wurden die Ergebnisse ausgewertet.
+Diese sind im Nachfolgenden dokumentiert.
 
 == Resultate des Workshops
 
 === Resultate der Usability Tests
+Die Auswertung der Usability Tests erfolgte in starker Anlehnung an das vorgeschlagene Vorgehen von #cite(<usux>, form: "prose").
 
-Die Auswertung ist an das Kapitel "Usability Testing" aus dem Buch angelehnt.
+==== Probleme
+Im Folgenden sind sämtliche aufgetretenen Probleme dokumentiert.
+Jedes Problem ist mit einer ID versehen, um eine spätere Referenzierung zu erleichtern.
 
-Nachfolgend sind alle Usability Probleme, die im Test aufkamen, dokumentiert.
-Sie erhalten je eine ID, um eine spätere Referenzierung zu vereinfachen.
+Der Impact wird anhand der Auswirkung auf den Nutzenden gemessen:
+- 1 steht für eine geringfügige Unannehmlichkeit, die den Erfolg der Aktion nicht beeinflusst.
+- 2 signalisiert eine leichte Verwirrung oder Unsicherheit, beispielsweise durch Unklarheiten oder Abweichungen vom erwarteten Ablauf.
+- 3 weist auf einen erheblichen Einfluss hin, der Nutzende möglicherweise von der Nutzung der Anwendung abhält, etwa durch Fehler oder Frustration.
 
-Ihr Impact wird daran gemessen, wie gross ihre Auswirkung auf den User ist.
-1 steht für eine Unschönheit, die aber das Gelingen der Aktion nicht weiter beeinflusst.
-2 steht für eine leichte Verwirrung oder Unsicherheit beim User, seit dies durch Unklarheit oder eine Abweichung vom erwarteten Ablauf.
-3 steht für einen grossen Einfluss, der die Nutzenden von der Benutzung der Applikation abhalten könnte. Sei dies durch einen Fehler oder durch Auslösen von Frustration.
+Zur Bewertung wird die Anzahl der Vorkommnisse mit dem jeweiligen Impact-Wert multipliziert und anschliessend durch die Gesamtzahl der Testpersonen geteilt:
 
-Dazu wird die Anzahl mit dem Impact multipliziert und anschliessend durch die gesamte Anzahl Testpersonen dividiert.
-Was in dieser Formel resultiert: $("Anzahl" * "Impact") / 5$
-Der Schweregrad kann geringfügig (0), schwer (1) oder kritisch (2) sein.
+$("Anzahl" * "Impact") / 5$
+
+Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
+- geringfügig (0)
+- schwer (1)
+- kritisch (2)
 
 #{
   let problems = (
     ("Übertritt - Close Button fehlt bei Modal", "2", "2", $(2 * 2) / 5 #sym.approx 1$),
-    ("Übertritt - Unnötige Klicks zur Erfassung", "4", "3", $(4 * 3) / 5 #sym.approx 2$),
+    ("Übertritt - Übermässige Klicks zur Erfassung", "4", "3", $(4 * 3) / 5 #sym.approx 2$),
     ("Übertritt - Eindeutige Abgrenzung der Tabs fehlt", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
     ("Übertritt - Unklar, dass mehrere Kategorien wählbar sind", "4", "3", $(4 * 3) / 5 #sym.approx 2$),
     ("Übertritt - Modal mit \"+\" Öffnen ist unklar", "2", "2", $(2 * 2) / 5 #sym.approx 1$),
     ("Übertritt - Begriff \"Übertritt\" ist unklar", "3", "2", $(3 * 2) / 5 #sym.approx 1$),
-    ("Übertritt - Darstellung der Übertrittsmodul ist unschön", "2", "1", $(2 * 1) / 5 #sym.approx 0$),
+    ("Übertritt - Darstellung der Übertrittsmodule ist unschön", "2", "1", $(2 * 1) / 5 #sym.approx 0$),
 
     ("Hinzufügen über Kategorie - Option für spätere Semester fehlt", "4", "2", $(4 * 2) / 5 #sym.approx 2$),
     ("Hinzufügen über Kategorie - Anzeige anderer Kategorien ist unnötig", "2", "1", $(2 * 1) / 5 #sym.approx 0$),
@@ -59,7 +64,7 @@ Der Schweregrad kann geringfügig (0), schwer (1) oder kritisch (2) sein.
 
     ("Validierung - Tooltip erscheint verzögert", "3", "2", $(3 * 2) / 5 #sym.approx 1$),
     ("Validierung - Übertrittsmodul fehlt in der globalen Fehlermeldung", "2", "2", $(2 * 2) / 5 #sym.approx 1$),
-    ("Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind zu unklar", "3", "2", $(3 * 3) / 5 #sym.approx 2$),
+    ("Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind unklar", "3", "2", $(3 * 3) / 5 #sym.approx 2$),
     ("Validierung - Ort des fehlerhaften Moduls ist unklar", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
 
     ("Semester - Unterscheidung zwischen aktuellem, vergangenem und zukünftigem Semester ist unklar", "3", "2", $(3 * 2) / 5 #sym.approx 1$),
@@ -95,18 +100,19 @@ Der Schweregrad kann geringfügig (0), schwer (1) oder kritisch (2) sein.
   )
 }<problems>
 
-3 neue Features wurden von fast allen Testpersonen als sehr positive Ergänzung erwähnt.
-Dies wäre die Validierung, die neuen Farben und die Möglichkeit zur Erfassung von Übertrittsmodulen.
+Drei neue Features wurden von fast allen Testpersonen als sehr positive Ergänzung aufgefasst.
+Diese umfassen die Validierung, die neuen Farben und die Möglichkeit zur Erfassung von Übertrittsmodulen.
 
-Anhand der Protokolle wurde die Erfüllung der Wissensziele ermittelt.
-Ein Wissensziel gilt als nicht-erfüllt, sollten 2 oder mehr Probleme stärkere Probleme haben oder sollte mindestens eine Person gänzlich stecken bleiben?
+==== Wissensziele
+In der folgenden Tabelle sind die Wissensziele aufgeführt, die im Rahmen der Usability-Tests überprüft wurden.
+Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständig gescheitert ist oder zwei oder mehr Personen auf ein Problem gestossen sind.
 
 #figure(table(
   columns: 3,
   [Wissensziel], [Erfüllt?], [Erläuterung zur Erfüllung],
-  [Erkennt Testperson, dass sie die Zahlen ablesen kann und nicht zählen muss?], [Ja], [],
+  [Erkennt Testperson, dass sie die Semesternummer ablesen kann und nicht zählen muss?], [Ja], [],
   [Ist die neue Anzeige der ECTS pro Kategorie selbsterklärend?], [Ja],[],
-  [Wird die Verlinkung zur Studienordnung genutzt?], [Ja],[Einer Testperson war die Studienordnung gar kein Begriff, sie haderte deshalb mit der Aufgabe.],
+  [Wird die Verlinkung zur Studienordnung genutzt?], [Ja],[Einer Testperson war der Begriff und die Bedeutung "Studienordnung" nicht bekannt.],
   [Ist der Zusammenhang des Studiumsstarts und der Verlinkung selbsterklärend?], [Ja],[],
   [Ist das Hinzufügen von Modulen über eine Kategorie verständlich?], [Ja],[],
   [Ist das Suchen nach einem Modul und dessen Kategorie-Zuordnung in der Suche verständlich?], [Ja],[],
@@ -116,42 +122,43 @@ Ein Wissensziel gilt als nicht-erfüllt, sollten 2 oder mehr Probleme stärkere 
   [Ist die direkte Suche nach einem Modul in der Suche verständlich?], [Ja],[],
   [Ist eine Nicht-Auswählbarkeit in der Suche und deren Grund klar?], [Ja],[],
   [Ist die Verknüpfung von angerechneten Modulen zu Übertrittsmodulen klar?], [Ja],[],
-  [Ist die Erfassung von angerechneten Modulen selbsterklärend?], [Nein],[Das Erfassen eines angerechneten Moduls über mehrere Buttons war verwirrend oder mühsam.],
+  [Ist die Erfassung von angerechneten Modulen selbsterklärend?], [Nein],[Der Prozess des Erfassens war verwirrend oder mühsam aufgrund der vielen Buttonklicks.],
   [Ist die Verknüpfung von externen Leistungen zu Übertrittsmodulen klar?], [Ja],[],
-  [Ist die Erfassung von externen Leistungen selbsterklärend?], [Nein],[Das Erfassen einer externen Leistung über mehrere Buttons war verwirrend oder mühsam. Die Möglichkeit mehrere Kategorien auswählen zu können war nicht offensichtlich.],
-  [Ist die Darstellung von Übertrittsmodulen verständlich?], [Ja],[Eine Testperson wünschte sich eine andere Platzierung der Übertrittsmodule und eine Beschriftung der ECTS.],
+  [Ist die Erfassung von externen Leistungen selbsterklärend?], [Nein],[Der Prozess des Erfassens war verwirrend oder mühsam aufgrund der vielen Buttonklicks. Ebenfalls war die Mehrfachauswahl von Kategorien nicht offensichtlich.],
+  [Ist die Darstellung von Übertrittsmodulen verständlich?], [Ja],[Eine Testperson wünschte sich eine andere Platzierung der Übertrittsmodule und ein Label für die ECTS.],
   [Wird das Prinzip der Validierung verstanden?], [Ja],[],
   [Ist der Fehler bei doppelten Modulen (Plan und Übertritt) verständlich?], [Ja],[Fehler bei Übertrittsmodulen werden nicht in der globalen Meldung angezeigt. Tooltip bei Übertrittsmodulen ist nicht explizit genug.],
   [Ist der Fehler bei einem Modul im falschen, offenen Semester verständlich?], [Ja],[],
   [Ist der Fehler bei einem inaktiven Modul in einem offenen Semester verständlich?], [Ja],[],
   [Ist der Hinweis bei einem Modul im falschen, vergangenen Semester verständlich?], [Ja],[Hinweise wurden teils ignoriert.],
   [Ist der Hinweis bei einem inaktiven Modul in einem vergangenen Semester verständlich?], [Ja],[Hinweise wurden teils ignoriert.],
-  [Ist der Hinweis bei einem Modul, das vor oder ohne seine empfohlenen Modulen geplant ist, verständlich?], [Ja],[Hinweise wurden teils ignoriert.],
-  [Konnten alle Fehler behoben werden, sei dies über den Plan oder die Meldung?], [Ja],[],
+  [Ist der Hinweis bei einem Modul, dass empfohlene Module nicht davor eingeplant sind, verständlich?], [Ja],[Hinweise wurden teils ignoriert.],
+  [Konnten alle Fehler behoben werden, sei dies über den Plan oder den globalen Fehlerbereich?], [Ja],[],
   [Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?], [Ja],[],
 ), caption: ["Alle Wissensziele und deren Erreichung"])<wissensziele>
 
 === Erkenntnisse
-Folgende Probleme haben den Schweregrad 2 erreicht und sollten somit bei der Umsetzung der Lösungsvorschläge priorisiert werden.
+Folgende Probleme haben den Schweregrad 2 erreicht und sollen gemäss #cite(<usux>, form: "prose") priorisiert behoben werden.
+Dazu wurde direkt im Validierungs-Workshop ein kurzes Design Studio durchgeführt, um potenzielle Lösungsvorschläge zu erarbeiten.
 
-- *P2* - "Übertritt - Unnötige Klicks zur Erfassung"
-  - *Beschreibung:* Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks nötig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in zusätzlichen, als unnötig wahrgenommenen, Schritten. 
-  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P2_P4 gesehen werden. Neu kann nur noch ein Übertrittsmodul gleichzeitig erfasst werden. Das angerechnete Modul oder die erfasste Leistung kann jedoch über nur einen "Speichern" Button dem Plan hinzugefügt werden. Dafür entfällt die Liste an Übertrittsmodulen unterhalb der Tabs.
+- *P2* - "Übertritt - Übermässige Klicks zur Erfassung"
+  - *Beschreibung:* Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks notwendig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in als unnötig wahrgenommenen Schritten. 
+  - *Lösungvorschlag:* Eine potenzielle Lösung ist in @P2_P4 ersichtlich. Neu kann nur noch ein Übertrittsmodul aufs Mal erfasst werden. Das angerechnete Modul oder die erfasste Leistung kann deshalb über nur einen "Speichern" Button dem Plan hinzugefügt werden. Dafür entfällt die Liste an Übertrittsmodulen unterhalb der Tabs.
 - *P4* - "Übertritt - Unklar, dass mehrere Kategorien wählbar sind"
-  - *Beschreibung:* Beim Erfassen einer externen Leistung können mehrere Kategorien gewählten werden, dies wurde jedoch selten getan. Die Unklarheit kam teils davon, dass die Möglichkeit einer doppelten Kategoriezuteilung eines Moduls nicht bekannt war. Teils aber auch davon, dass das Multiselect nicht als ein solches wahrgenommen wurde.
-  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P2_P4 gesehen werden. Das Label "Kategorien" hat neu einen kleinen Hinweistext "Mehrfachauswahl". Das Multiselect erhält ein Caret, um es klarer als ein solches zu kennzeichnen. In der Liste des Multiselects erhält jeder Eintrag eine leere Checkbox oder eine Checkbox mit Haken, um die Mehrfachauswahl nochmals klarer zu machen.
+  - *Beschreibung:* Beim Erfassen einer externen Leistung können mehrere Kategorien ausgewählt werden, was jedoch nur selten erkannt wurde. Die Unklarheit entstand zum einen dadurch, dass die Möglichkeit, ein Modul mehreren Kategorien zuzuordnen, nicht bekannt war. Zum anderen wurde das Multiselect-Feature nicht immer als solches erkannt.
+  - *Lösungvorschlag:* Eine potenzielle Lösung ist in @P2_P4 ersichtlich. Das Label "Kategorien" hat neu einen kleinen Hinweistext "Mehrfachauswahl". Das Multiselect erhält ein Caret, um es zusätzlich per Icon als ein solches zu kennzeichnen. In der Liste des Multiselects erhält jeder Eintrag eine leere Checkbox oder eine Checkbox mit Haken, um die Mehrfachauswahl auch in der Liste klarer zu gestalten.
 - *P8* - "Hinzufügen über Kategorie - Option für spätere Semester fehlt"
-  - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Kategorie wird dies automatisch in das nächstmögliche Semester eingeplant. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
-  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P8_P10 gesehen werden. Ein Eintrag in der Suche enthält neu nur noch die Durchführung, nicht mehr das nächstmögliche Semester. Ein Klick auf einen Eintrag öffnet das Modal.
+  - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Kategorie wird dies automatisch in das nächstmögliche Semester eingeplant. Testpersonen wünschten sich jedoch oft, dass Modul direkt in einem späteren Semester einplanen zu können, statt es im Nachhinein verschieben zu müssen.
+  - *Lösungvorschlag:* Eine potenzielle Lösung ist in @P8_P10 ersichtlich. Ein Eintrag in der Suche enthält neu nur noch die Durchführung, nicht mehr das nächstmögliche Semester. Ein Klick auf einen Eintrag öffnet ein Modal, über welches das gewünschte Semester zur Einplanung ausgewählt werden kann
 - *P10* - "Hinzufügen über Vertiefung - Option für spätere Semester fehlt"
-  - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Vertiefung kann lediglich das nächstmögliche Semester gewählt werden. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
-  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P8_P10 gesehen werden. Der Button bei einem Modul heisst neu "planen". Ein Klick auf einen Button öffnet das Modal.
-- *P13* - "Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind zu unklar"
-  - *Beschreibung:* Beim Lösen von Fehlern im Plan über die globale Fehlermeldung war Usern oft nicht ganz klar, welche Änderungen eine Aktion nun genau mit sich zieht.
-  - *Lösungvorschlag:* 3 potentielle Lösungen können in @P13-1, @P13-2 und @P13-3 gesehen werden. In einer weiteren Iteration könnte eine der Lösungen gewählt oder eine neue Kombination erarbeitet werden.
+  - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Vertiefung kann lediglich das nächstmögliche Semester gewählt werden. Testpersonen wünschten sich jedoch wie bei dem zuvor ausgeführten Problem *P8*, dass Modul in direkt in einem späteren Semester einplanen zu können, statt es im Nachhinein verschieben zu müssen.
+  - *Lösungvorschlag:* Eine potenzielle Lösung ist ebenfalls in @P8_P10 ersichtlich. Der Button bei einem Modul heisst neu "planen". Ein Klick auf einen Button öffnet dasselbe Modal wie beim Hinzufügen eines Moduls über die Kategorien. 
+- *P13* - "Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind unklar"
+  - *Beschreibung:* Beim Lösen von Fehlern im Plan über die globale Fehlermeldung war Testpersonen oft nicht klar, welche Änderungen eine Aktion ausgelöst hat.
+  - *Lösungvorschlag:* Drei potenzielle Lösungen können in @P13-1, @P13-2 und @P13-3 eingesehen werden. In einer weiteren Iteration der Erkunden-Phase kann eine der Lösungen gewählt oder eine neue Kombination erarbeitet werden, je nach erarbeitetem Konzept.
 
-Erfreulich zu sehen ist, dass diese 5 Probleme auch die nicht erfüllten Wissensziele abdecken.
-Mit deren Behebung wären diese somit höchstwahrscheinlich erfüllt.
+Positiv zu vermerken ist, dass diese fünf Probleme auch die nicht erfüllten Wissensziele betreffen.
+Ihre Behebung würde daher höchstwahrscheinlich dazu führen, dass die Ziele erfüllt werden.
 
 Nachfolgend sind die restlichen 22 Probleme nach der Art des Problems gruppiert.
 
@@ -159,31 +166,31 @@ Nachfolgend sind die restlichen 22 Probleme nach der Art des Problems gruppiert.
 
 Davon betroffene Probleme: P4, P5, P6, P11, P13, P14, P15, P17, P25.
 
-Ein passender Lösungsansatz wäre hier das Ergänzen von kurzen Infotexten, kleinen Hinweisen, farblichen Markierungen und besseren Tooltips.
+Ein geeigneter Lösungsansatz wäre, kurze Infotexte, kleine Hinweise, farbliche Markierungen und aussagekräftigere Tooltips hinzuzufügen.
 
 *Etwas fehlt*
 
 Davon betroffene Probleme: P1, P3, P8, P10, P12, P19, P22, P26.
 
-Ein passender Lösungsansatz wäre hier das Ergänzen des fehlenden Elements.
+Ein geeigneter Lösungsansatz wäre, das fehlende Element hinzuzufügen.
 
 *Etwas ist unnötig*
 
 Davon betroffene Probleme: P2, P9, P16, P18.
 
-Ein passender Lösungsansatz wäre hier das entfernen der unnötigen Elemente. Gegebenenfalls kann dies durch eine Einstellung im Semesterplaner gesteuert werden, um eine höhere Anpassbarkeit anzubieten.
+Ein geeigneter Lösungsansatz wäre, die unnötigen Elemente zu entfernen. Möglicherweise kann dies durch eine Einstellung im Tool gesteuert werden, um eine grössere Anpassungsfähigkeit zu ermöglichen.
 
 *Etwas ist unschön*
 
 Davon betroffene Probleme: P7, P20, P23.
 
-Ein passender Lösungsansatz wäre hier das Verschönern der betroffenen Bereiche. Sei dies durch bessere Kompatibilität mit diversen Browsern oder einer ausgewogenerem Ausrichtung.
+Ein geeigneter Lösungsansatz wäre, die betroffenen Bereiche zu verschönern, etwa durch eine bessere Kompatibilität mit verschiedenen Browsern oder eine ausgewogenere Ausrichtung.
 
 *Zu kleine Informationen*
 
 Davon betroffene Probleme: P21.
 
-Ein passender Lösungsansatz wäre hier eine grössere Darstellung der Informationen, sei dies dauerhaft oder steuerbar durch eine Einstellung im Semesterplaner.
+Ein geeigneter Lösungsansatz wäre, die Informationen in grösserer Darstellung anzuzeigen, entweder dauerhaft oder steuerbar über eine Einstellung im Tool.
 
 ==== Lösungsvorschläge
 
