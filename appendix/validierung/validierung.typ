@@ -13,3 +13,7 @@
 // #include("test_4.typ")
 // #pagebreak()
 // #include("test_5.typ")
+// P8-not-used.jpg
+// P2-not-used-1.jpg
+// P2-not-used-2.jpg
+// P2-not-used-3.jpg

@@ -1,3 +1,5 @@
+#show figure: set block(breakable: true)
+
 = Workshop: Validierung
 Im Validierungs-Workshop wurden die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
 Die Ergebnisse wurden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, inwiefern das erarbeitete Lösungskonzept die gestellten Anforderungen erfüllt.
@@ -58,7 +60,7 @@ Der Schweregrad kann geringfügig (0), schwer (1) oder kritisch (2) sein.
     ("Validierung - Tooltip erscheint verzögert", "3", "2", $(3 * 2) / 5 #sym.approx 1$),
     ("Validierung - Übertrittsmodul fehlt in der globalen Fehlermeldung", "2", "2", $(2 * 2) / 5 #sym.approx 1$),
     ("Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind zu unklar", "3", "2", $(3 * 3) / 5 #sym.approx 2$),
-    ("Validierung - Ort des fehlerhaften Modules ist unklar", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
+    ("Validierung - Ort des fehlerhaften Moduls ist unklar", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
 
     ("Semester - Unterscheidung zwischen aktuellem, vergangenem und zukünftigem Semester ist unklar", "3", "2", $(3 * 2) / 5 #sym.approx 1$),
     ("Semester - Vergangene Semester nehmen unnötig Platz ein", "1", "1", $(1 * 1) / 5 #sym.approx 0$),
@@ -84,11 +86,14 @@ Der Schweregrad kann geringfügig (0), schwer (1) oder kritisch (2) sein.
     cells += el
   }
 
-  table(
-    columns: 5,
-    ..cells
+  figure(
+    table(
+      columns: 5,
+      ..cells
+    ),
+    caption: ["Alle Probleme aus dem Usability Testing"]
   )
-}
+}<problems>
 
 3 neue Features wurden von fast allen Testpersonen als sehr positive Ergänzung erwähnt.
 Dies wäre die Validierung, die neuen Farben und die Möglichkeit zur Erfassung von Übertrittsmodulen.
@@ -96,7 +101,7 @@ Dies wäre die Validierung, die neuen Farben und die Möglichkeit zur Erfassung 
 Anhand der Protokolle wurde die Erfüllung der Wissensziele ermittelt.
 Ein Wissensziel gilt als nicht-erfüllt, sollten 2 oder mehr Probleme stärkere Probleme haben oder sollte mindestens eine Person gänzlich stecken bleiben?
 
-#table(
+#figure(table(
   columns: 3,
   [Wissensziel], [Erfüllt?], [Erläuterung zur Erfüllung],
   [Erkennt Testperson, dass sie die Zahlen ablesen kann und nicht zählen muss?], [Ja], [],
@@ -111,7 +116,7 @@ Ein Wissensziel gilt als nicht-erfüllt, sollten 2 oder mehr Probleme stärkere 
   [Ist die direkte Suche nach einem Modul in der Suche verständlich?], [Ja],[],
   [Ist eine Nicht-Auswählbarkeit in der Suche und deren Grund klar?], [Ja],[],
   [Ist die Verknüpfung von angerechneten Modulen zu Übertrittsmodulen klar?], [Ja],[],
-  [Ist die Erfassung von angerechneten Modulen selbsterklärend?], [Nein],[Das Erfassen eines angerechneten Modules über mehrere Buttons war verwirrend oder mühsam.],
+  [Ist die Erfassung von angerechneten Modulen selbsterklärend?], [Nein],[Das Erfassen eines angerechneten Moduls über mehrere Buttons war verwirrend oder mühsam.],
   [Ist die Verknüpfung von externen Leistungen zu Übertrittsmodulen klar?], [Ja],[],
   [Ist die Erfassung von externen Leistungen selbsterklärend?], [Nein],[Das Erfassen einer externen Leistung über mehrere Buttons war verwirrend oder mühsam. Die Möglichkeit mehrere Kategorien auswählen zu können war nicht offensichtlich.],
   [Ist die Darstellung von Übertrittsmodulen verständlich?], [Ja],[Eine Testperson wünschte sich eine andere Platzierung der Übertrittsmodule und eine Beschriftung der ECTS.],
@@ -124,26 +129,26 @@ Ein Wissensziel gilt als nicht-erfüllt, sollten 2 oder mehr Probleme stärkere 
   [Ist der Hinweis bei einem Modul, das vor oder ohne seine empfohlenen Modulen geplant ist, verständlich?], [Ja],[Hinweise wurden teils ignoriert.],
   [Konnten alle Fehler behoben werden, sei dies über den Plan oder die Meldung?], [Ja],[],
   [Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?], [Ja],[],
-)
+), caption: ["Alle Wissensziele und deren Erreichung"])<wissensziele>
 
 === Erkenntnisse
 Folgende Probleme haben den Schweregrad 2 erreicht und sollten somit bei der Umsetzung der Lösungsvorschläge priorisiert werden.
 
-- P2 - "Übertritt - Unnötige Klicks zur Erfassung"
-  - Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks nötig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in zusätzlichen, als unnötig wahrgenommenen, Schritten. 
-  - // todo: Radio anstatt Tabs, mehr Infos bei Eingaben, Um geeignetes Wording zu finden, empfehlen wir einen Workshop mit Studierenden.
-- P4 - "Übertritt - Unklar, dass mehrere Kategorien wählbar sind"
-  - Beim Erfassen einer externen Leistung können mehrere Kategorien gewählten werden, dies wurde jedoch selten getan. Die Unklarheit kam teils davon, dass die Möglichkeit einer doppelten Kategoriezuteilung eines Modules nicht bekannt war. Teils aber auch davon, dass das Multiselect nicht als ein solches wahrgenommen wurde.
-  - // todo: Lösung
-- P8 - "Hinzufügen über Kategorie - Option für spätere Semester fehlt"
-  - Beim Hinzufügen eines Modules über eine Kategorie wird dies automatisch in das nächstmögliche Semester eingeplant. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
-  - // todo: Lösung
-- P10 - "Hinzufügen über Vertiefung - Option für spätere Semester fehlt"
-  - Beim Hinzufügen eines Modules über eine Vertiefung kann lediglich das nächstmögliche Semester gewählt werden. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
-  - // todo: Lösung
-- P13 - "Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind zu unklar"
-  - Beim Lösen von Fehlern im Plan über die globale Fehlermeldung war Usern oft nicht ganz klar, welche Änderungen eine Aktion nun genau mit sich zieht.
-  - // todo: Lösung (Mehr Text in Button. Gleicher Button, mehr Text vorne dran. Modal mit Auswahl. Liste an Optionen mit Icon-Button. Gemeinsam mit anderen Problemen in weiterer Iteration entscheiden.)
+- *P2* - "Übertritt - Unnötige Klicks zur Erfassung"
+  - *Beschreibung:* Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks nötig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in zusätzlichen, als unnötig wahrgenommenen, Schritten. 
+  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P2_P4 gesehen werden. Neu kann nur noch ein Übertrittsmodul gleichzeitig erfasst werden. Das angerechnete Modul oder die erfasste Leistung kann jedoch über nur einen "Speichern" Button dem Plan hinzugefügt werden. Dafür entfällt die Liste an Übertrittsmodulen unterhalb der Tabs.
+- *P4* - "Übertritt - Unklar, dass mehrere Kategorien wählbar sind"
+  - *Beschreibung:* Beim Erfassen einer externen Leistung können mehrere Kategorien gewählten werden, dies wurde jedoch selten getan. Die Unklarheit kam teils davon, dass die Möglichkeit einer doppelten Kategoriezuteilung eines Moduls nicht bekannt war. Teils aber auch davon, dass das Multiselect nicht als ein solches wahrgenommen wurde.
+  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P2_P4 gesehen werden. Das Label "Kategorien" hat neu einen kleinen Hinweistext "Mehrfachauswahl". Das Multiselect erhält ein Caret, um es klarer als ein solches zu kennzeichnen. In der Liste des Multiselects erhält jeder Eintrag eine leere Checkbox oder eine Checkbox mit Haken, um die Mehrfachauswahl nochmals klarer zu machen.
+- *P8* - "Hinzufügen über Kategorie - Option für spätere Semester fehlt"
+  - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Kategorie wird dies automatisch in das nächstmögliche Semester eingeplant. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
+  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P8_P10 gesehen werden. Ein Eintrag in der Suche enthält neu nur noch die Durchführung, nicht mehr das nächstmögliche Semester. Ein Klick auf einen Eintrag öffnet das Modal.
+- *P10* - "Hinzufügen über Vertiefung - Option für spätere Semester fehlt"
+  - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Vertiefung kann lediglich das nächstmögliche Semester gewählt werden. User wünschten sich jedoch oft, dass Modul noch etwas später einplanen zu können, anstatt es im Nachhinein verschieben zu müssen.
+  - *Lösungvorschlag:* Eine potentielle Lösung kann in @P8_P10 gesehen werden. Der Button bei einem Modul heisst neu "planen". Ein Klick auf einen Button öffnet das Modal.
+- *P13* - "Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind zu unklar"
+  - *Beschreibung:* Beim Lösen von Fehlern im Plan über die globale Fehlermeldung war Usern oft nicht ganz klar, welche Änderungen eine Aktion nun genau mit sich zieht.
+  - *Lösungvorschlag:* 3 potentielle Lösungen können in @P13-1, @P13-2 und @P13-3 gesehen werden. In einer weiteren Iteration könnte eine der Lösungen gewählt oder eine neue Kombination erarbeitet werden.
 
 Erfreulich zu sehen ist, dass diese 5 Probleme auch die nicht erfüllten Wissensziele abdecken.
 Mit deren Behebung wären diese somit höchstwahrscheinlich erfüllt.
@@ -178,20 +183,41 @@ Ein passender Lösungsansatz wäre hier das Verschönern der betroffenen Bereich
 
 Davon betroffene Probleme: P21.
 
-Ein passender Lösungsansatz wäre hier eine grössere Darstellung der Informationen, sei dies dauerhaft oder durch eine Einstellung im Semesterplaner steuerbar.
+Ein passender Lösungsansatz wäre hier eine grössere Darstellung der Informationen, sei dies dauerhaft oder steuerbar durch eine Einstellung im Semesterplaner.
+
+==== Lösungsvorschläge
+
+#figure(image("P2_P4.jpg"), caption: ["Lösungsvorschlag für P2 und P4"])<P2_P4>
+Wie bereits bei P2 und P4 erwähnt, fokussiert sich dieser Lösungsvorschlag auf diese 2 Probleme. Er bietet jedoch auch eine Lösung für 3 weitere Probleme an.
+- P1: Der "Abbrechen" Button bietet einen offensichtlichen Weg zur Schliessung des Modales an.
+- P3: Die Tabs werden durch Radio Options ersetzt.
+- P6: Der Begriff "Übertrittsmodul" wird in einem Tooltip für das "?" Icon erklärt.
+Weiter enthält die Lösung einen kleinen Hinweistext pro Option, der "Speichern" Button ist disabled, bis ein Modul gewählt oder die Felder für eine Leistung korrekt ausgefüllt sind, ein Tooltip für das "?" Icon beim Name enthält einen Hinweis zur maximalen Länge und zu nicht-erlaubten Zeichen.
+Wir empfehlen zudem, einen Workshop mit Studierenden zu machen, um ein gutes Wording für die Hinweistexte, Tooltips und den gesamten Bereich generell zu finden. 
+
+#figure(image("P8_P10.jpg"), caption: ["Lösungsvorschlag für P8 und P10"])<P8_P10>
+Das Modal referenziert das Modul, bietet ein Dropdown für ein Semester an und hat "Abbrechen" und "Einfügen" Buttons. Das Dropdown enthält alle zukünftigen Semester, in denen das Modul eine Durchführung hat, bis zum 14. Semester. Das nächstmögliche Semester ist vorausgewählt. Der Name des Moduls verlinkt zu dessen Modulbeschreibung im SLCM.
+
+#figure(image("P13-1.jpg"), caption: ["Lösungsvorschlag 1 für P13"])<P13-1>
+In dieser Lösung erhalten die Buttons für Aktionen zur Behebung eines Problems mehr Text und passende Icons. Die Modulnamen sollten neu ausgeschrieben werden.
+Diese Lösung bringt mehr Klarheit über die Aktionen mit sich. Jedoch resultiert sich auch in sehr langen Buttons, was wiederum als ungewohnt wahrgenommen werden könnte.
+
+#figure(image("P13-2.jpg"), caption: ["Lösungsvorschlag 2 für P13"])<P13-2>
+In dieser Lösung werden die Aktionen für "Nachfolger einplanen", "verschieben" und "Duplikate entfernen" in Modale ausgelagert. Die Modale enthalten mehr Text und Optionen. "Nachfolger einplanen" bietet neu die Wahl eines Semesters und die Buttons "planen" und "planen und ersetzen" an. "Verschieben" erlaubt ebenfalls die Wahl eines Semesters. "Duplikate entfernen" erlaubt die Auswahl des Duplikates, welches nicht entfernt werden soll. Die Vorauswahl aller Dropdowns bleibt dabei der gleiche Wert, welcher schon zuvor in der Fehlermeldung empfohlen wurde. 
+Diese Lösung bringt mehr Klarheit und Kontrolle für den User. Sie führt jedoch auch zu mehr Klicks, wobei die Fehlermeldung das Ziel hat, die Fehlerbehebung zu vereinfachen.
+
+#figure(image("P13-3.jpg"), caption: ["Lösungsvorschlag 3 für P13"])<P13-3>
+In dieser Lösung erhält jede Aktion eines Moduls einen Unterpunkt. Der Unterpunkt beschreibt die Aktion genauer und bietet einen Button mit passendem Icon an.
+Diese Lösung erklärt die Aktionen und behält dabei die Buttons klein, was diese besser als solche ersichtlich macht. Die Fehlermeldung muss dafür höher gestaltet werden und könnte somit in ausgeklapptem Zustand mehr Informationen als zuvor verdecken.
 
 === Fazit
 
-// todo: Laura please make words pretty
 In einer nächsten Erkunden-Iteration könnte mehr auf die Probleme der Art "Etwas ist unklar" eingegangen werden, da diese am häufigsten auftauchten.
 Die 5 Probleme des Schweregrades 2 haben dabei eine höhere Priorität.
 Die Lösungen zu den Problem sollten in einem Konzept-Workshop vereinheitlicht werden.
 
 // todo: evtl als Fazit, dass unseri Wissesziel nit alles abdeckt hend? Drum hend mer Problem, wo zu keim ghöre. ZB Ob d Aktione us de globale Meldig verständlich sind.
 // Bogen schlagen zu "Unstimmigkeiten im SLCM führen zu Unsicherheiten" -> Sie wollen wissen, was passiert, wenn ein Fehler gelöst wird.
-
-// todo: Task Completion Rate TCR und Time On Task TOT
-
 
 // - Übertrittmodul
 //   - Kein Close Button 1 5
