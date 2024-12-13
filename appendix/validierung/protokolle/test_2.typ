@@ -1,4 +1,4 @@
-= Usability Test 2 <ut_2>
+= Protokoll Usability Test 2 <ut_2>
 
 #grid(
       columns: (1fr, 1fr),

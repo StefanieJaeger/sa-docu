@@ -92,7 +92,7 @@ Von einer Kollegin hast du gehört, dass es einen neuen Weg gibt, um dies im Pla
 Dein Link zum Tool für dieses Szenario: #link("https://sa.lost.university/#/plan/RheKoI_OOP1_AutPy_CN1_DMI_An1I-FP_OOP2_DigCod_CySec_AutoSpr_TecBEC_An2I-WE1_AlgDat_Bsys1_AIFo_Dbs1-WE2_MathFML_DatAna_AIAp_DatEng-PmQm_ML_MsTe_UIP_SEP1_ExEv-DSy_SEProj_SEP2_DigBusI-AppArch_SAI21_WI2-CldSol_BAI21_PhAI?startSemester=HS23")
 
 Im SLCM - ehemalig Adunis - hast du in deinem Leistungsreport neuerdings folgenden Eintrag:
-#figure(image("DigiCamp.png"), caption: [Externe Leistung]) <digicamp>
+#figure(image("DigiCamp.png", width:60%), caption: [Externe Leistung]) <digicamp>
 Du würdest diese Leistung ebenfalls gerne im Plan eintragen.
 
 *Wissensziele*
