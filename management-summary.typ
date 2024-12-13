@@ -25,42 +25,42 @@ Die *Verstehen-Phase* beinhaltete dabei die folgenden Workshops:
 Die *Erkundungs-Phase* umfasste die folgenden Workshops:
 - *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen High-Fidelity-Prototyp als MVP.
 - *Konzept-Workshop:* Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem direkt in die Prototypentwicklung gestartet werden konnte.
-- *Prototype-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale High-Fidelity-Prototyp erstellt.
-- *Validierungs-Workshop:* Es wurde ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wurde. 
+- *Prototyp-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale High-Fidelity-Prototyp erstellt.
+- *Validierungs-Workshop:* Es wurde ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wurde.
 
 == Ergebnisse
 Die Studienarbeit führte zur Entwicklung eines funktionalen High-Fidelity-Prototypen, der die Grundlage für die Weiterentwicklung der Plattform darstellt.
 Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusammengefasst:
 *Validierung der Planung*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Validierung der Planungsfunktionalität ermöglicht es den Studierenden, ihren individuellen Studienplan so zusammenzustellen, das dessen Studierbarkeit gewährleistet ist. Dabei werden insbesondere die Durchführungen, der Status sowie die Modulempfehlungen der einzelnen Module berücksichtigt. 
+- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Lediglich die Nachvollziehbarkeit der vorgeschlagenen Aktionen im globalen Fehlerbereich wurde als verbesserungswürdig identifiziert. 
+#figure(image("validierung76-40.6.png", width: 80%), caption: "Planvalidierung")
 
 *Verwalten von Übertrittsmodulen*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, Leistungen, die ausserhalb des Informatikstudiums erbracht wurden, in den Studienplan zu integrieren. Dabei wird zwischen angerechneten Modulen und externen Leistungen, wie beispielsweise das "Digicamp", unterschieden.
+- *Validierung:* Die Funktionalität wurde als nicht intuitiv bewertet. Die Studierenden hatten Schwierigkeiten mit den Begrifflichkeiten und der Bedienung, welche durch zu viele Schritte und unklare Anweisungen verursacht wurden.
 
 *Semesterbeschriftung*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, auf einen Blick zu wissen, das wievielte Semester ein Semester ist, ohne nachzählen zu müssen.
+- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Semesterbeschriftung ohne Probleme interpretieren und fanden sie hilfreich.
 
 *Berechnung der noch einzuplanenden ECTS pro Kategorie*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, auf einen Blick zu sehen, wie viele ECTS sie pro Kategorie noch einplanen müssen, um die Anforderungen der jeweilig geltenden Studienordnung zu erfüllen.
+- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Berechnung der noch einzuplanenden ECTS pro Kategorie nachvollziehen und fanden diese hilfreich.
 
 *Modulbrowsing nach Kategorie*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, in der Suche nach Modulen diese gruppiert nach Kategorien einzusehen, um so eine bessere Übersicht zu erhalten.
+- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Modulbrowsing-Funktionalität nach Kategorie ohne Probleme nutzen und fanden sie hilfreich.
+#figure(image("suche.jpg", width: 60%), caption: "Modulbrowsing nach Kategorie in der Suche, Constraints Enforcement")
 
 *Direktes Hinzufügen von Modulen*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, Module direkt aus den Bereichen "Vertiefungen" und "Übersicht der ECTS Punkte" in den Studienplan einzuplanen. Dabei werden die Module unter Berücksichtigung der Durchführungssemester jeweils ins nächstmögliche Semester eingefügt.
+- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die direkte Hinzufügen-Funktionalität ohne Probleme nutzen und fanden sie hilfreich. Es wurde jedoch angemerkt, dass die Funktionalität noch verbessert werden könnte, indem die Studierenden die Möglichkeit erhalten, das gewünschte Semester für das Hinzufügen der Module auszuwählen.
+#figure(image("ectsverti.png", width: 60%), caption: "Direktes Hinzufügen von Modulen, erweiterte ECTS-Berechnung")
 
 *Verlinkung zur Studienordnungsbeschreibung*
-- *Beschreibung:*
-- *Validierung:*
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, direkt von der Plattform lost.university auf die entsprechende Studienordnungsbeschreibung zu gelangen, um weitere Informationen zu den Modulen und Kategorien zu erhalten.
+- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Verlinkung zur Studienordnungsbeschreibung ohne Probleme nutzen und fanden sie hilfreich.
 
-[TODO: Wo welche Bilder einfügen?]
-
-Die Ergebnisse der Studienarbeit zeigen, dass die Plattform lost.university durch die Anwendung des gewählten Vorgehensmodells grundlegend verbessert werden konnte.
-Ausblickend auf die Weiterentwicklung der Plattform empfehlen wir, die validierten Funktionalitäten in die bestehende Plattform zu integrieren und die Plattform weiteren Usability-Tests zu unterziehen, um die Benutzerfreundlichkeit weiter zu verbessern.
-#pagebreak()
+Die Ergebnisse der Studienarbeit belegen, dass die Plattform lost.university durch die Anwendung des gewählten Vorgehensmodells signifikant optimiert werden kann.
+Für die zukünftige Weiterentwicklung wird empfohlen, die validierten Funktionalitäten zu implementieren und die Plattform einer weiteren Evaluation durch Usability-Tests zu unterziehen, um die Benutzerfreundlichkeit kontinuierlich zu steigern.
