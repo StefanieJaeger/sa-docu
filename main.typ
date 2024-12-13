@@ -6,6 +6,7 @@
 // 2.1 Titelblatt
 #include "title-page.typ"
 
+
 // TODO: Abstract und Management Summary ohne Nummerierung?
 
 // 2.2 Abstract
