@@ -2,9 +2,9 @@
 
 Es werden stets alle Module in der Suche dargestellt, gruppiert nach ihrer Kategorie.
 Zählt ein Modul zu mehreren Kategorien, ist es auch mehrfach in der Suche enthalten.
-Einzig die Eingabe eines Suchbegriffes filter die Liste auf passende Module.
+Einzig die Eingabe eines Suchbegriffes filtert die Liste auf passende Module.
 
-Ein Eintrag in der Suchliste kann auch disabled sein.
+Ein Eintrag in der Suchliste kann auch deaktiviert sein.
 Je nach Einsatzort der Suche, kann konfiguriert werden, wann ein Eintrag disabled ist.
 
 *Bei einem Semester im Plan*
@@ -22,8 +22,8 @@ Je nach Einsatzort der Suche, kann konfiguriert werden, wann ein Eintrag disable
 
 Das Verhalten ist gleich wie bei einem Semester in der Gegenwart oder Zukunft.
 Die Suche ist aber nicht an eine Durchführung gebunden.
-Hat ein Modul in nächstmögliches Semester und ist enabled, wird dieses Semester im Eintrag dargestellt.
-Hat es jedoch keines, ist es disabled.
+Hat ein Modul ein nächstmögliches Semester und ist aktiviert, wird dieses Semester im Eintrag dargestellt.
+Hat es jedoch keines, ist es deaktiviert.
 
 *Bei Übertrittsmodulen*
 

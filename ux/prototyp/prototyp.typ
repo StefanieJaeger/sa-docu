@@ -12,12 +12,11 @@ Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erst
 Dabei entstand der funktionale High-Fidelity-Prototyp, der auf der Webseite #link("https://sa.lost.university") erreichbar ist.
 
 == Resultate
-Die Resultate des Prototyp-Workshops sind der funktionalen High-Fidelity-Prototyp, der auf der Webseite #link("https://sa.lost.university") erreichbar ist sowie die Validierungs-Map.
+Die Resultate des Prototyp-Workshops sind der zuvor erwähnte funktionale High-Fidelity-Prototyp sowie die Validierungs-Map.
 
 === Funktionaler High-Fidelity-Prototyp
 Der Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
-Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
-Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: Streamlinen, verschieben und verlinken].
+Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: verschieben und verlinken].
 // TODO: Meine Bemerkungen zum Code und Data in Anhang verschieben und hier verlinken.
 
 Nachfolgend sind Bilder des funktionalen High-Fidelity-Prototypen abgebildet:
@@ -65,7 +64,6 @@ Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgef
 Diese beinhaltet das Überprüfen, ob das angerechnete Modul in der URL doppelt vorkommt.
 
 // [Todo: link will nicht?]
-Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Hinzufügen von Übertrittsmodulen*
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
