@@ -34,55 +34,6 @@ Dann kommen wir jetzt zum Test selbst.
 Im Dokument existiert für jede Aufgabe eine Seite.
 Bitte liest die Aufgabe laut vor und versuche, so gut wie möglich, die Frage ausführlich zu beantworten oder die Aktion auszuführen.
 
-_Was ist dein Eindruck nach diesem Test?_
-Der Testperson fielen die vielen Verbesserungen positiv auf.
-
-Sie empfand das Hinzufügen über Kategorien und Vertiefungen als sehr hilfreich.
-
-Sie schätzt auch die Validierung wert.
-
-Am wertvollsten empfindet sie jedoch den Hinweis zu den Empfehlungen.
-Die empfohlenen Module ausfindig zu machen und einzuhalten empfand sie zuvor als einen grossen Zeitfresser.
-
-Sie hätte jedoch gerne eine Markierung, welches Semester das aktuelle ist.
-
-Sie sieht auch den Wert in den Übertrittsmodulen, vor allem für Studierende, die von einer anderen Schule zu dieser wechseln.
-
-Sie würde sich sehr freuen, wenn beim Klick auf das Meme ein Easter Egg ausgelöst werden würde.
-
-_Fiel dir etwas besonders positiv oder negativ auf?_
-Die Testperson empfand die Suche immer noch als etwas heftig, aufgrund ihres Informationsgehaltes.
-Die Darstellung des Namens, der ECTS und des Semesters in einer Linie, dies für jedes Modul, empfindet sie als etwas viel.
-Sie erkennt jedoch auch den Wert dieser Informationen und empfindet die Suche als besser, im Vergleich zu zuvor.
-Sie erwähnt, dass die gerne einstellen würde, wie viele Infos in der Suche enthalten sind.
-
-Sie mag, dass beim Hinzufügen über eine Kategorie die anderen Kategorien zugeklappt sind.
-Sie merkt jedoch an, dass sie die Darstellung der anderen Kategorien gar nicht bräuchte.
-
-Die Testperson empfindet die Information, wie viele ECTS noch zu planen sind, als hilfreich.
-
-_Hast du sonst noch Feedback?_
-Sie empfand die 1. Aufgabe als etwas verwirrend.
-
-Die Tests decken ihre Interaktionen gut ab.
-Einzig das Erstellen eines Planes über einen Musterstudienplan hat sie vermisst.
-
-Sie merkt an, dass ein Hilfe-Symbol für neue User hilfreich sein könnte.
-Dies könnte Features wie etwas das Sharing des Planes durch den Link erklären.
-
-Ausserhalb des Nachgespräches fügte sie noch an, dass sie die angeschlossenen Semester gerne zuklappen würde. Sei dies manuell oder automatisch. Vor allem auf dem Mobile sieht sie hier einen grossen Vorteil.
-
-_Wie findest du die Bedienung?_
-Sie empfand das Öffnen des Modales für Übertrittsmodule über einen Button mit "+" als unintuitiv. Normalerweise öffnet ein solcher Button die Suche.
-Auch würde sie eine kleine Erklärung, sei dies ein Satz oder Tooltip beim Button bevorzugen, der informiert, dass angerechnete Module und externe Leistungen erfasst werden können. Denn ihr war das Wort "Übertrittsmodul" kein Begriff.
-
-Ausserhalb des Nachgespräches merkte sie noch an, dass sie nach dem Namen der Kategorie suchte, weil sie nicht jede Kategorie einzeln zuklappen wollte. Sie empfindet es als unangenehm, so viele Klicks tätigen zu müssen.
-
-_Was meinst du zu den visuellen Veränderungen?_
-Sie empfindet die Änderungen als subtil und passend.
-
-Ausserhalb des Nachgespräches navigierte sie auf den bisherigen Semesterplaner und merkte an, wie viel blasser diese Farben seien. Die neuen Farben hätten einen besseren Kontrast und "poppen" mehr.
-
 == Aufgaben
 
 === 1. Aufgabe
@@ -249,3 +200,53 @@ Die Testperson konnte alle Fehler über die Fehlermeldung oder von Hand beheben.
 
 - Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?
 Die Testperson sah den Toggle nicht.
+
+== Nachgespräch
+_Was ist dein Eindruck nach diesem Test?_
+Der Testperson fielen die vielen Verbesserungen positiv auf.
+
+Sie empfand das Hinzufügen über Kategorien und Vertiefungen als sehr hilfreich.
+
+Sie schätzt auch die Validierung wert.
+
+Am wertvollsten empfindet sie jedoch den Hinweis zu den Empfehlungen.
+Die empfohlenen Module ausfindig zu machen und einzuhalten empfand sie zuvor als einen grossen Zeitfresser.
+
+Sie hätte jedoch gerne eine Markierung, welches Semester das aktuelle ist.
+
+Sie sieht auch den Wert in den Übertrittsmodulen, vor allem für Studierende, die von einer anderen Schule zu dieser wechseln.
+
+Sie würde sich sehr freuen, wenn beim Klick auf das Meme ein Easter Egg ausgelöst werden würde.
+
+_Fiel dir etwas besonders positiv oder negativ auf?_
+Die Testperson empfand die Suche immer noch als etwas heftig, aufgrund ihres Informationsgehaltes.
+Die Darstellung des Namens, der ECTS und des Semesters in einer Linie, dies für jedes Modul, empfindet sie als etwas viel.
+Sie erkennt jedoch auch den Wert dieser Informationen und empfindet die Suche als besser, im Vergleich zu zuvor.
+Sie erwähnt, dass die gerne einstellen würde, wie viele Infos in der Suche enthalten sind.
+
+Sie mag, dass beim Hinzufügen über eine Kategorie die anderen Kategorien zugeklappt sind.
+Sie merkt jedoch an, dass sie die Darstellung der anderen Kategorien gar nicht bräuchte.
+
+Die Testperson empfindet die Information, wie viele ECTS noch zu planen sind, als hilfreich.
+
+_Hast du sonst noch Feedback?_
+Sie empfand die 1. Aufgabe als etwas verwirrend.
+
+Die Tests decken ihre Interaktionen gut ab.
+Einzig das Erstellen eines Planes über einen Musterstudienplan hat sie vermisst.
+
+Sie merkt an, dass ein Hilfe-Symbol für neue User hilfreich sein könnte.
+Dies könnte Features wie etwas das Sharing des Planes durch den Link erklären.
+
+Ausserhalb des Nachgespräches fügte sie noch an, dass sie die angeschlossenen Semester gerne zuklappen würde. Sei dies manuell oder automatisch. Vor allem auf dem Mobile sieht sie hier einen grossen Vorteil.
+
+_Wie findest du die Bedienung?_
+Sie empfand das Öffnen des Modales für Übertrittsmodule über einen Button mit "+" als unintuitiv. Normalerweise öffnet ein solcher Button die Suche.
+Auch würde sie eine kleine Erklärung, sei dies ein Satz oder Tooltip beim Button bevorzugen, der informiert, dass angerechnete Module und externe Leistungen erfasst werden können. Denn ihr war das Wort "Übertrittsmodul" kein Begriff.
+
+Ausserhalb des Nachgespräches merkte sie noch an, dass sie nach dem Namen der Kategorie suchte, weil sie nicht jede Kategorie einzeln zuklappen wollte. Sie empfindet es als unangenehm, so viele Klicks tätigen zu müssen.
+
+_Was meinst du zu den visuellen Veränderungen?_
+Sie empfindet die Änderungen als subtil und passend.
+
+Ausserhalb des Nachgespräches navigierte sie auf den bisherigen Semesterplaner und merkte an, wie viel blasser diese Farben seien. Die neuen Farben hätten einen besseren Kontrast und "poppen" mehr.

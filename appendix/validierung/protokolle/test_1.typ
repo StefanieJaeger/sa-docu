@@ -34,39 +34,6 @@ Dann kommen wir jetzt zum Test selbst.
 Im Dokument existiert für jede Aufgabe eine Seite.
 Bitte liest die Aufgabe laut vor und versuche, so gut wie möglich, die Frage ausführlich zu beantworten oder die Aktion auszuführen.
 
-_Was ist dein Eindruck nach diesem Test?_
-Die Testperson empfindet den Semesterplaner als besser im Vergleich zu vor den Änderungen.
-Sie meint, dass die Umstellung für bestehende User etwas länger dauern könnte.
-Aber denkt, dass neue User sicher besser mit dem Tool zurecht kommen werden, als ohne die Änderungen.
-
-_Fiel dir etwas besonders positiv oder negativ auf?_
-Die Testperson empfand das Modal zum Hinzufügen von Übertrittsmodulen als etwas verwirrend.
-Ihr fehlte ein expliziter Button zum Schliessen des Modales.
-Auch war für sie die Abgrenzung der Tabs nicht klar genug ersichtlich.
-Sie war sich unsicher, ob das Tabs oder Buttons sind.
-
-Sie empfindet die Fehlermeldungen als hilfreich.
-Sie geben ihr Sicherheit, dass die Module korrekt eingeplant sind und steigern auch ihre Effizienz, da sie dies nicht für jedes Modul selber überprüfen muss.
-
-Sie freut sich, dass das Meme noch da ist.
-
-Das Hinzufügen von Modulen über eine Kategorie empfindet sie auch als hilfreich.
-Sie würde jedoch gerne wählen können, in welchem Semester das Modul hinzugefügt wird.
-Besonders beim Hinzufügen über Kategorien und Vertiefungen.
-Da es immer in das nächstmögliche hinzugefügt wird, muss sie es zuerst dort finden und dann verschieben.
-
-_Hast du sonst noch Feedback?_
-Die Tests decken, laut Testperson, ihre normalen Interaktionen mit dem Semesterplaner gut ab.
-
-_Wie findest du die Bedienung?_
-Ausser dem Modal für die Übertrittsmodule empfand sie den Semesterplaner als sehr intuitiv.
-
-_Was meinst du zu den visuellen Veränderungen?_
-Ihr gefällt der Semesterplaner mehr als vorher.
-Sie erwähnt insbesondere die Farben.
-Die Zuteilung zur Kategorie sei ersichtlicher.
-Nach dem Gespräch, während einem Vergleich mit dem bestehenden Semesterplaner, erwähnt sie noch, das die Farben nun weniger verwaschen seien.
-
 == Aufgaben
 
 === 1. Aufgabe
@@ -246,3 +213,37 @@ Sie hat den Toggle nicht gesehen.
 
 Es fiel auf, dass der Tooltip bei Fehlern und Hinweisen etwas lange hatte, bis er erschien.
 Dies führte anfangs teils zu einer leichten Ungeduld.
+
+== Nachgespräch
+_Was ist dein Eindruck nach diesem Test?_
+Die Testperson empfindet den Semesterplaner als besser im Vergleich zu vor den Änderungen.
+Sie meint, dass die Umstellung für bestehende User etwas länger dauern könnte.
+Aber denkt, dass neue User sicher besser mit dem Tool zurecht kommen werden, als ohne die Änderungen.
+
+_Fiel dir etwas besonders positiv oder negativ auf?_
+Die Testperson empfand das Modal zum Hinzufügen von Übertrittsmodulen als etwas verwirrend.
+Ihr fehlte ein expliziter Button zum Schliessen des Modales.
+Auch war für sie die Abgrenzung der Tabs nicht klar genug ersichtlich.
+Sie war sich unsicher, ob das Tabs oder Buttons sind.
+
+Sie empfindet die Fehlermeldungen als hilfreich.
+Sie geben ihr Sicherheit, dass die Module korrekt eingeplant sind und steigern auch ihre Effizienz, da sie dies nicht für jedes Modul selber überprüfen muss.
+
+Sie freut sich, dass das Meme noch da ist.
+
+Das Hinzufügen von Modulen über eine Kategorie empfindet sie auch als hilfreich.
+Sie würde jedoch gerne wählen können, in welchem Semester das Modul hinzugefügt wird.
+Besonders beim Hinzufügen über Kategorien und Vertiefungen.
+Da es immer in das nächstmögliche hinzugefügt wird, muss sie es zuerst dort finden und dann verschieben.
+
+_Hast du sonst noch Feedback?_
+Die Tests decken, laut Testperson, ihre normalen Interaktionen mit dem Semesterplaner gut ab.
+
+_Wie findest du die Bedienung?_
+Ausser dem Modal für die Übertrittsmodule empfand sie den Semesterplaner als sehr intuitiv.
+
+_Was meinst du zu den visuellen Veränderungen?_
+Ihr gefällt der Semesterplaner mehr als vorher.
+Sie erwähnt insbesondere die Farben.
+Die Zuteilung zur Kategorie sei ersichtlicher.
+Nach dem Gespräch, während einem Vergleich mit dem bestehenden Semesterplaner, erwähnt sie noch, das die Farben nun weniger verwaschen seien.

@@ -34,59 +34,6 @@ Dann kommen wir jetzt zum Test selbst.
 Im Dokument existiert für jede Aufgabe eine Seite.
 Bitte liest die Aufgabe laut vor und versuche, so gut wie möglich, die Frage ausführlich zu beantworten oder die Aktion auszuführen.
 
-_Was ist dein Eindruck nach diesem Test?_
-Die Testperson empfindet die meisten Features als sehr cool.
-Sie wünscht sich auch, dass diese früher schon existiert hätten.
-
-Sie schätzt das Hinzufügen über Kategorien.
-Merkt jedoch auch an, dass sie hier die anderen Kategorien nicht bräuchte.
-
-Sie schätzt auch das Hinzufügen über die Vertiefungen.
-Jedoch würde sie Module gerne auch in spätere Semester hinzufügen können, ohne selbst verschieben zu müssen.
-
-Sie hätte gerne eine Markierung, welches Semester das aktuelle ist, um die Semester besser unterscheiden zu können.
-
-Sie erwähnt auch, wie nützlich die Validierung ist.
-Im Nachgespräch realisiert sie, dass man die globale Fehlermeldung öffnen und über diese den Plan korrigieren kann.
-Sie würde hier gerne wissen, wohin ein Modul verschoben wird.
-
-Sie schätzt auch die Gruppierung der Module nach Kategorie in der Suche und die Übertrittsmodule wert.
-
-_Fiel dir etwas besonders positiv oder negativ auf?_
-Die Testperson hat ihre Meinung bereits in der oben Frage mitgeteilt.
-
-_Hast du sonst noch Feedback?_
-Sie empfand die Testszenarien als gut und klar.
-Der kopierbare Link für jede Aufgabe empfand sie als praktisch.
-Bei der Aufgabe Nr 8 hätte sie sich ein klareres Ziel gewünscht.
-
-Ihr fiel noch auf, dass man die Farbe einer Kategorie nur sieht, wenn man bereits ECTS in dieser erreicht hat.
-Hat man noch keine Module einer Kategorie abgeschlossen, dann kann man anhand der Farbe das Modul auch keiner Kategorie zuordnen.
-Sie würde gerne immer die Farbe einer Kategorie sehen und den Name der Kategorie noch auf dem Modul selbst einsehen können.
-
-_Wie findest du die Bedienung?_
-Sie würde die Informationen zur Validierung gerne als Tooltip auf dem gesamten Modul, nicht nur dem Icon, sehen.
-Das das Hovern über dem Icon etwas "fidgety" sein kann.
-
-Sie erwähnt, dass sie das Speichern von externen Leistungen etwas mühsam fand.
-Sie würde lieber nur einen Button haben und halt das Modul nach jeder Eingabe nochmals öffnen müssen.
-Da man meist eh nur eine Leistung erfasse, fände sie das besser.
-Auch vermisse sie einen Button zum Schliessen des Modales und einen Overlay, um den Hintergrund abzudunkeln.
-
-Nachdem Hinzufügen eines Modules über eine Kategorie oder eine Vertiefung hätte sie gerne einen Fokus auf den Ort im Plan, indem das Modul hinzugefügt wurde. 
-
-_Was meinst du zu den visuellen Veränderungen?_
-Die Testperson empfindet die Farben als angenehm.
-
-Auf einem grossen Bildschirm wirken die einzelnen Teile jedoch etwas zerstückelt.
-
-Die Buttons zum Hinzufügen für Module bei den Kategorien empfindet sie als unzentriert.
-Sie erkennt, dass sie wohl zentriert ausgerichtet sind, aber durch unterschiedlichen visuellen Schwerpunkt nicht danach aussehen.
-
-Sie empfindet den neuen Semesterplaner als visuell ähnlich oder besser.
-
-Die Darstellung der Übertrittsmodule empfindet sie als nicht so schön, begründet es aber nicht weiter.
-
 == Aufgaben
 
 === 1. Aufgabe
@@ -261,3 +208,57 @@ Sie sah die globale Fehlermeldung zwar, kam jedoch nicht auf die Idee, dies ausz
 
 - Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?
 Die Testperson versuchte nicht, die Validierung abzuschalten.
+
+== Nachgespräch
+_Was ist dein Eindruck nach diesem Test?_
+Die Testperson empfindet die meisten Features als sehr cool.
+Sie wünscht sich auch, dass diese früher schon existiert hätten.
+
+Sie schätzt das Hinzufügen über Kategorien.
+Merkt jedoch auch an, dass sie hier die anderen Kategorien nicht bräuchte.
+
+Sie schätzt auch das Hinzufügen über die Vertiefungen.
+Jedoch würde sie Module gerne auch in spätere Semester hinzufügen können, ohne selbst verschieben zu müssen.
+
+Sie hätte gerne eine Markierung, welches Semester das aktuelle ist, um die Semester besser unterscheiden zu können.
+
+Sie erwähnt auch, wie nützlich die Validierung ist.
+Im Nachgespräch realisiert sie, dass man die globale Fehlermeldung öffnen und über diese den Plan korrigieren kann.
+Sie würde hier gerne wissen, wohin ein Modul verschoben wird.
+
+Sie schätzt auch die Gruppierung der Module nach Kategorie in der Suche und die Übertrittsmodule wert.
+
+_Fiel dir etwas besonders positiv oder negativ auf?_
+Die Testperson hat ihre Meinung bereits in der oben Frage mitgeteilt.
+
+_Hast du sonst noch Feedback?_
+Sie empfand die Testszenarien als gut und klar.
+Der kopierbare Link für jede Aufgabe empfand sie als praktisch.
+Bei der Aufgabe Nr 8 hätte sie sich ein klareres Ziel gewünscht.
+
+Ihr fiel noch auf, dass man die Farbe einer Kategorie nur sieht, wenn man bereits ECTS in dieser erreicht hat.
+Hat man noch keine Module einer Kategorie abgeschlossen, dann kann man anhand der Farbe das Modul auch keiner Kategorie zuordnen.
+Sie würde gerne immer die Farbe einer Kategorie sehen und den Name der Kategorie noch auf dem Modul selbst einsehen können.
+
+_Wie findest du die Bedienung?_
+Sie würde die Informationen zur Validierung gerne als Tooltip auf dem gesamten Modul, nicht nur dem Icon, sehen.
+Das das Hovern über dem Icon etwas "fidgety" sein kann.
+
+Sie erwähnt, dass sie das Speichern von externen Leistungen etwas mühsam fand.
+Sie würde lieber nur einen Button haben und halt das Modul nach jeder Eingabe nochmals öffnen müssen.
+Da man meist eh nur eine Leistung erfasse, fände sie das besser.
+Auch vermisse sie einen Button zum Schliessen des Modales und einen Overlay, um den Hintergrund abzudunkeln.
+
+Nachdem Hinzufügen eines Modules über eine Kategorie oder eine Vertiefung hätte sie gerne einen Fokus auf den Ort im Plan, indem das Modul hinzugefügt wurde. 
+
+_Was meinst du zu den visuellen Veränderungen?_
+Die Testperson empfindet die Farben als angenehm.
+
+Auf einem grossen Bildschirm wirken die einzelnen Teile jedoch etwas zerstückelt.
+
+Die Buttons zum Hinzufügen für Module bei den Kategorien empfindet sie als unzentriert.
+Sie erkennt, dass sie wohl zentriert ausgerichtet sind, aber durch unterschiedlichen visuellen Schwerpunkt nicht danach aussehen.
+
+Sie empfindet den neuen Semesterplaner als visuell ähnlich oder besser.
+
+Die Darstellung der Übertrittsmodule empfindet sie als nicht so schön, begründet es aber nicht weiter.

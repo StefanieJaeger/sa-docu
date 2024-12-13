@@ -1,6 +1,7 @@
 = Zusätzliche Artefakte des Validierungs-Workshops
 // Leitfaden Usability-Test
 #include("leitfaden-usability-test.typ")
+
 // Protokolle Usability-Tests
 #pagebreak()
 #include("protokolle/test_1.typ")

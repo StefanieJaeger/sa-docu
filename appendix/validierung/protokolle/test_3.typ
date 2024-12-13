@@ -34,48 +34,6 @@ Dann kommen wir jetzt zum Test selbst.
 Im Dokument existiert für jede Aufgabe eine Seite.
 Bitte liest die Aufgabe laut vor und versuche, so gut wie möglich, die Frage ausführlich zu beantworten oder die Aktion auszuführen.
 
-_Was ist dein Eindruck nach diesem Test?_
-Die Testperson findet die neuen Features cool.
-
-Sie empfand das Suchen nach Modulen noch etwas schwierig.
-Sie dachte, man müsse für jedes Modul die zugehörige Kategorie wissen, um es über diese hinzuzufügen.
-Auch sah sie bei der Suche in einer Kategorie die Module anderer Kategorien nicht, da sie zugeklappt waren, und fühlte sich so bestätigt, dass man die Kategorie im Vorfeld wissen müsse.
-Sie wurde von der Testerin darauf hingewiesen, dass man Module auch direkt im Semester hinzufügen kann.
-Dies leuchtete der Testperson ein.
-Sie meinte, es liege wohl daran, dass sie den Semesterplaner schon länger nicht mehr genutzt habe.
-
-Die Testperson versuchte mehrfach auf das "!" und "i" Icon zu klicken.
-Sie empfand das Tooltip als zu langsam.
-Sie würde gerne diese Informationen auch bei einem Klick auf das Modul erhalten.
-
-Die Testperson empfand die Validierung als sehr cooles Feature.
-Sie würde jedoch gerne noch wissen, aus welchem Semester ein Duplikat entfernt wird, da dies nicht klar ist.
-
-Bei den Vertiefungen würde sie gerne mehr als ein Semester zur Auswahl haben.
-Da sie nicht nur im nächstmöglichen Semester planen möchte.
-
-Beim Modal für Übertrittsmodule fand sie den Ablauf nicht ganz klar.
-Ein Button mit "+" und einer mit "hinzufügen" sei nicht ganz klar, was welcher tut.
-Sie empfand es auch als mühsam, zuerst "hinzufügen" und dann "speichern" klicken zu müssen.
-
-_Fiel dir etwas besonders positiv oder negativ auf?_
-Bei den Kategorien würde die Person lieber sehen, wie viele man noch geplant oder noch nicht erreicht hat. Sie kann sich die zu planenden dann selbst ausrechnen.
-
-_Hast du sonst noch Feedback?_
-Die Testperson fand, dass die Tests ihre Interaktionen gut abdecken.
-
-_Wie findest du die Bedienung?_
-Ausser dem Modal zu den Übertrittsmodulen empfand sie alles als sehr intuitiv.
-
-_Was meinst du zu den visuellen Veränderungen?_
-Sie empfand einige Teile als visuell sehr ansprechend, wie die Vertiefungen.
-
-Bei den Kategorien störte sie die Ausrichtung der Labels. Bei Labels, die sich über mehrere Linien strecken, wird der Abstand zum vorherigen Label etwas zu klein.
-Auch scheinen ihr die Buttons etwas zu gross im Vergleich zu den Progressbars.
-
-Bei den Übertrittsmodulen würde sie den "+" Button auf gleicher Linie bevorzugen.
-Im Modal würde ein Pointer Cursor die Interaktion mit dem Dropdown für Kategorien verbessern.
-
 == Aufgaben
 
 === 1. Aufgabe
@@ -242,3 +200,46 @@ Da der Tooltip etwas lange hatte, bis er erschien, sah sie die Infos nicht.
 
 - Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?
 Sie hat den Toggle beim Erkunden betätigt, ging bei diesem Schritt jedoch nicht mehr darauf ein.
+
+== Nachgespräch
+_Was ist dein Eindruck nach diesem Test?_
+Die Testperson findet die neuen Features cool.
+
+Sie empfand das Suchen nach Modulen noch etwas schwierig.
+Sie dachte, man müsse für jedes Modul die zugehörige Kategorie wissen, um es über diese hinzuzufügen.
+Auch sah sie bei der Suche in einer Kategorie die Module anderer Kategorien nicht, da sie zugeklappt waren, und fühlte sich so bestätigt, dass man die Kategorie im Vorfeld wissen müsse.
+Sie wurde von der Testerin darauf hingewiesen, dass man Module auch direkt im Semester hinzufügen kann.
+Dies leuchtete der Testperson ein.
+Sie meinte, es liege wohl daran, dass sie den Semesterplaner schon länger nicht mehr genutzt habe.
+
+Die Testperson versuchte mehrfach auf das "!" und "i" Icon zu klicken.
+Sie empfand das Tooltip als zu langsam.
+Sie würde gerne diese Informationen auch bei einem Klick auf das Modul erhalten.
+
+Die Testperson empfand die Validierung als sehr cooles Feature.
+Sie würde jedoch gerne noch wissen, aus welchem Semester ein Duplikat entfernt wird, da dies nicht klar ist.
+
+Bei den Vertiefungen würde sie gerne mehr als ein Semester zur Auswahl haben.
+Da sie nicht nur im nächstmöglichen Semester planen möchte.
+
+Beim Modal für Übertrittsmodule fand sie den Ablauf nicht ganz klar.
+Ein Button mit "+" und einer mit "hinzufügen" sei nicht ganz klar, was welcher tut.
+Sie empfand es auch als mühsam, zuerst "hinzufügen" und dann "speichern" klicken zu müssen.
+
+_Fiel dir etwas besonders positiv oder negativ auf?_
+Bei den Kategorien würde die Person lieber sehen, wie viele man noch geplant oder noch nicht erreicht hat. Sie kann sich die zu planenden dann selbst ausrechnen.
+
+_Hast du sonst noch Feedback?_
+Die Testperson fand, dass die Tests ihre Interaktionen gut abdecken.
+
+_Wie findest du die Bedienung?_
+Ausser dem Modal zu den Übertrittsmodulen empfand sie alles als sehr intuitiv.
+
+_Was meinst du zu den visuellen Veränderungen?_
+Sie empfand einige Teile als visuell sehr ansprechend, wie die Vertiefungen.
+
+Bei den Kategorien störte sie die Ausrichtung der Labels. Bei Labels, die sich über mehrere Linien strecken, wird der Abstand zum vorherigen Label etwas zu klein.
+Auch scheinen ihr die Buttons etwas zu gross im Vergleich zu den Progressbars.
+
+Bei den Übertrittsmodulen würde sie den "+" Button auf gleicher Linie bevorzugen.
+Im Modal würde ein Pointer Cursor die Interaktion mit dem Dropdown für Kategorien verbessern.
