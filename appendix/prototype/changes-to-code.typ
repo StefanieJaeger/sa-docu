@@ -1,4 +1,4 @@
-= Änderungen am Code
+== Änderungen am Code
 
 Nachfolgend sind alle im Verlauf des Prototyp-Workshops vorgenommenen Codeänderungen beschrieben.
 
@@ -14,13 +14,13 @@ _Categories.vue:_ Für "Übersicht der ECTS Punkte". Bestehender Inhalt für Kat
 
 _GlobalValidationInfo.vue:_ Stellt alle Fehler der Validierung im Plan dar. Bietet pro Fehler passende Aktionen über Buttons an, über die der Fehler behoben werden kann.
 
-_ModuleSearch.vue:_ Enthält einen Button, der die Modulsuche öffnet. Bestehender Inhalt zur Modulsuche wurde aus Home.vue hierhin verschoben. Die Einträge in der Liste der Modulsuche enthalten Informationen, basierend auf ihrer Verfügbarkeit. Mehr Informationen zur Suche können [TODO: hier] gefunden werden.
+_ModuleSearch.vue:_ Enthält einen Button, der die Modulsuche öffnet. Bestehender Inhalt zur Modulsuche wurde aus Home.vue hierhin verschoben. Die Einträge in der Liste der Modulsuche enthalten Informationen, basierend auf ihrer Verfügbarkeit. Mehr Informationen zur Suche können unter @search-logic gefunden werden.
 
 _storage-helper.ts:_ Hilft dabei, die Daten des Plans aus der URL oder dem LocalStorage zu lesen und diese umgekehrt in die URL und den LocalStorage zu speichern. Bestehender Inhalt aus Home.vue wurde hierhin verschoben. Neuerdings enthalten die Daten auch, ob die Validierung ausgeschaltet ist. Beim Auslesen der Daten werden Module, die nicht in der Liste vorkommen, aber von einem anderen Modul als Nachfolger erwähnt werden, neu durch diesen Vorgänger ersetzt.
 
 _store.ts:_ Zum Zwischenspeichern und Übergeben von Daten. Enthält Module, Übertrittsmodule, Kategorien, geplante Semester, Vertiefungen, das gewählte Startsemester, die Studienordnung basierend auf dem Startsemester und ob die Validierung eingeschaltet ist. Kategorien, geplante Semester und Vertiefungen referenzieren Module, welche zentralisiert im Store verwaltet werden. Daten können bereichert aus dem Store geladen oder vom Store berechnet werden. Beim Aktualisieren von Daten im Store werden zugehörige Daten ebenfalls angepasst.
 
-_validation-helper.ts:_ Enthält die Logik zur Validierung eines Modules. Die Erklärung der Logik kann [TODO: hier] gefunden werden.
+_validation-helper.ts:_ Enthält die Logik zur Validierung eines Modules. Die Erklärung der Logik kann unter @validation-logic gefunden werden.
 
 *Bestehende Komponenten*
 
@@ -51,7 +51,7 @@ Dies selbst von Grund auf zu implementieren, wäre für einen Prototypen nicht z
 #link("https://headlessui.com/", "Headless") ist ein Projekt von Tailwind Labs.
 Da für das Styling bereits Tailwind genutzt wird und Headless für jedes Element passende Komponenten enthält, wurde diese Library gewählt.
 
-*Entscheidungen* <code-decisions>
+=== Entscheidungen <code-decisions>
 Im Bereich der Übertrittsmodule wurden einige Entscheidungen aus technischen und nicht nutzerzentrierten Gründen gefällt.
 Dies, da der Bereich gänzlich neu ist, es sich um einen Prototypen handelt und die Arbeit zeitlich limitiert ist.
 

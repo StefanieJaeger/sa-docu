@@ -16,8 +16,7 @@ Die Resultate des Prototyp-Workshops sind der funktionale High-Fidelity-Prototyp
 === Funktionaler High-Fidelity-Prototyp
 Den Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
 Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
-Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang zu finden [TODO: packet_1 etc. Streamlinen, verschieben und verlinken].
-// TODO: Meine Bemerkungen zum Code und Data in Anhang verschieben und hier verlinken.
+Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang unter @prototype-appendix zu finden.
 
 Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Prototypen erläutert.
 
@@ -40,7 +39,6 @@ Pro Fehler wird eine Fehlermeldung angezeigt, inklusive vorhandener Aktionen, um
 In der nachfolgenden Grafik ist die Validierung ausgeschaltet:
 #figure(image("Validierung-ausgeschaltet.png"), caption: ["Validierung ausgeschaltet"]);
 
-// [Todo: link will nicht?]
 Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Übertrittsmodule, ECTS-Übersicht, Vertiefungen*
@@ -63,8 +61,6 @@ Die Übertrittsmodule werden ebenfalls validiert, wie die folgende Grafik zeigt:
 Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgeführt.
 Diese beinhaltet das Überprüfen, ob das angerechnete Modul in der URL doppelt vorkommt.
 
-// [Todo: link will nicht?]
-
 *Hinzufügen von Übertrittsmodulen*
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
 #figure(image("Modal-1.png"), caption: ["Geöffnetes Modal nach dem Klick auf den Button zum Hinzufügen von Übertrittsmodulen"]);
@@ -77,7 +73,6 @@ Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmod
 
 Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterhalb der geplanten Semester angezeigt, wie bereits in der Grafik "Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen" aufgezeigt wurde.
 
-// [Todo: link will nicht?]
 Mehr Informationen zu den Entscheidungen bezüglich der Übertrittsmodule können hier gefunden werden: @code-decisions
 
 *Erweiterte Suche und Constraints Enforcement*
@@ -91,7 +86,6 @@ Die nachfolgende Grafik zeigt die Suche mit einem Suchbegriff:
 Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgende Grafik zeigt:
 #figure(image("Constraint-Semester.png"), caption: ["Constraints Enforcement beim Hinzufügen eines 15. Semesters inklusive Tooltip"]);
 
-// [Todo: link will nicht?]
 Mehr Informationen zur Suche können hier gefunden werden: @search-logic
 
 === Validierungs-Map

@@ -1,4 +1,4 @@
-= Validierungslogik <validation-logic>
+== Validierungslogik <validation-logic>
 
 Durch die URL oder ein Übertrittsmodul kann es geschehen, dass ein invalider Plan entsteht.
 
