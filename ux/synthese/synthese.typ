@@ -165,7 +165,7 @@ Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity A
 Aus den gesammelten Erkenntnissen aller Erhebungsmethoden wurde eine Task Analysis angelehnt an #cite(<task-analysis>, form: "prose") erstellt.
 Die untenstehende Grafik zeigt die identifizierten Schritte, die Nutzende während der Planung des nächsten Semesters in den Anmeldephasen 1 und 2 durchlaufen, im Detail.
 
-#figure(image("artifacts/Task-Analysis.jpg"), caption: "Task Analysis");
+#figure(image("artifacts/Task-Analysis.jpg", width: 70%), caption: "Task Analysis");
 
 == Fazit
 Die erstellten Proto-Artefakte konnten mit den Forschungsergebnissen validiert und weiterentwickelt werden.

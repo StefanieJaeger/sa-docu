@@ -18,11 +18,13 @@ Der Arbeitsprozess umfasste zwei Phasen: die Verstehen- und die Erkundungs-Phase
 In jeder Phase wurden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
 
 Die *Verstehen-Phase* beinhaltete dabei die folgenden Workshops:
+
 - *Scoping-Workshop:* Es wurden Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial definiert. Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
 - *Research-Workshop:* Im Research-Workshop wurde ein detaillierter Forschungsplan zur Validierung der im Scoping-Workshop erarbeiteten Inhalte aufgestellt. Hierbei lag der Fokus auf den im Scoping-Workshop definierten Wissenslücken und kritischen Annahmen. Es wurden Leitfäden für die Durchführung der gewählten Forschungsmethoden erstellt und danach die Erhebungen durchgeführt.
 - *Synthese-Workshop:* Die durchgeführten Erhebungen wurden ausgewertet und die Ergebnisse liessen es zu, die im Scoping-Workshop aufgestellten Annahmen zu validieren. So wurde eine neue Sicht auf die Problemstellung gewonnen, mit welcher sich die Aufgabenstellung validieren liess. Insbesondere wurden einige neue Probleme und Herausforderungen identifiziert, die in den weiteren Workshops genauer beleuchtet werden sollten.
 
 Die *Erkundungs-Phase* umfasste die folgenden Workshops:
+
 - *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen High-Fidelity-Prototyp als MVP.
 - *Konzept-Workshop:* Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem direkt in die Prototypentwicklung gestartet werden konnte.
 - *Prototyp-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale High-Fidelity-Prototyp erstellt.
@@ -31,6 +33,7 @@ Die *Erkundungs-Phase* umfasste die folgenden Workshops:
 == Ergebnisse
 Die Studienarbeit führte zur Entwicklung eines funktionalen High-Fidelity-Prototypen, der die Grundlage für die Weiterentwicklung der Plattform darstellt.
 Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusammengefasst:
+
 *Validierung der Planung*
 - *Beschreibung:* Die Validierung der Planungsfunktionalität ermöglicht es den Studierenden, ihren individuellen Studienplan so zusammenzustellen, das dessen Studierbarkeit gewährleistet ist. Dabei werden insbesondere die Durchführungen, der Status sowie die Modulempfehlungen der einzelnen Module berücksichtigt. 
 - *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Lediglich die Nachvollziehbarkeit der vorgeschlagenen Aktionen im globalen Fehlerbereich wurde als verbesserungswürdig identifiziert. 

@@ -90,15 +90,15 @@ Dies erklärt sich auch der Tatsache, dass im SLCM die Durchführungssemester ni
 Für die Beschränkung könnte im Prototyp der String so verarbeitet werden, dass die letzte Angabe als aktuelles Semester interpretiert wird.
 Im zuvor erwähnten Beispiel wäre das dann "FS".
 
-#figure(image("DS-Validierung-Modulsuche.jpg"),caption: [Design Studio: Modulsuche mit Validierung]);
+#figure(image("DS-Validierung-Modulsuche.jpg", width:60%),caption: [Design Studio: Modulsuche mit Validierung]);
 
 *Fehlermeldungen und Warnungen*
 Es wurde vorgeschlagen, Fehler und Warnungen möglichst platzsparend im Plan einzubauen, da bereits erwähnt wurde, dass die horizontale Ausdehnung des Plans mit der Zeit unübersichtlich wird.
 Somit entstand die Idee, fehlerhafte Module rot zu umranden und mit einem Fehler-Icon zu versehen.
 Da die Validierung in die Vergangenheit nur bedingt möglich ist, wurde weiter vorgeschlagen, dass eventuell fehlerhafte Module mit einem Info-Icon, nicht jedoch mit einem roten Rand versehen werden.
 So wäre ersichtlich, dass es sich jeweils um Warnungen oder Fehler handelt.
-#figure(image("DS-Validierung-Meldungen-Plan.jpg"),caption: [Design Studio: Fehlermeldungen im Plan]);
-#figure(image("DS-Validierung-Modulkennzeichnung.jpg"),caption: [Design Studio: Modulkennzeichnung bei Fehlern]);
+#figure(image("DS-Validierung-Meldungen-Plan.jpg", width: 60%),caption: [Design Studio: Fehlermeldungen im Plan]);
+#figure(image("DS-Validierung-Modulkennzeichnung.jpg", width: 30%),caption: [Design Studio: Modulkennzeichnung bei Fehlern]);
 *Interaktives Fehler-Dashboard*
 Aufgrund der Idee, Fehler möglichst platzsparend im Plan selbst anzuzeigen, wurde ein interaktives Fehler-Dashboard vorgeschlagen.
 Damit bleibt die Planung übersichtlich und Fehler können an einer zentralen Stelle gesammelt eingesehen werden.
@@ -111,23 +111,22 @@ Die Fehlerbehebung könnte folgende Aktionen beinhalten:
 #figure(image("DS-Validierung-Globale-Meldungen.jpg"),caption: [Design Studio: Globale Fehlermeldungen]);
 
 *Maximale Studiumsdauer*
-Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semester beträgt, wurde in Anlehnung an das _Constraints Enforcement_ eine Begrenzung der Planung auf 14 Semester vorgeschlagen.
-[QUELLE: https://studien.ost.ch/I/VZ/STD_21/Studienordnung.html, ist in 14 und 23 auch so.]
-#figure(image("DS-Validierung-14Sem.jpg"),caption: [Design Studio: Nicht mehr als 14 Semester planbar]);
+Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semester beträgt @ostStudienordnung, wurde in Anlehnung an das _Constraints Enforcement_ eine Begrenzung der Planung auf 14 Semester vorgeschlagen.
+#figure(image("DS-Validierung-14Sem.jpg", width: 40%),caption: [Design Studio: Nicht mehr als 14 Semester planbar]);
 
 ==== Nutzerführung
 Die Ideen zur Nutzerführung verfolgen einen geradlinigen Ansatz:
 - Nutzende sollen möglichst schnell die Semesternummer einsehen können. Da ohne ein gesetztes Startsemester die Semester bereits mit "1. Semester", "2. Semester" etc. bezeichnet werden, wird diese Idee als Grundlage genommen und die entsprechende Bezeichnung, wie "HS24" dahinter angezeigt.
 - Nutzende sollen bereits referenzierte Module direkt hinzufügen können. Mit einer Ausarbeitung des nächstmöglichen Semesters soll dies möglich sein.
 #figure(image("DS-Semesternummer.jpg"), caption: [Design Studio: Semester Nummer]);
-#figure(image("DS-Ref-Mod-hinzufügen.jpg"), caption: [Design Studio: Referenzierte Module direkt hinzufügen]);
+#figure(image("DS-Ref-Mod-hinzufügen.jpg", width: 60%), caption: [Design Studio: Referenzierte Module direkt hinzufügen]);
 
 ==== Berechnung der ECTS pro Kategorie
 Die Ideen zur Berechnung der ECTS pro Kategorie verfolgten verschiedene Ansätze zur Erweiterung: von der Anzeige aller möglichen Stati, wie beispielsweise "zu erreichende ECTS", "erreichte ECTS", "geplante ECTS" und "zu planende ECTS" bis hin zur minimalen Information mit nur "zu planende ECTS" wurde alles diskutiert.
 
 Im Endeffekt wurde die Änderung der bisherigen Anzeige von "X noch geplant" zu "X noch zu planen" als sinnvoll erachtet, da dies explizit von verschiedenen Personen in den CIs erwähnt wurde.
 In der untenstehenden Grafik ist weiter die Idee ersichtlich, wie die die Nutzerführung durch die Möglichkeit, direkt neben den jeweiligen Kategorien Module hinzufügen zu können, verbessert werden kann.
-#figure(image("DS-zu-planende-ECTS.jpg"), caption: [Design Studio: Zu planende ECTS anzeigen, verknüpft mit "Referenzierte Module hinzufügen"]);
+#figure(image("DS-zu-planende-ECTS.jpg", width: 40%), caption: [Design Studio: Zu planende ECTS anzeigen, verknüpft mit "Referenzierte Module hinzufügen"]);
 
 ==== Suchfunktion
 Mit der Idee des _Constraints Enforcement_ soll das Hinzufügen von Modulen in falsche Semester, die nicht mehr angeboten werden oder bereits in der Planung vorhanden sind, verhindert werden.
@@ -138,7 +137,7 @@ Da sich so neu erheblich viele zusätzliche Informationen in der Suche befinden,
 Mit der zusätzlichen Idee, dass die Ergebnisse der Suche nach Kategorien sortiert werden, soll die Suche weiter vereinfacht werden.
 Somit wird den Nutzenden die Möglichkeit gegeben, gezielt nach Modulen einer Kategorie zu suchen.
 
-#figure(image("DS-Modulsuche-Dropdown.jpg"), caption: [Design Studio: Dropdown-Platzierung der Modulsuche]);
+#figure(image("DS-Modulsuche-Dropdown.jpg", width: 40%), caption: [Design Studio: Dropdown-Platzierung der Modulsuche]);
 #figure(image("DS-Modulsuche-Suchkomponente-Logik.jpg"), caption: [Design Studio: Logik und Aufbau der erweiterten Suchkomponente]);
 
 ==== ECTS-Verwaltung
@@ -151,8 +150,8 @@ Somit können Nutzende, die beispielsweise ein _Cambridge Advanced Certificate_ 
 Dies erfolgt über ein Modal, in welchem die Nutzenden die weitere Möglichkeit haben, ein eigenes Modul zu erstellen.
 Für das in Zusammenarbeit mit der Interkantonalen Hochschule für Heilpädagogik angebotene "Digicamp" ist letztere Methode notwendig, da dieses Modul nicht im SLCM geführt wird und keinem speziellen Modul entspricht. Es werden dort jedoch ECTS in Kategorien vergeben, in diesem Fall 3 ECTS in die Kateogorien "Informatik" und "Aufbau".
 
-#figure(image("DS-Übertrittsmodule-Button.jpg"), caption: [Design Studio: Übertrittsmodule Button]);
-#figure(image("DS-Übertrittsmodule-Anzeige-Validierung.jpg"), caption: [Design Studio: Anzeige und Validierung der Übertrittsmodule]);
+#figure(image("DS-Übertrittsmodule-Button.jpg", width: 40%), caption: [Design Studio: Übertrittsmodule Button]);
+#figure(image("DS-Übertrittsmodule-Anzeige-Validierung.jpg", width: 60%), caption: [Design Studio: Anzeige und Validierung der Übertrittsmodule]);
 #figure(image("DS-Übertrittsmodule-Modal.jpg"), caption: [Design Studio: Modal für das Hinzufügen von Übertrittsmodulen]);
 
 ==== Verlinkung zu SLCM-Bereichen
@@ -163,7 +162,7 @@ der ECTS Punkte pro Kategorie angezeigt werden, weshalb das Verlinken nur noch f
 
 Die Platzierung der Verlinkung wurde neben dem Startsemester in der Übersicht der ECTS Punkte pro Kategorie vorgeschlagen, da die Studienordnungsbeschreibung an das Startsemester gebunden ist.
 
-#figure(image("DS-Link-STD.jpg"), caption: [Design Studio: Link zu SLCM-Bereichen]);
+#figure(image("DS-Link-STD.jpg", width: 60%), caption: [Design Studio: Link zu SLCM-Bereichen]);
 
 ==== Hoher Überprüfungsaufwand, wenn nicht einem MSP strikt gefolgt wird
 Durch die zuvor durchgeführten 2-3-4 und Design Studios von "Planvalidierung" wurden die How-Might-We-Fragen indirekt bereits beantwortet.

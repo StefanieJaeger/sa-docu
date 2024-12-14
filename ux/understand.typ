@@ -5,6 +5,9 @@ Dieses Verständnis wurde in Form der validierten Artefakte Persona, User Journe
 Das vertiefte Verständnis des Problemraums wurde in der Phase 2: Erkunden genutzt, um passende Lösungsansätze zu entwickeln.
 
 #include("scoping/scoping.typ")
+#pagebreak()
 #include("research/research.typ")
+#pagebreak()
 #include("synthese/results/research-results.typ")
+#pagebreak()
 #include("synthese/synthese.typ")

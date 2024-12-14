@@ -7,6 +7,7 @@ Dies, um unvoreingenommen alle möglichen Personen des Nutzendenkreises zu erfas
 Weiter wurden interessante Aspekte und Interpretationen daraus gezogen und im weiteren Studienverlauf berücksichtigt.
 
 == Fragebogen Studierende
+Nachfolgend sind die Ergebnisse der Fragebogenstudie mit Studierenden der OST - Ostschweizer Fachhochschule aufgeführt.
 === Teilnehmende
 An der Fragebogenstudie nahmen zehn Informatikstudierende der OST - Ostschweizer Fachhochschule teil.
 Alle Teilnehmenden studieren derzeit am Campus Rapperswil-Jona im 5., 7. oder 9. Semester.
