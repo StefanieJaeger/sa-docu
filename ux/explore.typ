@@ -36,7 +36,10 @@ Vor Beginn der Phase 2 wurde zudem die Frage des Zielgeräts geprüft.
 Obwohl der Semesterplaner grundsätzlich mobile-first gestaltet ist, wird der Prototyp zunächst für den Desktop erstellt, da die Zielgruppe die zentralen Funktionen überwiegend auf diesem Gerät nutzt.
 Die Integration in eine mobile-first-Umgebung kann in einer späteren Phase ausserhalb des Umfangs dieser Studienarbeit erfolgen.
 
-#include("ideation/ideation.typ")
-#include("konzept/konzept.typ")
-#include("prototyp/prototyp.typ")
-#include("validierung/validierung.typ")
+#[
+  #set heading(offset: 1)
+  #include("ideation/ideation.typ")
+  #include("konzept/konzept.typ")
+  #include("prototyp/prototyp.typ")
+  #include("validierung/validierung.typ")
+]
