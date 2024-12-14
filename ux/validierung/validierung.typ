@@ -197,33 +197,33 @@ Die nachfolgende Grafik zeigt einen Lösungsvorschlag für die Probleme P2 und P
 - P1: Der "Abbrechen" Button bietet einen offensichtlichen Weg zur Schliessung des Modales an.
 - P3: Die Tabs werden durch Radio Options ersetzt.
 - P6: Der Begriff "Übertrittsmodul" wird in einem Tooltip für das "?" Icon erklärt.
-#figure(image("P2_P4.jpg"), caption: ["Lösungsvorschlag für P2 und P4"])<P2_P4>
+#figure(image("P2_P4.jpg", width: 40%), caption: ["Lösungsvorschlag für P2 und P4"])<P2_P4>
 
 Weiter enthält die Lösung einen kleinen Hinweistext pro Option, der "Speichern" Button ist disabled, bis ein Modul gewählt oder die Felder für eine Leistung korrekt ausgefüllt sind, ein Tooltip für das "?" Icon beim Name enthält einen Hinweis zur maximalen Länge und zu nicht-erlaubten Zeichen.
 Wir empfehlen zudem, einen Workshop mit Studierenden zu machen, um ein gutes Wording für die Hinweistexte, Tooltips und den gesamten Bereich generell zu finden. 
 
 *Semesterwahl bei Einfügen eines referenzierten Modules*
 In der folgenden Grafik ist ein Lösungsvorschlag für die Probleme P8 und P10 ersichtlich:
-#figure(image("P8_P10.jpg"), caption: ["Lösungsvorschlag für P8 und P10"])<P8_P10>
+#figure(image("P8_P10.jpg", width: 80%), caption: ["Lösungsvorschlag für P8 und P10"])<P8_P10>
 Das Modal referenziert das Modul, bietet ein Dropdown für ein Semester an und hat "Abbrechen" und "Einfügen" Buttons. Das Dropdown enthält alle zukünftigen Semester, in denen das Modul eine Durchführung hat, bis zum 14. Semester. Das nächstmögliche Semester ist vorausgewählt. Der Name des Moduls verlinkt zu dessen Modulbeschreibung im SLCM.
 
 *Auswirkungen von Aktionen im globalen Fehlerbereich*
 Die nachfolgenden Abbildungen zeigen drei Lösungsvorschläge für das Problem P13:
-#figure(image("P13-1.jpg"), caption: ["Lösungsvorschlag 1 für P13"])<P13-1>
+#figure(image("P13-1.jpg", width: 80%), caption: ["Lösungsvorschlag 1 für P13"])<P13-1>
 In dieser Lösung erhalten die Buttons für Aktionen zur Behebung eines Problems mehr Text und passende Icons. Die Modulnamen sollten neu ausgeschrieben werden.
 Diese Lösung bringt mehr Klarheit über die Aktionen mit sich. Jedoch resultiert sie auch in sehr langen Buttons, was wiederum als ungewohnt wahrgenommen werden könnte.
 
-#figure(image("P13-2.jpg"), caption: ["Lösungsvorschlag 2 für P13"])<P13-2>
+#figure(image("P13-2.jpg", width: 80%), caption: ["Lösungsvorschlag 2 für P13"])<P13-2>
 In dieser Lösung werden die Aktionen für "Nachfolger einplanen", "verschieben" und "Duplikate entfernen" in Modale ausgelagert. Die Modale enthalten mehr Text und Optionen. "Nachfolger einplanen" bietet neu die Wahl eines Semesters und die Buttons "planen" und "planen und ersetzen" an. "Verschieben" erlaubt ebenfalls die Wahl eines Semesters. "Duplikate entfernen" erlaubt die Auswahl des Duplikates, welches nicht entfernt werden soll. Die Vorauswahl aller Dropdowns bleibt dabei der gleiche Wert, welcher schon zuvor in der Fehlermeldung empfohlen wurde.
 Diese Lösung bringt mehr Klarheit und Kontrolle für Nutzende. Sie führt jedoch auch zu mehr Klicks, wobei die Fehlermeldung das Ziel hat, die Fehlerbehebung zu vereinfachen.
 
-#figure(image("P13-3.jpg"), caption: ["Lösungsvorschlag 3 für P13"])<P13-3>
+#figure(image("P13-3.jpg", width: 80%), caption: ["Lösungsvorschlag 3 für P13"])<P13-3>
 In dieser Lösung erhält jede Aktion einer Fehlermeldung einen Unterpunkt. Der Unterpunkt beschreibt die Aktion genauer und bietet einen Button mit passendem Icon an.
 Diese Lösung erklärt die Aktionen während die Buttons nicht mit Text aufgeblasen werden. Die Fehlermeldung muss dafür grösser gestaltet werden und könnte somit in ausgeklapptem Zustand mehr Informationen als zuvor verdecken.
 
 === Vollständige Validierungs-Map
 Die nachfolgende Grafik zeigt die durch den Validierungs-Workshop vervollständigte Validierungs-Map:
-#figure(image("Validierungsmapping_vollst.jpg"), caption: ["Vollständige Validierungs-Map"])
+#figure(image("Validierungsmapping_vollst.jpg", width: 80%), caption: ["Vollständige Validierungs-Map"])
 
 == Fazit
 Mit dem funktionalen Prototypen konnte gezeigt werden, dass die Lösungskonzepte grundsätzlich funktionieren und die gestellten Anforderungen erfüllen.
