@@ -174,4 +174,4 @@ Die Anzeige der Semesterdurchführung in der modulsuche vereinfacht die Überpr�
 == Fazit
 Der Ideation-Workshop brachte eine Vielzahl von Ideen hervor, die im Anschluss systematisch mit den technischen Erkenntnissen aus den Interviews zu SLCM und Datenstruktur sowie dem bereits vorhandenen Wissen über die technische Struktur und den vorhandenen Code des Tools abgeglichen wurden.
 Dieser Abgleich diente dazu, die Umsetzbarkeit der Ideen mittels einem funktionalen Prototyp sicherzustellen.
-Das ausgearbeitete #gls("MVP")-Konzept wird im nächsten Kapitel vorgestellt.
+Das ausgearbeitete #gls("mvp")-Konzept wird im nächsten Kapitel vorgestellt.
