@@ -1,4 +1,3 @@
-#set heading(numbering: "1.")
 #set page(numbering: "1")
 #set text(lang: "de")
 #show bibliography: set heading(numbering: "1.")
@@ -22,6 +21,7 @@
 // -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
 
+#set heading(numbering: "1.")
 // 2.4 Inhaltsverzeichnis
 #outline(
   indent: 1em,
