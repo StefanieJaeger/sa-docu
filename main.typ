@@ -29,7 +29,7 @@
   indent: 1em,
   depth: 3,
   target: selector(heading)
-    .before(<appendix>, inclusive: false)
+    .before(<reflexion>, inclusive: false)
 )
 #pagebreak()
 
@@ -148,11 +148,13 @@
 // • Projektpläne, Risikoanalysen, Zeiterfassung*
 // * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
 
+#pagebreak()
 #outline(
   title: "Anhang",
   indent: 1em,
   depth: 3,
   target: selector(heading)
-    .after(<appendix>, inclusive: true)
+    .after(<reflexion>, inclusive: true)
 )
+#pagebreak()
 #include("appendix/appendix.typ")

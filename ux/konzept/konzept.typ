@@ -22,7 +22,7 @@ Nachfolgend sind die wichtigsten Artefakte des Konzept-Workshops aufgeführt.
 === User Story Map
 Die folgende User Story Map bildet den Ablauf der Semesterplanung mit den neu angestrebten Funktionen ab:
 
-#figure(image("User-Story-Map.jpg"), caption: ["User Story Map"]);
+#figure(image("User-Story-Map.jpg"), caption: [User Story Map]);
 
 Unterscheidungen zur Journey Map:
 - Nutzende sehen direkt potenzielle Planungsfehler
@@ -85,12 +85,12 @@ Dabei ist die folgende Legende zu beachten:
 - *Gelb:* Funktionen
 - *Dunkelgelb:* vorgesehene neue Funktionen
 
-#figure(image("Keyscreen-neu.jpg"), caption: ["Keyscreen mit neuen Bereichen und Funktionen"]);
+#figure(image("Keyscreen-neu.jpg"), caption: [Keyscreen mit neuen Bereichen und Funktionen]);
 
 === Reihenfolge Umsetzung Prototyp
 Die folgende Grafik zeigt die Reihenfolge der Umsetzung des Prototypen:
 
-#figure(image("Reihenfolge-Umsetzung-Prototyp.jpg"), caption: ["Reihenfolge Umsetzung Prototyp"])
+#figure(image("Reihenfolge-Umsetzung-Prototyp.jpg"), caption: [Reihenfolge Umsetzung Prototyp])
 
 Zur systematischen Umsetzung wurde eine Reihenfolge festgelegt, in welcher die Funktionalitäten umgesetzt werden sollen.
 Dies ermöglicht es, den Prototypen aufbauend zu entwickeln um dabei mögliche Probleme und Widersprüche in den Lösungen zu identifizieren und zu beheben.
@@ -105,39 +105,39 @@ Die folgenden Mockups zeigen die neu zu hinzufügenden Funktionalitäten:
 ==== Phase 1
 *Nutzerführung*
 In der folgenden beiden Grafiken sind die Mockups für die Nutzerführung abgebildet:
-#figure(image("M1-Nutzerführung.jpg"), caption: ["Semester nummeriert"]);
-#figure(image("M1-Module-hinzufügen.jpg"), caption: ["Module aus Vertiefungen direkt hinzufügen"]);
+#figure(image("M1-Nutzerführung.jpg"), caption: [Semester nummeriert]);
+#figure(image("M1-Module-hinzufügen.jpg"), caption: [Module aus Vertiefungen direkt hinzufügen]);
 *Noch einzuplanende ECTS*
 In der folgenden Grafik ist das Mockup für die noch einzuplanenden ECTS abgebildet:
-#figure(image("M1-Planen-ECTS.jpg"), caption: ["Noch einzuplanende ECTS"]);
+#figure(image("M1-Planen-ECTS.jpg"), caption: [Noch einzuplanende ECTS]);
 *Verlinkung ins SLCM*
 In der folgenden Grafik ist das Mockup zur Verlinkung zur Studienordnungsbeschreibung abgebildet:
-#figure(image("M1-STD.jpg"), caption: ["Link zur STD"]);
+#figure(image("M1-STD.jpg"), caption: [Link zur STD]);
 
 ==== Phase 2
 *Validierung Übersicht*
 In der folgenden Grafik ist das Mockup der Validierung in der Übersicht abgebildet:
-#figure(image("M2-Val-Übersicht.jpg"), caption: ["Validierung im Semesterplaner"]);
+#figure(image("M2-Val-Übersicht.jpg"), caption: [Validierung im Semesterplaner]);
 *Globaler Fehlerbereich*
 In der folgenden Grafik ist das Mockup des globalen Fehlerbereichs abgebildet:
-#figure(image("M2-globaler-Fehlerbereich.jpg"), caption: ["Globaler Fehlerbereich mit Aktionen"]);
+#figure(image("M2-globaler-Fehlerbereich.jpg"), caption: [Globaler Fehlerbereich mit Aktionen]);
 *Constraints Enforcement*
 In der folgenden Grafik ist das Mockup des Constraints Enforcement bei Modul- und Semesterhinzufügung abgebildet:
-#figure(image("M2-Val-Constraints-Enforcement.jpg"), caption: ["Constraints Enforcement bei Modul- und Semesterhinzufügung"]);
+#figure(image("M2-Val-Constraints-Enforcement.jpg"), caption: [Constraints Enforcement bei Modul- und Semesterhinzufügung]);
 
 ==== Phase 3
 *Suche*
 In den folgenden beiden Grafiken sind die Mockups für die erweiterte Suche abgebildet:
-#figure(image("M3-Suche-Übersicht.jpg"), caption: ["Suchdropdown in der Übersicht"]);
-#figure(image("M3-Suche-Detail.jpg"), caption: ["Suchdropdown im Detail"]);
+#figure(image("M3-Suche-Übersicht.jpg"), caption: [Suchdropdown in der Übersicht]);
+#figure(image("M3-Suche-Detail.jpg"), caption: [Suchdropdown im Detail]);
 
 ==== Phase 4
 *Übertrittsmodule*
 In der folgenden Grafik ist das Mockup der Übersicht für die Übertrittsmodule abgebildet:
-#figure(image("M4-Übertritt-Übersicht.jpg"), caption: ["Platzierung und Anzeige der Übertrittsmodule"]);
+#figure(image("M4-Übertritt-Übersicht.jpg"), caption: [Platzierung und Anzeige der Übertrittsmodule]);
 *Übertrittsmodule hinzufügen*
 In der folgenden Grafik ist das Mockup für das Hinzufügen von Übertrittsmodulen inklusive der Abfolge abgebildet:
-#figure(image("M4-Übertritt-Modalflow.jpg"), caption: ["Modal und Flow für das Hinzufügen von Übertrittsmodulen"]);
+#figure(image("M4-Übertritt-Modalflow.jpg"), caption: [Modal und Flow für das Hinzufügen von Übertrittsmodulen]);
 
 == Fazit
 Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem direkt in die Prototypentwicklung gestartet werden konnte.

@@ -1,4 +1,4 @@
-==== Contextual Inquiry 2 <ci_2>
+= Contextual Inquiry 2 <ci_2>
 
 #grid(
       columns: (1fr, 1fr),
@@ -19,7 +19,7 @@
 Die Testperson wird von Laura gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
 Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt. 
 
-==== Chronologische Zusammenfassung des geschilderten Vorgehens
+== Chronologische Zusammenfassung des geschilderten Vorgehens
 
 1. Vorbereitung und Start des Semesterplaners
 - Die Testperson öffnet ihren Semesterplaner über einen gespeicherten Link in den Saved Messages auf Telegram
@@ -48,7 +48,7 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 6. Abgleich mit anderen Studenten
 - Sie tauscht sich mit Kollegen aus, um Feedback zu Modulen und Dozenten zu erhalten, besonders in Bezug auf die Inhalte, den Aufwand und wie wichtig die Präsenz in den Vorlesungen und Übungen ist. Der Austausch erfolgt meist persönlich und verteilt über das Semester.
 
-==== Generelle Fragen
+== Generelle Fragen
 
 / Seit wann studierst du?:
 Ich habe im Sommer 2020 angefangen, also seit dem HS20.
@@ -110,7 +110,7 @@ Ja, ich arbeite 60%.
 In den Semesterferien arbeite ich meistens mehr, diesen Sommer z.B. über 80%.
 Mein Arbeitgeber ist sehr flexibel und ich kann mir die Überstunden auch einfach auszahlen lassen.
 
-==== Allgemeines Vorgehen
+== Allgemeines Vorgehen
 
 / Du darfst gerne deinen Bildschirm teilen und mit deinem üblichen Vorgehen für die Semesterplanung starten.:
 
@@ -592,7 +592,7 @@ Das Feature bräuchte es nicht, würde die Hochschule irgendwo in den Daten saub
 Aber es ist nicht etwas, was du im Adunis anmelden kannst.
 Du machst z.B. das "Digicamp" extern und bekommst dann von extern eine Bestätigung über die ECTS.
 
-==== Nachgespräch
+== Nachgespräch
 
 / Führst du den Planvorgang, den du uns gerade mit ein paar Modulen gezeigt hast, komplett in einem Schritt durch, oder verteilst du ihn über die Anmeldezeit?:
 Also 
@@ -631,7 +631,7 @@ Bei unseren Arbeiten haben wir auch geschaut, dass jede Schnittstelle auch ohne 
 
 / Das ist ein super Tipp, danke vielmals dafür und auch fürs Mitmachen bei der CI.:
 
-==== Überprüfen des bisherigen Plans
+== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
 Ich sende mir nach jeder Änderung eine Nachricht in den Saved Messages auf Telegram und pinne diese anschliessend an.
@@ -649,7 +649,7 @@ Die Kategorien und ihre Erfüllung, die Module pro Semester und die Vertiefungen
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
 Das weiss er nicht, ich entferne in diesem Fall das nicht bestandene Modul aus dem betroffenen Semester.
 
-==== Austausch mit Kollegen
+== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
 Ja.
@@ -667,7 +667,7 @@ In Person oder über Chats aus.
 / Wie teilst du/zeigst du deinen Plan?:
 Eher in Gesprächen mit Kollegen am Bildschirm selbst, ich teile den Plan selten per URL.
 
-==== Recherche zu Modulen
+== Recherche zu Modulen
 
 / Zu welchen Modulen holst du dir Infos?:
 Zu Modulen aus dem Musterstudienplan oder zu Modulen, die interessant klingen.
@@ -708,7 +708,7 @@ Das Überprüfen der Durchführung eines Moduls, bevor man es im Planer hinzufü
 / Was ist einfach bei der Recherche und weshalb?:
 Ich kann unter unterricht.ost.ch auf _Mein Studium > Informationen > Studiengang-/Modulinfo_ navigieren, um mir einfach Informationen zu holen.
 
-==== Semesterplaner anpassen
+== Semesterplaner anpassen
 
 / Wie findest du Module im Planer?:
 Sucht Module nach Namen oder Kürzeln.
@@ -731,7 +731,7 @@ Kategorien und ihre Erfüllung, Module pro Semester, Vertiefungen und Startsemes
 / Wer denkst du, steht hinter lost.university?:
 Ich weiss, dass Studenten hinter dem Semesterplaner stehen und kenne diese sogar persönlich.
 
-==== Plan speichern
+== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
 Ich sende die URL als eine Nachricht in den Saved Messages auf Telegram und pinne diese dann.
@@ -749,7 +749,7 @@ Ich wäre bereit, ein neues Login für solch einen Account anzulegen, würde abe
 / Weisst du, dass die Daten im LocalStorage gespeichert werden?:
 Nein.
 
-==== Nachgespräch
+== Nachgespräch
 
 / Reflektiert diese Journey dein Vorgehen realistisch? Was machst du anders und gleich?:
 Ja.

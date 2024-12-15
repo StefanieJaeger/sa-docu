@@ -22,7 +22,7 @@ Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Pro
 
 *Erweiterte Übersicht mit Validierung*
 In der nachfolgenden Grafik ist die erweiterte Übersicht mit Validierung abgebildet:
-#figure(image("Validierung-Übersicht.png"), caption: ["Erweiterte Übersicht mit Validierung"]);
+#figure(image("Validierung-Übersicht.png"), caption: [Erweiterte Übersicht mit Validierung]);
 Dabei sieht man die Umsetzung des Validierungs-Toogle, den globalen Fehlerbereich sowie die Kennzeichnung der Module, welche in der Validierung Fehler enthalten.
 Dabei ist ersichtlich, dass Module, welche in der Vergangenheit liegen, lediglich mit einem Warnhinweis versehen sind, während Module, welche in der Zukunft liegen, mit einem Fehlerhinweis versehen sind.
 Der Unterschied darin liegt einerseits im verwendeten Icon und andererseits in der Farbe der Umrandung.
@@ -32,18 +32,18 @@ Weiter wurde das Farbschema leicht überarbeitet, um rot als primäre Farbe für
 Dafür wurde die Farbe der Kategorie "Mathematik und Physik" von rot auf dunkelblau geändert.
 
 In der untenstehenden Grafik sieht man den globalen Fehlerbereich erweitert:
-#figure(image("Validierung-ausgeklappt.png"), caption: ["Globaler Fehlerbereich erweitert"]);
+#figure(image("Validierung-ausgeklappt.png"), caption: [Globaler Fehlerbereich erweitert]);
 
 Pro Fehler wird eine Fehlermeldung angezeigt, inklusive vorhandener Aktionen, um den Fehler zu beheben.
 
 In der nachfolgenden Grafik ist die Validierung ausgeschaltet:
-#figure(image("Validierung-ausgeschaltet.png"), caption: ["Validierung ausgeschaltet"]);
+#figure(image("Validierung-ausgeschaltet.png"), caption: [Validierung ausgeschaltet]);
 
 Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Übertrittsmodule, ECTS-Übersicht, Vertiefungen*
 Die nachfolgende Grafik zeigt die Änderungen in der unteren Hälfte des Semesterplaners:
-#figure(image("ECTS-Angerechnet-Vert.png"), caption: ["Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen"]);
+#figure(image("ECTS-Angerechnet-Vert.png"), caption: [Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen]);
 
 Dabei wird ersichtlich, dass unterhalb der geplanten Semester die Übertrittsmodule angezeigt werden.
 Weiter wird neben dem gesetzten Startsemester der Link zur Studienordnungsbeschreibung angezeigt.
@@ -54,22 +54,22 @@ Dabei wird das Semester angezeigt, in welches das Modul hinzugefügt wird, wie i
 
 Zusätzlich können Module der jeweiligen Kategorien über den "+"-Button gebrowst, gesucht und direkt hinzugefügt werden.
 Dies zeigt die nachfolgende Grafik:
-#figure(image("ECTS-Module.png"), caption: ["Module bestimmter Kategorien direkt browsen, suchen und hinzufügen"]);
+#figure(image("ECTS-Module.png"), caption: [Module bestimmter Kategorien direkt browsen, suchen und hinzufügen]);
 
 Die Übertrittsmodule werden ebenfalls validiert, wie die folgende Grafik zeigt:
-#figure(image("Validierung-Übertritt.png"), caption:["Validierung der Übertrittsmodule"]);
+#figure(image("Validierung-Übertritt.png"), caption:[Validierung der Übertrittsmodule]);
 Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgeführt.
 Diese beinhaltet das Überprüfen, ob das angerechnete Modul in der URL doppelt vorkommt.
 
 *Hinzufügen von Übertrittsmodulen*
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
-#figure(image("Modal-1.png"), caption: ["Geöffnetes Modal nach dem Klick auf den Button zum Hinzufügen von Übertrittsmodulen"]);
-#figure(image("Modal-2.png"), caption: ["Suche nach einem Übertrittsmodul"]);
-#figure(image("Modal-3.png"), caption: ["Mehrere Übertrittsmodule auf einmal Hinzufügbar: Ausgewähltes Übertrittsmodul \"Blockchain\""]);
-#figure(image("Modal-4.png"), caption: ["Da mehrere Module, angerechnete wie selbst erstellte, hinzugefügt werden können, werden zwei Schritte zum Hinzufügen durchgeführt. Hier wird das angerechnete Modul \"Blockchain\" dem Hinzufüge-Pool hinzugefügt"]);
-#figure(image("Modal-5.png"), caption: ["Selbst definierbares Übertrittsmodul, wie bspw. für das _Digicamp_ notwendig. Leere Ansicht"]);
-#figure(image("Modal-6.png"), caption: ["Ausgefülltes externe Eingabe inklusive Fehlermeldung."]);
-#figure(image("Modal-7.png"), caption: ["Hinzufüge-Pool nach Eingabe eines angerechneten Moduls sowie einer externen Eingabe."]);
+#figure(image("Modal-1.png"), caption: [Geöffnetes Modal nach dem Klick auf den Button zum Hinzufügen von Übertrittsmodulen]);
+#figure(image("Modal-2.png"), caption: [Suche nach einem Übertrittsmodul]);
+#figure(image("Modal-3.png"), caption: [Mehrere Übertrittsmodule auf einmal Hinzufügbar: Ausgewähltes Übertrittsmodul \"Blockchain\"]);
+#figure(image("Modal-4.png"), caption: [Da mehrere Module, angerechnete wie selbst erstellte, hinzugefügt werden können, werden zwei Schritte zum Hinzufügen durchgeführt. Hier wird das angerechnete Modul \"Blockchain\" dem Hinzufüge-Pool hinzugefügt]);
+#figure(image("Modal-5.png"), caption: [Selbst definierbares Übertrittsmodul, wie bspw. für das _Digicamp_ notwendig. Leere Ansicht]);
+#figure(image("Modal-6.png"), caption: [Ausgefülltes externe Eingabe inklusive Fehlermeldung.]);
+#figure(image("Modal-7.png"), caption: [Hinzufüge-Pool nach Eingabe eines angerechneten Moduls sowie einer externen Eingabe.]);
 
 Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterhalb der geplanten Semester angezeigt, wie bereits in der Grafik "Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen" aufgezeigt wurde.
 
@@ -77,14 +77,14 @@ Mehr Informationen zu den Entscheidungen bezüglich der Übertrittsmodule könne
 
 *Erweiterte Suche und Constraints Enforcement*
 Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, ECTS, Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _Constraints Enforcement_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
-#figure(image("Suche-initial.png"), caption: ["Suche ohne Suchbegriff"]);
-#figure(image("Suche-Kategorien.png"), caption: ["Suche mit Gruppierung von Modulen nach Kategorien"]);
+#figure(image("Suche-initial.png"), caption: [Suche ohne Suchbegriff]);
+#figure(image("Suche-Kategorien.png"), caption: [Suche mit Gruppierung von Modulen nach Kategorien]);
 
 Die nachfolgende Grafik zeigt die Suche mit einem Suchbegriff:
-#figure(image("Suche-Begriff.png"), caption: ["Suche mit Suchbegriff"]);
+#figure(image("Suche-Begriff.png"), caption: [Suche mit Suchbegriff]);
 
 Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgende Grafik zeigt:
-#figure(image("Constraint-Semester.png"), caption: ["Constraints Enforcement beim Hinzufügen eines 15. Semesters inklusive Tooltip"]);
+#figure(image("Constraint-Semester.png"), caption: [Constraints Enforcement beim Hinzufügen eines 15. Semesters inklusive Tooltip]);
 
 Mehr Informationen zur Suche können hier gefunden werden: @search-logic
 
@@ -93,7 +93,7 @@ Die Validierungs-Map wurde erstellt, um die zuvor definierten Funktionalitäten 
 Ebenfalls wurden Unsicherheit, Einfluss sowie Aufwand der Prototyperstellung dazu festgehalten.
 In der folgenden Grafik ist die Validierungs-Map abgebildet:
 
-#figure(image("Validierungs-Map.jpg"), caption: ["Validierungs-Map"])
+#figure(image("Validierungs-Map.jpg"), caption: [Validierungs-Map])
 
 == Fazit
 Der Prototyp-Workshop war erfolgreich und führte zur Erstellung eines funktionalen High-Fidelity-Prototypen sowie einer Validierungs-Map, welche die Grundlagen für den nachfolgenden Validierungs-Workshop bildeten.
