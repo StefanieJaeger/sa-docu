@@ -39,7 +39,10 @@ Die Integration in eine mobile-first-Umgebung kann in einer späteren Phase auss
 #[
   #set heading(offset: 1)
   #include("ideation/ideation.typ")
+  #pagebreak()
   #include("konzept/konzept.typ")
+  #pagebreak()
   #include("prototyp/prototyp.typ")
+  #pagebreak()
   #include("validierung/validierung.typ")
 ]

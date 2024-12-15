@@ -22,7 +22,7 @@ Nachfolgend sind die wichtigsten Artefakte des Konzept-Workshops aufgeführt.
 === User Story Map
 Die folgende User Story Map bildet den Ablauf der Semesterplanung mit den neu angestrebten Funktionen ab:
 
-#figure(image("User-Story-Map.jpg"), caption: [User Story Map]);
+#figure(image("User-Story-Map.jpg", width: 80%), caption: [User Story Map]);
 
 Unterscheidungen zur Journey Map:
 - Nutzende sehen direkt potenzielle Planungsfehler
@@ -85,12 +85,12 @@ Dabei ist die folgende Legende zu beachten:
 - *Gelb:* Funktionen
 - *Dunkelgelb:* vorgesehene neue Funktionen
 
-#figure(image("Keyscreen-neu.jpg"), caption: [Keyscreen mit neuen Bereichen und Funktionen]);
+#figure(image("Keyscreen-neu.jpg", width: 80%), caption: [Keyscreen mit neuen Bereichen und Funktionen]);
 
 === Reihenfolge Umsetzung Prototyp
 Die folgende Grafik zeigt die Reihenfolge der Umsetzung des Prototypen:
 
-#figure(image("Reihenfolge-Umsetzung-Prototyp.jpg"), caption: [Reihenfolge Umsetzung Prototyp])
+#figure(image("Reihenfolge-Umsetzung-Prototyp.jpg", width: 60%), caption: [Reihenfolge Umsetzung Prototyp])
 
 Zur systematischen Umsetzung wurde eine Reihenfolge festgelegt, in welcher die Funktionalitäten umgesetzt werden sollen.
 Dies ermöglicht es, den Prototypen aufbauend zu entwickeln um dabei mögliche Probleme und Widersprüche in den Lösungen zu identifizieren und zu beheben.
@@ -109,10 +109,10 @@ In der folgenden beiden Grafiken sind die Mockups für die Nutzerführung abgebi
 #figure(image("M1-Module-hinzufügen.jpg"), caption: [Module aus Vertiefungen direkt hinzufügen]);
 *Noch einzuplanende ECTS*
 In der folgenden Grafik ist das Mockup für die noch einzuplanenden ECTS abgebildet:
-#figure(image("M1-Planen-ECTS.jpg"), caption: [Noch einzuplanende ECTS]);
+#figure(image("M1-Planen-ECTS.jpg", width: 60%), caption: [Noch einzuplanende ECTS]);
 *Verlinkung ins SLCM*
 In der folgenden Grafik ist das Mockup zur Verlinkung zur Studienordnungsbeschreibung abgebildet:
-#figure(image("M1-STD.jpg"), caption: [Link zur STD]);
+#figure(image("M1-STD.jpg", width: 40%), caption: [Link zur STD]);
 
 ==== Phase 2
 *Validierung Übersicht*

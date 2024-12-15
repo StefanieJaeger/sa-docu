@@ -79,8 +79,14 @@ qualitative-content-analysis:
     parent:
         type: periodical
         title: "Qualitative Health Research"
-        volume: 15(9)        
-
+        volume: 15(9)
+ostStudienordnung:
+    type: Web
+    title: Informatik STD_21
+    author: OST - Ostschweizer Fachhochschule
+    url:
+        value: https://studien.ost.ch/I/VZ/STD_21/Studienordnung.html
+        date: 2024-11-29
 
 
 # Entry Type

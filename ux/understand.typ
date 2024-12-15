@@ -7,8 +7,11 @@ Das vertiefte Verständnis des Problemraums wurde in der Phase 2: Erkunden genut
 #[
   #set heading(offset: 1)
   #include("scoping/scoping.typ")
+  #pagebreak()
   #include("research/research.typ")
   // todo: sollten search results auf gleicher Ebene wie die 3 Workshops sein? Also 6.2 Workshop: Research, 6.3 Resultate der Erhebung, 6.4 Resultate der Persona-Fragebogenstudien, etc.
+  #pagebreak()
   #include("synthese/results/research-results.typ")
+  #pagebreak()
   #include("synthese/synthese.typ")
 ]

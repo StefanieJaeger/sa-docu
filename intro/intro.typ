@@ -3,6 +3,7 @@
 // 2.6 Ausgangslage / Problemstellung / Stand der Technik
 // Beschreibung der Motivation für die Arbeit sowie der Schwächen der heutigen Praktiken und Lösungen.
 // Beschreibung des Typs der Arbeit (Bsp. Fokus Lösungserstellung oder Machbarkeitsanalyse) sowie die Abgrenzung zu ähnlich gelagerten Arbeiten. Sie stellt die Aufgabe in einen grösseren Zusammenhang.
+Nachfolgend wird die Ausgangslage der Studienarbeit beschrieben, die Aufgabenstellung erläutert und die Rahmenbedingungen definiert.
 == Ausgangslage
 Die folgende Studienarbeit befasst sich mit der menschzentrierten Weiterentwicklung der Plattform lost.university, einem Werkzeug, das Informatikstudierende bei der Planung ihres Studiums an der OST - Ostschweizer Fachhochschule unterstützt.
 Gemäss der #cite(<ostInhaltInf>, form: "prose") können Studierende in verschiedenen Zeitmodellen (Vollzeit oder Teilzeit) studieren und ihr Curriculum frei zusammenstellen.
