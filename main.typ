@@ -8,8 +8,6 @@
 
 // TODO: Abstract und Management Summary ohne Nummerierung?
 
-// todo: bei allen includes schauen, ob die Headings dann noch stimmen. Wenn nicht, dann das hier anwenden: https://forum.typst.app/t/how-to-increase-heading-level-in-an-included-document/1819/2
-
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
 // -- DONE
