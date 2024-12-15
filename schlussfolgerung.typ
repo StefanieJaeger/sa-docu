@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Schlussfolgerung
 Die Verwendung des von #cite(<cuxd>, form: "prose") beschriebenen CUXD-Vorgehensmodells erwies sich als wertvoll, da es eine empirisch fundierte Ausarbeitung und Validierung eines High-Fidelity-Prototyps ermöglichte.
 Die in der Verstehen-Phase gefundenen Probleme und Erkenntnisse wurden anhand des erarbeiteten High-Fidelity-Prototypen validiert.
@@ -18,7 +19,7 @@ Abschliessend werden mögliche zukünftige Schritte skizziert, die auf den in di
    - Die validierten Probleme und Lösungen können in die Roadmap für die Delivery-Phase übernommen werden. Dabei ist zu beachten, dass der Prototyp nicht mit dem finalen Produkt gleichzusetzen ist, sondern lediglich das Verhalten und die Funktionen definiert.
    - Best Practices sollten berücksichtigt werden, beispielsweise bei der Gestaltung der Suchfunktion und des Stylings, um die Lesbarkeit zu verbessern.
 + *Erweiterung um zusätzliche Persona:*
-   - Eine weitere Persona, die nach Musterstudienplan studiert und im Semesterplaner lediglich die Studienplanung betrachtet, könnte definiert und validiert werden. Es wäre interessant zu prüfen, ob diese Zielgruppe andere Bedürfnisse hat als aktiv planende Nutzende.
+   - Eine weitere #gls("persona"), die nach #gls("msp") studiert und im Semesterplaner lediglich die Studienplanung betrachtet, könnte definiert und validiert werden. Es wäre interessant zu prüfen, ob diese Zielgruppe andere Bedürfnisse hat als aktiv planende Nutzende.
 + *Iteration mit Fokus auf Accessibility:*
    - Eine Überprüfung der Barrierefreiheit des Prototyps sollte erfolgen, da bisher der Fokus auf der Funktionalität lag. Wichtige Schritte wären:
     - Screenreader-Tests durchführen (z.B. Labels für Buttons, Menü-Shortcuts, Springen zum Hauptinhalt)

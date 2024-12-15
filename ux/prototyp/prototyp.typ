@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Workshop: Prototyp
 Im Prototyp-Workshop wurde in einem ersten Schritt eine Validierungs-Map ausgearbeitet.
 Mit Hilfe dieser Map wurden die zuvor definierten Funktionalitäten mit den entsprechenden Methoden und Erfolgreich-Wenn-Kriterien zur Validierung verknüpft.
@@ -46,8 +47,8 @@ Die nachfolgende Grafik zeigt die Änderungen in der unteren Hälfte des Semeste
 #figure(image("ECTS-Angerechnet-Vert.png"), caption: [Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen]);
 
 Dabei wird ersichtlich, dass unterhalb der geplanten Semester die Übertrittsmodule angezeigt werden.
-Weiter wird neben dem gesetzten Startsemester der Link zur Studienordnungsbeschreibung angezeigt.
-In der ECTS-Übersicht wird neu angezeigt, wie viele ECTS noch einzuplanen sind, und nicht mehr, wie viele noch geplant sind.
+Weiter wird neben dem gesetzten Startsemester der Link zur #gls("std") angezeigt.
+In der ECTS-Übersicht wird neu angezeigt, wie viele #gls("ects") noch einzuplanen sind, und nicht mehr, wie viele noch geplant sind.
 
 In den Vertiefungen können Module neu über einen Button daneben direkt der Planung hinzugefügt werden.
 Dabei wird das Semester angezeigt, in welches das Modul hinzugefügt wird, wie in der obigen Grafik ersichtlich ist.
@@ -76,7 +77,7 @@ Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterh
 Mehr Informationen zu den Entscheidungen bezüglich der Übertrittsmodule können hier gefunden werden: @code-decisions
 
 *Erweiterte Suche und Constraints Enforcement*
-Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, ECTS, Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _Constraints Enforcement_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
+Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, #gls("ects"), Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _Constraints Enforcement_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
 #figure(image("Suche-initial.png", width: 40%), caption: [Suche ohne Suchbegriff]);
 #figure(image("Suche-Kategorien.png", width: 40%), caption: [Suche mit Gruppierung von Modulen nach Kategorien]);
 

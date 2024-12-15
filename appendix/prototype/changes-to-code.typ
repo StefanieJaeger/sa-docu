@@ -1,10 +1,11 @@
+#import "@preview/glossarium:0.4.1": gls
 == Änderungen am Code
 
 Nachfolgend sind alle im Verlauf des Prototyp-Workshops vorgenommenen Codeänderungen beschrieben.
 
 *Neue Komponenten*
 
-_AccreditedModuleBadge.vue:_ Stellt ein Übertrittsmodul dar. Darstellung enthält Name, ECTS, ein Button zum Entfernen und ist mit der Farbe der Hauptkategorie eingefärbt. Bei Hover erscheint ein Tooltip, welches entweder nochmals die enthaltenen Informationen darstellt oder Informationen zum Validierungsfehler.
+_AccreditedModuleBadge.vue:_ Stellt ein Übertrittsmodul dar. Darstellung enthält Name, #gls("ects"), ein Button zum Entfernen und ist mit der Farbe der Hauptkategorie eingefärbt. Bei Hover erscheint ein Tooltip, welches entweder nochmals die enthaltenen Informationen darstellt oder Informationen zum Validierungsfehler.
 
 _AccreditedModules.vue:_ Für "Übertrittsmodule", welche unter den Semestern gelistet werden.
 
@@ -24,7 +25,7 @@ _validation-helper.ts:_ Enthält die Logik zur Validierung eines Modules. Die Er
 
 *Bestehende Komponenten*
 
-_BeautifulProgressIndicator.vue:_ Stellt die Erreichung einer Kategorie als Progressbar dar. Hier wird neu die Anzahl noch zu planender ECTS angezeigt.
+_BeautifulProgressIndicator.vue:_ Stellt die Erreichung einer Kategorie als Progressbar dar. Hier wird neu die Anzahl noch zu planender #gls("ects") angezeigt.
 
 _Focus.vue:_ Für Vertiefungen und deren Module. Neuerdings wird ein Button neben jedem Modul dargestellt, der das Einplanen im nächstmöglichen Semester erlaubt.
 
@@ -34,7 +35,7 @@ _Semester.vue:_ Stellt ein Semester im Plan dar. Stellt neu die Semesternummer d
 
 _Home.vue:_ Die Hauptseite, in der alle Informationen dargestellt werden. Es wurde viel Code in andere Komponenten ausgelagert. Plandaten, die zuvor in dieser Komponente verwaltet und an andere mitgegeben wurden, wurden in einen Store verschoben.
 
-_color-helper.ts:_ Hilft dabei, die richtige Farbe pro Kategorie/Modul zu bestimmen. Zuvor wurden HEX-Werte verwendet, dies wurde auf möglichst ähnliche Tailwind-Klassen geändert, um eine einheitlichere Farbpalette zu erreichen.
+_color-helper.ts:_ Hilft dabei, die richtige Farbe pro Kategorie/Modul zu bestimmen. Zuvor wurden HEX-Werte verwendet, dies wurde auf möglichst ähnliche #gls("tailwind")-Klassen geändert, um eine einheitlichere Farbpalette zu erreichen.
 
 _semester-info.ts:_ Stellt Informationen zu einem Semester, unabhängig von der Planung, dar. Kann neu nächstmögliche Durchführung für ein gegebenes sowie das nächste Semester zurückgeben.
 
@@ -48,8 +49,8 @@ _vuex:_ Der Hauptgrund für die Einführung eines Stores war die Möglichkeit, �
 
 _headless:_ Zur Umsetzung der geplanten Änderungen war die Einführung einiger neuer UI-Elemente erforderlich, wie etwa ein Toggle, Modal, Tabs, ComboBox und andere.
 Dies selbst von Grund auf zu implementieren, wäre für einen Prototypen nicht zweckgemäss gewesen.
-#link("https://headlessui.com/", "Headless") ist ein Projekt von Tailwind Labs.
-Da für das Styling bereits Tailwind genutzt wird und Headless für jedes Element passende Komponenten enthält, wurde diese Library gewählt.
+#link("https://headlessui.com/", "Headless") ist ein Projekt von #gls("tailwind") Labs.
+Da für das Styling bereits #gls("tailwind") genutzt wird und Headless für jedes Element passende Komponenten enthält, wurde diese Library gewählt.
 
 === Entscheidungen <code-decisions>
 Im Bereich der Übertrittsmodule wurden einige Entscheidungen aus technischen und nicht nutzerzentrierten Gründen gefällt.

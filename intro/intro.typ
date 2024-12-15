@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Einleitung
 
 // 2.6 Ausgangslage / Problemstellung / Stand der Technik
@@ -7,7 +8,7 @@ Nachfolgend wird die Ausgangslage der Studienarbeit beschrieben, die Aufgabenste
 == Ausgangslage
 Die folgende Studienarbeit befasst sich mit der menschzentrierten Weiterentwicklung der Plattform lost.university, einem Werkzeug, das Informatikstudierende bei der Planung ihres Studiums an der OST - Ostschweizer Fachhochschule unterstützt.
 Gemäss der #cite(<ostInhaltInf>, form: "prose") können Studierende in verschiedenen Zeitmodellen (Vollzeit oder Teilzeit) studieren und ihr Curriculum frei zusammenstellen.
-Dies führt zu einer Vielzahl von möglichen Kombinationen. Die Plattform lost.university unterstützt die Studierenden bei der Planung ihres Studiums, indem sie die Musterstudienpläne der verschiedenen Vertiefungsrichtungen anzeigt und die Studierenden in erster Linie bei der Planung der Modulauswahl unterstützt. Dabei können Studierende ihr eigenes Curriculum erstellen.
+Dies führt zu einer Vielzahl von möglichen Kombinationen. Die Plattform lost.university unterstützt die Studierenden bei der Planung ihres Studiums, indem sie die #glspl("msp") der verschiedenen Vertiefungsrichtungen anzeigt und die Studierenden in erster Linie bei der Planung der Modulauswahl unterstützt. Dabei können Studierende ihr eigenes Curriculum erstellen.
 
 Die Motivation für diese Arbeit ergibt sich aus der weitreichenden Nutzung und der positiven Resonanz der Studierenden auf die Plattform, die jedoch durch Einschränkungen in ihrer Benutzerfreundlichkeit und insbesondere ihrer Funktionalität geprägt ist.
 

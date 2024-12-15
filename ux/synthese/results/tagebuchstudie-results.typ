@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Resultate der Tagebuchstudie <dairy_results>
 Die Einträge der Tagebuchstudie wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von #cite(<qualitative-content-analysis>, form: "prose") einer deduktiven Inhaltsanalyse unterzogen.
 Dabei wurde jeder Eintrag mehrmals gelesen und mit passenden Codes versehen.
@@ -40,7 +41,7 @@ In einem Drittel der Tagebucheinträge wurde der Plan mit einer anderen Person g
 Die Nutzenden lobten vor allem die Übersichtlichkeit des Semesterplaners, die farbliche Darstellung der Kategorien und die intuitive Drag-and-Drop-Funktion.
 Besonders geschätzt wurde die Direktverlinkung zu Modulbeschreibungen im SLCM, da sie den Zugriff auf detaillierte Informationen erleichtert.
 Für mindestens eine teilnehmende Person fungierte der Semesterplaner sogar als Motivationshilfe, um weitere Studienabschnitte zu planen.
-Die Übersicht der ECTS pro Kategorie wurde ebenfalls positiv hervorgehoben, obwohl gleichzeitig der Wunsch nach einer besseren Darstellung der verbleibenden ECTS geäussert wurde.
+Die Übersicht der #gls("ects") pro Kategorie wurde ebenfalls positiv hervorgehoben, obwohl gleichzeitig der Wunsch nach einer besseren Darstellung der verbleibenden #gls("ects") geäussert wurde.
 
 == Herausforderungen und Verbesserungspotenziale
 Trotz des positiven Feedbacks wurden mehrere Herausforderungen identifiziert:
@@ -50,7 +51,7 @@ Trotz des positiven Feedbacks wurden mehrere Herausforderungen identifiziert:
 + *Suchfunktion:*
   - Die Suche wird als umständlich beschrieben, da sich das Eingabefeld nach einer Suche nicht automatisch leert.
 + *Manuelle Berechnung von ECTS:*
-  - Die Überprüfung der noch einzuplanenden ECTS erfordert eine manuelle Berechnung, obwohl die Übersicht der ECTS pro Kategorie hochgelobt wurde.
+  - Die Überprüfung der noch einzuplanenden #gls("ects") erfordert eine manuelle Berechnung, obwohl die Übersicht der #gls("ects") pro Kategorie hochgelobt wurde.
 + *Externe Abhängigkeiten:*
   - Für die Überprüfung von Durchführungsdaten müssen Nutzende auf das SLCM zurückgreifen, was den Planungsprozess aufwändiger macht. Dies wurde mehrfach als *"User-Ask"* dokumentiert.
 
@@ -61,5 +62,5 @@ Die meisten Teilnehmenden speichern ihren Plan über Lesezeichen im bevorzugten 
 
 == Zusammenfassung
 Die Tagebuchstudie verdeutlicht, dass der Semesterplaner ein vielseitiges und effektives Werkzeug für die akademische Planung darstellt.
-Trotz der positiven Resonanz gibt es klare Verbesserungspotenziale, insbesondere bei der Suchfunktion, der Integration externer Daten und der Unterstützung bei der ECTS-Berechnung.
+Trotz der positiven Resonanz gibt es klare Verbesserungspotenziale, insbesondere bei der Suchfunktion, der Integration externer Daten und der Unterstützung bei der #gls("ects")-Berechnung.
 Die Optimierung dieser Aspekte könnte die Nutzerfreundlichkeit und den Mehrwert des Semesterplaners weiter erhöhen.

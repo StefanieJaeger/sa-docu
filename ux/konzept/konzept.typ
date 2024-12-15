@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Workshop: Konzept
 Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
 Somit konnten bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen identifiziert und behoben werden.
@@ -27,17 +28,17 @@ Die folgende User Story Map bildet den Ablauf der Semesterplanung mit den neu an
 Unterscheidungen zur Journey Map:
 - Nutzende sehen direkt potenzielle Planungsfehler
 - Nutzende sehen direkt die Semesternummer und müssen diese nicht mehr nachzählen
-- Nutzende sehen direkt die noch nicht geplanten, fehlenden ECTS pro Kategorie statt die eingeplanten und noch nicht erreichten
+- Nutzende sehen direkt die noch nicht geplanten, fehlenden #gls("ects") pro Kategorie statt die eingeplanten und noch nicht erreichten
 - Über die Suche können Nutzende direkt weitere Informationen einsehen. Damit können Nutzende über die Suche auch nach Modulen "browsen", ohne sie direkt hinzufügen zu müssen, um deren Kategorie zu sehen. Folgende Informationen werden in der Suche bereitgestellt:
   - Kategoriezugehörigkeit eines Moduls
-  - ECTS eines Moduls
+  - #gls("ects") eines Moduls
   - Durchführungssemester eines Moduls
   - ob das Modul bereits geplant ist
 - Weiter können Nutzende über die Suche keine Module im falschen Semester hinzufügen oder Module hinzufügen, die bereits eingeplant sind.
 - Nutzende können im Bereich der ECTS-Übersicht jeweils Module der einzelnen Kategorien einsehen und direkt von dort hinzufügen.
 - Nutzende können im Bereich der Vertiefungen dort angegebene Module direkt im Plan hinzufügen.
-- Nutzende können direkt die Studienordnungsbeschreibung aufrufen, da diese in der ECTS-Übersicht verlinkt ist. Ist ein Startsemester gesetzt, wird die jeweils gültige Studienordnung angezeigt, ansonsten die aktuellste.
-- Nutzende können angerechnete Leistungen, sei es ein Modul oder einfach angerechnete ECTS in Kategorien, eintragen. Diese werden in der ECTS-Übersicht berücksichtigt, jedoch nicht direkt im Plan angezeigt, da sie keinem Semester zugeordnet sind.
+- Nutzende können direkt die #gls("std") aufrufen, da diese in der ECTS-Übersicht verlinkt ist. Ist ein Startsemester gesetzt, wird die jeweils gültige Studienordnung angezeigt, ansonsten die aktuellste.
+- Nutzende können angerechnete Leistungen, sei es ein Modul oder einfach angerechnete #gls("ects") in Kategorien, eintragen. Diese werden in der ECTS-Übersicht berücksichtigt, jedoch nicht direkt im Plan angezeigt, da sie keinem Semester zugeordnet sind.
 
 === Szenario
 Das folgende Szenario beschreibt den Ablauf des Semesterplanens mit den neu angestrebten Funktionen:
@@ -50,7 +51,7 @@ Dabei sieht er, dass im nächsten Semester ein Modul ein Problem aufweist.
 Er wird darauf hingewiesen, dass es das Modul nicht mehr gibt, und kann es direkt mit dem Ablösemodul ersetzen, damit seine Planung studierbar ist. Dies führt er gleich aus.
 
 Felix konsultiert nun die Erreichung der ECTS-Vorgabe in den einzelnen Kategorien.
-Dabei sieht er, dass er in der Kategorie Mathematik und Physik noch 4 ECTS Punkte einplanen muss.
+Dabei sieht er, dass er in der Kategorie Mathematik und Physik noch 4 #gls("ects") Punkte einplanen muss.
 Er schaut sich Module der Kategorie gleich im Semesterplaner an und entscheidet sich für "Mathematical Foundations for Machine Learning".
 Da er das Modul frühestens in zwei Semestern planen möchte, scrollt er nach oben zu der Semesterdarstellung und klickt im entsprechenden Semester auf "+", um nach dem Modul zu suchen.
 Bei der Suche sieht er, dass das Modul nicht in dem von ihm gewählten Semester stattfindet, sondern jeweils im anderen.
@@ -66,7 +67,7 @@ Die Rückmeldungen sind positiv und passen vom Aufwand her in sein siebtes Semes
 
 Felix ruft später in einer Vorlesung seinen Plan sowie die SLCM-Modulanmeldeseite auf, um sich einzuschreiben.
 Dabei fällt ihm auf, dass er für sein Cambridge Advanced Zertifikat ein Englisch-Modul angerechnet bekommen hat, welches er noch nicht im Plan abgebildet hat.
-Er fügt das angerechnete Modul hinzu, um seine ECTS korrekt berechnen zu lassen.
+Er fügt das angerechnete Modul hinzu, um seine #gls("ects") korrekt berechnen zu lassen.
 Dabei kann er angeben, dass dies eine angerechnete Leistung ist.
 Diese wird separat zu den geplanten Semestern aufgelistet.
 
@@ -108,10 +109,10 @@ In der folgenden beiden Grafiken sind die Mockups für die Nutzerführung abgebi
 #figure(image("M1-Nutzerführung.jpg"), caption: [Semester nummeriert]);
 #figure(image("M1-Module-hinzufügen.jpg"), caption: [Module aus Vertiefungen direkt hinzufügen]);
 *Noch einzuplanende ECTS*
-In der folgenden Grafik ist das Mockup für die noch einzuplanenden ECTS abgebildet:
+In der folgenden Grafik ist das Mockup für die noch einzuplanenden #gls("ects") abgebildet:
 #figure(image("M1-Planen-ECTS.jpg", width: 60%), caption: [Noch einzuplanende ECTS]);
 *Verlinkung ins SLCM*
-In der folgenden Grafik ist das Mockup zur Verlinkung zur Studienordnungsbeschreibung abgebildet:
+In der folgenden Grafik ist das Mockup zur Verlinkung zur #gls("std") abgebildet:
 #figure(image("M1-STD.jpg", width: 40%), caption: [Link zur STD]);
 
 ==== Phase 2

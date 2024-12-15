@@ -1,4 +1,5 @@
 #show figure: set block(breakable: true)
+#import "@preview/glossarium:0.4.1": gls
 
 = Workshop: Validierung
 Im Validierungs-Workshop wurde die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
@@ -230,5 +231,5 @@ Mit dem funktionalen Prototypen konnte gezeigt werden, dass die Lösungskonzepte
 
 Die fünf Probleme mit dem Schweregrad 2 stellen jedoch die wichtigsten Herausforderungen dar, die in der nächsten Iteration als erstes behoben werden sollten.
 Darüber hinaus sollten die häufigsten Probleme, bei denen "etwas unklar ist", angegangen werden, da sie das grösste Verbesserungspotenzial bieten.
-Besonders wichtig ist dies, da unsere Persona "Felix" die Schwierigkeit hat, dass Unübersichtlichkeit sein Vertrauen in die Korrektheit der Daten im SLCM beeinträchtigt, wie unter @persona-problems ersichtlich ist.
+Besonders wichtig ist dies, da unsere #gls("persona") "Felix" die Schwierigkeit hat, dass Unübersichtlichkeit sein Vertrauen in die Korrektheit der Daten im SLCM beeinträchtigt, wie unter @persona-problems ersichtlich ist.
 Um zu verhindern, dass diese Herausforderung auch auf den Semesterplaner übertragen wird, müssen die Probleme der Kategorie "Etwas ist unklar" sowie Unklarheiten bei der Fehlerbehebung vor einem möglichen Deployment gelöst werden.

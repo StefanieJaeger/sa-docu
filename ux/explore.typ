@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Phase 2: Erkunden
 In der Erkundungsphase wurden auf Basis des in der Phase 1: Verstehen erarbeiteten Verständnisses des Problemraums Lösungsansätze entwickelt, diese zu einem kohärenten Lösungskonzept zusammengeführt und validiert, wie von #cite(<cuxd>, form: "prose") in ihrem CUXD-Vorgehensmodell erläutert.
 
@@ -18,7 +19,7 @@ Weiter kann der Prototyp als Unterseite der bestehenden Website (sa.lost.univers
 Dies bietet den Vorteil, dass Nutzende für das Testen des Prototyps ihre eigenen Geräte verwenden können, ohne zusätzliche Software installieren zu müssen.
 
 *Verfügbare Bibliotheken*
-Es existieren zahlreiche Bibliotheken, die die funktionale Entwicklung des Prototypen in der Programmiersprache Vue.js und dem Usability-First-CSS-Framework Tailwind unterstützen.
+Es existieren zahlreiche Bibliotheken, die die funktionale Entwicklung des Prototypen in der Programmiersprache Vue.js und dem Usability-First-CSS-Framework #gls("tailwind") unterstützen.
 Dies ermöglicht ebenfalls eine schnelle und effiziente Entwicklung.
 
 *Hoher Funktionsaufwand im Hinblick auf Interaktionen*

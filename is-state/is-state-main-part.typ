@@ -24,7 +24,7 @@ Die Daten für die Applikation werden von einem Python-Crawler gesammelt, verarb
 Dieser Vorgang wird einmal zu Beginn jedes Semesters manuell durchgeführt, um die Daten auf Spezialfälle zu prüfen, welche manuell nachbearbeitet werden müssen.
 
 Dabei werden die Daten von den öffentlich zugänglichen Endpunkten von #link("https://studien.ost.ch") bezogen.
-Der Crawler steigt dabei bei den einzelnen Studienordnungsbeschreibungen des Studiengangs Informatik ein.
+Der Crawler steigt dabei bei den einzelnen #glspl("std") des Studiengangs Informatik ein.
 Dort erhält er Informationen zu den geltenden Kategorien, benötigten #glspl("ects") und den möglichen Spezialisierungen und arbeitet sich von dort aus durch die verschiedenen Module durch.
 Die von den Endpunkten gelieferten Datenstrukturen werden im Anhang unter @is-state-appendix-data genauer beschrieben. 
 

@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Resultate der Persona-Fragebogenstudien
 Nachfolgend sind die zusammengefassten Ergebnisse der durchgeführten Fragebogenstudie aufgeführt.
 Die Tabelle mit den gesamten Antworten ist im Anhang unter @student-questionnaire-appendix zu finden.
@@ -13,9 +14,9 @@ An der Fragebogenstudie nahmen zehn Informatikstudierende der OST - Ostschweizer
 Alle Teilnehmenden studieren derzeit am Campus Rapperswil-Jona im 5., 7. oder 9. Semester.
 
 === Studiumsplanung
-Fünf von zehn Teilnehmenden nutzen einen Musterstudienplan (MSP) als Vorlage für ihre Studiumsplanung.
+Fünf von zehn Teilnehmenden nutzen einen #gls("msp") als Vorlage für ihre Studiumsplanung.
 Ebenfalls verfolgen fünf der Teilnehmenden eine Vertiefung.
-Es zeigte sich aber, dass das nicht zwingend dieselben Personen sind: Nicht alle, die einen MSP als Planungsvorlage verwenden, verfolgen auch eine Vertiefung, und nicht alle, die keine Planungsvorlage nutzen, verfolgen keine Vertiefung.
+Es zeigte sich aber, dass das nicht zwingend dieselben Personen sind: Nicht alle, die einen #gls("msp") als Planungsvorlage verwenden, verfolgen auch eine Vertiefung, und nicht alle, die keine Planungsvorlage nutzen, verfolgen keine Vertiefung.
 Eine Planungsvorlage ist demnach nicht zwingend verknüpft mit einer geplanten Vertiefung.
 
 So verwendet keine der zehn Testpersonen die Vertiefung "Cyber Security" zur Planung, jedoch verfolgt eine Person diese Vertiefung. Dies ist in den beiden folgenden Grafiken ersichtlich:
@@ -23,9 +24,9 @@ So verwendet keine der zehn Testpersonen die Vertiefung "Cyber Security" zur Pla
 #figure(image("MSP-als-Vorlage.png", height: 20%), caption: [Antworten auf die Frage: "Welchem Musterstudienplan folgst du als Vorlage für die Planung deines Studiums?"])
 #figure(image("Vertiefung.png", height: 20%), caption: [Antworten auf die Frage: "Welchen Schwerpunkt/welche Vertiefung verfolgst du?"])
 
-Weiter kann abgeleitet werden, dass Vertiefungen oft nicht 1:1 durch die Module des entsprechenden MSPs erreicht werden.
-Die nicht zwingend benötigten Module des MSPs werden durch andere Module ausgetauscht, die den Interessen der Studierenden mehr entsprechen.
-Dies zeigt, dass die Module der angebotenen MSPs nicht zu 100% den Interessen der meisten Studierenden entsprechen.
+Weiter kann abgeleitet werden, dass Vertiefungen oft nicht 1:1 durch die Module des entsprechenden #gls("msp") erreicht werden.
+Die nicht zwingend benötigten Module des #gls("msp") werden durch andere Module ausgetauscht, die den Interessen der Studierenden mehr entsprechen.
+Dies zeigt, dass die Module der angebotenen #gls("msp") nicht zu 100% den Interessen der meisten Studierenden entsprechen.
 
 Da die Hälfte der Teilnehmenden keine Vertiefung verfolgt, kann weiter abgeleitet werden, dass die Studierenden sich nicht zwingend auf eine Vertiefung festlegen möchten und das Angebot der OST - Ostschweizer Fachhochschule der vielen frei wählbaren Modulen geschätzt wird.
 
@@ -36,7 +37,7 @@ Neun von zehn Teilnehmenden nutzen den Semesterplaner, um ihr Studium zu planen.
 Acht erwähnen die jeweiligen Modulbeschreibungen, die im SLCM zu finden sind, als weiteres Hilfsmittel.
 Als drittwichtigstes Hilfsmittel wird die Meinung Dritter genannt (vier Nennungen), die bei der Planung miteinbezogen wird. Dabei wird zum einen der persönliche Austausch mit anderen Studierenden genannt, zum anderen die Nutzung der Online-Plattform _Studentenportal_.
 Ebenfalls drei Mal genannt werden eigens erstellte Excel-Dateien, deren Inhalte jedoch nicht weiter spezifiziert wurden.
-Am wenigsten genannt wurden die Musterstudienpläne (zwei Nennungen).
+Am wenigsten genannt wurden die #glspl("msp") (zwei Nennungen).
 
 === Entscheidungsfaktoren für Modulauswahl
 Da die meisten Teilnehmenden ihre Planung an ihren Interessen ausrichten, ist die Modulauswahl stark von den Interessen der Studierenden abhängig.
