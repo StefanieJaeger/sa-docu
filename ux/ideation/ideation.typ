@@ -43,10 +43,10 @@ Somit wurde das folgende Ranking ermittelt:
 
 Aus diesem Ranking heraus wurde definiert, dass die wichtigsten Opportunity Areas diese mit jeweils 6 und 4 Punkten sind und für die weiteren Workshops genauer betrachtet werden.
 Die anderen Opportunity Areas wurden in dieser Studienarbeit nicht weiterverfolgt.
-Im Anschluss an das Dot-Voting wurden diese in einem 2-3-4 Workshop weiterbearbeitet.
+Im Anschluss an das Dot-Voting wurden diese mit der #gls("6-3-5") weiterbearbeitet.
 
-== 2-3-4 und #gls("ds")
-In einem 2-3-4 wurden zu den wichtigsten Opportunity Areas Ideen generiert.
+== #gls("6-3-5") und #gls("ds")
+In einem 2-3-4 (Abwandlung der #gls("6-3-5")) wurden zu den wichtigsten Opportunity Areas Ideen generiert.
 Die meistversprechenden wurden im Anschluss in einem #gls("ds") weiter ausgearbeitet.
 
 Die Ideen wurden nachfolgend direkt diskutiert, wobei die Autorinnen bereits bewusst in den Konzept-Workshop vorgriffen, um die vielversprechendsten Ideen zu identifizieren.
