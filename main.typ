@@ -24,7 +24,7 @@
 // 2.4 Inhaltsverzeichnis
 #outline(
   indent: 1em,
-  depth: 3,
+  depth: 2,
   target: selector(heading)
     .before(<reflexion>, inclusive: false)
 )
