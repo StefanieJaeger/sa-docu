@@ -5,8 +5,6 @@
 // 2.1 Titelblatt
 #include "title-page.typ"
 
-// TODO: Abstract und Management Summary ohne Nummerierung?
-
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
 // -- DONE
