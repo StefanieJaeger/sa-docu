@@ -7,7 +7,7 @@ Dafür verwendete Werkzeuge waren Moderationskarten, Schreiber, Papier, Pappkart
 Als Artefakte wurden ein Proto-Problem-Statement, eine Proto-Persona, eine Proto-Journey und eine Annahmen-Map erarbeitet.
 Die Artefakte wurden nachträglich auf Miro digitalisiert und sind nachfolgend dargestellt.
  
-== Resultate
+== Workshop-Resultate
 Die folgenden Artefakte wurden im Rahmen des Scoping-Workshops erstellt und dienten als Grundlage für die weiteren Workshops:
 
 === Proto-Problem-Statement

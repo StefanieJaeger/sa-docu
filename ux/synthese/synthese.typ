@@ -1,9 +1,4 @@
 = Workshop: Synthese
-Das von #cite(<cuxd>, form: "prose") beschriebene CUXD-Vorgehensmodell sieht in der Synthese-Phase die Auswertung der durchgeführten Erhebungen und die Überführung der Proto-Artefakte in validierte Artefakte vor.
-Durch die Überarbeitung der Proto-Artefakte wurde eine neue Sicht auf die Problemstellung gewonnen, mit welcher sich die Aufgabenstellung validieren liess.
-Die dabei entstandenen und validierten Artefakte definieren indirekt etwaige funktionale wie auch nicht-funktionale Anforderungen, weshalb auf eine explizite Definition dieser verzichtet wird.
-
-== Vorgehen
 Der Synthese-Workshop fand verteilt vom 23.10. bis zum 06.11.2024 statt.
 Die Tagebuchstudie wurde separat ausgewertet und floss am 4.12.2024 in die Synthese ein.
 Insgesamt wurden 27.5 Stunden für die Synthese der Forschungsergebnisse aufgewendet.
@@ -28,17 +23,17 @@ Die Zielgruppe des Tools wurde angepasst: Es wurde bestätigt, dass ausschliessl
 Studienberatende zählen nicht mehr zur Zielgruppe.
 
 ==== Identifizierte Probleme
-+ *Speicheroptionen und geräteübergreifender Zugriff:*
-  - Der geräteübergreifende Zugriff auf den persönlichen Plan stellt kein Problem dar, da die derzeitige Speicherung im _LocalStorage_ und die Verwendung eigener Bookmarks von den Nutzenden als vorteilhaft angesehen werden.
-  - Zusätzliche Speicheroptionen in Form eines Logins wurden zwar von einer Person gewünscht, jedoch sollte die aktuelle Speichermethode unbedingt beibehalten werden.
-+ *Datenführung im SLCM:*
++ *Geänderte Probleme*
+  - Der geräteübergreifende Zugriff auf den persönlichen Plan stellt kein Problem dar, da die derzeitige Speicherung im _LocalStorage_ und die Verwendung eigener Bookmarks von den Nutzenden als vorteilhaft angesehen werden. Zusätzliche Speicheroptionen in Form eines Logins wurden zwar von einer Person gewünscht, jedoch sollte die aktuelle Speichermethode unbedingt beibehalten werden.
++ *Bestätigte Probleme*
   - Die Datenführung im SLCM ist uneinheitlich. Dies liegt zum einen an der Fusion zur OST - Ostschweizer Fachhochschule, bei der drei Standorte mit unterschiedlichen Systemen und viel Legacy-Software zusammengeführt wurden.
-+ *Neu erkannte Probleme:*
++ *Neu identifizierte Probleme*
   - Die Suche ist umständlich: Der Fokus liegt nicht automatisch im Suchfeld, und das Suchfeld wird nach dem Hinzufügen von Elementen nicht geleert.
   - Die horizontale Übersichtlichkeit des Tools wird bemängelt. Bei vielen Semestern geht der Überblick schnell verloren.
   - Fehler beim Kopfrechnen der noch einzuplanenden ECTS können auftreten.
-  - Der Aufwand eines Moduls ist für Nutzende nicht ersichtlich (Feedback durch Peers).
+  - Der Aufwand eines Moduls ist für Nutzende nicht ersichtlich (Feedback durch Studierende).
   - Die verfügbaren Features und neue Funktionen im Tool sind nicht sichtbar genug. Dadurch werden nicht alle Features aktiv genutzt oder überhaupt wahrgenommen (wie z.B. die Verwendung des _LocalStorage_).
+
 ==== Identifizierte Lösungsansätze
 Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu adressieren:
 + *Geänderte Ansätze:*
