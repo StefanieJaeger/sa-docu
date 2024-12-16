@@ -1,16 +1,10 @@
 = Workshop: Prototyp
-Im Prototyp-Workshop wurde in einem ersten Schritt eine Validierungs-Map ausgearbeitet.
-Mit Hilfe dieser Map wurden die zuvor definierten Funktionalitäten mit den entsprechenden Methoden und Erfolgreich-Wenn-Kriterien zur Validierung verknüpft.
-Die Grundlage zur Erstellung des Prototypen wurde bereits in den beiden vorherigen Workshops erarbeitet.
-Es fand in diesem Workshop keine weitere Anpassung des Konzepts statt.
-
-== Vorgehen
 Der Prototyp-Workshop fand vom 16.11. bis zum 6.12.2024 statt und dauerte insgesamt 62 Stunden.
 Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen High-Fidelity-Prototypen umgesetzt.
 Die Umsetzung erfolgte gemäss den im Konzept-Workshop definierten Phasen, dabei wurde die Hauptarbeit von Stefanie Jäger übernommen.
 Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erstellte und die Ergebnisse der einzelnen Phasen testete und reviewte.
 
-== Resultate
+== Workshop-Resultate
 Die Resultate des Prototyp-Workshops sind der funktionale High-Fidelity-Prototyp sowie die Validierungs-Map, auf die im Folgenden eingegangen wird.
 
 === Funktionaler High-Fidelity-Prototyp

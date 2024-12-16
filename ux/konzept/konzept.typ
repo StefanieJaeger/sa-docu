@@ -1,10 +1,5 @@
 = Workshop: Konzept
-Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
-Somit konnten bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen identifiziert und behoben werden.
-Auch dieser Workshop wurde in enger Anlehnung an das CUXD-Vorgehensmodell von #cite(<cuxd>, form:"prose") durchgeführt.
-
-== Vorgehen
-Da die Autorinnen bereits konzeptuell die vielverpsrechendsten Lösungsansätze identifiziert und diskutiert hatten, wurde dieser Workshop hautpsächlich von nur einer Autorin durchgeführt.
+Da die Autorinnen im Ideation-Workshop bereits konzeptuell die vielversprechendsten Lösungsansätze identifiziert und diskutiert hatten, wurde dieser Workshop hauptsächlich von nur einer Autorin durchgeführt.
 Dabei wurden die folgenden Artefakte erstellt:
 - Keyscreens vor und nach den Änderungen
 - Szenario

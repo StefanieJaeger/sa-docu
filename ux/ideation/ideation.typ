@@ -1,16 +1,11 @@
 #import "@preview/glossarium:0.4.1": gls
 
 = Workshop: Ideation
-Im Ideation-Workshop wurde, wie von #cite(<cuxd>, form: "prose") in ihrem CUXD-Vorgehensmodell beschrieben, ein umfassender Ideenkatalog erstellt.
-Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
-Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
-Um möglichst viele Lösungsideen zu generieren, wurden hierbei die unterschiedlichen Produktchancen unter Beachtung des Prinzips "Quantität vor Qualität" betrachtet.
-Um dies erreichen zu können, kamen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.
-
-== Vorgehen
 Der Ideation-Workshop wurde vom 8.11. - zum 15.11. durchgeführt und dauerte insgesamt 34.5 Stunden.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
+Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
+Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
 Als Methoden wurden How Might We & 6-3-5, Dot Voting, Design Studio und Diskussionsrunden eingesetzt.
 Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse sowie Miro verwendet.
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.

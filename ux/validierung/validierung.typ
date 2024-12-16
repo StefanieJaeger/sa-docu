@@ -1,12 +1,6 @@
 #show figure: set block(breakable: true)
 
 = Workshop: Validierung
-Im Validierungs-Workshop wurde die zuvor definierten Validierungsmethode "Usability-Tests" vorbereitet und durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
-Die Ergebnisse wurden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, inwiefern das erarbeitete Lösungskonzept die gestellten Anforderungen erfüllt.
-Dieses Vorgehen basiert auf dem von #cite(<cuxd>, form: "prose") definierten CUXD-Vorgehensmodell.
-Auf eine weitere Iteration der Erkundungsphase im negativen Fall wurde aufgrund der begrenzten Zeit verzichtet.
-
-== Vorgehen
 Der Validierungs-Workshop fand vom 3.12. bis zum 8.12.2024 statt und dauerte insgesamt 24 Stunden.
 Dabei wurden die Usability-Tests vorbereitet, durchgeführt und ausgewertet.
 Das Ziel der Auswertung war es, vorliegende Unzulänglichkeiten im erarbeiteten Lösungskonzept zu identifizieren sowie Hinweise auf dessen Stärke zu erhalten.
