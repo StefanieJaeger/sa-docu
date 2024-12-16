@@ -1,18 +1,15 @@
-= Resultate der Persona-Fragebogenstudien
+= Resultate der Persona-Fragebogenstudie Studierende
 Nachfolgend sind die zusammengefassten Ergebnisse der durchgeführten Fragebogenstudie aufgeführt.
 Die Tabelle mit den gesamten Antworten ist im Anhang unter @student-questionnaire-appendix zu finden.
 
-Die Antworten der beiden Fragebögen wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von #cite(<qualitative-content-analysis>, form: "prose") einer induktiven Inhaltsanalyse unterzogen.
+Die Antworten des Fragebogens wurden in Anlehnung an das Modell "Three Approaches to Qualitative Content Analysis" von #cite(<qualitative-content-analysis>, form: "prose") einer induktiven Inhaltsanalyse unterzogen.
 Dies, um unvoreingenommen alle möglichen Personen des Nutzendenkreises zu erfassen und nichts zu verpassen.
 Weiter wurden interessante Aspekte und Interpretationen daraus gezogen und im weiteren Studienverlauf berücksichtigt.
-
-== Fragebogen Studierende
-Nachfolgend sind die Ergebnisse der Fragebogenstudie mit Studierenden der OST - Ostschweizer Fachhochschule aufgeführt.
-=== Teilnehmende
+== Teilnehmende
 An der Fragebogenstudie nahmen zehn Informatikstudierende der OST - Ostschweizer Fachhochschule teil.
 Alle Teilnehmenden studieren derzeit am Campus Rapperswil-Jona im 5., 7. oder 9. Semester.
 
-=== Studiumsplanung
+== Studiumsplanung
 Fünf von zehn Teilnehmenden nutzen einen Musterstudienplan (MSP) als Vorlage für ihre Studiumsplanung.
 Ebenfalls verfolgen fünf der Teilnehmenden eine Vertiefung.
 Es zeigte sich aber, dass das nicht zwingend dieselben Personen sind: Nicht alle, die einen MSP als Planungsvorlage verwenden, verfolgen auch eine Vertiefung, und nicht alle, die keine Planungsvorlage nutzen, verfolgen keine Vertiefung.
@@ -31,14 +28,14 @@ Da die Hälfte der Teilnehmenden keine Vertiefung verfolgt, kann weiter abgeleit
 
 Von den zehn Teilnehmenden haben sieben eine klare Vorstellung darüber, in welchem Semester sie ihren Bachelorabschluss anstreben, während die übrigen flexibel zwischen zwei bis drei möglichen Semestern entscheiden möchten.
 
-==== Hilfsmittel zur Planung
+== Hilfsmittel zur Planung
 Neun von zehn Teilnehmenden nutzen den Semesterplaner, um ihr Studium zu planen.
 Acht erwähnen die jeweiligen Modulbeschreibungen, die im SLCM zu finden sind, als weiteres Hilfsmittel.
 Als drittwichtigstes Hilfsmittel wird die Meinung Dritter genannt (vier Nennungen), die bei der Planung miteinbezogen wird. Dabei wird zum einen der persönliche Austausch mit anderen Studierenden genannt, zum anderen die Nutzung der Online-Plattform _Studentenportal_.
 Ebenfalls drei Mal genannt werden eigens erstellte Excel-Dateien, deren Inhalte jedoch nicht weiter spezifiziert wurden.
 Am wenigsten genannt wurden die Musterstudienpläne (zwei Nennungen).
 
-=== Entscheidungsfaktoren für Modulauswahl
+== Entscheidungsfaktoren für Modulauswahl
 Da die meisten Teilnehmenden ihre Planung an ihren Interessen ausrichten, ist die Modulauswahl stark von den Interessen der Studierenden abhängig.
 
 Die Entscheidung für ein Modul kann weiter am Stundenplan (2. Anmeldephase) hängen, wie drei von zehn Teilnehmenden angaben.
@@ -46,10 +43,10 @@ Ebenfalls ist die Meinung und Erfahrung Dritter mit dem entsprechenden Modul ein
 
 Zwei weitere genannte Faktoren sind die Anzahl der zu erstellenden Arbeiten unter dem Semester sowie die Anzahl der Präsenzveranstaltungen und ob die Vorlesungen aufgezeichnet werden (1 Nennung). 
 
-=== Nutzungszeitpunkte
+== Nutzungszeitpunkte
 Die Frage nach den Nutzungszeitpunkten des Semesterplaners ergab, dass dieser hauptsächlich während der Anmeldephasen genutzt wird.
 
-=== Gründe für die Nutzung
+== Gründe für die Nutzung
 Die Teilnehmenden nutzen den Semesterplaner aus verschiedenen Gründen: 
 - Das Tool bietet eine klare Übersichtlichkeit und Struktur, die bei der Studienplanung hilft (Sechs Nennungen).
 - Das Tool gibt die Möglichkeit, Credits und Kategorien direkt im Blick zu behalten (drei Nennungen)
@@ -57,7 +54,7 @@ Die Teilnehmenden nutzen den Semesterplaner aus verschiedenen Gründen:
 - Das Tool bietet viele Vorteile im Vergleich zu Alternativen wie bspw. Excel (zwei Nennungen).
 - Einzelne schätzen spezifische Details wie teilbare Links oder humorvolle Elemente.
 
-== Fragebogen Studienberater
+= Resultate der Persona-Fragebogenstudie Studienberater
 Von drei angeschriebenen Fachkräften in der Studienberatung des Studiengangs Informatik an der OST - Ostschweizer Fachhochschule nahm eine an der Fragebogenstudie teil.
 Der nachfolgende Abschnitt spiegelt somit die Meinung und Erfahrung einer Person wider.
 
