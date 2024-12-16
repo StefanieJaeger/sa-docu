@@ -1,16 +1,11 @@
 = Workshop: Scoping <scoping>
-Gemäss dem von #cite(<cuxd>, form: "prose") definierten Designprozess wurden im Scoping-Workshop Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial abgesteckt.
-Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
-Die erarbeiteten Artefakte wurden mit dem "Proto-" Präfix versehen, um ihre vorläufige Natur zu kennzeichnen.
-
-== Vorgehen
-Der Scoping-Workshop fand am 21.09.2024 statt und dauerte insgesamt 10.
+Der Scoping-Workshop fand am 21.09.2024 statt und dauerte insgesamt 10 Stunden.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit sowie der Inhaber und Haupt-Maintainer des Tools.
 Der Workshop diente dazu, den Projektauftrag zu klären, Annahmen sichtbar zu machen und hypothetische Nutzende zu identifizieren.
 Als Methoden wurden Brainstorming zu den einzelnen Kategorien des Problem-Statements (einsam und gemeinsam), Diskussionsrunden und Mapping eingesetzt.
 Dafür verwendete Werkzeuge waren Moderationskarten, Schreiber, Papier, Pappkarton und eine Fotokamera zur Festhaltung der Ergebnisse.
 Als Artefakte wurden ein Proto-Problem-Statement, eine Proto-Persona, eine Proto-Journey und eine Annahmen-Map erarbeitet.
-Die Artefakte wurden nachträglich auf Miro digitalisiert und finden sich in Anhang XYZ.
+Die Artefakte wurden nachträglich auf Miro digitalisiert und sind nachfolgend dargestellt.
  
 == Resultate
 Die folgenden Artefakte wurden im Rahmen des Scoping-Workshops erstellt und dienten als Grundlage für die weiteren Workshops:

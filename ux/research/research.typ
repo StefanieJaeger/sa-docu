@@ -1,9 +1,4 @@
 = Workshop: Research
-Im Research-Workshop wurde ein detaillierter Forschungsplan zur Validierung der im Scoping-Workshop erarbeiteten Inhalte aufgestellt, wie es im CUXD-Vorgehensmodell von #cite(<cuxd>, form: "prose") beschrieben wird.
-Hierbei lag der Fokus auf den im Scoping-Workshop definierten Wissenslücken und kritischen Annahmen.
-Es wurden Leitfäden für die Durchführung der gewählten Forschungsmethoden erstellt und danach die Erhebungen durchgeführt.
-
-== Vorgehen
 Der Research-Workshop fand am 25. & 27.09.2024 statt und dauerte insgesamt 23 Stunden.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop diente dazu, den Forschungsplan zu definieren und Leitfäden und Fragebögen zu entwickeln.
