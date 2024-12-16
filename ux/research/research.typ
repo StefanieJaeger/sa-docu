@@ -39,14 +39,15 @@ Dabei ist den Nutzenden der Kontext oder die Einflussfaktoren dieses selbst oft 
 Daher wurden Methoden zur Datenerhebung gewählt, die es ermöglichen, den Kontext bei der Datenerhebung mit zu erfassen.
 #cite(<us-ux>, form: "prose") nennen hier insbesondere Vor-Ort-Beobachtungen oder Tagebuchstudien als geeignete Methoden, weshalb in dieser Arbeit auf diese zurückgegriffen wird.
 
-==== Contextual Inquiry <contextual-inquiry>
+=== Contextual Inquiry <contextual-inquiry>
 Die Contextual Inquiry ist gemäss #cite(<us-ux>, form: "prose") eine Sonderform der Beobachtung und nicht anonym und abgekapselt von den Beobachtenden.
 Oft wird eine Lehrling-Lehrmeister-Beziehung angestrebt, bei der sich der Lehrmeister vom Lehrling Dinge erklären lässt und sich dabei immer wieder auf Beobachtetes beziehen kann @us-ux.
 
 Die Contextual Inquiries im Rahmen dieser Studienarbeit dienen dazu, nebst der Beobachtung der Nutzung des Tools im Alltag der Testpersonen auch die Gedankengänge der Testpersonen während der Nutzung zu verstehen.
 Dabei können direkt Rückfragen gestellt werden, um sich Beobachtungen und Intentionen dahinter erklären zu lassen.
 
-===== Vorbereitung
+*Vorbereitung*
+
 Die Vorbereitung der Contextual Inquiries erfolgte durch die Erstellung eines Interviewleitfadens, der die Forschungsfragen zur erstellten Proto-Journey enthielt, welcher unter @leitfaden-ci im Anhang gefunden werden kann.
 Dabei griffen die Autorinnen auf den von #cite(<cuxd>, form: "prose") beschriebenen Leitfaden zurück, um die Beobachtungsstudie zu strukturieren.
 
@@ -56,7 +57,8 @@ Die Beobachtungsstudie gliedert sich in vier Phasen:
 - *Beobachtung:* Beobachtung der Testperson bei der Nutzung des Tools und Dokumentation der Beobachtungen.
 - *Nachgespräch:* Abschliessende Befragung der Testperson zu den Beobachtungen und den Forschungsfragen.
 
-===== Durchführung
+*Durchführung*
+
 Die Beobachtungsstudie wurde mit fünf Testpersonen im Zeitraum vom 09. - 14.10.2024 durchgeführt.
 Bei allen ausser einer Beobachtungsstudie waren Testpersonen und Autorinnen im selben Raum.
 Ein Test wurde Remote durchgeführt.
@@ -70,14 +72,15 @@ Dies ermöglichte es den Autorinnen, nebst der detaillierten Definition von Oppo
 
 Die Ergebnisse befinden sich unter @ci_results.
 
-==== Tagebuchstudie <tagebuchstudie>
+=== Tagebuchstudie <tagebuchstudie>
 Gemäss #cite(<us-ux>, form: "prose") ist die Tagebuchstudie eine Methode zur Datenerhebung, bei der die Testpersonen über einen bestimmten Zeitraum hinweg ihre Erfahrungen mit einem Produkt oder einer Dienstleistung dokumentieren.
 #cite(<cuxd>, form: "prose") heben hervor, dass ein wesentlicher Vorteil darin besteht, dass Testpersonen unbeeinflusst von der Beobachtung durch andere mit einem Tool interagieren können und anschließend ihre persönlichen Erfahrungen in ihrem eigenen Tempo festhalten können.
 
 Die Tagebuchstudie im Rahmen dieser Studienarbeit dient dazu, die Nutzung des Tools im Alltag der Testpersonen zu dokumentieren und zu verstehen.
 Wichtig ist dabei, dass die Testpersonen ihre Gedanken und Gefühle während der Nutzung des Tools direkt danach festhalten, um zu verhindern, dass Erinnerungseffekt die Wahrnehmung verzerren @us-ux.
 
-===== Vorbereitung
+*Vorbereitung*
+
 Die Vorbereitung der Tagebuchstudie umfasste die Definition der Tagebuchfragen basierend auf den Forschungsfragen.
 Ziel war es, relevante und dennoch leicht verständliche Fragen zu formulieren, um den Aufwand für die Testpersonen möglichst gering zu halten.
 
@@ -85,7 +88,8 @@ Zusätzlich wurde ein einfacher Leitfaden erstellt, der den Testpersonen die Zie
 
 Der Link zum Tagebuch wurde den Testpersonen im Teams-Kanal sowie zusätzlich per E-Mail zur Verfügung gestellt.
 
-===== Durchführung
+*Durchführung*
+
 Die Tagebuchstudie lief vom 5.10. bis zum 30.11.2024.
 Die Testpersonen erhielten ein digitales Formular, das sie nach jeder Nutzung des Tools ausfüllen konnten.
 Um eine zeitnahe und vollständige Auswertung zu gewährleisten, wurden die Tagebucheinträge bereits eine Woche vor Ende der Studie vorausgewertet.
@@ -98,7 +102,8 @@ Mit der Persona-Fragebogenstudie sollen Nutzende identifiziert werden.
 Weiter können die Antworten dazu verwendet werden, um erste Bedürfnisse sowie Verhaltensweisen abzuleiten.
 Der Fragebogen fungierte in dieser Studie als Eintrittstor, um die relevanten Nutzergruppen zu definieren und sicherzustellen, dass alle Personas erfasst werden
 
-==== Vorbereitung
+*Vorbereitung*
+
 Der Fragebogen wurde gezielt entwickelt, um relevante demografische und verhaltensbezogene Informationen der Teilnehmenden abzufragen.
 Dabei lag der Fokus darauf, die Forschungsfragen klar und prägnant abzubilden.
 Um die Zugehörigkeit der Studienberater zum Kreis der Personas zu überprüfen, wurde ein zweiter Fragebogen, welcher spezifisch nur auf sie zugeschnitten war, erstellt.
@@ -111,7 +116,8 @@ Im Teams-Channel wurde der Link zum Fragebogen sowie eine kurze Erklärung zur S
 
 Der Fragebogen für die Studienberater wurde diesen direkt per E-Mail versendet, da nur drei Personen in diese Gruppe fielen.
 
-==== Durchführung
+*Durchführung*
+
 Die Fragebogenstudie war im Zeitraum vom 27.09. bis zum 23.10.2024 live geschaltet.
 Die Ergebnisse dienten als Grundlage für die Validierung der erstellten Persona, die in den weiteren Projektphasen verwendet wurde.
 
@@ -121,7 +127,8 @@ Die Ergebnisse befinden sich unter @counselor-questionnaire-appendix.
 Um für eine prototypische Umsetzung bestens gewappnet zu sein, haben sich die Autorinnen dazu entschieden, Interviews mit technischem Fokus durchzuführen.
 Dabei wurden gezielt Fragen in Bezug auf die Datenerfassung im SLCM und die Aussagekraft verschiedener abrufbarer Informationen gestellt.
 
-==== Vorbereitung
+*Vorbereitung*
+
 Die Vorbereitung der Interviews umfasste die Erstellung eines Interviewleitfadens inklusive Datenbeispiele.
 Dabei wurde gezielt festgelegt, welche technischen Aspekte kritisch sind und welche Fragen diese Themen am besten beleuchten.
 Dies erfolgte anhand der persönlichen Erfahrungen der Autorinnen mit den zur Verfügung stehenden Endpunkten.
@@ -129,7 +136,8 @@ Für die Interviews wurden die Studiengangsleitung des Studiengangs Informatik s
 Der Leitfaden zu den Interviews ist im Anhang unter @leitfaden-slcm zu finden.
 
 
-==== Durchführung
+*Durchführung*
+
 Das erste Interview mit der Studiengangsleitung des Studiengangs Informatik fand am 17.10.2024 statt.
 Das zweite Interview mit einem Entwickler des SLCM-Teams wurde per E-Mail durchgeführt.
 Die schriftlichen Antworten wurden am 6.11.2024 erhalten.
