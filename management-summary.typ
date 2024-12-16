@@ -54,7 +54,7 @@ Nachfolgend werden die validierten Funktionalitäten des Prototyps kurz zusammen
 
 *Modul-Browsing nach Kategorie*
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, in der Suche nach Modulen diese gruppiert nach Kategorien einzusehen, um so eine bessere Übersicht zu erhalten.
-- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Modul-Browsing-Funktionalität nach Kategorie ohne Probleme nutzen und fanden sie hilfreich.
+- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Modul-Browsing-Funktionalität nach Kategorie ohne Probleme nutzen und fanden sie hilfreich.
 #figure(image("suche.jpg", width: 60%), caption: "Modul-Browsing nach Kategorie in der Suche, Constraints Enforcement")
 
 *Direktes Hinzufügen von Modulen*
@@ -66,5 +66,5 @@ Nachfolgend werden die validierten Funktionalitäten des Prototyps kurz zusammen
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, direkt von der Plattform lost.university auf die entsprechende #gls("std") zu gelangen, um weitere Informationen zu den Modulen und Kategorien zu erhalten.
 - *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Verlinkung zur #gls("std") ohne Probleme nutzen und fanden sie hilfreich.
 
-Die Ergebnisse der Studienarbeit belegen, dass die Plattform lost.university durch die Anwendung des gewählten Vorgehensmodells signifikant optimiert werden kann.
-Für die zukünftige Weiterentwicklung wird empfohlen, die validierten Funktionalitäten zu implementieren und die Plattform einer weiteren Evaluation durch Usability-Tests zu unterziehen, um die Benutzerfreundlichkeit kontinuierlich zu steigern.
+Die Ergebnisse der Studienarbeit zeigen, dass die Plattform lost.university durch das gewählte Vorgehensmodell erheblich verbessert werden kann.
+Für die zukünftige Weiterentwicklung wird empfohlen, die validierten Funktionalitäten - mit Ausnahme der Verwaltung von Übertrittsmodulen - zu implementieren und die Plattform durch weitere Usability-Tests zu evaluieren, um die Benutzerfreundlichkeit kontinuierlich zu optimieren.
