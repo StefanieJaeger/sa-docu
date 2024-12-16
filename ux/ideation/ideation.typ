@@ -5,7 +5,7 @@ Der Ideation-Workshop wurde vom 8.11. - zum 15.11. durchgeführt und dauerte ins
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
-Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
+Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototypen") hingewiesen werden.
 Als Methoden wurden #gls("hmw") & die #gls("6-3-5"), Dot Voting, #gls("ds") und Diskussionsrunden eingesetzt.
 Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse sowie Miro verwendet.
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.

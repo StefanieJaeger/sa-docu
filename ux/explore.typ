@@ -8,7 +8,7 @@ Dieses Konzept wurde in Form der validierten Artefakte Mockups, funktionaler Pro
 Das validierte Lösungskonzept würde in der Phase 3: Deliver genutzt, um eine umsetzbare Lösung zu entwickeln @cuxd.
 Diese Umsetzung ist nicht Teil dieser Studienarbeit.
 
-Es wurde vom CUXD-Vorgehensmodell @cuxd insofern abgewichen, als dass bereits am Anfang der Erkundungsphase festgelegt wurde, dass ein funktionaler High-Fidelity-Prototyp entstehen soll.
+Es wurde vom CUXD-Vorgehensmodell @cuxd insofern abgewichen, als dass bereits am Anfang der Erkundungsphase festgelegt wurde, dass ein funktionaler #gls("hi-fi-pro") entstehen soll.
 Diese Entscheidung fusste auf verschiedenen von #cite(<us-ux>, form: "prose") in "Usability und UX: Was alle wissen sollten, die Websites und Apps entwickeln" gelisteten Vorteile, auf die im Folgenden eingegangen wird.
 
 *Verfügbarkeit und kleiner Einarbeitungsaufwand*
@@ -26,7 +26,7 @@ Dies ermöglicht ebenfalls eine schnelle und effiziente Entwicklung.
 
 *Hoher Funktionsaufwand im Hinblick auf Interaktionen*
 
-#cite(<us-ux>, form: "prose") weisen darauf hin, dass die Entwicklung eines High-Fidelity-Prototyps besonders dann interessant wird, wenn neue (Teil-)Funktionalitäten hinzukommen, wie es hier der Fall ist.
+#cite(<us-ux>, form: "prose") weisen darauf hin, dass die Entwicklung eines #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") besonders dann interessant wird, wenn neue (Teil-)Funktionalitäten hinzukommen, wie es hier der Fall ist.
 Diese neuen Funktionalitäten sind für die Nutzenden weniger vertraut, stellen aber zentrale Aufgaben in der Nutzung des Tools dar.
 Der gewählte Detaillierungsgrad ermöglicht es somit, den Prototypen optimal für die geplanten Nutzertests vorzubereiten: Er wird mit redaktionellem Content ausgestattet, ist voll funktionsfähig und visuell ausgestaltet.
 

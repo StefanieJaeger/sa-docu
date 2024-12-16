@@ -1,16 +1,16 @@
 #import "@preview/glossarium:0.4.1": gls
 = Workshop: Prototyp
 Der Prototyp-Workshop fand vom 16.11. bis zum 6.12.2024 statt und dauerte insgesamt 62 Stunden.
-Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen High-Fidelity-Prototypen umgesetzt.
+Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototypen") umgesetzt.
 Die Umsetzung erfolgte gemäss den im Konzept-Workshop definierten Phasen, dabei wurde die Hauptarbeit von Stefanie Jäger übernommen.
 Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erstellte und die Ergebnisse der einzelnen Phasen testete und reviewte.
 
-== Funktionaler High-Fidelity-Prototyp
+== Funktionaler #gls("hi-fi-pro") 
 Den Source-Code des funktionalen Prototyps ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
 Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
 Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang unter @prototype-appendix zu finden.
 
-Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Prototyps erläutert.
+Nachfolgend werden die wichtigsten neuen Funktionalitäten des #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") erläutert.
 
 *Erweiterte Übersicht mit Validierung*
 
@@ -89,4 +89,4 @@ In der folgenden Grafik ist die Validierungs-Map abgebildet:
 #figure(image("Validierungs-Map.jpg", width: 60%), caption: [Validierungs-Map])
 
 == Fazit
-Der Prototyp-Workshop war erfolgreich und führte zur Erstellung eines funktionalen High-Fidelity-Prototyps sowie einer Validierungs-Map, welche die Grundlagen für den nachfolgenden Validierungs-Workshop bildeten.
+Der Prototyp-Workshop war erfolgreich und führte zur Erstellung eines funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") sowie einer Validierungs-Map, welche die Grundlagen für den nachfolgenden Validierungs-Workshop bildeten.

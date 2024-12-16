@@ -26,13 +26,13 @@ Die *Verstehen-Phase* beinhaltete dabei die folgenden Workshops:
 
 Die *Erkundungs-Phase* umfasste die folgenden Workshops:
 
-- *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen High-Fidelity-Prototyp als #gls("mvp").
+- *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen #gls("hi-fi-pro") als #gls("mvp").
 - *Konzept-Workshop:* Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem direkt in die Prototypentwicklung gestartet werden konnte.
-- *Prototyp-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale High-Fidelity-Prototyp erstellt.
+- *Prototyp-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale #gls("hi-fi-pro") erstellt.
 - *Validierungs-Workshop:* Es wurde ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wurde.
 
 == Ergebnisse
-Die Studienarbeit führte zur Entwicklung eines funktionalen High-Fidelity-Prototyps, der die Grundlage für die Weiterentwicklung der Plattform darstellt.
+Die Studienarbeit führte zur Entwicklung eines funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototyps"), der die Grundlage für die Weiterentwicklung der Plattform darstellt.
 Nachfolgend werden die validierten Funktionalitäten des Prototyps kurz zusammengefasst:
 
 *Validierung der Planung*

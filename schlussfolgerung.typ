@@ -1,7 +1,7 @@
 #import "@preview/glossarium:0.4.1": gls
 = Schlussfolgerung
-Die Verwendung des von #cite(<cuxd>, form: "prose") beschriebenen CUXD-Vorgehensmodells erwies sich als wertvoll, da es eine empirisch fundierte Ausarbeitung und Validierung eines High-Fidelity-Prototyps ermöglichte.
-Die in der Verstehen-Phase gefundenen Probleme und Erkenntnisse wurden anhand des erarbeiteten High-Fidelity-Prototyps validiert.
+Die Verwendung des von #cite(<cuxd>, form: "prose") beschriebenen CUXD-Vorgehensmodells erwies sich als wertvoll, da es eine empirisch fundierte Ausarbeitung und Validierung eines #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") ermöglichte.
+Die in der Verstehen-Phase gefundenen Probleme und Erkenntnisse wurden anhand des erarbeiteten #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") validiert.
 Das erarbeitete Lösungskonzept zeigte seine Nützlichkeit, indem es einige der gefundenen Probleme adressierte.
 Allerdings wurden im Zuge der Validierung neue Erkenntnisse, Schwachstellen und mögliche Weiterentwicklungsbereiche entdeckt.
 

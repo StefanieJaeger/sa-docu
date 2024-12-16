@@ -7,7 +7,7 @@ Wir betrachten sowohl positive als auch negative Aspekte und bringen zusätzlich
 Rückblickend sind wir der Meinung, dass wir die Anforderungen dieser Studienarbeit übertroffen haben.
 Neben der vollständigen Bearbeitung aller Vorgaben haben wir den komplexen Kontext des Themas „Semesterplanung“ durch fundierte Datenerhebungen und die systematische Anwendung des CUXD-Prozesses kritisch reflektiert.  
 
-Die identifizierten Bedürfnisse der Studierenden wurden in den Fokus gerückt, was zur Entwicklung und Validierung eines High-Fidelity-Prototyps führte.
+Die identifizierten Bedürfnisse der Studierenden wurden in den Fokus gerückt, was zur Entwicklung und Validierung eines #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") führte.
 Die gewonnenen Erkenntnisse ermöglichen es, bestätigte Funktionalitäten und Problembereiche in die Weiterentwicklung einzubringen.
 Wir betrachten unseren methodischen Ansatz daher als erfolgreich.
 
