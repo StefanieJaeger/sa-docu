@@ -8,7 +8,7 @@ Ziel der Arbeit war die Entwicklung eines durch Usability-Tests validierten Prot
 Als methodischer Rahmen diente ein Vorgehensmodell, welches stark an den User-Centered-Design-Prozess anlehnt.
 Zentrale Grundlage der Entwicklung war die Verstehen-Phase, in der Anforderungen und Erkenntnisse aus den im Synthese-Workshop erstellten Artefakte abgleitet wurden.
 Diese Artefakte spiegeln die Bedürfnisse und Probleme der Studierenden wider und dienten als Ausgangspunkt für die Entwicklung und Validierung der High-Fidelity-Prototypen.
-Der Prozess umfasste unter anderem die Erstellung und Validierung von Personas, Problem Statements, User Journeys und dem erwähnten Prototypen.
+Der Prozess umfasste unter anderem die Erstellung und Validierung von Personas, Problem Statements, User Journeys und des erwähnten Prototypen.
 
 == Schlussfolgerung
 Die Ergebnisse dieser Arbeit umfassen einen validierten Prototypen, der durch die neu eingebauten Funktionalitäten überzeugt.
