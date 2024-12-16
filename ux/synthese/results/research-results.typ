@@ -1,7 +1,8 @@
-= Resultate der Erhebungen
-Nachfolgend sind die Auswertungen der durchgeführten Erhebungen aufgeführt.
-
 #include("fragebogen-persona-results.typ")
+#pagebreak()
 #include("contextual_inquiries-results.typ")
+#pagebreak()
 #include("tagebuchstudie-results.typ")
+#pagebreak()
 #include("adunis-results.typ")
+#pagebreak()
