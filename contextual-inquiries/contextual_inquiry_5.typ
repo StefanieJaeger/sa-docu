@@ -339,7 +339,7 @@ Hier stellt sich die Frage, gibt das Miniprojekt eine Note und wer schaut das an
 / Wie findest du heraus, zu welcher Kategorie das Modul gehört?:
 Ich glaube das steht hier drin.
 
-_Sucht nach der Kategoriezuteilung in der Modulbeschreibung, findet diese aber nicht direkt und bleibt bei den Modultypen hängen. Ist von den Modultypen verwirrt._
+_Sucht nach der Kategoriezuordnung in der Modulbeschreibung, findet diese aber nicht direkt und bleibt bei den Modultypen hängen. Ist von den Modultypen verwirrt._
 
 Diese Ansicht finde ich lustig.
 Weil es im Informatikstudium angeboten wird und es nicht zu den Rahmenmodulen gehört, nehme ich an, dass es einfach zur Informatikkategorie gehört.

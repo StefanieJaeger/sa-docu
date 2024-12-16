@@ -41,7 +41,7 @@ In einem Drittel der Tagebucheinträge wurde der Plan mit einer anderen Person g
 *Positives Feedback*
 
 Die Nutzenden lobten vor allem die Übersichtlichkeit des Semesterplaners, die farbliche Darstellung der Kategorien und die intuitive Drag-and-Drop-Funktion.
-Besonders geschätzt wurde die Direktverlinkung zu Modulbeschreibungen im SLCM, da sie den Zugriff auf detaillierte Informationen erleichtert.
+Besonders geschätzt wurde die direkte Verlinkung zu Modulbeschreibungen im SLCM, da sie den Zugriff auf detaillierte Informationen erleichtert.
 Für mindestens eine teilnehmende Person fungierte der Semesterplaner sogar als Motivationshilfe, um weitere Studienabschnitte zu planen.
 Die Übersicht der #gls("ects") pro Kategorie wurde ebenfalls positiv hervorgehoben, obwohl gleichzeitig der Wunsch nach einer besseren Darstellung der verbleibenden #gls("ects") geäussert wurde.
 

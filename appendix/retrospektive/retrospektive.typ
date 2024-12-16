@@ -53,7 +53,7 @@ Durch unsere Erfahrungen mit CIs lernten wir, dass Suggestivfragen vermieden wer
 Die Anwendung der Pomodoro-Technik erwies sich als äusserst nützlich für zeitintensive Aufgaben wie das Transkribieren von Interviews oder Beobachtungsstudien.
 Auch Kreativmethoden wie 6-3-5 und Design Studio haben sich als effektiv erwiesen und konnten unsere Ideenfindung bereichern.
 
-Beim Usability Testing wurde deutlich, dass Wissensziele präzise aus der Validierungsmap abgeleitet werden sollten, da ansonsten wichtige Aspekte übersehen werden können.
+Beim Usability-Testing wurde deutlich, dass Wissensziele präzise aus der Validierungsmap abgeleitet werden sollten, da ansonsten wichtige Aspekte übersehen werden können.
 Zudem haben wir erkannt, dass es schwierig ist, intrinsische Motivation in Testszenarien abzubilden.
 Häufig wird lediglich die Nutzung der Funktionen getestet, ohne zu bewerten, ob diese tatsächlich einen echten Bedarf der Nutzenden erfüllen.
 
@@ -64,6 +64,6 @@ Auch bei der Ideenfindung hätten wir uns mehr Unbeschwertheit gewünscht, um L�
 
 === Longed for  
 Im Verlauf der Arbeit wurde deutlich, dass wir von klaren Vorlagen für die Dokumentation von Studien und Umfragen profitiert hätten.
-Ebenso hätten detaillierte Erklärungen zu den SLCM-Endpunkten oder eine engere Zusammenarbeit mit der ICT Abteilung der OST - Ostschweizer Fachhochschule zu den verfügbaren Daten unsere Arbeit erleichtert.
+Ebenso hätten detaillierte Erklärungen zu den SLCM-Endpunkten oder eine engere Zusammenarbeit mit der ICT-Abteilung der OST - Ostschweizer Fachhochschule zu den verfügbaren Daten unsere Arbeit erleichtert.
 Darüber hinaus hätten wir uns mehr Zeit für eine weitere Iteration gewünscht.
 Dies hätte es ermöglicht, die noch offenen Probleme zu lösen und die Ergebnisse der Arbeit weiter zu verbessern.

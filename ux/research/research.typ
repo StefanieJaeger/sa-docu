@@ -34,7 +34,7 @@ So konnten die Autorinnen früh in der Arbeit bereits absehen, mit wie vielen Pe
 == Nutzungskontextanalyse <nutzungskontextanalyse>
 Gemäss #cite(<us-ux>, form: "prose") ist es wichtig, den Kontext der Nutzenden zu verstehen, um die Bedürfnisse und Anforderungen an das Tool zu ermitteln.
 Dabei ist den Nutzenden der Kontext oder die Einflussfaktoren dieses selbst oft nicht bewusst, weshalb man sie dazu nicht direkt fragen kann.
-Daher wurden Methoden zur Datenerhebung gewählt, die es ermöglichen, den Kontext bei der Datenerhebung mit zu erfassen.
+Daher wurden Methoden zur Datenerhebung gewählt, die es ermöglichen, den Kontext bei der Datenerhebung ebenfalls zu erfassen.
 #cite(<us-ux>, form: "prose") nennen hier insbesondere Vor-Ort-Beobachtungen oder Tagebuchstudien als geeignete Methoden, weshalb in dieser Arbeit auf diese zurückgegriffen wird.
 
 == Contextual Inquiry <contextual-inquiry>
@@ -59,7 +59,7 @@ Die Beobachtungsstudie gliedert sich in vier Phasen:
 
 Die Beobachtungsstudie wurde mit fünf Testpersonen im Zeitraum vom 09. - 14.10.2024 durchgeführt.
 Bei allen ausser einer Beobachtungsstudie waren Testpersonen und Autorinnen im selben Raum.
-Ein Test wurde Remote durchgeführt.
+Ein Test wurde remote durchgeführt.
 Bei allen Beobachtungen wurde jeweils der Bildschirm sowie das Mikrofon der Testperson aufgezeichnet.
 Dazu wurde zuvor die Einwilligung der Testperson eingeholt.
 

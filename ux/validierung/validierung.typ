@@ -63,7 +63,7 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
     ("Semester - Reihenfolge von Semestername und Semesternummer ist unklar", "1", "2", $(2 * 1) / 5 #sym.approx 0$),
 
     ("Suche - Informationen sind unnötig", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
-    ("Suche - Suche nach Name einer Kategorie, anstatt scrollen oder zuklappen, fehlt", "1", "3", $(1 * 3) / 5 #sym.approx 1$),
+    ("Suche - Suche nach Kategoriebezeichnung fehlt", "1", "3", $(1 * 3) / 5 #sym.approx 1$),
     ("Suche - Informationen im Edge teils unschön", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
     ("Suche - Informationen zum Modul sind zu klein", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
 
@@ -87,7 +87,7 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
       columns: 5,
       ..cells
     ),
-    caption: [Alle Probleme aus dem Usability Testing]
+    caption: [Alle Probleme aus dem Usability-Testing]
   )
 }<problems>
 
@@ -104,11 +104,11 @@ Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständi
   [Erkennt Testperson, dass sie die Semesternummer ablesen kann und nicht zählen muss?], [Ja], [],
   [Ist die neue Anzeige der ECTS pro Kategorie selbsterklärend?], [Ja],[],
   [Wird die Verlinkung zur Studienordnung genutzt?], [Ja],[Einer Testperson war der Begriff und die Bedeutung "Studienordnung" nicht bekannt.],
-  [Ist der Zusammenhang des Studiumsstarts und der Verlinkung selbsterklärend?], [Ja],[],
+  [Ist der Zusammenhang des Studienstarts und der Verlinkung selbsterklärend?], [Ja],[],
   [Ist das Hinzufügen von Modulen über eine Kategorie verständlich?], [Ja],[],
   [Ist das Suchen nach einem Modul und dessen Kategorie-Zuordnung in der Suche verständlich?], [Ja],[],
   [Ist das Hinzufügen von Modulen über eine Vertiefung verständlich?], [Ja],[],
-  [Ist das Hinzufügen von Module in einem bestimmten Semester verständlich?], [Ja],[],
+  [Ist das Hinzufügen von Modulen in einem bestimmten Semester verständlich?], [Ja],[],
   [Ist die Gruppierung der Module nach Kategorie in der Suche verständlich?], [Ja],[Eine Testperson versuchte nach dem Namen der Kategorie zu suchen, da das wiederholte Zuklappen zu mühsam war.],
   [Ist die direkte Suche nach einem Modul in der Suche verständlich?], [Ja],[],
   [Ist eine Nicht-Auswählbarkeit in der Suche und deren Grund klar?], [Ja],[],
@@ -134,19 +134,19 @@ Dazu wurde direkt im Validierungs-Workshop ein kurzes Design Studio durchgeführ
 
 - *P2* - "Übertritt - Übermässige Klicks zur Erfassung"
   - *Beschreibung:* Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks notwendig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in als unnötig wahrgenommenen Schritten. 
-  - *Lösungvorschlag:* Eine potenzielle Lösung ist in @P2_P4 ersichtlich. Neu kann nur noch ein Übertrittsmodul aufs Mal erfasst werden. Das angerechnete Modul oder die erfasste Leistung kann deshalb über nur einen "Speichern" Button dem Plan hinzugefügt werden. Dafür entfällt die Liste an Übertrittsmodulen unterhalb der Tabs.
+  - *Lösungsvorschlag:* Eine potenzielle Lösung ist in @P2_P4 ersichtlich. Neu kann nur noch ein Übertrittsmodul aufs Mal erfasst werden. Das angerechnete Modul oder die erfasste Leistung kann deshalb über nur einen "Speichern" Button dem Plan hinzugefügt werden. Dafür entfällt die Liste an Übertrittsmodulen unterhalb der Tabs.
 - *P4* - "Übertritt - Unklar, dass mehrere Kategorien wählbar sind"
   - *Beschreibung:* Beim Erfassen einer externen Leistung können mehrere Kategorien ausgewählt werden, was jedoch nur selten erkannt wurde. Die Unklarheit entstand zum einen dadurch, dass die Möglichkeit, ein Modul mehreren Kategorien zuzuordnen, nicht bekannt war. Zum anderen wurde das Multiselect-Feature nicht immer als solches erkannt.
-  - *Lösungvorschlag:* Eine potenzielle Lösung ist in @P2_P4 ersichtlich. Das Label "Kategorien" hat neu einen kleinen Hinweistext "Mehrfachauswahl". Das Multiselect erhält ein Caret, um es zusätzlich per Icon als ein solches zu kennzeichnen. In der Liste des Multiselects erhält jeder Eintrag eine leere Checkbox oder eine Checkbox mit Haken, um die Mehrfachauswahl auch in der Liste klarer zu gestalten.
+  - *Lösungsvorschlag:* Eine potenzielle Lösung ist in @P2_P4 ersichtlich. Das Label "Kategorien" hat neu einen kleinen Hinweistext "Mehrfachauswahl". Das Multiselect erhält ein Caret, um es zusätzlich per Icon als ein solches zu kennzeichnen. In der Liste des Multiselects erhält jeder Eintrag eine leere Checkbox oder eine Checkbox mit Haken, um die Mehrfachauswahl auch in der Liste klarer zu gestalten.
 - *P8* - "Hinzufügen über Kategorie - Option für spätere Semester fehlt"
   - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Kategorie wird dies automatisch in das nächstmögliche Semester eingeplant. Testpersonen wünschten sich jedoch oft, dass Modul direkt in einem späteren Semester einplanen zu können, statt es im Nachhinein verschieben zu müssen.
-  - *Lösungvorschlag:* Eine potenzielle Lösung ist in @P8_P10 ersichtlich. Ein Eintrag in der Suche enthält neu nur noch die Durchführung, nicht mehr das nächstmögliche Semester. Ein Klick auf einen Eintrag öffnet ein Modal, über welches das gewünschte Semester zur Einplanung ausgewählt werden kann
+  - *Lösungsvorschlag:* Eine potenzielle Lösung ist in @P8_P10 ersichtlich. Ein Eintrag in der Suche enthält neu nur noch die Durchführung, nicht mehr das nächstmögliche Semester. Ein Klick auf einen Eintrag öffnet ein Modal, über welches das gewünschte Semester zur Einplanung ausgewählt werden kann
 - *P10* - "Hinzufügen über Vertiefung - Option für spätere Semester fehlt"
   - *Beschreibung:* Beim Hinzufügen eines Moduls über eine Vertiefung kann lediglich das nächstmögliche Semester gewählt werden. Testpersonen wünschten sich jedoch wie bei dem zuvor ausgeführten Problem *P8*, dass Modul in direkt in einem späteren Semester einplanen zu können, statt es im Nachhinein verschieben zu müssen.
-  - *Lösungvorschlag:* Eine potenzielle Lösung ist ebenfalls in @P8_P10 ersichtlich. Der Button bei einem Modul heisst neu "planen". Ein Klick auf einen Button öffnet dasselbe Modal wie beim Hinzufügen eines Moduls über die Kategorien. 
+  - *Lösungsvorschlag:* Eine potenzielle Lösung ist ebenfalls in @P8_P10 ersichtlich. Der Button bei einem Modul heisst neu "planen". Ein Klick auf einen Button öffnet dasselbe Modal wie beim Hinzufügen eines Moduls über die Kategorien. 
 - *P13* - "Validierung - Folgen von Aktionen in der globalen Fehlermeldung sind unklar"
   - *Beschreibung:* Beim Lösen von Fehlern im Plan über die globale Fehlermeldung war Testpersonen oft nicht klar, welche Änderungen eine Aktion ausgelöst hat.
-  - *Lösungvorschlag:* Drei potenzielle Lösungen können in @P13-1, @P13-2 und @P13-3 eingesehen werden. In einer weiteren Iteration der Erkunden-Phase kann eine der Lösungen gewählt oder eine neue Kombination erarbeitet werden, je nach erarbeitetem Konzept.
+  - *Lösungsvorschlag:* Drei potenzielle Lösungen können in @P13-1, @P13-2 und @P13-3 eingesehen werden. In einer weiteren Iteration der Erkunden-Phase kann eine der Lösungen gewählt oder eine neue Kombination erarbeitet werden, je nach erarbeitetem Konzept.
 
 Positiv zu vermerken ist, dass diese fünf Probleme auch die nicht erfüllten Wissensziele betreffen.
 Ihre Behebung würde daher höchstwahrscheinlich dazu führen, dass die Ziele erfüllt werden.
@@ -185,21 +185,28 @@ Ein geeigneter Lösungsansatz wäre, die Informationen in grösserer Darstellung
 
 === Lösungsvorschläge
 *Übertrittsmodule*
+
 Die nachfolgende Grafik zeigt einen Lösungsvorschlag für die Probleme P2 und P4. Dabei wird der Fokus auf diese beiden Probleme gelegt, jedoch auch Lösungen für drei weitere Probleme angeboten:
-- P1: Der "Abbrechen" Button bietet einen offensichtlichen Weg zur Schliessung des Modales an.
+- P1: Der "Abbrechen" Button bietet einen offensichtlichen Weg zur Schliessung des Modals an.
 - P3: Die Tabs werden durch Radio Options ersetzt.
 - P6: Der Begriff "Übertrittsmodul" wird in einem Tooltip für das "?" Icon erklärt.
 #figure(image("P2_P4.jpg", width: 40%), caption: [Lösungsvorschlag für P2 und P4])<P2_P4>
 
-Weiter enthält die Lösung einen kleinen Hinweistext pro Option, der "Speichern" Button ist disabled, bis ein Modul gewählt oder die Felder für eine Leistung korrekt ausgefüllt sind, ein Tooltip für das "?" Icon beim Name enthält einen Hinweis zur maximalen Länge und zu nicht-erlaubten Zeichen.
-Wir empfehlen zudem, einen Workshop mit Studierenden zu machen, um ein gutes Wording für die Hinweistexte, Tooltips und den gesamten Bereich generell zu finden. 
+Weiter enthält die Lösung:
+- einen kleinen Hinweistext pro Option
+- einen deaktivierten "Speichern"-Button, bis ein Modul gewählt oder die Felder für eine Leistung korrekt ausgefüllt sind
+- ein Tooltip beim Namen, welches einen Hinweis zur maximalen Länge und zu erlaubten Zeichen enthält
 
-*Semesterwahl bei Einfügen eines referenzierten Modules*
+Wir empfehlen zudem, einen Workshop mit Studierenden zu machen, um ein gutes Wording für die Hinweistexte, Tooltips und die gesamte Applikation zu finden. 
+
+*Semesterwahl bei Einfügen eines referenzierten Moduls*
+
 In der folgenden Grafik ist ein Lösungsvorschlag für die Probleme P8 und P10 ersichtlich:
 #figure(image("P8_P10.jpg", width: 80%), caption: [Lösungsvorschlag für P8 und P10])<P8_P10>
 Das Modal referenziert das Modul, bietet ein Dropdown für ein Semester an und hat "Abbrechen" und "Einfügen" Buttons. Das Dropdown enthält alle zukünftigen Semester, in denen das Modul eine Durchführung hat, bis zum 14. Semester. Das nächstmögliche Semester ist vorausgewählt. Der Name des Moduls verlinkt zu dessen Modulbeschreibung im SLCM.
 
 *Auswirkungen von Aktionen im globalen Fehlerbereich*
+
 Die nachfolgenden Abbildungen zeigen drei Lösungsvorschläge für das Problem P13:
 #figure(image("P13-1.jpg", width: 80%), caption: [Lösungsvorschlag 1 für P13])<P13-1>
 In dieser Lösung erhalten die Buttons für Aktionen zur Behebung eines Problems mehr Text und passende Icons. Die Modulnamen sollten neu ausgeschrieben werden.

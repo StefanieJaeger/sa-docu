@@ -11,9 +11,9 @@ Die Tabelle mit den gesamten Antworten ist im Anhang unter @student-questionnair
 An der Fragebogenstudie nahmen zehn Informatikstudierende der OST - Ostschweizer Fachhochschule teil.
 Alle Teilnehmenden studieren derzeit am Campus Rapperswil-Jona im 5., 7. oder 9. Semester.
 
-*Studiumsplanung*
+*Studienplanung*
 
-Fünf von zehn Teilnehmenden nutzen einen #gls("msp") als Vorlage für ihre Studiumsplanung.
+Fünf von zehn Teilnehmenden nutzen einen #gls("msp") als Vorlage für ihre Studienplanung.
 Ebenfalls verfolgen fünf der Teilnehmenden eine Vertiefung.
 Es zeigte sich aber, dass das nicht zwingend dieselben Personen sind: Nicht alle, die einen #gls("msp") als Planungsvorlage verwenden, verfolgen auch eine Vertiefung, und nicht alle, die keine Planungsvorlage nutzen, verfolgen keine Vertiefung.
 Eine Planungsvorlage ist demnach nicht zwingend verknüpft mit einer geplanten Vertiefung.
@@ -43,7 +43,7 @@ Am wenigsten genannt wurden die #glspl("msp") (zwei Nennungen).
 
 Da die meisten Teilnehmenden ihre Planung an ihren Interessen ausrichten, ist die Modulauswahl stark von den Interessen der Studierenden abhängig.
 
-Die Entscheidung für ein Modul kann weiter am Stundenplan (2. Anmeldephase) hängen, wie drei von zehn Teilnehmenden angaben.
+Die Entscheidung für ein Modul kann weiter am Stundenplan (2. Anmeldephase) hängen, wie drei von zehn Teilnehmenden vermerkten.
 Ebenfalls ist die Meinung und Erfahrung Dritter mit dem entsprechenden Modul ein wichtiger Entscheidungsfaktor, wie fünf von zehn Teilnehmenden angaben.
 
 Zwei weitere genannte Faktoren sind die Anzahl der zu erstellenden Arbeiten unter dem Semester sowie die Anzahl der Präsenzveranstaltungen und ob die Vorlesungen aufgezeichnet werden (1 Nennung). 

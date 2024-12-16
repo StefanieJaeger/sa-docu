@@ -14,7 +14,7 @@ Die ausgewertete Tagebuchstudie wurde nachträglich im Dezember dazu verwendet, 
 Die folgende Grafik zeigt das überarbeitete Problem-Statement, welches unter anderem die Nutzenden, ihre Herausforderungen und die identifizierten Probleme im Kontext der Semesterplanung mit lost.university beschreibt.
 #figure(image("artifacts/Val-Problem-Statement-personenlos.jpg"), caption: "Validiertes Problem-Statement");
 
-Nachfolgend wird genauer auf Geändertes, Bestätigtes sowie Neu Erkanntes eingegangen.
+Nachfolgend wird genauer auf Geändertes, Bestätigtes sowie neu Erkanntes eingegangen.
 
 === Identifizierte Nutzende
 Die Zielgruppe des Tools wurde angepasst: Es wurde bestätigt, dass ausschliesslich Studierende als Nutzende gelten.
@@ -35,12 +35,12 @@ Studienberatende zählen nicht mehr zur Zielgruppe.
 === Identifizierte Lösungsansätze
 Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu adressieren:
 + *Geänderte Ansätze:*
-  - Die bisher verwendete DataList-Komponente soll durch eine optimierte Suchkomponente ersetzt werden. Diese soll Best Practices berücksichtigen, z. B. durch automatischen Fokus im Suchfeld, ein leeres Suchfeld nach Nutzung sowie eine Sortierung der Module im Dropdown-Menü nach Kategorien.
+  - Die bisher verwendete DataList-Komponente soll durch eine optimierte Suchkomponente ersetzt werden. Diese soll Best Practices berücksichtigen, z.B. durch automatischen Fokus im Suchfeld, ein leeres Suchfeld nach Nutzung sowie eine Sortierung der Module im Dropdown-Menü nach Kategorien.
   - Das Login wird entfernt, da es lediglich als zusätzliche Option gewünscht wurde.
 + *Bestätigte Ansätze:*
   - Visuelle Hinweise zu Abhängigkeiten und Durchführungen sollen integriert werden.
   - Module sollen nach Reglementen gruppiert werden.
-  - Mehr Wissen über die Daten aus dem SLCM soll verfügbar gemacht werden; idealerweise durch eine direkte Anbindung, als Fallback aber auch durch das Bereitstellen von Direktlinks.
+  - Mehr Wissen über die Daten aus dem SLCM soll verfügbar gemacht werden; idealerweise durch eine direkte Anbindung, als Rückgriff aber auch durch das Bereitstellen von Direktlinks.
   - Die Modulliste in der Suche soll, wie bereits oben erwähnt, nach Kategorien sortiert werden.
 + *Neu identifizierte Ansätze:*
   - Die automatisierte Berechnung der noch einzuplanenden #gls("ects") soll ausgebaut werden, um den Nutzenden diese Informationen direkt anzuzeigen.
@@ -56,7 +56,7 @@ Die Bewertungskriterien wurden angepasst, um die Ziele des Tools besser abzubild
   - Die Funktionalität der Suche im Chrome-Browser auf Android wurde aus den Metriken entfernt, da die Suche generell optimiert werden soll und nicht nur für eine spezifische Plattform. Ebenfalls ist zu diesem Zeitpunkt noch nicht klar, welche identifizierten Probleme im Rahmen dieser Arbeit effektiv bearbeitet werden können.
   - FR-Testing wurde entfernt, da in dieser Arbeit keine funktionellen Anforderungen explizit definiert werden.
 + *Neu identifizierte Metriken:*
-  - Usability Testing wird eingeführt, um den Prototypen umfassend zu evaluieren.
+  - Usability-Testing wird eingeführt, um den Prototypen umfassend zu evaluieren.
 
 == Validierte Persona
 #figure(image("artifacts/Val-Persona.jpg"), caption: "Validierte Persona");
@@ -66,8 +66,8 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 *Geänderte Aspekte:*
 + *Modulsuche nach Kürzel:*
   - Die Modulsuche nach Kürzel funktioniert nicht generell nicht, sondern nur auf bestimmten Geräten und in einigen Browsern.
-+ *Modulbrowsing nach Kategorie:*
-  - Es wurde ergänzt, dass das Tool lost.university kein Modulbrowsing nach Kategorie, Anzahl der #gls("ects") oder anderen Merkmalen ermöglicht. Dies schränkt die Nutzenden ein, die sich nicht nur an Modulnamen orientieren möchten.
++ *Modul-Browsing nach Kategorie:*
+  - Es wurde ergänzt, dass das Tool lost.university kein Modul-Browsing nach Kategorie, Anzahl der #gls("ects") oder anderen Merkmalen ermöglicht. Dies schränkt die Nutzenden ein, die sich nicht nur an Modulnamen orientieren möchten.
 
 *Bestätigte Probleme:*
   - Eine Konsultation des SLCM ist notwendig, um die Planung korrekt durchzuführen.
@@ -77,7 +77,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 + *Planung und Unübersichtlichkeit:*
   - Die externe Konsultation des SLCM gestaltet die Planung unübersichtlich.
   Die Unübersichtlichkeit im SLCM gefährdet das Vertrauen der Nutzenden in die Korrektheit der dort hinterlegten Daten.
-  - Die Liste der Module im Semesterplaner ist unübersichtlich, da sie alle Module alphabetisch sortiert anzeigt. Dies erschwert das Modulbrowsing, da kein Kontext wie Kategorie verfügbar ist.
+  - Die Liste der Module im Semesterplaner ist unübersichtlich, da sie alle Module alphabetisch sortiert anzeigt. Dies erschwert das Modul-Browsing, da kein Kontext wie Kategorie verfügbar ist.
 + *Module und Interessen:*
   - Häufig entsprechen die Module in den #gls("msp", display: "Musterstudienplänen") nicht vollständig mit den persönlichen Interessen der Nutzenden überein.
 + *Semesterbezogene Informationen:*
@@ -88,7 +88,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 === Aufgaben
 *Geänderte Aspekte:*
 + *Planungsfokus:*
-  - Der Fokus liegt primär auf der Planung des nächsten Semesters, insbesondere in den Anmeldephasen, das das Tool in diesem Zeitraum am häufigsten genutzt wird. Allerdings wird von wenigen Personen auch das gesamte Studium geplant. 
+  - Der Fokus liegt primär auf der Planung des nächsten Semesters, insbesondere in den Anmeldephasen, da das Tool in diesem Zeitraum am häufigsten genutzt wird. Allerdings wird von wenigen Personen auch das gesamte Studium geplant. 
 + *Vertiefung als Ziel:*
   - Die Erreichung einer Vertiefung wird nicht mehr als Aufgabe betrachtet, sondern als Ziel oder Bedürfnis. Die damit verbundenen Planungsaufgaben wie das Planen einer oder mehrerer Vertiefungen bleiben erhalten.
 + *Erweiterung durch Austausch:*
@@ -116,7 +116,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 + *Schnelle Änderungen und Varianten:*
   - Es wurde betont, dass Änderungen und mögliche Varianten des geplanten Studiums einfach und schnell eintragbar sein müssen. Dies ersetzt das Bedürfnis nach einem einfachen Abspeichern von Varianten, da dies eher eine Aufgabe darstellt.
 + *Austausch aufgeschlüsselt:*
-  - Der Austausch mit Studienkolleg:innen wurde in spezifischere Bedürfnisse aufgeteilt:
+  - Der Austausch mit anderen Studierenden wurde in spezifischere Bedürfnisse aufgeteilt:
     - Den Aufwand für Module, wie z.B. Projekte, Testate, Gruppenarbeiten oder Prüfungen, berücksichtigen.
     - Einen Stundenplan erstellen, der mit dem aktuellen Arbeitspensum vereinbar ist.
 *Neu erkannte Ziele:*
@@ -128,7 +128,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 == Validierte Journey Map
 Die Journey Map wurde angepasst: Der Schritt „Austausch“ wurde nach hinten verschoben, da er oft erst nach einer ersten Recherche stattfindet.
 Während Austauschsituationen auch ausserhalb der Journey auftreten, stehen Recherchen zu Modulen im SLCM typischerweise vor irgendwelchen Recherchen im Semesterplaner.
-Dies liegt daran, dass das SLCM umfassendere Informationen bietet, während der Planer als Recherchegrundlage hauptsächlich Modulverlinkungen, Vorlagen der #glspl("msp") sowie Module für Vertiefungen enthält.
+Dies liegt daran, dass das SLCM umfassendere Informationen bietet, während der Semesterplaner als Recherchegrundlage hauptsächlich Verlinkungen zu Modulbeschreibungen, Vorlagen der #glspl("msp") sowie eine Liste der Module für Vertiefungen enthält.
 
 Die validierte Journey Map fasst die verschiedenen Schritte der Planung sowie die damit verbundenen Beobachtungen (Findings, grün), Erkenntnisse (Insights, dunkelgrün) und Verbesserungspotenziale (Opportunity Areas, rosa) zusammen und dient als Basis für die Optimierung der Nutzererfahrung.
 Die folgende Grafik zeigt die validierte Journey Map:
@@ -139,7 +139,7 @@ Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity A
 
 - *Meme:* Die Testpersonen nehmen das Meme positiv wahr und schätzen die humorvolle Darstellung der Studienplanung.
 - *Release Notes:* Nicht alle Testpersonen wussten über alle Funktionen des Semesterplaners bescheid. Eine bessere Kommunikation über neue Funktionen und Änderungen könnte die Nutzung des Semesterplaners verbessern.
-- *Verlinkung zu SLCM-Bereichen:* Einige Testpersonen suchten im SLCM nach der Studiengangsordnung. Eine direkte Verlinkung zu den relevanten Bereichen im SLCM könnte die Recherche erleichtern.
+- *Verlinkung zu SLCM-Bereichen:* Einige Testpersonen suchten im SLCM nach der #gls("std"). Eine direkte Verlinkung zu den relevanten Bereichen im SLCM könnte die Recherche erleichtern.
 - *Viele vergangene Semester v.a. bei TZ:* Einige Testpersonen beklagten die horizontale Ausdehnung der Semesterübersicht, insbesondere bei fortgeschrittenem Studienverlauf von Teilzeitstudierenden. Eine Möglichkeit zur Ein- und Ausblendung vergangener Semester könnte die Übersichtlichkeit verbessern. 
 - *Hoher Überprüfungsaufwand (nicht MSP):* Testpersonen, die nicht strikt dem #gls("msp") folgten, mussten mehrere Bereiche in den Modulbeschreibungen überprüfen, wie z.B. die empfohlenen Vorkenntnisse. Eine bessere Übersicht über die relevanten Informationen könnte den Überprüfungsaufwand reduzieren.
 - *Personalisierter Studienplan:* Alle Testpersonen passten ihren Studienplan an persönliche Bedürfnisse an. Insbesondere suchten die meisten nach Modulen, die zu ihren Interessen passten. Eine Möglichkeit zur schnelleren Modulsuche könnte diesen Prozess erleichtern.
@@ -150,7 +150,7 @@ Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity A
 - *Suchfunktion:* Die Suchfunktion wurde von allen Testpersonen genutzt und von einigen bemängelt. Insbesondere störte, dass beim Klick auf das "+" der Fokus nicht im Suchfeld war und sich das Suchfeld nicht automatisch leerte, nachdem ein Modul hinzugefügt wurde. Weiter wurde die Resultatliste von zwei Testpersonen als "überwältigend" empfunden, da sie die gesamte Seite einnahm und ohne Suchbegriff alle verfügbaren Module alphabetisch listete. Ebenfalls wurde erwähnt, dass das Hinzufügen von Modulen auf Mobile nicht immer funktioniert.
 - *Planung mehrerer Varianten:* Einige Testpersonen planten mehrere Varianten ihres Studiums, um flexibel auf Änderungen reagieren zu können. Eine Möglichkeit zum Speichern und direkten Vergleichen der Varianten könnte die Planung erleichtern.
 - *ECTS-Verwaltung:* Testpersonen, die angerechnete Leistungen hatten, mussten entweder die entsprechenden Module im Plan eintragen oder darauf verzichten. Eine Testperson zog es vor, nur die effektiv besuchten Module im Plan einzutragen, weshalb ihr in der Übersicht der #gls("ects") pro Kategorie nicht die korrekte Anzahl erreichter #gls("ects") angezeigt wurde. Eine Möglichkeit zur Verwaltung angerechneter Leistungen ausserhalb des Plans könnte die Übersichtlichkeit verbessern.
-- *Faktische Abbildung vergangener Semester:* Es gibt momentan keine Möglichkeit, das Nichtbestehen eines Moduls im Plan abzubilden. Nicht bestandene Module müssen manuell verschoben werden. Einige Testpersonen wünschten sich eine Möglichkeit, die verganenen Semester faktisch korrekt abzubilden. Hier fliesst die Angabe des Nichtbestehens eines Moduls sowie die Anrechnung von #gls("ects") aus früherem Studium ein.
+- *Faktische Abbildung vergangener Semester:* Es gibt momentan keine Möglichkeit, ein Nichtbestehen eines Moduls im Plan abzubilden. Nicht bestandene Module müssen manuell verschoben werden. Einige Testpersonen wünschten sich eine Möglichkeit, die vergangenen Semester faktisch korrekt abzubilden. Hier fliesst die Angabe des Nichtbestehens eines Moduls sowie die Anrechnung von #gls("ects") aus früherem Studium ein.
 - *Planvalidierung:* Einige Testpersonen bemängelten, dass Module in Semestern hinzufügbar sind, wo sie nicht durchgeführt werden. Eine Validierung der Planung könnte dies verhindern. Ebenfalls könnte hier in einem weiteren Schritt die Suche miteinbezogen werden (Module anzeigen aber nicht hinzufügbar in entsprechenden Semestern).
 - *Nutzerführung (Semesternummer und Hinzufügen von Modulen):* Einige Testpersonen äusserten die Wünsche, die Semester nicht manuell zählen zu müssen sowie die Möglichkeit zu haben, Module direkt aus der Vertiefungsliste hinzuzufügen.
 - *Flexible Speicheroptionen:* Eine Testperson äusserte den Wunsch, zusätzlich zur Speicherung des Plans lokal in der URL eine Lösung mit Login zu haben. Es wurde jedoch explizit darauf hingewiesen, dass die jetzige Lösung weiter funktionieren sollte, da diese sehr flexibel einsetzbar ist.

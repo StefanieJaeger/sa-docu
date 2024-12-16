@@ -38,7 +38,7 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 
 4. Detailrecherche in SLCM
 - Für jedes im Semesterplaner geplante Modul prüft die Testperson in dessen Modulbeschreibung die inhaltliche Beschreibung, die _Kurse in diesem Modul_, die Art der Leistungsbewertung (semesterbegleitend oder Prüfung), mögliche äquivalente Module und die zugehörige Kategorie.
-- Bei Unsicherheiten über die Kategoriezuteilung oder die Durchführungszeiten von Modulen verwendet sie SLCM. Etwas kompliziert über _Mein Studium > Informationen > Studiengang-/Modulinfo_ holt sich die Testperson Informationen zur Kategoriezugehörigkeit, indem sie in den Filtern links eine Kategorie auswählt. Danach erscheinen nur noch die Module der ausgewählten Kategorie im nächsten Filter "Modul". Die Durchführungszeiten der Module holt sie sich über die jeweilige Modulbeschreibung.
+- Bei Unsicherheiten über die Kategoriezuordnung oder die Durchführungszeiten von Modulen verwendet sie SLCM. Etwas kompliziert über _Mein Studium > Informationen > Studiengang-/Modulinfo_ holt sich die Testperson Informationen zur Kategoriezugehörigkeit, indem sie in den Filtern links eine Kategorie auswählt. Danach erscheinen nur noch die Module der ausgewählten Kategorie im nächsten Filter "Modul". Die Durchführungszeiten der Module holt sie sich über die jeweilige Modulbeschreibung.
 
 5. Modulanmeldung und Double-Check
 - Die Testperson meldet sich gezielt für Module an, indem sie die Suchfunktion unter _Nächstes Semester > Module > An-/Abmelden_ nutzt. Nach der Anmeldung überprüft sie erneut die ECTS-Zuweisung unter der Liste der angemeldeten Module im SLCM, um sicherzustellen, dass alle geplanten Punkte korrekt in die jeweiligen Kategorien fallen.

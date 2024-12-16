@@ -20,16 +20,16 @@ Die folgende User Story Map bildet den Ablauf der Semesterplanung mit den neu an
 Unterscheidungen zur Journey Map:
 - Nutzende sehen direkt potenzielle Planungsfehler
 - Nutzende sehen direkt die Semesternummer und müssen diese nicht mehr nachzählen
-- Nutzende sehen direkt die noch nicht geplanten, fehlenden #gls("ects") pro Kategorie statt die eingeplanten und noch nicht erreichten
+- Nutzende sehen direkt die noch nicht geplanten, fehlenden #gls("ects")-Punkte pro Kategorie statt die eingeplanten und noch nicht erreichten
 - Über die Suche können Nutzende direkt weitere Informationen einsehen. Damit können Nutzende über die Suche auch nach Modulen "browsen", ohne sie direkt hinzufügen zu müssen, um deren Kategorie zu sehen. Folgende Informationen werden in der Suche bereitgestellt:
-  - Kategoriezugehörigkeit eines Moduls
-  - #gls("ects") eines Moduls
+  - Kategoriezuordnung eines Moduls
+  - #gls("ects")-Punkte eines Moduls
   - Durchführungssemester eines Moduls
   - ob das Modul bereits geplant ist
 - Weiter können Nutzende über die Suche keine Module im falschen Semester hinzufügen oder Module hinzufügen, die bereits eingeplant sind.
 - Nutzende können im Bereich der ECTS-Übersicht jeweils Module der einzelnen Kategorien einsehen und direkt von dort hinzufügen.
 - Nutzende können im Bereich der Vertiefungen dort angegebene Module direkt im Plan hinzufügen.
-- Nutzende können direkt die #gls("std") aufrufen, da diese in der ECTS-Übersicht verlinkt ist. Ist ein Startsemester gesetzt, wird die jeweils gültige Studienordnung angezeigt, ansonsten die aktuellste.
+- Nutzende können direkt die #gls("std") aufrufen, da diese in der ECTS-Übersicht verlinkt ist. Ist ein Startsemester gesetzt, wird die jeweils gültige Studienordnung angezeigt, ansonsten die aktuelle.
 - Nutzende können angerechnete Leistungen, sei es ein Modul oder einfach angerechnete #gls("ects") in Kategorien, eintragen. Diese werden in der ECTS-Übersicht berücksichtigt, jedoch nicht direkt im Plan angezeigt, da sie keinem Semester zugeordnet sind.
 
 == Szenario
@@ -43,7 +43,7 @@ Dabei sieht er, dass im nächsten Semester ein Modul ein Problem aufweist.
 Er wird darauf hingewiesen, dass es das Modul nicht mehr gibt, und kann es direkt mit dem Ablösemodul ersetzen, damit seine Planung studierbar ist. Dies führt er gleich aus.
 
 Felix konsultiert nun die Erreichung der ECTS-Vorgabe in den einzelnen Kategorien.
-Dabei sieht er, dass er in der Kategorie Mathematik und Physik noch 4 #gls("ects") Punkte einplanen muss.
+Dabei sieht er, dass er in der Kategorie Mathematik und Physik noch 4 #gls("ects")-Punkte einplanen muss.
 Er schaut sich Module der Kategorie gleich im Semesterplaner an und entscheidet sich für "Mathematical Foundations for Machine Learning".
 Da er das Modul frühestens in zwei Semestern planen möchte, scrollt er nach oben zu der Semesterdarstellung und klickt im entsprechenden Semester auf "+", um nach dem Modul zu suchen.
 Bei der Suche sieht er, dass das Modul nicht in dem von ihm gewählten Semester stattfindet, sondern jeweils im anderen.
@@ -51,7 +51,7 @@ Er wechselt zum nächsten Semester und sucht wieder nach dem Modul, um es hinzuz
 
 Felix konsultiert als nächstes seine gewünschte Erreichung der Vertiefung Software Engineering.
 Da fällt ihm auf, dass er noch ein Modul einplanen muss.
-Da ihm in dieser Sektion der Seite eine Liste mit möglichen Modulen angezeigt wird, kann er direkt das vielversprechendste anklicken, um die externe Modulbeschreibung zu konsultieren.
+Da ihm in dieser Sektion der Seite eine Liste mit möglichen Modulen angezeigt wird, kann er direkt das Vielversprechendste anklicken, um die externe Modulbeschreibung zu konsultieren.
 Zufrieden mit der Beschreibung, fügt er es direkt von der Vertiefungssektion in seinen Plan ein.
 
 Am nächsten Tag tauscht er sich an der OST mit befreundeten Studierenden über das Modul "Mathematical Foundations for Machine Learning" aus, um mehr Informationen bezüglich Aufwand und Leistungsnachweis zu erhalten.
@@ -81,7 +81,7 @@ Dabei ist die folgende Legende zu beachten:
 #figure(image("Keyscreen-neu.jpg", width: 80%), caption: [Keyscreen mit neuen Bereichen und Funktionen]);
 
 == Reihenfolge Umsetzung Prototyp
-Die folgende Grafik zeigt die Reihenfolge der Umsetzung des Prototypen:
+Die folgende Grafik zeigt die Reihenfolge der Umsetzung des Prototyps:
 
 #figure(image("Reihenfolge-Umsetzung-Prototyp.jpg", width: 60%), caption: [Reihenfolge Umsetzung Prototyp])
 
@@ -92,43 +92,52 @@ Diese findet sich in der Grafik in den grauen Wolken.
 Weiter wurden Risiken in der Umsetzung sowie vorgängige Entscheidungen zu Design und Technik festgehalten.
 
 == Mockups
-Die Mockups wurden erstellt, um die Funktionalitäten des Prototypen zu visualisieren und um in der Entwicklung keine grossen Designentscheidungen treffen zu müssen.
+Die Mockups wurden erstellt, um die Funktionalitäten des Prototyps zu visualisieren und um in der Entwicklung keine grossen Designentscheidungen treffen zu müssen.
 Die folgenden Mockups zeigen die neu zu hinzufügenden Funktionalitäten:
 
 === Phase 1
 *Nutzerführung*
+
 In der folgenden beiden Grafiken sind die Mockups für die Nutzerführung abgebildet:
-#figure(image("M1-Nutzerführung.jpg"), caption: [Semester nummeriert]);
-#figure(image("M1-Module-hinzufügen.jpg"), caption: [Module aus Vertiefungen direkt hinzufügen]);
+#figure(image("M1-Nutzerführung.jpg"), caption: [Semester nummeriert, Module aus Vertiefungen direkt hinzufügen]);
+#figure(image("M1-Module-hinzufügen.jpg"), caption: [Module aus Kategorie-Modul-Browsing direkt hinzufügen]);
 *Noch einzuplanende ECTS*
+
 In der folgenden Grafik ist das Mockup für die noch einzuplanenden #gls("ects") abgebildet:
 #figure(image("M1-Planen-ECTS.jpg", width: 60%), caption: [Noch einzuplanende ECTS]);
 *Verlinkung ins SLCM*
+
 In der folgenden Grafik ist das Mockup zur Verlinkung zur #gls("std") abgebildet:
 #figure(image("M1-STD.jpg", width: 40%), caption: [Link zur STD]);
 
 === Phase 2
 *Validierung Übersicht*
+
 In der folgenden Grafik ist das Mockup der Validierung in der Übersicht abgebildet:
 #figure(image("M2-Val-Übersicht.jpg"), caption: [Validierung im Semesterplaner]);
 *Globaler Fehlerbereich*
+
 In der folgenden Grafik ist das Mockup des globalen Fehlerbereichs abgebildet:
 #figure(image("M2-globaler-Fehlerbereich.jpg"), caption: [Globaler Fehlerbereich mit Aktionen]);
 *Constraints Enforcement*
+
 In der folgenden Grafik ist das Mockup des Constraints Enforcement bei Modul- und Semesterhinzufügung abgebildet:
 #figure(image("M2-Val-Constraints-Enforcement.jpg"), caption: [Constraints Enforcement bei Modul- und Semesterhinzufügung]);
 
 === Phase 3
 *Suche*
+
 In den folgenden beiden Grafiken sind die Mockups für die erweiterte Suche abgebildet:
 #figure(image("M3-Suche-Übersicht.jpg"), caption: [Suchdropdown in der Übersicht]);
 #figure(image("M3-Suche-Detail.jpg"), caption: [Suchdropdown im Detail]);
 
 === Phase 4
 *Übertrittsmodule*
+
 In der folgenden Grafik ist das Mockup der Übersicht für die Übertrittsmodule abgebildet:
 #figure(image("M4-Übertritt-Übersicht.jpg"), caption: [Platzierung und Anzeige der Übertrittsmodule]);
 *Übertrittsmodule hinzufügen*
+
 In der folgenden Grafik ist das Mockup für das Hinzufügen von Übertrittsmodulen inklusive der Abfolge abgebildet:
 #figure(image("M4-Übertritt-Modalflow.jpg"), caption: [Modal und Flow für das Hinzufügen von Übertrittsmodulen]);
 

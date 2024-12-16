@@ -6,16 +6,17 @@ Die Umsetzung erfolgte gemäss den im Konzept-Workshop definierten Phasen, dabei
 Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erstellte und die Ergebnisse der einzelnen Phasen testete und reviewte.
 
 == Funktionaler High-Fidelity-Prototyp
-Den Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
+Den Source-Code des funktionalen Prototyps ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
 Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
 Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang unter @prototype-appendix zu finden.
 
-Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Prototypen erläutert.
+Nachfolgend werden die wichtigsten neuen Funktionalitäten des High-Fidelity-Prototyps erläutert.
 
 *Erweiterte Übersicht mit Validierung*
+
 In der nachfolgenden Grafik ist die erweiterte Übersicht mit Validierung abgebildet:
 #figure(image("Validierung-Übersicht.png"), caption: [Erweiterte Übersicht mit Validierung]);
-Dabei sieht man die Umsetzung des Validierungs-Toogle, den globalen Fehlerbereich sowie die Kennzeichnung der Module, welche in der Validierung Fehler enthalten.
+Dabei sieht man die Umsetzung des Validierungs-Toggle, den globalen Fehlerbereich sowie die Kennzeichnung der Module, welche in der Validierung Fehler enthalten.
 Dabei ist ersichtlich, dass Module, welche in der Vergangenheit liegen, lediglich mit einem Warnhinweis versehen sind, während Module, welche in der Zukunft liegen, mit einem Fehlerhinweis versehen sind.
 Der Unterschied darin liegt einerseits im verwendeten Icon und andererseits in der Farbe der Umrandung.
 Warnhinweise weisen lediglich ein Info-Icon auf, während Fehlerhinweise ein Ausrufezeichen-Icon aufweisen und das Modul zusätzlich rot umrandet ist.
@@ -51,7 +52,7 @@ Dies zeigt die nachfolgende Grafik:
 Die Übertrittsmodule werden ebenfalls validiert, wie die folgende Grafik zeigt:
 #figure(image("Validierung-Übertritt.png"), caption:[Validierung der Übertrittsmodule]);
 Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgeführt.
-Diese beinhaltet das Überprüfen, ob das angerechnete Modul in der URL doppelt vorkommt.
+Diese beinhaltet die Überprüfung, ob das angerechnete Modul in der URL doppelt vorkommt.
 
 *Hinzufügen von Übertrittsmodulen*
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
@@ -60,7 +61,7 @@ Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmod
 #figure(image("Modal-3.png", width: 40%), caption: [Mehrere Übertrittsmodule auf einmal Hinzufügbar: Ausgewähltes Übertrittsmodul \"Blockchain\"]);
 #figure(image("Modal-4.png", width: 40%), caption: [Da mehrere Module, angerechnete wie selbst erstellte, hinzugefügt werden können, werden zwei Schritte zum Hinzufügen durchgeführt. Hier wird das angerechnete Modul \"Blockchain\" dem Hinzufüge-Pool hinzugefügt]);
 #figure(image("Modal-5.png", width: 40%), caption: [Selbst definierbares Übertrittsmodul, wie bspw. für das _Digicamp_ notwendig. Leere Ansicht]);
-#figure(image("Modal-6.png", width: 40%), caption: [Ausgefülltes externe Eingabe inklusive Fehlermeldung.]);
+#figure(image("Modal-6.png", width: 40%), caption: [Ausgefüllte externe Eingabe inklusive Fehlermeldung.]);
 #figure(image("Modal-7.png", width: 40%), caption: [Hinzufüge-Pool nach Eingabe eines angerechneten Moduls sowie einer externen Eingabe.]);
 
 Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterhalb der geplanten Semester angezeigt, wie bereits in der Grafik "Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen" aufgezeigt wurde.
@@ -88,4 +89,4 @@ In der folgenden Grafik ist die Validierungs-Map abgebildet:
 #figure(image("Validierungs-Map.jpg", width: 60%), caption: [Validierungs-Map])
 
 == Fazit
-Der Prototyp-Workshop war erfolgreich und führte zur Erstellung eines funktionalen High-Fidelity-Prototypen sowie einer Validierungs-Map, welche die Grundlagen für den nachfolgenden Validierungs-Workshop bildeten.
+Der Prototyp-Workshop war erfolgreich und führte zur Erstellung eines funktionalen High-Fidelity-Prototyps sowie einer Validierungs-Map, welche die Grundlagen für den nachfolgenden Validierungs-Workshop bildeten.

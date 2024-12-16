@@ -1,7 +1,7 @@
 #import "@preview/glossarium:0.4.1": gls
 = Schlussfolgerung
 Die Verwendung des von #cite(<cuxd>, form: "prose") beschriebenen CUXD-Vorgehensmodells erwies sich als wertvoll, da es eine empirisch fundierte Ausarbeitung und Validierung eines High-Fidelity-Prototyps ermöglichte.
-Die in der Verstehen-Phase gefundenen Probleme und Erkenntnisse wurden anhand des erarbeiteten High-Fidelity-Prototypen validiert.
+Die in der Verstehen-Phase gefundenen Probleme und Erkenntnisse wurden anhand des erarbeiteten High-Fidelity-Prototyps validiert.
 Das erarbeitete Lösungskonzept zeigte seine Nützlichkeit, indem es einige der gefundenen Probleme adressierte.
 Allerdings wurden im Zuge der Validierung neue Erkenntnisse, Schwachstellen und mögliche Weiterentwicklungsbereiche entdeckt.
 
@@ -37,4 +37,4 @@ Trotz der positiven Ergebnisse und Erkenntnisse dieser Arbeit gibt es einige Ein
 - *Eigene Perspektive als Nutzerinnen:* Da die Autorinnen selbst Nutzerinnen des Tools sind, konnte keine vollständige Neutralität gewährleistet werden. Dies könnte die Beurteilungen beeinflusst haben, obwohl versucht wurde, persönliche Vorlieben und Abneigungen auszuschliessen.
 - *Erfahrung im User-Centered Design:* Trotz vorhandener Expertise in der Softwareentwicklung fehlte den Autorinnen umfassendes Training in der Durchführung eines gesamten User-Centered-Design-Prozesses. Dennoch wurde intensiv daran gearbeitet, Wissenslücken zu schliessen und die erworbenen Erkenntnisse bestmöglich anzuwenden.
 
-Trotz dieser Limitationen konnte die Arbeit wertvolle Erkenntnisse liefern, die als solide Basis für weitere Forschungen und Entwicklungen im Bereich der Studiumsplanung dienen können.
+Trotz dieser Limitationen konnte die Arbeit wertvolle Erkenntnisse liefern, die als solide Basis für weitere Forschungen und Entwicklungen im Bereich der individuellen Studienplanung dienen können.

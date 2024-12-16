@@ -12,6 +12,7 @@ Es wurde vom CUXD-Vorgehensmodell @cuxd insofern abgewichen, als dass bereits am
 Diese Entscheidung fusste auf verschiedenen von #cite(<us-ux>, form: "prose") in "Usability und UX: Was alle wissen sollten, die Websites und Apps entwickeln" gelisteten Vorteile, auf die im Folgenden eingegangen wird.
 
 *Verfügbarkeit und kleiner Einarbeitungsaufwand*
+
 Zum einen existiert aufgrund der Open-Source-Natur des Tools der Zugriff auf den Source-Code, um diesen weiterzuentwickeln.
 Zum anderen ist eine der Autorinnen bereits mit diesem Source-Code vertraut, wodurch schnell und effizient gearbeitet werden kann.
 Im Vergleich zur Einarbeitung in eine spezielle Prototyping-Software, wie beispielsweise Figma, erfordert die Arbeit mit dem bestehenden Tool weniger Zeitaufwand.
@@ -19,20 +20,24 @@ Weiter kann der Prototyp als Unterseite der bestehenden Website (sa.lost.univers
 Dies bietet den Vorteil, dass Nutzende für das Testen des Prototyps ihre eigenen Geräte verwenden können, ohne zusätzliche Software installieren zu müssen.
 
 *Verfügbare Bibliotheken*
-Es existieren zahlreiche Bibliotheken, die die funktionale Entwicklung des Prototypen in der Programmiersprache Vue.js und dem Usability-First-CSS-Framework #gls("tailwind") unterstützen.
+
+Es existieren zahlreiche Bibliotheken, die die funktionale Entwicklung des Prototyps in der Programmiersprache Vue.js und dem Usability-First-CSS-Framework #gls("tailwind") unterstützen.
 Dies ermöglicht ebenfalls eine schnelle und effiziente Entwicklung.
 
 *Hoher Funktionsaufwand im Hinblick auf Interaktionen*
+
 #cite(<us-ux>, form: "prose") weisen darauf hin, dass die Entwicklung eines High-Fidelity-Prototyps besonders dann interessant wird, wenn neue (Teil-)Funktionalitäten hinzukommen, wie es hier der Fall ist.
 Diese neuen Funktionalitäten sind für die Nutzenden weniger vertraut, stellen aber zentrale Aufgaben in der Nutzung des Tools dar.
 Der gewählte Detaillierungsgrad ermöglicht es somit, den Prototypen optimal für die geplanten Nutzertests vorzubereiten: Er wird mit redaktionellem Content ausgestattet, ist voll funktionsfähig und visuell ausgestaltet.
 
 *Beschränkung auf Teilbereiche*
+
 Der Fokus der Ausarbeitung richtet sich nach dem Pareto-Prinzip: Es wird angenommen, dass sich die Nutzenden voraussichtlich 80% ihrer Besuchszeit auf 20% der Funktionalitäten konzentrieren @us-ux.
 Daher sollen insbesondere diese 20% detailliert umgesetzt werden.
 Um eine Einschränkung der vielen Opportunity Areas vorzunehmen, wurde im Ideation-Workshop ein Dot-Voting vorgenommen, um die wichtigsten Opportunity Areas zu priorisieren.
 
 *Zu testende Endgeräte*
+
 Vor Beginn der Phase 2 wurde zudem die Frage des Zielgeräts geprüft.
 Obwohl der Semesterplaner grundsätzlich mobile-first gestaltet ist, wird der Prototyp zunächst für den Desktop erstellt, da die Zielgruppe die zentralen Funktionen überwiegend auf diesem Gerät nutzt.
 Die Integration in eine mobile-first-Umgebung kann in einer späteren Phase ausserhalb des Umfangs dieser Studienarbeit erfolgen.

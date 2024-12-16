@@ -32,7 +32,7 @@ Die *Erkundungs-Phase* umfasste die folgenden Workshops:
 - *Validierungs-Workshop:* Es wurde ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wurde.
 
 == Ergebnisse
-Die Studienarbeit führte zur Entwicklung eines funktionalen High-Fidelity-Prototypen, der die Grundlage für die Weiterentwicklung der Plattform darstellt.
+Die Studienarbeit führte zur Entwicklung eines funktionalen High-Fidelity-Prototyps, der die Grundlage für die Weiterentwicklung der Plattform darstellt.
 Nachfolgend werden die validierten Funktionalitäten des Prototyps kurz zusammengefasst:
 
 *Validierung der Planung*

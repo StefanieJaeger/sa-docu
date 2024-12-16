@@ -13,7 +13,7 @@ Wie in der untenstehenden Grafik ersichtlich @cuxd-prozess, gliedert sich das Vo
 Die Erkundungsphase kann dabei mehrfach durchlaufen werden.
 Die Phase "Deliver" steht in dieser Arbeit nicht im Fokus und wird daher nicht weiter erläutert.
 
-#figure(image("cuxd-prozess.png"), caption: "CUXD Vorgehensmodell")
+#figure(image("cuxd-prozess.png"), caption: "CUXD-Vorgehensmodell")
 
 In jeder Phase werden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
 Im Folgenden werden diese näher erklärt.
@@ -65,7 +65,7 @@ In einem zweiten Schritt werden die im Validierungs-Mapping definierten Prototyp
 
 ===== Workshop: Validierung
 Im Validierung-Workshop werden die zuvor definierten Validierungsmethoden durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
-Die Ergebnisse werden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, ob die Lösungskonzepte die gestellten Anforderungen erfüllen.
+Die Ergebnisse werden in Kontrast zu den ursprünglich definierten Annahmen gestellt, um zu überprüfen, ob die Lösungskonzepte die gestellten Anforderungen erfüllen.
 Im negativen Fall erfolgt erneut eine Iteration über die Erkundungs-Phase.
 
 == Qualitative Forschungsmethoden
