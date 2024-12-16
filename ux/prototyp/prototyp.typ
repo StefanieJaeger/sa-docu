@@ -4,10 +4,7 @@ Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen High-
 Die Umsetzung erfolgte gemäss den im Konzept-Workshop definierten Phasen, dabei wurde die Hauptarbeit von Stefanie Jäger übernommen.
 Laura Thoma unterstützte bei der Umsetzung, indem sie die Validierungs-Map erstellte und die Ergebnisse der einzelnen Phasen testete und reviewte.
 
-== Workshop-Resultate
-Die Resultate des Prototyp-Workshops sind der funktionale High-Fidelity-Prototyp sowie die Validierungs-Map, auf die im Folgenden eingegangen wird.
-
-=== Funktionaler High-Fidelity-Prototyp
+== Funktionaler High-Fidelity-Prototyp
 Den Source-Code des funktionalen Prototypen ist auf GitHub unter #link("https://github.com/StefanieJaeger/lost-university-web") zu finden. Der Source-Code für den Crawler und die veränderte Datenstruktur ist unter #link("https://github.com/StefanieJaeger/lost-university-data") zu finden.
 Weiter ist der Prototyp auf der Webseite #link("https://sa.lost.university") erreichbar.
 Die genauen Ausführungen zu vorgenommenen Änderungen, verwendeten Bibliotheken und weiteren technischen Details sind im Anhang unter @prototype-appendix zu finden.
@@ -82,7 +79,7 @@ Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgend
 
 Mehr Informationen zur Suche können hier gefunden werden: @search-logic
 
-=== Validierungs-Map
+== Validierungs-Map
 Die Validierungs-Map wurde erstellt, um die zuvor definierten Funktionalitäten mit den entsprechenden Methoden und Erfolgreich-Wenn-Kriterien zur Validierung zu verknüpfen.
 Ebenfalls wurden Unsicherheit, Einfluss sowie Aufwand der Prototyperstellung dazu festgehalten.
 In der folgenden Grafik ist die Validierungs-Map abgebildet:

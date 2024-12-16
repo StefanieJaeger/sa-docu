@@ -10,19 +10,16 @@ Fünf Testpersonen hatten sich innerhalb des Zeitraumes für einen Test zur Verf
 Mit jeder Person wurde ein Termin an 45 Minuten vereinbart, in dem der Usability Test durchgeführt wurde.
 Da gemäss #cite(<us-ux>, form: "prose") mit fünf Personen mindestens 55%, durchschnittlich jedoch sogar 85.55% der Usability-Probleme aufgedeckt werden, wurde auf eine weitere Testperson verzichtet.
 
-== Resultate des Workshops
-Nachfolgend sind die Resultate des Validierungs-Workshops dokumentiert.
-
-=== Vorbereitung, Durchführung und Protokollierung der Usability Tests <ut-preparation>
+== Vorbereitung, Durchführung und Protokollierung der Usability Tests <ut-preparation>
 Die Usability Tests wurden in Anlehnung an #cite(<us-ux>, form: "prose") vorbereitet und durchgeführt.
 Dabei wurde ein Leitfaden erstellt, der um die Wissensziele bereinigt den Testpersonen ausgehändigt wurde und im Anhang unter @ut-leitfaden zu finden ist.
 Die Usability Tests wurden einzeln durchgeführt sowie protokolliert.
 Die Protokolle sind ebenfalls im Anhang unter @ut-protocols zu finden. 
 
-=== Resultate der Usability Tests
+== Resultate der Usability Tests
 Die Auswertung der Usability Tests sowie die Struktur dieses Unterkapitels lehnen stark an das vorgeschlagene Vorgehen von #cite(<us-ux>, form: "prose") zum Thema Usability-Tests auswerten.
 
-==== Probleme
+=== Probleme
 Im Folgenden sind sämtliche aufgetretenen Probleme dokumentiert.
 Jedes Problem ist mit einer ID versehen, um eine spätere Referenzierung zu erleichtern.
 
@@ -96,7 +93,7 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
 Drei neue Features wurden von fast allen Testpersonen als sehr positive Ergänzung aufgefasst.
 Diese umfassen die Validierung, die neuen Farben und die Möglichkeit zur Erfassung von Übertrittsmodulen.
 
-==== Wissensziele
+=== Wissensziele
 In der folgenden Tabelle sind die Wissensziele aufgeführt, die im Rahmen der Usability-Tests überprüft wurden.
 Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständig gescheitert ist oder zwei oder mehr Personen auf ein Problem gestossen sind.
 
@@ -130,7 +127,7 @@ Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständi
   [Wurde erkannt, dass die Validierung auch abgeschaltet werden kann?], [Ja],[],
 ), caption: ["Alle Wissensziele und deren Erreichung"])<wissensziele>
 
-=== Erkenntnisse
+== Erkenntnisse
 Folgende Probleme haben den Schweregrad 2 erreicht und sollen gemäss #cite(<us-ux>, form: "prose") priorisiert behoben werden.
 Dazu wurde direkt im Validierungs-Workshop ein kurzes Design Studio durchgeführt, um potenzielle Lösungsvorschläge zu erarbeiten.
 
@@ -185,7 +182,7 @@ Davon betroffene Probleme: P21.
 
 Ein geeigneter Lösungsansatz wäre, die Informationen in grösserer Darstellung anzuzeigen, entweder dauerhaft oder steuerbar über eine Einstellung im Tool.
 
-==== Lösungsvorschläge
+=== Lösungsvorschläge
 *Übertrittsmodule*
 Die nachfolgende Grafik zeigt einen Lösungsvorschlag für die Probleme P2 und P4. Dabei wird der Fokus auf diese beiden Probleme gelegt, jedoch auch Lösungen für drei weitere Probleme angeboten:
 - P1: Der "Abbrechen" Button bietet einen offensichtlichen Weg zur Schliessung des Modales an.
@@ -215,7 +212,7 @@ Diese Lösung bringt mehr Klarheit und Kontrolle für Nutzende. Sie führt jedoc
 In dieser Lösung erhält jede Aktion einer Fehlermeldung einen Unterpunkt. Der Unterpunkt beschreibt die Aktion genauer und bietet einen Button mit passendem Icon an.
 Diese Lösung erklärt die Aktionen während die Buttons nicht mit Text aufgeblasen werden. Die Fehlermeldung muss dafür grösser gestaltet werden und könnte somit in ausgeklapptem Zustand mehr Informationen als zuvor verdecken.
 
-=== Vollständige Validierungs-Map
+== Vollständige Validierungs-Map
 Die nachfolgende Grafik zeigt die durch den Validierungs-Workshop vervollständigte Validierungs-Map:
 #figure(image("Validierungsmapping_vollst.jpg", width: 80%), caption: ["Vollständige Validierungs-Map"])
 

@@ -11,10 +11,7 @@ Die erstellten Artefakte wurden anschliessend zusammen diskutiert und optimiert,
 Dafür wurden insgesamt 27 Stunden aufgewendet.
 Zur Erstellung der Mockups wurden Screenshots, Manipulationen der Webseite mit Hilfe der DevTools und das Tool Miro verwendet.
 
-== Resultate des Workshops
-Nachfolgend sind die wichtigsten Artefakte des Konzept-Workshops aufgeführt.
-
-=== User Story Map
+== User Story Map
 Die folgende User Story Map bildet den Ablauf der Semesterplanung mit den neu angestrebten Funktionen ab:
 
 #figure(image("User-Story-Map.jpg", width: 80%), caption: ["User Story Map"]);
@@ -34,7 +31,7 @@ Unterscheidungen zur Journey Map:
 - Nutzende können direkt die Studienordnungsbeschreibung aufrufen, da diese in der ECTS-Übersicht verlinkt ist. Ist ein Startsemester gesetzt, wird die jeweils gültige Studienordnung angezeigt, ansonsten die aktuellste.
 - Nutzende können angerechnete Leistungen, sei es ein Modul oder einfach angerechnete ECTS in Kategorien, eintragen. Diese werden in der ECTS-Übersicht berücksichtigt, jedoch nicht direkt im Plan angezeigt, da sie keinem Semester zugeordnet sind.
 
-=== Szenario
+== Szenario
 Das folgende Szenario beschreibt den Ablauf des Semesterplanens mit den neu angestrebten Funktionen:
 
 Es ist Montagabend, Felix sitzt gerade vor seinem Notebook zu Hause und sieht, dass die Anmeldephase 1 heute begonnen hat.
@@ -67,7 +64,7 @@ Diese wird separat zu den geplanten Semestern aufgelistet.
 
 Nun meldet er seine vier ausgewählten Module im SLCM an.
 
-=== Keyscreens
+== Keyscreens
 Es wurden zwei Keyscreens erstellt: einer, welcher den Plan vor den Änderungen zeigt, und einer, welcher den Plan nach den Änderungen zeigt.
 
 Unten ist der Keyscreen mit den neuen Funktionsbereichen abgebildet.
@@ -82,7 +79,7 @@ Dabei ist die folgende Legende zu beachten:
 
 #figure(image("Keyscreen-neu.jpg", width: 80%), caption: ["Keyscreen mit neuen Bereichen und Funktionen"]);
 
-=== Reihenfolge Umsetzung Prototyp
+== Reihenfolge Umsetzung Prototyp
 Die folgende Grafik zeigt die Reihenfolge der Umsetzung des Prototypen:
 
 #figure(image("Reihenfolge-Umsetzung-Prototyp.jpg", width: 60%), caption: ["Reihenfolge Umsetzung Prototyp"])
@@ -93,11 +90,11 @@ Weiter wurde dabei eine erste Zeitschätzung vorgenommen.
 Diese findet sich in der Grafik in den grauen Wolken.
 Weiter wurden Risiken in der Umsetzung sowie vorgängige Entscheidungen zu Design und Technik festgehalten.
 
-=== Mockups
+== Mockups
 Die Mockups wurden erstellt, um die Funktionalitäten des Prototypen zu visualisieren und um in der Entwicklung keine grossen Designentscheidungen treffen zu müssen.
 Die folgenden Mockups zeigen die neu zu hinzufügenden Funktionalitäten:
 
-==== Phase 1
+=== Phase 1
 *Nutzerführung*
 In der folgenden beiden Grafiken sind die Mockups für die Nutzerführung abgebildet:
 #figure(image("M1-Nutzerführung.jpg"), caption: ["Semester nummeriert"]);
@@ -109,7 +106,7 @@ In der folgenden Grafik ist das Mockup für die noch einzuplanenden ECTS abgebil
 In der folgenden Grafik ist das Mockup zur Verlinkung zur Studienordnungsbeschreibung abgebildet:
 #figure(image("M1-STD.jpg", width: 40%), caption: ["Link zur STD"]);
 
-==== Phase 2
+=== Phase 2
 *Validierung Übersicht*
 In der folgenden Grafik ist das Mockup der Validierung in der Übersicht abgebildet:
 #figure(image("M2-Val-Übersicht.jpg"), caption: ["Validierung im Semesterplaner"]);
@@ -120,13 +117,13 @@ In der folgenden Grafik ist das Mockup des globalen Fehlerbereichs abgebildet:
 In der folgenden Grafik ist das Mockup des Constraints Enforcement bei Modul- und Semesterhinzufügung abgebildet:
 #figure(image("M2-Val-Constraints-Enforcement.jpg"), caption: ["Constraints Enforcement bei Modul- und Semesterhinzufügung"]);
 
-==== Phase 3
+=== Phase 3
 *Suche*
 In den folgenden beiden Grafiken sind die Mockups für die erweiterte Suche abgebildet:
 #figure(image("M3-Suche-Übersicht.jpg"), caption: ["Suchdropdown in der Übersicht"]);
 #figure(image("M3-Suche-Detail.jpg"), caption: ["Suchdropdown im Detail"]);
 
-==== Phase 4
+=== Phase 4
 *Übertrittsmodule*
 In der folgenden Grafik ist das Mockup der Übersicht für die Übertrittsmodule abgebildet:
 #figure(image("M4-Übertritt-Übersicht.jpg"), caption: ["Platzierung und Anzeige der Übertrittsmodule"]);

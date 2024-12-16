@@ -9,20 +9,17 @@ Dazu wurde persönlich vor Ort im Miro einsam und gemeinsam gebrainstormt, disku
 Zusätzlich wurde eine Task Analysis erstellt, um die Aufgaben der Nutzenden besser zu verstehen und die Journey Map zu validieren.
 Die ausgewertete Tagebuchstudie wurde nachträglich im Dezember dazu verwendet, die validierten Artefakte erneut zu überprüfen und allfällige Unstimmigkeiten zu korrigieren, was jedoch nicht nötig war.
 
-== Workshop-Resultate
-Die folgenden Artefakte wurden im Rahmen des Synthese-Workshops erstellt und dienen als Grundlage für die weiteren Workshops:
-
-=== Validiertes Problem-Statement
+== Validiertes Problem-Statement
 Die folgende Grafik zeigt das überarbeitete Problem-Statement, welches unter anderem die Nutzenden, ihre Herausforderungen und die identifizierten Probleme im Kontext der Semesterplanung mit lost.university beschreibt.
 #figure(image("artifacts/Val-Problem-Statement-personenlos.jpg"), caption: "Validiertes Problem-Statement");
 
 Nachfolgend wird genauer auf Geändertes, Bestätigtes sowie Neu Erkanntes eingegangen.
 
-==== Identifizierte Nutzende
+=== Identifizierte Nutzende
 Die Zielgruppe des Tools wurde angepasst: Es wurde bestätigt, dass ausschliesslich Studierende als Nutzende gelten.
 Studienberatende zählen nicht mehr zur Zielgruppe.
 
-==== Identifizierte Probleme
+=== Identifizierte Probleme
 + *Geänderte Probleme*
   - Der geräteübergreifende Zugriff auf den persönlichen Plan stellt kein Problem dar, da die derzeitige Speicherung im _LocalStorage_ und die Verwendung eigener Bookmarks von den Nutzenden als vorteilhaft angesehen werden. Zusätzliche Speicheroptionen in Form eines Logins wurden zwar von einer Person gewünscht, jedoch sollte die aktuelle Speichermethode unbedingt beibehalten werden.
 + *Bestätigte Probleme*
@@ -34,7 +31,7 @@ Studienberatende zählen nicht mehr zur Zielgruppe.
   - Der Aufwand eines Moduls ist für Nutzende nicht ersichtlich (Feedback durch Studierende).
   - Die verfügbaren Features und neue Funktionen im Tool sind nicht sichtbar genug. Dadurch werden nicht alle Features aktiv genutzt oder überhaupt wahrgenommen (wie z.B. die Verwendung des _LocalStorage_).
 
-==== Identifizierte Lösungsansätze
+=== Identifizierte Lösungsansätze
 Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu adressieren:
 + *Geänderte Ansätze:*
   - Die bisher verwendete DataList-Komponente soll durch eine optimierte Suchkomponente ersetzt werden. Diese soll Best Practices berücksichtigen, z. B. durch automatischen Fokus im Suchfeld, ein leeres Suchfeld nach Nutzung sowie eine Sortierung der Module im Dropdown-Menü nach Kategorien.
@@ -51,7 +48,7 @@ Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu ad
   - Eine flexiblere Verwaltung der ECTS-Punkte soll ermöglicht werden, um effektiv belegte Module und angerechnete ECTS-Punkte abzubilden.
   - Es solle Release Notes für neue Features eingeführt werden, damit Nutzende über Änderungen informiert bleiben.
 
-==== Metriken
+=== Metriken
 Die Bewertungskriterien wurden angepasst, um die Ziele des Tools besser abzubilden.
 + *Geänderte Metriken:*
   - Die Anzahl der Aufrufe im Peak wird als Metrik entfernt, da es nicht darum geht, mehr Aufrufe zu generieren, sondern die bestehenden Aufrufe effizienter und nutzerfreundlicher zu gestalten.
@@ -60,11 +57,11 @@ Die Bewertungskriterien wurden angepasst, um die Ziele des Tools besser abzubild
 + *Neu identifizierte Metriken:*
   - Usability Testing wird eingeführt, um den Prototypen umfassend zu evaluieren.
 
-=== Validierte Persona
+== Validierte Persona
 #figure(image("artifacts/Val-Persona.jpg"), caption: "Validierte Persona");
 Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Verschiebungen vorgenommen wurden.
 
-==== Probleme & Herausforderungen
+=== Probleme & Herausforderungen
 *Geänderte Aspekte:*
 + *Modulsuche nach Kürzel:*
   - Die Modulsuche nach Kürzel funktioniert nicht generell nicht, sondern nur auf bestimmten Geräten und in einigen Browsern.
@@ -87,7 +84,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 + *ECTS-Berechnung:*
   - Die Anzahl der noch einzuplanenden ECTS pro Kategorie muss von den Nutzenden selbst ausgerechnet werden.
 
-==== Aufgaben
+=== Aufgaben
 *Geänderte Aspekte:*
 + *Planungsfokus:*
   - Der Fokus liegt primär auf der Planung des nächsten Semesters, insbesondere in den Anmeldephasen, das das Tool in diesem Zeitraum am häufigsten genutzt wird. Allerdings wird von wenigen Personen auch das gesamte Studium geplant. 
@@ -111,7 +108,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 + *Semesterangebote prüfen:*
   - Es muss herausgefunden werden, welche Module in welchem Semester angeboten werden. Dies ist ein essenzieller erster Schritt in der Modulplanung, ohne den nicht studierbare Pläne entstehen. Die Nutzenden navigieren dazu z.B. auf die Modul-Anmeldeseite im SLCM.
 
-==== Bedürfnisse & Ziele
+=== Bedürfnisse & Ziele
 *Geänderte Aspekte:*
 + *Externe Konsultation:*
   - Das Bedürfnis nach einer Planung ohne externe Konsultation wurde gestrichen, da dies praktisch nicht möglich ist und nicht den realistischen Anforderungen der Zielgruppe entspricht.
@@ -127,7 +124,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 - Schnell einen Überblick über das bisherige Studium und die ECTS pro Kategorie erhalten.
 - Nicht interessante Module des Semesterplaners mit spannenderen Modulen austauschen.
 
-=== Validierte Journey Map
+== Validierte Journey Map
 Die Journey Map wurde angepasst: Der Schritt „Austausch“ wurde nach hinten verschoben, da er oft erst nach einer ersten Recherche stattfindet.
 Während Austauschsituationen auch ausserhalb der Journey auftreten, stehen Recherchen zu Modulen im SLCM typischerweise vor irgendwelchen Recherchen im Semesterplaner.
 Dies liegt daran, dass das SLCM umfassendere Informationen bietet, während der Planer als Recherchegrundlage hauptsächlich Modulverlinkungen, Vorlagen der MSPs sowie Module für Vertiefungen enthält.
@@ -156,7 +153,8 @@ Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity A
 - *Planvalidierung:* Einige Testpersonen bemängelten, dass Module in Semestern hinzufügbar sind, wo sie nicht durchgeführt werden. Eine Validierung der Planung könnte dies verhindern. Ebenfalls könnte hier in einem weiteren Schritt die Suche miteinbezogen werden (Module anzeigen aber nicht hinzufügbar in entsprechenden Semestern).
 - *Nutzerführung (Semesternummer und Hinzufügen von Modulen):* Einige Testpersonen äusserten die Wünsche, die Semester nicht manuell zählen zu müssen sowie die Möglichkeit zu haben, Module direkt aus der Vertiefungsliste hinzuzufügen.
 - *Flexible Speicheroptionen:* Eine Testperson äusserte den Wunsch, zusätzlich zur Speicherung des Plans lokal in der URL eine Lösung mit Login zu haben. Es wurde jedoch explizit darauf hingewiesen, dass die jetzige Lösung weiter funktionieren sollte, da diese sehr flexibel einsetzbar ist.
-=== Task Analysis
+
+== Task Analysis
 Aus den gesammelten Erkenntnissen aller Erhebungsmethoden wurde eine Task Analysis angelehnt an #cite(<task-analysis>, form: "prose") erstellt.
 Die untenstehende Grafik zeigt die identifizierten Schritte, die Nutzende während der Planung des nächsten Semesters in den Anmeldephasen 1 und 2 durchlaufen, im Detail.
 

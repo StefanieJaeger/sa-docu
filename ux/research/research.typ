@@ -8,11 +8,8 @@ Weiter wurde in Miro gearbeitet, um digitale Artefakte zu erstellen.
 Google Docs wurde für die Erstellung der Leitfäden und Fragebögen ebenfalls verwendet.
 Als Artefakte wurden der Forschungsplan sowie Leitfäden zu der Contextual Inquiry, der Tagebuchstudie und den Interviews erstellt.
 Der analoge Forschungsplan wurde nachträglich auf Miro digitalisiert.
- 
-== Workshop-Resultate
-Die folgenden Artefakte wurden im Rahmen des Research-Workshops erstellt und dienen als Grundlage für die weiteren Workshops:
 
-=== Forschungsplan
+== Forschungsplan
 Der Forschungsplan dient als Leitfaden für die Durchführung der geplanten Forschungsmethoden.
 #figure(image("Forschungsplan.jpg"), caption: [Forschungsplan])
 
@@ -23,7 +20,7 @@ Bei den Contextual Inquiries sowie den Usability Tests wurden mit Einverständni
 Diese Aufnahmen werden bis zum Abschluss des Bewertungsprozesses dieser Arbeit offline von den Autorinnen aufbewahrt und nur auf Anfrage zur Verfügung gestellt.
 Danach werden die Aufnahmen zur Wahrung der Anonymität unwiderruflich gelöscht.
 
-=== Rekrutierung
+== Rekrutierung
 Die Rekrutierung der Testpersonen erfolgte über ein Banner auf lost.university, das gezielt nach Studierenden suchte, die das Tool aktiv nutzen und bereit sind, an einer Studie teilzunehmen.
 Das Banner war vom 25.09. bis zum 23.10.2024 live geschaltet.
 Das Banner erhielt einen Link zu einem selbst erstellten Microsoft Teams-Channel. 
@@ -33,13 +30,13 @@ Auf den initialen Banner-Aufruf hin haben sich zehn Personen gemeldet und sind d
 Als erste Aktion im Teams-Channel wurde der Persona-Fragebogen @leitfaden-student-persona geteilt, um die Nutzenden zu identifizieren und gleichzeitig die Bereitschaft zur Teilnahme an weiteren Studien zu prüfen.
 So konnten die Autorinnen früh in der Arbeit bereits absehen, mit wie vielen Personen sie in dieser Arbeit weitere Studien durchführen können.
 
-=== Nutzungskontextanalyse <nutzungskontextanalyse>
+== Nutzungskontextanalyse <nutzungskontextanalyse>
 Gemäss #cite(<us-ux>, form: "prose") ist es wichtig, den Kontext der Nutzenden zu verstehen, um die Bedürfnisse und Anforderungen an das Tool zu ermitteln.
 Dabei ist den Nutzenden der Kontext oder die Einflussfaktoren dieses selbst oft nicht bewusst, weshalb man sie dazu nicht direkt fragen kann.
 Daher wurden Methoden zur Datenerhebung gewählt, die es ermöglichen, den Kontext bei der Datenerhebung mit zu erfassen.
 #cite(<us-ux>, form: "prose") nennen hier insbesondere Vor-Ort-Beobachtungen oder Tagebuchstudien als geeignete Methoden, weshalb in dieser Arbeit auf diese zurückgegriffen wird.
 
-=== Contextual Inquiry <contextual-inquiry>
+== Contextual Inquiry <contextual-inquiry>
 Die Contextual Inquiry ist gemäss #cite(<us-ux>, form: "prose") eine Sonderform der Beobachtung und nicht anonym und abgekapselt von den Beobachtenden.
 Oft wird eine Lehrling-Lehrmeister-Beziehung angestrebt, bei der sich der Lehrmeister vom Lehrling Dinge erklären lässt und sich dabei immer wieder auf Beobachtetes beziehen kann @us-ux.
 
@@ -72,7 +69,7 @@ Dies ermöglichte es den Autorinnen, nebst der detaillierten Definition von Oppo
 
 Die Ergebnisse befinden sich unter @ci_results.
 
-=== Tagebuchstudie <tagebuchstudie>
+== Tagebuchstudie <tagebuchstudie>
 Gemäss #cite(<us-ux>, form: "prose") ist die Tagebuchstudie eine Methode zur Datenerhebung, bei der die Testpersonen über einen bestimmten Zeitraum hinweg ihre Erfahrungen mit einem Produkt oder einer Dienstleistung dokumentieren.
 #cite(<cuxd>, form: "prose") heben hervor, dass ein wesentlicher Vorteil darin besteht, dass Testpersonen unbeeinflusst von der Beobachtung durch andere mit einem Tool interagieren können und anschließend ihre persönlichen Erfahrungen in ihrem eigenen Tempo festhalten können.
 
@@ -97,7 +94,7 @@ In der letzten Erhebungswoche kamen keine neuen Einträge dazu.
 
 Die Ergebnisse befinden sich unter @dairy_results.
 
-=== Persona-Fragebogenstudie <persona-fragebogenstudie>
+== Persona-Fragebogenstudie <persona-fragebogenstudie>
 Mit der Persona-Fragebogenstudie sollen Nutzende identifiziert werden.
 Weiter können die Antworten dazu verwendet werden, um erste Bedürfnisse sowie Verhaltensweisen abzuleiten.
 Der Fragebogen fungierte in dieser Studie als Eintrittstor, um die relevanten Nutzergruppen zu definieren und sicherzustellen, dass alle Personas erfasst werden
@@ -123,7 +120,7 @@ Die Ergebnisse dienten als Grundlage für die Validierung der erstellten Persona
 
 Die Ergebnisse befinden sich unter @counselor-questionnaire-appendix.
 
-=== Interviews technischer Natur <technical-interview>
+== Interviews technischer Natur <technical-interview>
 Um für eine prototypische Umsetzung bestens gewappnet zu sein, haben sich die Autorinnen dazu entschieden, Interviews mit technischem Fokus durchzuführen.
 Dabei wurden gezielt Fragen in Bezug auf die Datenerfassung im SLCM und die Aussagekraft verschiedener abrufbarer Informationen gestellt.
 
