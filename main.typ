@@ -2,6 +2,7 @@
 #set page(numbering: "1")
 #set text(lang: "de")
 #show bibliography: set heading(numbering: "1.")
+#show "ß": "ss"
 
 // 2.1 Titelblatt
 #include "title-page.typ"
