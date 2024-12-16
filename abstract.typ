@@ -1,7 +1,7 @@
 = Abstract
 
 Das Zusammenstellen eines eigenen Curriculums ist ein zentraler Bestandteil des Informatikstudiums an der OST - Ostschweizer Fachhochschule und kann für Studierende eine Herausforderung darstellen.
-Diese Studienarbeit fokussiert auf die menschzentrierte Weiterentwicklung der Plattform lost.university, einem digitalen Werkzeug zur Unterstützung von Informatikstudierenden bei der Planung ihres Studiums an der OST.
+Diese Studienarbeit fokussiert sich auf die menschzentrierte Weiterentwicklung der Plattform lost.university, einem digitalen Werkzeug zur Unterstützung von Informatikstudierenden bei der Planung ihres Studiums an der OST.
 Ziel der Arbeit war die Entwicklung eines durch Usability-Tests validierten Prototyps, der die Benutzerfreundlichkeit sowie die Funktionalität der Plattform verbessert und den spezifischen Anforderungen der Zielgruppe gerecht wird.
 
 == Methodik
