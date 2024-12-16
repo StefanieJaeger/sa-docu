@@ -60,6 +60,7 @@ Letztere enthält eine erste Version eines Produkt-Backlogs.
 ===== Workshop: Prototyping
 Im Prototyping-Workshop wird in einem ersten Schritt ausgearbeitet, mit welchen Methoden welche zuvor definierten Funktionalitäten validiert werden sollen.
 Dieses Validierungs-Mapping schafft die Voraussetzung zur Entwicklung entsprechender Prototypen.
+In einem zweiten Schritt werden die im Validierungs-Mapping definierten Prototypen erstellt. 
 
 ===== Workshop: Validierung
 Im Validierung-Workshop werden die zuvor definierten Validierungsmethoden durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
