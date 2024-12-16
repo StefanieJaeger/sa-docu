@@ -6,20 +6,20 @@ Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
 Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
-Als Methoden wurden How Might We & 6-3-5, Dot Voting, Design Studio und Diskussionsrunden eingesetzt.
+Als Methoden wurden #gls("hmw") & 6-3-5, Dot Voting, Design Studio und Diskussionsrunden eingesetzt.
 Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse sowie Miro verwendet.
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.
-Als erstes wurden zu jeder Opportunity Area How-Might-We-Fragen formuliert.
-Da die Zeit für diese Studienarbeit begrenzt war, wurde anschliessend ein Dot-Voting durchgeführt, um die wichtigsten Opportunity Areas und How-Might-We-Fragen zu identifizieren.
+Als erstes wurden zu jeder Opportunity Area #gls("hmw")-Fragen formuliert.
+Da die Zeit für diese Studienarbeit begrenzt war, wurde anschliessend ein Dot-Voting durchgeführt, um die wichtigsten Opportunity Areas und #gls("hmw")-Fragen zu identifizieren.
 Die Ideenfindung für das so abgeleitete #gls("mvp") konnte somit zielgerichteter gestaltet werden und in die jeweiligen Thematiken tiefer eingestiegen werden.
-Danach wurden in einem 2-3-4 (Abwandlung des 6-3-5, da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten How-Might-We-Fragen generiert.
+Danach wurden in einem 2-3-4 (Abwandlung des 6-3-5, da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten #gls("hmw")-Fragen generiert.
 
-== How-Might-We-Fragen und wichtigste Opportunity Areas (#gls("mvp"))
-Die nachfolgende Grafik zeigt die erarbeiteten How-Might-We-Fragen sowie die Regeln für das Dot-Voting:
+== #gls("hmw")-Fragen und wichtigste Opportunity Areas (#gls("mvp"))
+Die nachfolgende Grafik zeigt die erarbeiteten #gls("hmw")-Fragen sowie die Regeln für das Dot-Voting:
 
-#figure(image("How-Might-We-Dot.jpg"), caption: [How-Might-We-Fragen])
+#figure(image("How-Might-We-Dot.jpg"), caption: [#gls("hmw")-Fragen])
 
-Jede Teilnehmerin konnte 25 Punkte auf die How-Might-We-Fragen verteilen und dabei zwischen 0 - 2 Punkte pro Area vergeben.
+Jede Teilnehmerin konnte 25 Punkte auf die #gls("hmw")-Fragen verteilen und dabei zwischen 0 - 2 Punkte pro Area vergeben.
 Je ein Favorit durfte mit drei Punkten markiert werden.
 Somit wurde das folgende Ranking ermittelt:
 - *6 Punkte:*
@@ -163,7 +163,7 @@ Die Platzierung der Verlinkung wurde neben dem Startsemester in der Übersicht d
 #figure(image("DS-Link-STD.jpg", width: 60%), caption: [Design Studio: Link zu SLCM-Bereichen]);
 
 === Hoher Überprüfungsaufwand, wenn nicht einem MSP strikt gefolgt wird
-Durch die zuvor durchgeführten 2-3-4 und Design Studios von "Planvalidierung" wurden die How-Might-We-Fragen indirekt bereits beantwortet.
+Durch die zuvor durchgeführten 2-3-4 und Design Studios von "Planvalidierung" wurden die #gls("hmw")-Fragen indirekt bereits beantwortet.
 Die Anzahl geöffneter Tabs zur Überprüfung bzw. Recherche kann durch die Anzeige von Kategorien in der Suche, der Durchführungen sowie der Modulabhängigkeiten reduziert werden.
 Die Überprüfung der Kategoriezuordnung eines Moduls kann ebenfalls durch die Anzeige der Kategoriezuordnung in der Modulsuche vereinfacht werden.
 Die Anzeige der Semesterdurchführung in der modulsuche vereinfacht die Überprüfung dieser ebenfalls. 
