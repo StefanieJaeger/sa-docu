@@ -55,7 +55,7 @@ Nachfolgend werden die validierten Funktionalitäten des Prototyps kurz zusammen
 *Modul-Browsing nach Kategorie*
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, in der Suche nach Modulen diese gruppiert nach Kategorien einzusehen, um so eine bessere Übersicht zu erhalten.
 - *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Modul-Browsing-Funktionalität nach Kategorie ohne Probleme nutzen und fanden sie hilfreich.
-#figure(image("suche.jpg", width: 60%), caption: "Modul-Browsing nach Kategorie in der Suche, Constraints Enforcement")
+#figure(image("suche.jpg", width: 60%), caption: [Modul-Browsing nach Kategorie in der Suche, #gls("ce")])
 
 *Direktes Hinzufügen von Modulen*
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, Module direkt aus den Bereichen "Vertiefungen" und "Übersicht der ECTS Punkte" in den Studienplan einzuplanen. Dabei werden die Module unter Berücksichtigung der Durchführungssemester jeweils ins nächstmögliche Semester eingefügt.

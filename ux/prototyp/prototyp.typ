@@ -1,4 +1,5 @@
 #import "@preview/glossarium:0.4.1": gls
+
 = Workshop: Prototyp
 Der Prototyp-Workshop fand vom 16.11. bis zum 6.12.2024 statt und dauerte insgesamt 62 Stunden.
 Dabei wurden die zuvor definierten Funktionalitäten in einem funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototypen") umgesetzt.
@@ -68,8 +69,9 @@ Nach dem Bestätigen des Hinzufüge-Pools werden die ausgewählten Module unterh
 
 Mehr Informationen zu den Entscheidungen bezüglich der Übertrittsmodule können hier gefunden werden: @code-decisions
 
-*Erweiterte Suche und Constraints Enforcement*
-Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, #gls("ects"), Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _Constraints Enforcement_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
+*Erweiterte Suche und #gls("ce")*
+
+Die nachfolgenden Grafiken zeigen die erweiterte Suche mit zusätzlichen Informationen wie Module gruppiert nach Kategorien, #gls("ects"), Durchführungssemester, sowie ob das Modul bereits eingeplant ist. Ebenfalls zeigen sie das eingebaute _#gls("ce")_ auf, indem das Hinzufügen von Modulen eingeschränkt wird:
 #figure(image("Suche-initial.png", width: 40%), caption: [Suche ohne Suchbegriff]);
 #figure(image("Suche-Kategorien.png", width: 40%), caption: [Suche mit Gruppierung von Modulen nach Kategorien]);
 
@@ -77,7 +79,7 @@ Die nachfolgende Grafik zeigt die Suche mit einem Suchbegriff:
 #figure(image("Suche-Begriff.png", width: 40%), caption: [Suche mit Suchbegriff]);
 
 Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgende Grafik zeigt:
-#figure(image("Constraint-Semester.png", width: 80%), caption: [Constraints Enforcement beim Hinzufügen eines 15. Semesters inklusive Tooltip]);
+#figure(image("Constraint-Semester.png", width: 80%), caption: [#gls("ce") beim Hinzufügen eines 15. Semesters inklusive Tooltip]);
 
 Mehr Informationen zur Suche können hier gefunden werden: @search-logic
 

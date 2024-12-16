@@ -119,10 +119,10 @@ In der folgenden Grafik ist das Mockup der Validierung in der Übersicht abgebil
 
 In der folgenden Grafik ist das Mockup des globalen Fehlerbereichs abgebildet:
 #figure(image("M2-globaler-Fehlerbereich.jpg"), caption: [Globaler Fehlerbereich mit Aktionen]);
-*Constraints Enforcement*
+*#gls("ce")*
 
-In der folgenden Grafik ist das Mockup des Constraints Enforcement bei Modul- und Semesterhinzufügung abgebildet:
-#figure(image("M2-Val-Constraints-Enforcement.jpg"), caption: [Constraints Enforcement bei Modul- und Semesterhinzufügung]);
+In der folgenden Grafik ist das Mockup des #gls("ce") bei Modul- und Semesterhinzufügung abgebildet:
+#figure(image("M2-Val-Constraints-Enforcement.jpg"), caption: [#gls("ce") bei Modul- und Semesterhinzufügung]);
 
 === Phase 3
 *Suche*

@@ -79,7 +79,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
   Die Unübersichtlichkeit im SLCM gefährdet das Vertrauen der Nutzenden in die Korrektheit der dort hinterlegten Daten.
   - Die Liste der Module im Semesterplaner ist unübersichtlich, da sie alle Module alphabetisch sortiert anzeigt. Dies erschwert das Modul-Browsing, da kein Kontext wie Kategorie verfügbar ist.
 + *Module und Interessen:*
-  - Häufig entsprechen die Module in den #gls("msp", display: "Musterstudienplänen") nicht vollständig mit den persönlichen Interessen der Nutzenden überein.
+  - Häufig entsprechen die Module in den #gls("msp", display: "Musterstudienplänen") nicht vollständig den persönlichen Interessen der Nutzenden.
 + *Semesterbezogene Informationen:*
   - Die Information, in welchem Semester ein Modul durchgeführt wird, muss separat im SLCM nachgeschaut werden, da der Semesterplaner diese Daten nicht enthält.
 + *ECTS-Berechnung:*

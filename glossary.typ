@@ -19,5 +19,6 @@
       (key: "ds", short: "Design Studio", desc: "Das Design Studio ist eine kreative Technik zur Ideenfindung. In einem strukturierten Workshop entwickeln mehrere Personen unabhängig voneinander Lösungsskizzen zu einem definierten Problem. Durch die anschliessende Präsentation und Diskussion der Entwürfe entstehen neue Ideen und Ansätze, die in die Konzeptentwicklung einfliessen."),
       (key: "6-3-5", short: "6-3-5 Methode", desc: "Die 6-3-5 Methode ist eine Kreativitätstechnik zur Ideenfindung in Gruppen. Dabei generieren sechs Personen in fünf Runden jeweils drei Ideen zu einem vorgegebenen Thema. Die Methode fördert die Vielfalt und Quantität von Lösungsansätzen und ermöglicht eine effiziente Ideenentwicklung in kurzer Zeit."),
       (key: "hi-fi-pro", short: "High-Fidelity-Prototyp", desc: "Ein High-Fidelity-Prototyp ist eine detaillierte und interaktive Version eines Produkts oder einer Anwendung, die das endgültige Design und die Funktionalität widerspiegelt. Er enthält realistische Inhalte, Interaktionen und visuelle Elemente, um das Erlebnis möglichst authentisch darzustellen."),
+      (key: "ce", short: "Constraints Enforcement", desc: "Constraints Enforcement bezeichnet die Berücksichtigung von Einschränkungen und Regeln bei der Entwicklung von Software oder Anwendungen."),
   )
 )

@@ -1,4 +1,5 @@
 #import "@preview/glossarium:0.4.1": gls
+
 = Reflexion <reflexion>
 In diesem Kapitel reflektieren wir die Ergebnisse und den Prozess unserer Studienarbeit.
 Wir betrachten sowohl positive als auch negative Aspekte und bringen zusätzliche persönliche Aspekte in Form der 4-L Retrospektive ein.

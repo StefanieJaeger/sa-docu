@@ -57,7 +57,7 @@ Nachfolgend werden die wichtigsten Ideen kurz vorgestellt.
 === Planvalidierung
 Die komplexesten Ideen gehören zur Planvalidierung.
 Hierbei wurde eine Vielzahl von Ideen generiert, die in einem #gls("ds") weiter ausgearbeitet wurden.
-Die wichtigsten Ideen und Konzepte beinhalten nebst einer Validierung auch ein _Constraints Enforcement_, mit Hilfe dessen nicht valide Planungen verhindert werden können.
+Die wichtigsten Ideen und Konzepte beinhalten nebst einer Validierung auch ein _#gls("ce")_, mit Hilfe dessen nicht valide Planungen verhindert werden können.
 
 Die folgenden Bilder zeigen die wichtigsten Ideen und Konzepte.
 
@@ -67,9 +67,9 @@ Es wurde ein Toggle vorgeschlagen, um die Validierung der Planung zu aktivieren 
 So können Nutzende selbst entscheiden, ob sie die Validierung nutzen möchten.
 #figure(image("DS-Validierung-Toggle.jpg"),caption: [#gls("ds"): Validierungs-Toggle]);
 
-*Constraints Enforcement*
+*#gls("ce")*
 
-Um nicht valide Planungen zu verhindern, wurde ein _Constraints Enforcement_ vorgeschlagen.
+Um nicht valide Planungen zu verhindern, wurde ein _#gls("ce")_ vorgeschlagen.
 Dabei werden in der Modulsuche nur Module hinzufügbar, die im entsprechenden Semester durchgeführt werden und noch nicht in der Planung vorhanden sind.
 Bei nicht hinzufügbaren Modulen wird angezeigt, weshalb diese nicht hinzugefügt werden können.
 Gründe dafür beinhalten z.B.:
@@ -109,7 +109,7 @@ Die Fehlerbehebung könnte folgende Aktionen beinhalten:
 
 *Maximale Studiumsdauer*
 
-Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semester beträgt @ostStudienordnung, wurde in Anlehnung an das _Constraints Enforcement_ eine Begrenzung der Planung auf 14 Semester vorgeschlagen.
+Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semester beträgt @ostStudienordnung, wurde in Anlehnung an das _#gls("ce")_ eine Begrenzung der Planung auf 14 Semester vorgeschlagen.
 #figure(image("DS-Validierung-14Sem.jpg", width: 40%),caption: [#gls("ds"): Nicht mehr als 14 Semester planbar]);
 
 === Nutzerführung
@@ -127,7 +127,7 @@ In der untenstehenden Grafik ist weiter die Idee ersichtlich, wie die die Nutzer
 #figure(image("DS-zu-planende-ECTS.jpg", width: 40%), caption: [#gls("ds"): Zu planende ECTS anzeigen, verknüpft mit "Referenzierte Module hinzufügen"]);
 
 === Suchfunktion
-Mit der Idee des _Constraints Enforcement_ soll das Hinzufügen von Modulen in falsche Semester, die nicht mehr angeboten werden oder bereits in der Planung vorhanden sind, verhindert werden.
+Mit der Idee des _#gls("ce")_ soll das Hinzufügen von Modulen in falsche Semester, die nicht mehr angeboten werden oder bereits in der Planung vorhanden sind, verhindert werden.
 Dabei wurde die Idee entwickelt, statt nicht planbare Module gänzlich auszublenden, diese in der Modulsuche als nicht hinzufügbar anzuzeigen.
 Damit die Nutzenden adäquat informiert sind, weshalb ein Modul nicht hinzugefügt werden kann, werden entsprechende Zusatzinformationen, wie etwa das Durchführungssemester oder ob ein Modul bereits eingeplant ist, angezeigt.
 
