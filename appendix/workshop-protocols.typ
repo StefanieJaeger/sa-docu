@@ -34,7 +34,7 @@
 - *Aufgewendete Stunden:* 34.5 Stunden
 - *Teilnehmende:* beide Autorinnen der Studienarbeit
 - *Ziel:* Ideen generieren, Lösungsansätze entwickeln, Konzepte skizzieren
-- *Methoden:* #gls("hmw") & 6-3-5, Dot Voting, Design Studio, Diskussionsrunden
+- *Methoden:* #gls("hmw") & 6-3-5, Dot Voting, #gls("ds"), Diskussionsrunden
 - *Werkzeuge:* Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse, Miro 
 - *Erarbeitete Artefakte:* Wichtigste Opportunity Areas, Konzepte, Skizzen
 
@@ -43,7 +43,7 @@
 - *Aufgewendete Stunden:* 27
 - *Teilnehmende:* beide Autorinnen der Studienarbeit
 - *Ziel:* Konzepte ausarbeiten, Konzeptentscheidung treffen
-- *Methoden:* Design Studio, Diskussionsrunden, Mapping
+- *Methoden:* #gls("ds"), Diskussionsrunden, Mapping
 - *Werkzeuge:* Miro
 - *Erarbeitete Artefakte:* Keyscreens bisher und neu, Szenario, Reihenfolge Umsetzung Prototyp, Mockups je Phase
 
@@ -61,6 +61,6 @@
 - *Aufgewendete Stunden:* 24
 - *Teilnehmende:* beide Autorinnen der Studienarbeit
 - *Ziel:* Usability-Tests durchführen, Ergebnisse auswerten, Lösungsskizze validieren & Verbesserungsvorschläge erarbeiten, Validierungsmapping vervollständigen
-- *Methoden:* Usability-Tests, Diskussionsrunden, Mapping, Design Studio
+- *Methoden:* Usability-Tests, Diskussionsrunden, Mapping, #gls("ds")
 - *Werkzeuge:* Usability-Test-Protokolle, Miro, Papier und Stifte
 - *Erarbeitete Artefakte:* Usability-Test-Ergebnisse, Verbesserungsvorschläge, vollständiges Validierungsmapping

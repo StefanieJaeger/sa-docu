@@ -6,7 +6,7 @@ Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
 Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
-Als Methoden wurden #gls("hmw") & 6-3-5, Dot Voting, Design Studio und Diskussionsrunden eingesetzt.
+Als Methoden wurden #gls("hmw") & 6-3-5, Dot Voting, #gls("ds") und Diskussionsrunden eingesetzt.
 Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse sowie Miro verwendet.
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.
 Als erstes wurden zu jeder Opportunity Area #gls("hmw")-Fragen formuliert.
@@ -45,9 +45,9 @@ Aus diesem Ranking heraus wurde definiert, dass die wichtigsten Opportunity Area
 Die anderen Opportunity Areas wurden in dieser Studienarbeit nicht weiterverfolgt.
 Im Anschluss an das Dot-Voting wurden diese in einem 2-3-4 Workshop weiterbearbeitet.
 
-== 2-3-4 und Design Studio
+== 2-3-4 und #gls("ds")
 In einem 2-3-4 wurden zu den wichtigsten Opportunity Areas Ideen generiert.
-Die meistversprechenden wurden im Anschluss in einem Design Studio weiter ausgearbeitet.
+Die meistversprechenden wurden im Anschluss in einem #gls("ds") weiter ausgearbeitet.
 
 Die Ideen wurden nachfolgend direkt diskutiert, wobei die Autorinnen bereits bewusst in den Konzept-Workshop vorgriffen, um die vielversprechendsten Ideen zu identifizieren.
 
@@ -56,7 +56,7 @@ Nachfolgend werden die wichtigsten Ideen kurz vorgestellt.
 
 === Planvalidierung
 Die komplexesten Ideen gehören zur Planvalidierung.
-Hierbei wurde eine Vielzahl von Ideen generiert, die in einem Design Studio weiter ausgearbeitet wurden.
+Hierbei wurde eine Vielzahl von Ideen generiert, die in einem #gls("ds") weiter ausgearbeitet wurden.
 Die wichtigsten Ideen und Konzepte beinhalten nebst einer Validierung auch ein _Constraints Enforcement_, mit Hilfe dessen nicht valide Planungen verhindert werden können.
 
 Die folgenden Bilder zeigen die wichtigsten Ideen und Konzepte.
@@ -65,7 +65,7 @@ Die folgenden Bilder zeigen die wichtigsten Ideen und Konzepte.
 
 Es wurde ein Toggle vorgeschlagen, um die Validierung der Planung zu aktivieren oder deaktivieren.
 So können Nutzende selbst entscheiden, ob sie die Validierung nutzen möchten.
-#figure(image("DS-Validierung-Toggle.jpg"),caption: [Design Studio: Validierungs-Toggle]);
+#figure(image("DS-Validierung-Toggle.jpg"),caption: [#gls("ds"): Validierungs-Toggle]);
 
 *Constraints Enforcement*
 
@@ -84,7 +84,7 @@ Dies erklärt sich auch der Tatsache, dass im SLCM die Durchführungssemester ni
 Für die Beschränkung könnte im Prototyp der String so verarbeitet werden, dass die letzte Angabe als aktuelles Semester interpretiert wird.
 Im zuvor erwähnten Beispiel wäre das dann "FS".
 
-#figure(image("DS-Validierung-Modulsuche.jpg", width:60%),caption: [Design Studio: Modulsuche mit Validierung]);
+#figure(image("DS-Validierung-Modulsuche.jpg", width:60%),caption: [#gls("ds"): Modulsuche mit Validierung]);
 
 *Fehlermeldungen und Warnungen*
 
@@ -92,8 +92,8 @@ Es wurde vorgeschlagen, Fehler und Warnungen möglichst platzsparend im Plan ein
 Somit entstand die Idee, fehlerhafte Module rot zu umranden und mit einem Fehler-Icon zu versehen.
 Da die Validierung in die Vergangenheit nur bedingt möglich ist, wurde weiter vorgeschlagen, dass eventuell fehlerhafte Module mit einem Info-Icon, nicht jedoch mit einem roten Rand versehen werden.
 So wäre ersichtlich, dass es sich jeweils um Warnungen oder Fehler handelt.
-#figure(image("DS-Validierung-Meldungen-Plan.jpg", width: 60%),caption: [Design Studio: Fehlermeldungen im Plan]);
-#figure(image("DS-Validierung-Modulkennzeichnung.jpg", width: 30%),caption: [Design Studio: Modulkennzeichnung bei Fehlern]);
+#figure(image("DS-Validierung-Meldungen-Plan.jpg", width: 60%),caption: [#gls("ds"): Fehlermeldungen im Plan]);
+#figure(image("DS-Validierung-Modulkennzeichnung.jpg", width: 30%),caption: [#gls("ds"): Modulkennzeichnung bei Fehlern]);
 
 *Interaktives Fehler-Dashboard*
 
@@ -105,26 +105,26 @@ Die Fehlerbehebung könnte folgende Aktionen beinhalten:
 - fehlerhaftes Modul in korrektes Semester verschieben lassen
 - nicht mehr angebotenes Modul mit dem gesetzten Nachfolgemodul ersetzen lassen.
 
-#figure(image("DS-Validierung-Globale-Meldungen.jpg"),caption: [Design Studio: Globale Fehlermeldungen]);
+#figure(image("DS-Validierung-Globale-Meldungen.jpg"),caption: [#gls("ds"): Globale Fehlermeldungen]);
 
 *Maximale Studiumsdauer*
 
 Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semester beträgt @ostStudienordnung, wurde in Anlehnung an das _Constraints Enforcement_ eine Begrenzung der Planung auf 14 Semester vorgeschlagen.
-#figure(image("DS-Validierung-14Sem.jpg", width: 40%),caption: [Design Studio: Nicht mehr als 14 Semester planbar]);
+#figure(image("DS-Validierung-14Sem.jpg", width: 40%),caption: [#gls("ds"): Nicht mehr als 14 Semester planbar]);
 
 === Nutzerführung
 Die Ideen zur Nutzerführung verfolgen einen geradlinigen Ansatz:
 - Nutzende sollen möglichst schnell die Nummerierung der Semester einsehen können. Da ohne ein gesetztes Startsemester die Semester bereits mit "1. Semester", "2. Semester" etc. bezeichnet werden, wird diese Idee als Grundlage genommen und die entsprechende Bezeichnung, wie "HS24" dahinter angezeigt.
 - Nutzende sollen bereits referenzierte Module direkt hinzufügen können. Mit einer Ausarbeitung des nächstmöglichen Semesters soll dies möglich sein.
-#figure(image("DS-Semesternummer.jpg"), caption: [Design Studio: Nummerierung der Semester]);
-#figure(image("DS-Ref-Mod-hinzufügen.jpg", width: 60%), caption: [Design Studio: Referenzierte Module direkt hinzufügen]);
+#figure(image("DS-Semesternummer.jpg"), caption: [#gls("ds"): Nummerierung der Semester]);
+#figure(image("DS-Ref-Mod-hinzufügen.jpg", width: 60%), caption: [#gls("ds"): Referenzierte Module direkt hinzufügen]);
 
 === Berechnung der ECTS pro Kategorie
 Die Ideen zur Berechnung der #gls("ects") pro Kategorie verfolgten verschiedene Ansätze zur Erweiterung: von der Anzeige aller möglichen Stati, wie beispielsweise "zu erreichende ECTS", "erreichte ECTS", "geplante ECTS" und "zu planende ECTS" bis hin zur minimalen Information mit nur "zu planende ECTS" wurde alles diskutiert.
 
 Im Endeffekt wurde die Änderung der bisherigen Anzeige von "X noch geplant" zu "X noch zu planen" als sinnvoll erachtet, da dies explizit von verschiedenen Personen in den CIs erwähnt wurde.
 In der untenstehenden Grafik ist weiter die Idee ersichtlich, wie die die Nutzerführung durch die Möglichkeit, direkt neben den jeweiligen Kategorien Module hinzufügen zu können, verbessert werden kann.
-#figure(image("DS-zu-planende-ECTS.jpg", width: 40%), caption: [Design Studio: Zu planende ECTS anzeigen, verknüpft mit "Referenzierte Module hinzufügen"]);
+#figure(image("DS-zu-planende-ECTS.jpg", width: 40%), caption: [#gls("ds"): Zu planende ECTS anzeigen, verknüpft mit "Referenzierte Module hinzufügen"]);
 
 === Suchfunktion
 Mit der Idee des _Constraints Enforcement_ soll das Hinzufügen von Modulen in falsche Semester, die nicht mehr angeboten werden oder bereits in der Planung vorhanden sind, verhindert werden.
@@ -135,8 +135,8 @@ Da sich so neu erheblich viele zusätzliche Informationen in der Suche befinden,
 Mit der zusätzlichen Idee, dass die Ergebnisse der Suche nach Kategorien sortiert werden, soll die Suche weiter vereinfacht werden.
 Somit wird den Nutzenden die Möglichkeit gegeben, gezielt nach Modulen einer Kategorie zu suchen.
 
-#figure(image("DS-Modulsuche-Dropdown.jpg", width: 40%), caption: [Design Studio: Dropdown-Platzierung der Modulsuche]);
-#figure(image("DS-Modulsuche-Suchkomponente-Logik.jpg"), caption: [Design Studio: Logik und Aufbau der erweiterten Suchkomponente]);
+#figure(image("DS-Modulsuche-Dropdown.jpg", width: 40%), caption: [#gls("ds"): Dropdown-Platzierung der Modulsuche]);
+#figure(image("DS-Modulsuche-Suchkomponente-Logik.jpg"), caption: [#gls("ds"): Logik und Aufbau der erweiterten Suchkomponente]);
 
 === ECTS-Verwaltung
 Für die Opportunity Area "ECTS-Verwaltung" wurden verschiedene Ideen entwickelt.
@@ -148,9 +148,9 @@ Somit können Nutzende, die beispielsweise ein _Cambridge Advanced Certificate_ 
 Dies erfolgt über ein Modal, in welchem die Nutzenden die weitere Möglichkeit haben, ein eigenes Modul zu erstellen.
 Für das in Zusammenarbeit mit der Interkantonalen Hochschule für Heilpädagogik angebotene "Digicamp" ist letztere Methode notwendig, da dieses Modul nicht im SLCM geführt wird und keinem speziellen Modul entspricht. Es werden dort jedoch #gls("ects") in Kategorien vergeben, in diesem Fall 3 #gls("ects") in die Kategorien "Informatik" und "Aufbau".
 
-#figure(image("DS-Übertrittsmodule-Button.jpg", width: 40%), caption: [Design Studio: Übertrittsmodule Button]);
-#figure(image("DS-Übertrittsmodule-Anzeige-Validierung.jpg", width: 60%), caption: [Design Studio: Anzeige und Validierung der Übertrittsmodule]);
-#figure(image("DS-Übertrittsmodule-Modal.jpg"), caption: [Design Studio: Modal für das Hinzufügen von Übertrittsmodulen]);
+#figure(image("DS-Übertrittsmodule-Button.jpg", width: 40%), caption: [#gls("ds"): Übertrittsmodule Button]);
+#figure(image("DS-Übertrittsmodule-Anzeige-Validierung.jpg", width: 60%), caption: [#gls("ds"): Anzeige und Validierung der Übertrittsmodule]);
+#figure(image("DS-Übertrittsmodule-Modal.jpg"), caption: [#gls("ds"): Modal für das Hinzufügen von Übertrittsmodulen]);
 
 === Verlinkung zu SLCM-Bereichen
 Die Ideengenerierung zur Verlinkung zu SLCM-Bereichen gestaltete sich schwierig, da die Anforderungen an die Verlinkung nicht klar definiert waren.
@@ -160,10 +160,10 @@ der #gls("ects")-Punkte pro Kategorie angezeigt werden, weshalb das Verlinken nu
 
 Die Platzierung der Verlinkung wurde neben dem Startsemester in der Übersicht der #gls("ects")-Punkte pro Kategorie vorgeschlagen, da die #gls("std") an das Startsemester gebunden ist.
 
-#figure(image("DS-Link-STD.jpg", width: 60%), caption: [Design Studio: Link zu SLCM-Bereichen]);
+#figure(image("DS-Link-STD.jpg", width: 60%), caption: [#gls("ds"): Link zu SLCM-Bereichen]);
 
 === Hoher Überprüfungsaufwand, wenn nicht einem MSP strikt gefolgt wird
-Durch die zuvor durchgeführten 2-3-4 und Design Studios von "Planvalidierung" wurden die #gls("hmw")-Fragen indirekt bereits beantwortet.
+Durch die zuvor durchgeführten 2-3-4 und #gls("ds")s von "Planvalidierung" wurden die #gls("hmw")-Fragen indirekt bereits beantwortet.
 Die Anzahl geöffneter Tabs zur Überprüfung bzw. Recherche kann durch die Anzeige von Kategorien in der Suche, der Durchführungen sowie der Modulabhängigkeiten reduziert werden.
 Die Überprüfung der Kategoriezuordnung eines Moduls kann ebenfalls durch die Anzeige der Kategoriezuordnung in der Modulsuche vereinfacht werden.
 Die Anzeige der Semesterdurchführung in der modulsuche vereinfacht die Überprüfung dieser ebenfalls. 

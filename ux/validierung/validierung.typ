@@ -130,7 +130,7 @@ Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständi
 
 == Erkenntnisse
 Folgende Probleme haben den Schweregrad 2 erreicht und sollen gemäss #cite(<us-ux>, form: "prose") priorisiert behoben werden.
-Dazu wurde direkt im Validierungs-Workshop ein kurzes Design Studio durchgeführt, um potenzielle Lösungsvorschläge zu erarbeiten.
+Dazu wurde direkt im Validierungs-Workshop ein kurzes #gls("ds") durchgeführt, um potenzielle Lösungsvorschläge zu erarbeiten.
 
 - *P2* - "Übertritt - Übermässige Klicks zur Erfassung"
   - *Beschreibung:* Für das Erfassen von angerechneten Modulen und externen Leistungen sind zu viele Klicks notwendig, spezifisch Button-Klicks. Ein erfasster Eintrag wird durch "hinzufügen" zuerst einer Liste hinzugefügt, welche dann gespeichert werden kann. Da die Testpersonen jedoch nur einen Eintrag aufs Mal erfassten, resultierte dies für sie in als unnötig wahrgenommenen Schritten. 
