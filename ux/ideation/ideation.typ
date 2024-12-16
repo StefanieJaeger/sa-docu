@@ -6,13 +6,13 @@ Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
 Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen High-Fidelity-Prototypen hingewiesen werden.
-Als Methoden wurden #gls("hmw") & 6-3-5, Dot Voting, #gls("ds") und Diskussionsrunden eingesetzt.
+Als Methoden wurden #gls("hmw") & die #gls("6-3-5"), Dot Voting, #gls("ds") und Diskussionsrunden eingesetzt.
 Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse sowie Miro verwendet.
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.
 Als erstes wurden zu jeder Opportunity Area #gls("hmw")-Fragen formuliert.
 Da die Zeit für diese Studienarbeit begrenzt war, wurde anschliessend ein Dot-Voting durchgeführt, um die wichtigsten Opportunity Areas und #gls("hmw")-Fragen zu identifizieren.
 Die Ideenfindung für das so abgeleitete #gls("mvp") konnte somit zielgerichteter gestaltet werden und in die jeweiligen Thematiken tiefer eingestiegen werden.
-Danach wurden in einem 2-3-4 (Abwandlung des 6-3-5, da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten #gls("hmw")-Fragen generiert.
+Danach wurden in einem 2-3-4 (Abwandlung der #gls("6-3-5"), da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten #gls("hmw")-Fragen generiert.
 
 == #gls("hmw")-Fragen und wichtigste Opportunity Areas (#gls("mvp"))
 Die nachfolgende Grafik zeigt die erarbeiteten #gls("hmw")-Fragen sowie die Regeln für das Dot-Voting:

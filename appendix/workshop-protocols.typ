@@ -34,7 +34,7 @@
 - *Aufgewendete Stunden:* 34.5 Stunden
 - *Teilnehmende:* beide Autorinnen der Studienarbeit
 - *Ziel:* Ideen generieren, Lösungsansätze entwickeln, Konzepte skizzieren
-- *Methoden:* #gls("hmw") & 6-3-5, Dot Voting, #gls("ds"), Diskussionsrunden
+- *Methoden:* #gls("hmw") & #gls("6-3-5"), Dot Voting, #gls("ds"), Diskussionsrunden
 - *Werkzeuge:* Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse, Miro 
 - *Erarbeitete Artefakte:* Wichtigste Opportunity Areas, Konzepte, Skizzen
 

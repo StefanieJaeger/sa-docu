@@ -51,7 +51,7 @@ Wir stellten ausserdem fest, dass die sorgfältige Vorbereitung von Workshops me
 
 Durch unsere Erfahrungen mit CIs lernten wir, dass Suggestivfragen vermieden werden sollten, da sie die Ergebnisse verfälschen können.
 Die Anwendung der Pomodoro-Technik erwies sich als äusserst nützlich für zeitintensive Aufgaben wie das Transkribieren von Interviews oder Beobachtungsstudien.
-Auch Kreativmethoden wie 6-3-5 und #gls("ds") haben sich als effektiv erwiesen und konnten unsere Ideenfindung bereichern.
+Auch Kreativmethoden wie die #gls("6-3-5") und das #gls("ds") haben sich als effektiv erwiesen und konnten unsere Ideenfindung bereichern.
 
 Beim Usability-Testing wurde deutlich, dass Wissensziele präzise aus der Validierungsmap abgeleitet werden sollten, da ansonsten wichtige Aspekte übersehen werden können.
 Zudem haben wir erkannt, dass es schwierig ist, intrinsische Motivation in Testszenarien abzubilden.

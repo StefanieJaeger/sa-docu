@@ -50,7 +50,7 @@ Auch hier sind mehrere Workshops vorgesehen.
 Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später neben der #gls("persona") und Journey Map als Basis für den Konzept Workshop dient.
 Um möglichst viele Lösungsideen zu generieren, werden hierbei die unterschiedlichen Produktchancen betrachtet.
 Es gilt das Prinzip "Quantität vor Qualität".
-Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das #gls("hmw"), das 6-3-5 und das #gls("ds").
+Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das #gls("hmw"), die #gls("6-3-5")und das #gls("ds").
 
 ===== Workshop: Konzept
 Mit Hilfe von Szenarien werden im Konzept-Workshop die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
