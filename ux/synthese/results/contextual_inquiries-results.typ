@@ -24,7 +24,7 @@ Die Recherche zu Modulen stellte einen wichtigen Schritt dar.
 Die Testpersonen nutzten dafür hauptsächlich die Modulbeschreibungen im SLCM und fokussierten sich auf Details wie empfohlene Vorkenntnisse, Leistungsnachweise und die inhaltliche Ausgestaltung der Module.
 Besondere Beachtung fand dabei die Balance zwischen Modulen mit semesterbegleitenden Leistungen und solchen mit nur einer Prüfung am Ende des Semesters, um eine bessere Vereinbarkeit mit dem beruflichen Arbeitspensum zu erreichen.
 Der Austausch mit bekannten Studierenden war ebenfalls ein essenzieller Bestandteil, um Informationen über den Aufwand und die Qualität der Lehrveranstaltungen sowie über die Dozierenden zu erhalten.
-Zudem wurden Empfehlungen und Erfahrungen aus der Peergroup einbezogen.
+Zudem wurden Empfehlungen und Erfahrungen aus dem Freundeskreis einbezogen.
 
 *Feinjustierung und Planungssicherheit*
 
@@ -46,5 +46,5 @@ Herausforderungen traten vor allem bei der Suche nach weiteren passenden Modulen
 
 == Fazit
 
-Diese Zusammenfassung zeigt, dass die Testpersonen ihre Studienplanung durch eine Kombination aus systematischen Überprüfungen, strategischen Entscheidungen und einem intensiven Austausch mit Peers angehen.
+Diese Zusammenfassung zeigt, dass die Testpersonen ihre Studienplanung durch eine Kombination aus systematischen Überprüfungen, strategischen Entscheidungen und einem intensiven Austausch mit Studiumkolleginnen und Studiumskollegen angehen.
 Die Nutzung mehrerer digitaler Plattformen spielte dabei eine zentrale Rolle, ebenso wie die individuelle Anpassung der Planung an persönliche Bedürfnisse und externe Verpflichtungen.
