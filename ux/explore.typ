@@ -34,7 +34,7 @@ Der gewählte Detaillierungsgrad ermöglicht es somit, den Prototypen optimal f�
 
 Der Fokus der Ausarbeitung richtet sich nach dem Pareto-Prinzip: Es wird angenommen, dass sich die Nutzenden voraussichtlich 80% ihrer Besuchszeit auf 20% der Funktionalitäten konzentrieren @us-ux.
 Daher sollen insbesondere diese 20% detailliert umgesetzt werden.
-Um eine Einschränkung der vielen Opportunity Areas vorzunehmen, wurde im Ideation-Workshop ein Dot-Voting vorgenommen, um die wichtigsten Opportunity Areas zu priorisieren.
+Um eine Einschränkung der vielen Opportunity Areas vorzunehmen, wurde im Ideation-Workshop ein #gls("dv") vorgenommen, um die wichtigsten Opportunity Areas zu priorisieren.
 
 *Zu testende Endgeräte*
 

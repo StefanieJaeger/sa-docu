@@ -20,5 +20,6 @@
       (key: "6-3-5", short: "6-3-5 Methode", desc: "Die 6-3-5 Methode ist eine Kreativitätstechnik zur Ideenfindung in Gruppen. Dabei generieren sechs Personen in fünf Runden jeweils drei Ideen zu einem vorgegebenen Thema. Die Methode fördert die Vielfalt und Quantität von Lösungsansätzen und ermöglicht eine effiziente Ideenentwicklung in kurzer Zeit."),
       (key: "hi-fi-pro", short: "High-Fidelity-Prototyp", desc: "Ein High-Fidelity-Prototyp ist eine detaillierte und interaktive Version eines Produkts oder einer Anwendung, die das endgültige Design und die Funktionalität widerspiegelt. Er enthält realistische Inhalte, Interaktionen und visuelle Elemente, um das Erlebnis möglichst authentisch darzustellen."),
       (key: "ce", short: "Constraints Enforcement", desc: "Constraints Enforcement bezeichnet die Berücksichtigung von Einschränkungen und Regeln bei der Entwicklung von Software oder Anwendungen."),
+      (key: "dv", short: "Dot-Voting", desc: "Dot-Voting ist eine Methode zur Priorisierung von Ideen oder Lösungsvorschlägen in Gruppen. Dabei erhalten Teilnehmende eine begrenzte Anzahl von Punkten (Dots), die sie auf die ihnen wichtigsten Optionen verteilen können. Die Methode fördert eine demokratische Entscheidungsfindung und ermöglicht eine schnelle Bewertung von Ideen."),
   )
 )

@@ -44,7 +44,7 @@ Dies ermöglichte eine umfassende Sammlung von Ideen, ohne sich bereits in der f
 
 === Learned  
 Im Verlauf der Arbeit haben wir viele wertvolle Erkenntnisse gewonnen.
-Bei der Protokollführung für Contextual Inquiries (CIs) haben wir gelernt, dass es effizienter ist, die Dokumentation direkt in Typst zu erstellen, anstatt zunächst in Word zu arbeiten und die Inhalte später zu übertragen.
+Bei der Protokollführung für Contextual Inquiries (CIs) haben wir gelernt, dass es effizienter ist, die Dokumentation direkt im verwendeten Textsatzsystem zu erstellen, anstatt zunächst in Word zu arbeiten und die Inhalte später zu übertragen.
 Ausserdem wurde deutlich, dass es wichtig ist, nicht nur die Forschungsfragen zu beantworten, sondern auch Beobachtungen - insbesondere zum Ablauf der Semesterplanung - detailliert festzuhalten.  
 
 Eine weitere wichtige Lektion war, dass eine gründliche Vorbereitung bei Beobachtungsstudien unverzichtbar ist. Die unzureichende Vorbereitung unseres ersten CIs führte zu einem chaotischen Protokoll und unklaren Einsichten.

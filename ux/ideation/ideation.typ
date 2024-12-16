@@ -6,16 +6,16 @@ Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
 Der Workshop hatte das Ziel, basierend auf den in der Synthese validierten Artefakten möglichst viele Ideen für die Applikation lost.university zu generieren.
 Dabei wurde bereits zur Beantwortung einiger Fragen in den Konzept-Workshop vorgegriffen, um die vielversprechendsten Ideen zu identifizieren.
 Ebenso soll an dieser Stelle auf die bereits am Anfang der Erkundungsphase getroffene Entscheidung zu einem funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototypen") hingewiesen werden.
-Als Methoden wurden #gls("hmw") & die #gls("6-3-5"), Dot Voting, #gls("ds") und Diskussionsrunden eingesetzt.
+Als Methoden wurden #gls("hmw") & die #gls("6-3-5"), #gls("dv"), #gls("ds") und Diskussionsrunden eingesetzt.
 Als Hilfsmittel wurden Schreiber, Papier, Scanner zur Festhaltung der Ergebnisse sowie Miro verwendet.
 Als Ergebnis wurden die wichtigsten Opportunity Areas festgehalten, dazu Lösungsansätze und Skizzen erstellt.
 Als erstes wurden zu jeder Opportunity Area #gls("hmw")-Fragen formuliert.
-Da die Zeit für diese Studienarbeit begrenzt war, wurde anschliessend ein Dot-Voting durchgeführt, um die wichtigsten Opportunity Areas und #gls("hmw")-Fragen zu identifizieren.
+Da die Zeit für diese Studienarbeit begrenzt war, wurde anschliessend ein #gls("dv") durchgeführt, um die wichtigsten Opportunity Areas und #gls("hmw")-Fragen zu identifizieren.
 Die Ideenfindung für das so abgeleitete #gls("mvp") konnte somit zielgerichteter gestaltet werden und in die jeweiligen Thematiken tiefer eingestiegen werden.
 Danach wurden in einem 2-3-4 (Abwandlung der #gls("6-3-5"), da nur zwei Personen an der Ideenfindung teilnahmen) Ideen zu den wichtigsten #gls("hmw")-Fragen generiert.
 
 == #gls("hmw")-Fragen und wichtigste Opportunity Areas (#gls("mvp"))
-Die nachfolgende Grafik zeigt die erarbeiteten #gls("hmw")-Fragen sowie die Regeln für das Dot-Voting:
+Die nachfolgende Grafik zeigt die erarbeiteten #gls("hmw")-Fragen sowie die Regeln für das #gls("dv"):
 
 #figure(image("How-Might-We-Dot.jpg"), caption: [#gls("hmw")-Fragen])
 
@@ -43,7 +43,7 @@ Somit wurde das folgende Ranking ermittelt:
 
 Aus diesem Ranking heraus wurde definiert, dass die wichtigsten Opportunity Areas diese mit jeweils 6 und 4 Punkten sind und für die weiteren Workshops genauer betrachtet werden.
 Die anderen Opportunity Areas wurden in dieser Studienarbeit nicht weiterverfolgt.
-Im Anschluss an das Dot-Voting wurden diese mit der #gls("6-3-5") weiterbearbeitet.
+Im Anschluss an das #gls("dv") wurden diese mit der #gls("6-3-5") weiterbearbeitet.
 
 == #gls("6-3-5") und #gls("ds")
 In einem 2-3-4 (Abwandlung der #gls("6-3-5")) wurden zu den wichtigsten Opportunity Areas Ideen generiert.
