@@ -20,7 +20,7 @@
 // -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
 
-#set heading(numbering: "1.")
+
 // 2.4 Inhaltsverzeichnis
 #outline(
   indent: 1em,
@@ -32,7 +32,10 @@
 
 // 2.5 Glossar und Abkürzungsverzeichnis
 // Kurze Erklärung der fachtechnischen oder projektspezifischen Begriffe, die nicht allgemein bekannt sind, sowie Ausschreibung der Arbeit verwendeten Abkürzungen.
+
+= Glossar
 #include "glossary.typ"
+
 
 // 2.6 Ausgangslage / Problemstellung / Stand der Technik
 // Beschreibung der Motivation für die Arbeit sowie der Schwächen der heutigen Praktiken und Lösungen.
@@ -51,7 +54,7 @@
 // -- DONE IN INTRO
 
 #pagebreak()
-
+#set heading(numbering: "1.")
 #include "intro/intro.typ"
 
 #pagebreak()
