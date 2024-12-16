@@ -26,11 +26,11 @@
       column-gutter: 5%,
       [
         Betreuer \
-        Autoren
+        Autorinnen
       ],
       [
         Frieder Loch \
-        Laura Thoma, Stefanie Jäger
+        Stefanie Jäger, Laura Thoma
       ]
     )
   ]
