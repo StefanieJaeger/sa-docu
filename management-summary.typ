@@ -11,7 +11,7 @@ Sie wurde von Studierenden für Studierende auf freiwilliger Basis entwickelt un
 Die Plattform unterstützt die Planung von Modulen und bietet Musterstudienpläne als Vorlage an. Trotz der positiven Resonanz der Studierenden weist die Plattform Schwächen in der Benutzerfreundlichkeit und Funktionalität auf.
 Ziel dieser Studienarbeit war es, die Plattform mithilfe eines menschzentrierten Ansatzes grundlegend zu verbessern und einen validierten Prototypen zu entwickeln, der die Anforderungen der Studierenden erfüllt.
 
-== Vorgehen & Technologien
+== Vorgehen
 Für die Entwicklung wurde ein Vorgehensmodell gewählt, welches stark an den User-Centered-Design-Prozess anlehnt.
 Dieses gewährleistet einen systematischen und menschzentrierten Ansatz.
 Der Arbeitsprozess umfasste zwei Phasen: die Verstehen- und die Erkundungs-Phase, die nacheinander durchgeführt wurden.
