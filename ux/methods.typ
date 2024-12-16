@@ -1,4 +1,4 @@
-#import "@preview/glossarium:0.4.1": gls
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Vorgehen
 Nachfolgend wird das für diese Studienarbeit gewählte Vorgehensmodell erläutert.
 
@@ -55,7 +55,7 @@ Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie 
 ===== Workshop: Konzept
 Mit Hilfe von Szenarien werden im Konzept-Workshop die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
 Dies ermöglicht es bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen zu identifizieren und zu beheben.
-Im Workshop entstehen verschiedene Artefakte, wie Keyscreens, Szenarien und eine User-Story-Map.
+Im Workshop entstehen verschiedene Artefakte, wie #glspl("keyscreen"), Szenarien und eine User-Story-Map.
 Letztere enthält eine erste Version eines Produkt-Backlogs.
 
 ===== Workshop: Prototyping

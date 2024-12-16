@@ -1,8 +1,8 @@
-#import "@preview/glossarium:0.4.1": gls
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Workshop: Konzept
 Da die Autorinnen im Ideation-Workshop bereits konzeptuell die vielversprechendsten Lösungsansätze identifiziert und diskutiert hatten, wurde dieser Workshop hauptsächlich von nur einer Autorin durchgeführt.
 Dabei wurden die folgenden Artefakte erstellt:
-- Keyscreens vor und nach den Änderungen
+- #glspl("keyscreen") vor und nach den Änderungen
 - Szenario
 - User Story Map
 - Reihenfolge Umsetzung Prototyp inkl. Arbeiten, Risiken und Wichtigem zu Design/Technik
@@ -65,11 +65,11 @@ Diese wird separat zu den geplanten Semestern aufgelistet.
 
 Nun meldet er seine vier ausgewählten Module im SLCM an.
 
-== Keyscreens
-Es wurden zwei Keyscreens erstellt: einer, welcher den Plan vor den Änderungen zeigt, und einer, welcher den Plan nach den Änderungen zeigt.
+== #glspl("keyscreen")
+Es wurden zwei #glspl("keyscreen") erstellt: einer, welcher den Plan vor den Änderungen zeigt, und einer, welcher den Plan nach den Änderungen zeigt.
 
-Unten ist der Keyscreen mit den neuen Funktionsbereichen abgebildet.
-Der Keyscreen vor den Änderungen ist im Anhang unter @old-keyscreen zu finden.
+Unten ist der #gls("keyscreen") mit den neuen Funktionsbereichen abgebildet.
+Der #gls("keyscreen") vor den Änderungen ist im Anhang unter @old-keyscreen zu finden.
 Dabei ist die folgende Legende zu beachten:
 - *Blau:* Bereichsdefinition
 - *Dunkelblau:* neue Bereichsdefinition
@@ -78,7 +78,7 @@ Dabei ist die folgende Legende zu beachten:
 - *Gelb:* Funktionen
 - *Dunkelgelb:* vorgesehene neue Funktionen
 
-#figure(image("Keyscreen-neu.jpg", width: 80%), caption: [Keyscreen mit neuen Bereichen und Funktionen]);
+#figure(image("Keyscreen-neu.jpg", width: 80%), caption: [#gls("keyscreen") mit neuen Bereichen und Funktionen]);
 
 == Reihenfolge Umsetzung Prototyp
 Die folgende Grafik zeigt die Reihenfolge der Umsetzung des Prototyps:

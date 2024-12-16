@@ -14,6 +14,7 @@
       (key: "msp", short: "MSP", long: "Musterstudienplan", plural: "Musterstudienpläne", desc: "Ein MSP (Musterstudienplan) ist eine empfohlene Struktur für die Planung eines Studienverlaufs. Für jede mögliche Vertiefung eines Studiengangs gibt es spezifische Musterstudienpläne, die jeweils für Vollzeit- und Teilzeitmodelle ausgelegt sind. Sie bieten eine zeitliche und inhaltliche Anordnung der Module und dienen als Orientierungshilfe, um die Anforderungen der Studienordnung einzuhalten und eine zielgerichtete Studienplanung zu erleichtern."),
       (key: "persona", short: "Persona", desc: "Eine Persona ist eine fiktive, aber auf realen Daten basierende Charakterbeschreibung, die typische Eigenschaften, Bedürfnisse und Verhaltensweisen einer Zielgruppe darstellt. Sie wird in nutzerzentrierten Entwicklungsprozessen eingesetzt, um die Perspektive der Nutzenden zu verstehen und darauf basierend zielgerichtete Lösungen zu entwickeln."),
       (key: "std", short: "STD", long:"Studienordnungsbeschreibung", plural: "Studienordnungsbeschreibungen", desc: "Die Studienordnungsbeschreibung enthält die offiziellen Richtlinien und Vorgaben eines Studiengangs, wie Prüfungsordnungen, Modulbeschreibungen, ECTS-Zuordnungen und Zulassungsvoraussetzungen. Sie dient als verbindliche Grundlage für die Planung und Durchführung des Studiums und wird oft in Plattformen wie lost.university referenziert."),
-      // (key: "", short: "", desc: ""),
+      (key: "keyscreen", short:"Keyscreen", plural: "Keyscreens", desc: "Keyscreens sind einzelne Screen-Typen eines User Interface. Die einzelnen Elemente wie Funktionen und Daten auf den Screens werden genauer beschrieben."),
+
   )
 )
