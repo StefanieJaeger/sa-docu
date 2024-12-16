@@ -33,7 +33,7 @@ Die *Erkundungs-Phase* umfasste die folgenden Workshops:
 
 == Ergebnisse
 Die Studienarbeit führte zur Entwicklung eines funktionalen High-Fidelity-Prototypen, der die Grundlage für die Weiterentwicklung der Plattform darstellt.
-Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusammengefasst:
+Nachfolgend werden die validierten Funktionalitäten des Prototyps kurz zusammengefasst:
 
 *Validierung der Planung*
 - *Beschreibung:* Die Validierung der Planungsfunktionalität ermöglicht es den Studierenden, ihren individuellen Studienplan so zusammenzustellen, das dessen Studierbarkeit gewährleistet ist. Dabei werden insbesondere die Durchführungen, der Status sowie die Modulempfehlungen der einzelnen Module berücksichtigt. 
@@ -52,10 +52,10 @@ Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusamme
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, auf einen Blick zu sehen, wie viele #gls("ects") sie pro Kategorie noch einplanen müssen, um die Anforderungen der jeweilig geltenden Studienordnung zu erfüllen.
 - *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Berechnung der noch einzuplanenden #gls("ects") pro Kategorie nachvollziehen und fanden diese hilfreich.
 
-*Modulbrowsing nach Kategorie*
+*Modul-Browsing nach Kategorie*
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, in der Suche nach Modulen diese gruppiert nach Kategorien einzusehen, um so eine bessere Übersicht zu erhalten.
-- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Modulbrowsing-Funktionalität nach Kategorie ohne Probleme nutzen und fanden sie hilfreich.
-#figure(image("suche.jpg", width: 60%), caption: "Modulbrowsing nach Kategorie in der Suche, Constraints Enforcement")
+- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Modul-Browsing-Funktionalität nach Kategorie ohne Probleme nutzen und fanden sie hilfreich.
+#figure(image("suche.jpg", width: 60%), caption: "Modul-Browsing nach Kategorie in der Suche, Constraints Enforcement")
 
 *Direktes Hinzufügen von Modulen*
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, Module direkt aus den Bereichen "Vertiefungen" und "Übersicht der ECTS Punkte" in den Studienplan einzuplanen. Dabei werden die Module unter Berücksichtigung der Durchführungssemester jeweils ins nächstmögliche Semester eingefügt.
