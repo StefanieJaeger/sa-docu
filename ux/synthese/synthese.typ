@@ -62,7 +62,7 @@ Die Bewertungskriterien wurden angepasst, um die Ziele des Tools besser abzubild
 #figure(image("artifacts/Val-Persona.jpg"), caption: "Validierte Persona");
 Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Verschiebungen vorgenommen wurden.
 
-=== Probleme & Herausforderungen
+=== Probleme & Herausforderungen <persona-problems>
 *Geänderte Aspekte:*
 + *Modulsuche nach Kürzel:*
   - Die Modulsuche nach Kürzel funktioniert nicht generell nicht, sondern nur auf bestimmten Geräten und in einigen Browsern.

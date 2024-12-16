@@ -45,7 +45,7 @@ Die Ergebnisse zeigen, dass persönliche Präferenzen und individuelle Herausfor
 Obwohl einige Testpersonen dem #gls("msp") folgten, passten sie ihre Planung zusätzlich an persönliche Interessen an.
 Herausforderungen traten vor allem bei der Suche nach weiteren passenden Modulen, den Durchführungszeiten der Module, der Einschätzung des Aufwands eines Moduls sowie bei der Darstellung angerechneter Module/#gls("ects") aus früherem Studium oder extern besuchten Lehrveranstaltungen auf.
 
-== Fazit
+*Fazit*
 
 Diese Zusammenfassung zeigt, dass die Testpersonen ihre Studienplanung durch eine Kombination aus systematischen Überprüfungen, strategischen Entscheidungen und einem intensiven Austausch mit Studiumkolleginnen und Studiumskollegen angehen.
 Die Nutzung mehrerer digitaler Plattformen spielte dabei eine zentrale Rolle, ebenso wie die individuelle Anpassung der Planung an persönliche Bedürfnisse und externe Verpflichtungen.
