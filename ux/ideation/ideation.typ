@@ -26,11 +26,11 @@ Somit wurde das folgende Ranking ermittelt:
   - Planvalidierung
 - *4 Punkte:*
   - Nutzerführung
-  - Berechnung der ECTS pro Kategorie
+  - Berechnung der #gls("ects") pro Kategorie
   - Suchfunktion
   - ECTS-Verwaltung
   - Verlinkung zu SLCM-Bereichen
-  - Hoher Überprüfungsaufwand, wenn nicht einem MSP strikt gefolgt wird
+  - Hoher Überprüfungsaufwand, wenn nicht einem #gls("msp") strikt gefolgt wird
 - *3 Punkte:*
   - Release Notes
   - Faktische Abbildung vergangener Semester
@@ -113,8 +113,8 @@ Die Ideen zur Nutzerführung verfolgen einen geradlinigen Ansatz:
 #figure(image("DS-Semesternummer.jpg"), caption: [Design Studio: Semester Nummer]);
 #figure(image("DS-Ref-Mod-hinzufügen.jpg", width: 60%), caption: [Design Studio: Referenzierte Module direkt hinzufügen]);
 
-=== Berechnung der ECTS pro Kategorie
-Die Ideen zur Berechnung der ECTS pro Kategorie verfolgten verschiedene Ansätze zur Erweiterung: von der Anzeige aller möglichen Stati, wie beispielsweise "zu erreichende ECTS", "erreichte ECTS", "geplante ECTS" und "zu planende ECTS" bis hin zur minimalen Information mit nur "zu planende ECTS" wurde alles diskutiert.
+==== Berechnung der ECTS pro Kategorie
+Die Ideen zur Berechnung der #gls("ects") pro Kategorie verfolgten verschiedene Ansätze zur Erweiterung: von der Anzeige aller möglichen Stati, wie beispielsweise "zu erreichende ECTS", "erreichte ECTS", "geplante ECTS" und "zu planende ECTS" bis hin zur minimalen Information mit nur "zu planende ECTS" wurde alles diskutiert.
 
 Im Endeffekt wurde die Änderung der bisherigen Anzeige von "X noch geplant" zu "X noch zu planen" als sinnvoll erachtet, da dies explizit von verschiedenen Personen in den CIs erwähnt wurde.
 In der untenstehenden Grafik ist weiter die Idee ersichtlich, wie die die Nutzerführung durch die Möglichkeit, direkt neben den jeweiligen Kategorien Module hinzufügen zu können, verbessert werden kann.
@@ -140,7 +140,7 @@ Da Übertrittsmodule definitionsgemäss nicht einem spezifischen Semester zugeor
 Dabei soll es möglich sein, die im SLCM genannten Übertrittsmodule einzutragen.
 Somit können Nutzende, die beispielsweise ein _Cambridge Advanced Certificate_ besitzen, ihr jeweils dafür angerechnetes Modul (z.B. "English: Where Tech Meets BEC") eintragen.
 Dies erfolgt über ein Modal, in welchem die Nutzenden die weitere Möglichkeit haben, ein eigenes Modul zu erstellen.
-Für das in Zusammenarbeit mit der Interkantonalen Hochschule für Heilpädagogik angebotene "Digicamp" ist letztere Methode notwendig, da dieses Modul nicht im SLCM geführt wird und keinem speziellen Modul entspricht. Es werden dort jedoch ECTS in Kategorien vergeben, in diesem Fall 3 ECTS in die Kateogorien "Informatik" und "Aufbau".
+Für das in Zusammenarbeit mit der Interkantonalen Hochschule für Heilpädagogik angebotene "Digicamp" ist letztere Methode notwendig, da dieses Modul nicht im SLCM geführt wird und keinem speziellen Modul entspricht. Es werden dort jedoch #gls("ects") in Kategorien vergeben, in diesem Fall 3 #gls("ects") in die Kateogorien "Informatik" und "Aufbau".
 
 #figure(image("DS-Übertrittsmodule-Button.jpg", width: 40%), caption: [Design Studio: Übertrittsmodule Button]);
 #figure(image("DS-Übertrittsmodule-Anzeige-Validierung.jpg", width: 60%), caption: [Design Studio: Anzeige und Validierung der Übertrittsmodule]);
@@ -150,9 +150,9 @@ Für das in Zusammenarbeit mit der Interkantonalen Hochschule für Heilpädagogi
 Die Ideengenerierung zur Verlinkung zu SLCM-Bereichen gestaltete sich schwierig, da die Anforderungen an die Verlinkung nicht klar definiert waren.
 Studienteilnehmende riefen das SLCM zur Modulbeschreibung auf und um die Kategoriezuteilung eines Moduls zu überprüfen oder ein Liste aller verfügbaren Module einer Kategorie zu erhalten.
 Dabei ist die Verlinkung zur Modulbeschreibung bereits umgesetzt, und die Kategoriezuteilung eines Moduls kann gemäss der ausgearbeiteten Ideen in der Modulsuche sowie in der Übersicht
-der ECTS Punkte pro Kategorie angezeigt werden, weshalb das Verlinken nur noch für das navigieren zur entsprechenden Studienordnungsbeschreibung weiter verfolgt wurde.
+der #gls("ects") Punkte pro Kategorie angezeigt werden, weshalb das Verlinken nur noch für das navigieren zur entsprechenden #gls("std") weiter verfolgt wurde.
 
-Die Platzierung der Verlinkung wurde neben dem Startsemester in der Übersicht der ECTS Punkte pro Kategorie vorgeschlagen, da die Studienordnungsbeschreibung an das Startsemester gebunden ist.
+Die Platzierung der Verlinkung wurde neben dem Startsemester in der Übersicht der #gls("ects") Punkte pro Kategorie vorgeschlagen, da die #gls("std") an das Startsemester gebunden ist.
 
 #figure(image("DS-Link-STD.jpg", width: 60%), caption: [Design Studio: Link zu SLCM-Bereichen]);
 

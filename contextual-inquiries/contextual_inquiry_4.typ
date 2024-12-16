@@ -1,4 +1,4 @@
-==== Contextual Inquiry 4 <ci_4>
+= Contextual Inquiry 4 <ci_4>
 
 #grid(
       columns: (1fr, 1fr),
@@ -20,7 +20,7 @@
 Die Testperson wird von Laura begrüsst und gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
 Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 
-==== Chronologische Zusammenfassung des geschilderten Vorgehens
+== Chronologische Zusammenfassung des geschilderten Vorgehens
 
 1. Öffnen des Plans und Überprüfung
 - Die Testperson öffnet ihren Browser und greift über ein gespeichertes Lesezeichen auf den Semesterplaner zu.
@@ -51,7 +51,7 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 - Die Testperson schaut im Semesterplaner, welche Module sie für das kommende Semester nach der Recherche eingeplant hat, und meldet diese im SLCM an.
 - Die Testperson führt die Recherche und Anmeldung für das kommende Semester in der Regel nur einmal, also am Stück, durch.
 
-==== Generelle Fragen
+== Generelle Fragen
 
 / Seit wann studierst du?:
 Seit dem Herbstsemester 2022.
@@ -103,7 +103,7 @@ Ich muss fast einem MSP folgen, damit das klappt.
 / In welchem Pensum arbeitest du neben dem Studium?:
 40%.
 
-==== Allgemeines Vorgehen
+== Allgemeines Vorgehen
 / Du darfst nun gerne deinen Bildschirm teilen und mit deinem üblichen Vorgehen bei der Planung bzw. der Modulanmeldung beginnen.:
 Also, ich öffne meinen Browser und öffne meinen BSc Informatik Lesezeichenordner.
 Darin habe ich den Link zum Semesterplaner abgespeichert, der gleichzeitig meinen Plan in der URL selbst speichert.
@@ -456,7 +456,7 @@ Soll ich noch kurz nachschauen, was ich an Feedback von Kollegen bekommen habe?
 / Die Sammlung würde ich sonst nach dem Gespräch anschauen und als Zusatz dokumentieren, da sie nicht dem Umfang der CI entspricht. Wir sammeln aber natürlich sehr gerne jedes Feedback ein. Passt das?:
 Ja, das passt.
 
-==== [Nachgespräch]
+== [Nachgespräch]
 
 / Ich fasse dein Vorgehen bei der Modulanmeldung kurz zusammen\: Du gehst auf den Semesterplaner, schaust, welche Module du fürs kommende Semester geplant hast und gehst dann ins Adunis, um die Module anzumelden. Ist das dein typischer Ablauf, den du während den Anmeldephasen durchläufst?:
 Ja, das mache ich so.
@@ -496,7 +496,7 @@ Ihr habt das gut gemacht, auch von der Zeit her sind wir gut durchgekommen.
 / Danke! Dann würde ich sagen, wir stoppen die Aufnahme hier und sprechen noch über deine gesammelten Anmerkungen.:
 Ja, super.
 
-==== Überprüfen des bisherigen Plans
+== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
 Bookmark im Browser.
@@ -517,7 +517,7 @@ In diesem Fall müsste ich das Modul aus dem Planer entfernen und dort eintragen
 Ich bevorzuge es jedoch, wenn ich das Modul als "nicht bestanden" markieren könnte, da ich so meinen Studiumsaufwand besser nachvollziehen könnte.
 Ich bilde allgemein z.B. auch meine extern angerechneten Module nicht im Planer ab, da diese nicht meinem effektiven Aufwand entsprechen.
 
-==== Austausch mit Kollegen
+== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
 Ja.
@@ -532,7 +532,7 @@ In Person.
 Da ich mich eher in Person austausche, teile ich den Plan selten per URL.
 Ich zeige den meist direkt auf dem Bildschirm.
 
-==== Recherche zu Modulen
+== Recherche zu Modulen
 
 / Zu welchen Modulen holst du dir Infos?:
 Zu Modulen aus dem Musterstudienplan, die mich zur gewünschten Vertiefung führen.
@@ -570,7 +570,7 @@ Ich plane mein Studium mehrheitlich nach dem Musterstudienplan, was es für mich
 Ich muss nicht alle empfohlenen Module durchforsten, da ich eventuell eines nicht belegt habe.
 Das vereinfacht vieles.
 
-==== Semesterplaner anpassen
+== Semesterplaner anpassen
 
 / Wie findest du Module im Planer?:
 Ich suche Module nach ihrem ganzen Namen über die Hinzufügefunktion.
@@ -593,7 +593,7 @@ Kategorien und ihre Erfüllung, Module und Credits pro Semester, Vertiefungen, S
 / Wer denkst du, steht hinter lost.university?:
 Das sind Studenten, die ich auch kenne.
 
-==== Plan speichern
+== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
 Als Bookmark im Browser.
@@ -609,7 +609,7 @@ Ich fände ein Login gut, möchte aber die jetzige Funktionalität unbedingt bei
 Nein.
 Hier wären vielleicht Release Notes hilfreich, um auf neue Funktionen hinzuweisen?
 
-==== Nachgespräch
+== Nachgespräch
 
 / Reflektiert diese Journey dein Vorgehen realistisch? Was machst du anders und gleich?:
 Ja.

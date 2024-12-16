@@ -1,4 +1,5 @@
-= Reflexion
+#import "@preview/glossarium:0.4.1": gls
+= Reflexion <reflexion>
 In diesem Kapitel reflektieren wir die Ergebnisse und den Prozess unserer Studienarbeit.
 Wir betrachten sowohl positive als auch negative Aspekte und bringen zusätzliche persönliche Aspekte in Form der 4-L Retrospektive ein.
 
@@ -21,7 +22,7 @@ Der begrenzte Zeitrahmen führte dazu, dass einige identifizierte Probleme nicht
 Unsere Priorisierung der Anforderungen war subjektiv und hätte durch eine Validierung mit einer grösseren Nutzungsgruppe verbessert werden können.
 
 Im Validierungs-Workshop zeigte sich, dass weitere Iterationen des Prototyps sinnvoll wären.
-Besonders interessant wäre es, eine zusätzliche Persona zu definieren, etwa Studierende, die ihre Planung kaum anpassen.
+Besonders interessant wäre es, eine zusätzliche #gls("persona") zu definieren, etwa Studierende, die ihre Planung kaum anpassen.
 Es bleibt zu prüfen, ob und wie diese Gruppe vom Tool profitieren könnte.  
 
 Zudem bedarf die technische Machbarkeit - insbesondere bei der Abbildung von Validierungsprozessen und Modulabhängigkeiten - einer gründlicheren Analyse, da die Datengrundlage teilweise unzureichend war.
@@ -35,7 +36,7 @@ Wir schätzten besonders das strukturierte und verständliche Vorgehen, das das 
 Dieses Modell half uns, ein tiefes Verständnis für die Bedürfnisse der Nutzenden zu entwickeln.
 Auch die klaren Vorgaben und Strukturen bei der Anwendung der Kreativmethoden waren äusserst hilfreich und förderten die effiziente Entwicklung von Ideen.
 
-Ein weiterer positiver Aspekt war die Nutzung von Libraries für das State Management und UI-Komponenten, die von Vue oder auch Tailwind bereitgestellt wurden.
+Ein weiterer positiver Aspekt war die Nutzung von Libraries für das State Management und UI-Komponenten, die von Vue oder auch #gls("tailwind") bereitgestellt wurden.
 Diese erleichterten die Entwicklung des Prototyps erheblich.
 Besonders wertvoll war auch die klare Trennung zwischen der Ideenfindung und der anschliessenden Konzeptionierung.
 Dies ermöglichte eine umfassende Sammlung von Ideen, ohne sich bereits in der frühen Phase Gedanken über die Machbarkeit machen zu müssen.

@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Workshop: Synthese
 Der Synthese-Workshop fand verteilt vom 23.10. bis zum 06.11.2024 statt.
 Die Tagebuchstudie wurde separat ausgewertet und floss am 4.12.2024 in die Synthese ein.
@@ -27,7 +28,7 @@ Studienberatende zählen nicht mehr zur Zielgruppe.
 + *Neu identifizierte Probleme*
   - Die Suche ist umständlich: Der Fokus liegt nicht automatisch im Suchfeld, und das Suchfeld wird nach dem Hinzufügen von Elementen nicht geleert.
   - Die horizontale Übersichtlichkeit des Tools wird bemängelt. Bei vielen Semestern geht der Überblick schnell verloren.
-  - Fehler beim Kopfrechnen der noch einzuplanenden ECTS können auftreten.
+  - Fehler beim Kopfrechnen der noch einzuplanenden #gls("ects") können auftreten.
   - Der Aufwand eines Moduls ist für Nutzende nicht ersichtlich (Feedback durch Studierende).
   - Die verfügbaren Features und neue Funktionen im Tool sind nicht sichtbar genug. Dadurch werden nicht alle Features aktiv genutzt oder überhaupt wahrgenommen (wie z.B. die Verwendung des _LocalStorage_).
 
@@ -42,10 +43,10 @@ Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu ad
   - Mehr Wissen über die Daten aus dem SLCM soll verfügbar gemacht werden; idealerweise durch eine direkte Anbindung, als Fallback aber auch durch das Bereitstellen von Direktlinks.
   - Die Modulliste in der Suche soll, wie bereits oben erwähnt, nach Kategorien sortiert werden.
 + *Neu identifizierte Ansätze:*
-  - Die automatisierte Berechnung der noch einzuplanenden ECTS-Punkte soll ausgebaut werden, um den Nutzenden diese Informationen direkt anzuzeigen.
+  - Die automatisierte Berechnung der noch einzuplanenden #gls("ects") soll ausgebaut werden, um den Nutzenden diese Informationen direkt anzuzeigen.
   - Peer-Feedback zu Modulen soll integriert werden.
   - Vergangene Semester sollen einklappbar gestaltet werden, um die Übersichtlichkeit zu verbessern.
-  - Eine flexiblere Verwaltung der ECTS-Punkte soll ermöglicht werden, um effektiv belegte Module und angerechnete ECTS-Punkte abzubilden.
+  - Eine flexiblere Verwaltung der #gls("ects") soll ermöglicht werden, um effektiv belegte Module und angerechnete #gls("ects") abzubilden.
   - Es solle Release Notes für neue Features eingeführt werden, damit Nutzende über Änderungen informiert bleiben.
 
 === Metriken
@@ -66,7 +67,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 + *Modulsuche nach Kürzel:*
   - Die Modulsuche nach Kürzel funktioniert nicht generell nicht, sondern nur auf bestimmten Geräten und in einigen Browsern.
 + *Modulbrowsing nach Kategorie:*
-  - Es wurde ergänzt, dass das Tool lost.university kein Modulbrowsing nach Kategorie, Anzahl der ECTS oder anderen Merkmalen ermöglicht. Dies schränkt die Nutzenden ein, die sich nicht nur an Modulnamen orientieren möchten.
+  - Es wurde ergänzt, dass das Tool lost.university kein Modulbrowsing nach Kategorie, Anzahl der #gls("ects") oder anderen Merkmalen ermöglicht. Dies schränkt die Nutzenden ein, die sich nicht nur an Modulnamen orientieren möchten.
 
 *Bestätigte Probleme:*
   - Eine Konsultation des SLCM ist notwendig, um die Planung korrekt durchzuführen.
@@ -78,11 +79,11 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
   Die Unübersichtlichkeit im SLCM gefährdet das Vertrauen der Nutzenden in die Korrektheit der dort hinterlegten Daten.
   - Die Liste der Module im Semesterplaner ist unübersichtlich, da sie alle Module alphabetisch sortiert anzeigt. Dies erschwert das Modulbrowsing, da kein Kontext wie Kategorie verfügbar ist.
 + *Module und Interessen:*
-  - Häufig entsprechen die Module in den Musterstudienplänen nicht vollständig mit den persönlichen Interessen der Nutzenden überein.
+  - Häufig entsprechen die Module in den #gls("msp", display: "Musterstudienplänen") nicht vollständig mit den persönlichen Interessen der Nutzenden überein.
 + *Semesterbezogene Informationen:*
   - Die Information, in welchem Semester ein Modul durchgeführt wird, muss separat im SLCM nachgeschaut werden, da der Semesterplaner diese Daten nicht enthält.
 + *ECTS-Berechnung:*
-  - Die Anzahl der noch einzuplanenden ECTS pro Kategorie muss von den Nutzenden selbst ausgerechnet werden.
+  - Die Anzahl der noch einzuplanenden #gls("ects") pro Kategorie muss von den Nutzenden selbst ausgerechnet werden.
 
 === Aufgaben
 *Geänderte Aspekte:*
@@ -97,7 +98,7 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 + *Integration von Zielen:*
   - Die Berücksichtigung des Arbeitsaufwands eines Moduls, z.B. durch Projekte, Testate, Gruppenarbeit oder Prüfungen, soll die Erstellung eines Stundenplans ermöglichen, der mit dem aktuellen Arbeitspensum der Nutzenden vereinbar ist.
 *Bestätigte Aufgaben:*
-- Die noch benötigten ECTS pro Kategorie einsehen.
+- Die noch benötigten #gls("ects") pro Kategorie einsehen.
 - Verschiedene Planvarianten ausprobieren.
 - Den erstellten Plan speichern.
 
@@ -121,13 +122,13 @@ Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Versc
 *Neu erkannte Ziele:*
 - Das Studium erfolgreich abschliessen.
 - Eine Vertiefung erreichen.
-- Schnell einen Überblick über das bisherige Studium und die ECTS pro Kategorie erhalten.
+- Schnell einen Überblick über das bisherige Studium und die #gls("ects") pro Kategorie erhalten.
 - Nicht interessante Module des Semesterplaners mit spannenderen Modulen austauschen.
 
 == Validierte Journey Map
 Die Journey Map wurde angepasst: Der Schritt „Austausch“ wurde nach hinten verschoben, da er oft erst nach einer ersten Recherche stattfindet.
 Während Austauschsituationen auch ausserhalb der Journey auftreten, stehen Recherchen zu Modulen im SLCM typischerweise vor irgendwelchen Recherchen im Semesterplaner.
-Dies liegt daran, dass das SLCM umfassendere Informationen bietet, während der Planer als Recherchegrundlage hauptsächlich Modulverlinkungen, Vorlagen der MSPs sowie Module für Vertiefungen enthält.
+Dies liegt daran, dass das SLCM umfassendere Informationen bietet, während der Planer als Recherchegrundlage hauptsächlich Modulverlinkungen, Vorlagen der #glspl("msp") sowie Module für Vertiefungen enthält.
 
 Die validierte Journey Map fasst die verschiedenen Schritte der Planung sowie die damit verbundenen Beobachtungen (Findings, grün), Erkenntnisse (Insights, dunkelgrün) und Verbesserungspotenziale (Opportunity Areas, rosa) zusammen und dient als Basis für die Optimierung der Nutzererfahrung.
 Die folgende Grafik zeigt die validierte Journey Map:
@@ -140,16 +141,16 @@ Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity A
 - *Release Notes:* Nicht alle Testpersonen wussten über alle Funktionen des Semesterplaners bescheid. Eine bessere Kommunikation über neue Funktionen und Änderungen könnte die Nutzung des Semesterplaners verbessern.
 - *Verlinkung zu SLCM-Bereichen:* Einige Testpersonen suchten im SLCM nach der Studiengangsordnung. Eine direkte Verlinkung zu den relevanten Bereichen im SLCM könnte die Recherche erleichtern.
 - *Viele vergangene Semester v.a. bei TZ:* Einige Testpersonen beklagten die horizontale Ausdehnung der Semesterübersicht, insbesondere bei fortgeschrittenem Studienverlauf von Teilzeitstudierenden. Eine Möglichkeit zur Ein- und Ausblendung vergangener Semester könnte die Übersichtlichkeit verbessern. 
-- *Hoher Überprüfungsaufwand (nicht MSP):* Testpersonen, die nicht strikt dem MSP folgten, mussten mehrere Bereiche in den Modulbeschreibungen überprüfen, wie z.B. die empfohlenen Vorkenntnisse. Eine bessere Übersicht über die relevanten Informationen könnte den Überprüfungsaufwand reduzieren.
+- *Hoher Überprüfungsaufwand (nicht MSP):* Testpersonen, die nicht strikt dem #gls("msp") folgten, mussten mehrere Bereiche in den Modulbeschreibungen überprüfen, wie z.B. die empfohlenen Vorkenntnisse. Eine bessere Übersicht über die relevanten Informationen könnte den Überprüfungsaufwand reduzieren.
 - *Personalisierter Studienplan:* Alle Testpersonen passten ihren Studienplan an persönliche Bedürfnisse an. Insbesondere suchten die meisten nach Modulen, die zu ihren Interessen passten. Eine Möglichkeit zur schnelleren Modulsuche könnte diesen Prozess erleichtern.
 - *Modulabhängigkeiten:* Die empfohlenen Vorkenntnisse müssen in den Modulbeschreibungen überprüft werden. Ist hier ein Modul gelistet, dass die Testperson nicht besucht hat, muss sie die Modulbeschreibung des verlinkten Moduls überprüfen, und so weiter. Eine Darstellung der Modulabhängigkeiten im Semesterplaner könnte den Überprüfungsaufwand reduzieren.
-- *Berechnung der ECTS pro Kategorie:* Die Übersicht der ECTS pro Kategorie wurde von allen Testpersonen gelobt. Jedoch wurde hier mehrfach der Wunsch geäussert, die noch benötigten, also einzuplanenden ECTS pro Kategorie zu sehen und nicht selbst ausrechnen zu müssen. Ebenfalls wurde der Wunsch geäussert, die Ansicht einer erreichten Kategorie besser darzustellen, da man den Unterschied zwischen 134/136 ECTS und 136/136 ECTS nicht auf den ersten Blick erkennt, weder in den Zahlen noch im fast ausgefüllten Balken.
+- *Berechnung der ECTS pro Kategorie:* Die Übersicht der #gls("ects") pro Kategorie wurde von allen Testpersonen gelobt. Jedoch wurde hier mehrfach der Wunsch geäussert, die noch benötigten, also einzuplanenden #gls("ects") pro Kategorie zu sehen und nicht selbst ausrechnen zu müssen. Ebenfalls wurde der Wunsch geäussert, die Ansicht einer erreichten Kategorie besser darzustellen, da man den Unterschied zwischen 134/136 #gls("ects") und 136/136 #gls("ects") nicht auf den ersten Blick erkennt, weder in den Zahlen noch im fast ausgefüllten Balken.
 - *Peer-Feedback:* Der Austausch mit Peers war für alle Testpersonen ein wichtiger Bestandteil der Studienplanung. Eine Möglichkeit zur direkten Integration von Peer-Feedback könnte die Planung erleichtern.
 - *Aufwandsschätzung:* Zur Aufwandsschätzung wurden mehrere Methoden angewandt: Leistungsnachweise in der Modulbeschreibung nachschauen, Zusammenfassungen für Prüfungen auf dem Studentenportal einsehen, Austausch mit Peers. Eine Darstellung dazu im Semesterplaner könnte den Aufwand reduzieren.
 - *Suchfunktion:* Die Suchfunktion wurde von allen Testpersonen genutzt und von einigen bemängelt. Insbesondere störte, dass beim Klick auf das "+" der Fokus nicht im Suchfeld war und sich das Suchfeld nicht automatisch leerte, nachdem ein Modul hinzugefügt wurde. Weiter wurde die Resultatliste von zwei Testpersonen als "überwältigend" empfunden, da sie die gesamte Seite einnahm und ohne Suchbegriff alle verfügbaren Module alphabetisch listete. Ebenfalls wurde erwähnt, dass das Hinzufügen von Modulen auf Mobile nicht immer funktioniert.
 - *Planung mehrerer Varianten:* Einige Testpersonen planten mehrere Varianten ihres Studiums, um flexibel auf Änderungen reagieren zu können. Eine Möglichkeit zum Speichern und direkten Vergleichen der Varianten könnte die Planung erleichtern.
-- *ECTS-Verwaltung:* Testpersonen, die angerechnete Leistungen hatten, mussten entweder die entsprechenden Module im Plan eintragen oder darauf verzichten. Eine Testperson zog es vor, nur die effektiv besuchten Module im Plan einzutragen, weshalb ihr in der Übersicht der ECTS pro Kategorie nicht die korrekte Anzahl erreichter ECTS angezeigt wurde. Eine Möglichkeit zur Verwaltung angerechneter Leistungen ausserhalb des Plans könnte die Übersichtlichkeit verbessern.
-- *Faktische Abbildung vergangener Semester:* Es gibt momentan keine Möglichkeit, das Nichtbestehen eines Moduls im Plan abzubilden. Nicht bestandene Module müssen manuell verschoben werden. Einige Testpersonen wünschten sich eine Möglichkeit, die verganenen Semester faktisch korrekt abzubilden. Hier fliesst die Angabe des Nichtbestehens eines Moduls sowie die Anrechnung von ECTS aus früherem Studium ein.
+- *ECTS-Verwaltung:* Testpersonen, die angerechnete Leistungen hatten, mussten entweder die entsprechenden Module im Plan eintragen oder darauf verzichten. Eine Testperson zog es vor, nur die effektiv besuchten Module im Plan einzutragen, weshalb ihr in der Übersicht der #gls("ects") pro Kategorie nicht die korrekte Anzahl erreichter #gls("ects") angezeigt wurde. Eine Möglichkeit zur Verwaltung angerechneter Leistungen ausserhalb des Plans könnte die Übersichtlichkeit verbessern.
+- *Faktische Abbildung vergangener Semester:* Es gibt momentan keine Möglichkeit, das Nichtbestehen eines Moduls im Plan abzubilden. Nicht bestandene Module müssen manuell verschoben werden. Einige Testpersonen wünschten sich eine Möglichkeit, die verganenen Semester faktisch korrekt abzubilden. Hier fliesst die Angabe des Nichtbestehens eines Moduls sowie die Anrechnung von #gls("ects") aus früherem Studium ein.
 - *Planvalidierung:* Einige Testpersonen bemängelten, dass Module in Semestern hinzufügbar sind, wo sie nicht durchgeführt werden. Eine Validierung der Planung könnte dies verhindern. Ebenfalls könnte hier in einem weiteren Schritt die Suche miteinbezogen werden (Module anzeigen aber nicht hinzufügbar in entsprechenden Semestern).
 - *Nutzerführung (Semesternummer und Hinzufügen von Modulen):* Einige Testpersonen äusserten die Wünsche, die Semester nicht manuell zählen zu müssen sowie die Möglichkeit zu haben, Module direkt aus der Vertiefungsliste hinzuzufügen.
 - *Flexible Speicheroptionen:* Eine Testperson äusserte den Wunsch, zusätzlich zur Speicherung des Plans lokal in der URL eine Lösung mit Login zu haben. Es wurde jedoch explizit darauf hingewiesen, dass die jetzige Lösung weiter funktionieren sollte, da diese sehr flexibel einsetzbar ist.

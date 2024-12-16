@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Resultate der technischen Interviews <adunis-results>
 Im Nachfolgenden sind die Ergebnisse der durchgeführten technischen Interviews zusammengefasst.
 Die Protokolle mit den gesamten Antworten sind im Anhang unter @adunis-appendix zu finden.
@@ -8,7 +9,7 @@ Die Protokolle mit den gesamten Antworten sind im Anhang unter @adunis-appendix 
   - Studienreglemente werden vom Hochschulrat verabschiedet, während die detaillierte Ausgestaltung wie Modulzuweisungen in der Verantwortung der Studiengangsleitung liegt.
   - Modulbeschreibungen und Durchführungen werden in separaten, dem SLCM ähnlichen Tools erfasst.
 + *Dateninkonsistenz*
-   - Modulkürzel und Datenformate werden uneinheitlich gehandhabt. Eine Änderung an der Modulbeschreibung, wie bspw. an den ECTS, sollte eine Änderung des Modulkürzels nach sich ziehen, was nicht immer der Fall ist.
+   - Modulkürzel und Datenformate werden uneinheitlich gehandhabt. Eine Änderung an der Modulbeschreibung, wie bspw. an den #gls("ects"), sollte eine Änderung des Modulkürzels nach sich ziehen, was nicht immer der Fall ist.
    - Änderungen an Daten können zu zeitlich begrenzten Inkonsistenzen führen, beispielsweise durch unklare Zuordnung von Durchführungszeiträumen oder fehlende Aktualisierung älterer Module.
 + *Herausforderungen bei der Darstellung*
   - Modulabhängigkeiten werden im SLCM nicht grafisch abgebildet, was die Planung erschwert. Ein solches Feature wäre für Studiengangsleitung und Studierende nützlich.

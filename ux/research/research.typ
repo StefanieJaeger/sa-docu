@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Workshop: Research
 Der Research-Workshop fand am 25. & 27.09.2024 statt und dauerte insgesamt 23 Stunden.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit.
@@ -97,13 +98,13 @@ Die Ergebnisse befinden sich unter @dairy_results.
 == Persona-Fragebogenstudie <persona-fragebogenstudie>
 Mit der Persona-Fragebogenstudie sollen Nutzende identifiziert werden.
 Weiter können die Antworten dazu verwendet werden, um erste Bedürfnisse sowie Verhaltensweisen abzuleiten.
-Der Fragebogen fungierte in dieser Studie als Eintrittstor, um die relevanten Nutzergruppen zu definieren und sicherzustellen, dass alle Personas erfasst werden
+Der Fragebogen fungierte in dieser Studie als Eintrittstor, um die relevanten Nutzergruppen zu definieren und sicherzustellen, dass alle #glspl("persona") erfasst werden
 
 *Vorbereitung*
 
 Der Fragebogen wurde gezielt entwickelt, um relevante demografische und verhaltensbezogene Informationen der Teilnehmenden abzufragen.
 Dabei lag der Fokus darauf, die Forschungsfragen klar und prägnant abzubilden.
-Um die Zugehörigkeit der Studienberater zum Kreis der Personas zu überprüfen, wurde ein zweiter Fragebogen, welcher spezifisch nur auf sie zugeschnitten war, erstellt.
+Um die Zugehörigkeit der Studienberater zum Kreis der #glspl("persona") zu überprüfen, wurde ein zweiter Fragebogen, welcher spezifisch nur auf sie zugeschnitten war, erstellt.
 
 Die beiden Fragebögen wurden mit Microsoft Forms erstellt.
 Dabei wurde darauf geachtet, dass pro Person nur ein Fragebogen ausgefüllt werden konnte.
@@ -116,7 +117,7 @@ Der Fragebogen für die Studienberater wurde diesen direkt per E-Mail versendet,
 *Durchführung*
 
 Die Fragebogenstudie war im Zeitraum vom 27.09. bis zum 23.10.2024 live geschaltet.
-Die Ergebnisse dienten als Grundlage für die Validierung der erstellten Persona, die in den weiteren Projektphasen verwendet wurde.
+Die Ergebnisse dienten als Grundlage für die Validierung der erstellten #gls("persona"), die in den weiteren Projektphasen verwendet wurde.
 
 Die Ergebnisse befinden sich unter @counselor-questionnaire-appendix.
 

@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Vorgehen
 Nachfolgend wird das für diese Studienarbeit gewählte Vorgehensmodell erläutert.
 
@@ -46,7 +47,7 @@ In der Erkundungsphase werden Lösungsansätze gesammelt und zu einem Lösungsko
 Auch hier sind mehrere Workshops vorgesehen.
 
 ===== Workshop: Ideation
-Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später neben der Persona und Journey Map als Basis für den Konzept Workshop dient.
+Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später neben der #gls("persona") und Journey Map als Basis für den Konzept Workshop dient.
 Um möglichst viele Lösungsideen zu generieren, werden hierbei die unterschiedlichen Produktchancen betrachtet.
 Es gilt das Prinzip "Quantität vor Qualität".
 Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.

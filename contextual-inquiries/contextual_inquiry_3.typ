@@ -1,4 +1,4 @@
-==== Contextual Inquiry 3 <ci_3>
+= Contextual Inquiry 3 <ci_3>
 
 #grid(
       columns: (1fr, 1fr),
@@ -17,11 +17,11 @@
       ]
     )
 
-==== Einführung
+== Einführung
 Die Testperson wird von Laura gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
 Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 
-==== Chronologische Zusammenfassung des geschilderten Vorgehens
+== Chronologische Zusammenfassung des geschilderten Vorgehens
 
 1. Öffnen der Pläne und Überprüfug
 - Die Testperson öffnet ihren Plan über ein Lesezeichen. Dieser stellt die bereits absolvierten Semester, das aktuelle Semester sowie die geplante Bachelorarbeit im kommenden Semester dar.
@@ -50,7 +50,7 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 5. Nutzung und Teilen der Pläne:
 - Die Testperson speichert ihre beiden Pläne als Lesezeichen im Browser ab.
 
-==== Generelle Fragen
+== Generelle Fragen
 
 / Seit wann studierst du?:
 Seit dem Herbstsemester 2021.
@@ -103,7 +103,7 @@ Auch habe ich zwischendurch Module vom MSP mit interessanteren ausgetauscht.
 Ja, ich bin 60% angestellt.
 Je nach Woche sind das aber oft auch mal 80-100%, auch unter dem Semester.
 
-==== Allgemeines Vorgehen
+== Allgemeines Vorgehen
 / Du darfst jetzt sehr gerne mit deinem üblichen Vorgehen bei der Modulanmeldung beginnen. Sagen wir, es ist Montagmorgen, die Anmeldephase 1 hat begonnen und du hast gerade Zeit, dich darum zu kümmern.:
 Also um meine Modulanmeldung zu planen?
 
@@ -535,7 +535,7 @@ Ich wünsche euch viel Stärke und Kraft bei der Auswertung der Inquiries.
 
 / Vielen Dank fürs Mitmachen! Wir stoppen jetzt die Aufnahme.:
 
-==== Überprüfen des bisherigen Plans
+== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
 Ich speichere meinen Plan und evtl Variationen als Bookmarks im Browser.
@@ -555,7 +555,7 @@ Meine URL enthält das Startsemester.
 Das weiss er nicht.
 In diesem Fall entferne ich das Modul aus dem betroffenen Semester.
 
-==== Austausch mit Kollegen
+== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
 Ja.
@@ -569,7 +569,7 @@ In Person oder über Chats aus.
 / Wie teilst du/zeigst du deinen Plan?:
 Ich sende die URL meines Plans an Kollegen, welche dasselbe tun.
 
-==== Recherche zu Modulen
+== Recherche zu Modulen
 
 / Zu welchen Modulen holst du dir Infos?:
 Zu Modulen aus dem Musterstudienplan, zu Modulen, die interessant klingen und zu Modulen, die von Kollegen empfohlen wurden.
@@ -611,7 +611,7 @@ Die Verabeitung der Informationen ist anstrengend. Sie ist über mehere Tabs ver
 / Was ist einfach bei der Recherche und weshalb?:
 Wenn man die Module mal im Plan eingetragen hat, dann ist die Übersicht und das Verschieben einfach.
 
-==== Semesterplaner anpassen
+== Semesterplaner anpassen
 
 / Wie findest du Module im Planer?:
 Ich suche Module nach Namen über die Suchfunktion beim Hinzufügen.
@@ -635,7 +635,7 @@ Das Meme schätze ich sehr.
 / Wer denkst du, steht hinter lost.university?:
 Studenten, davon kenne ich einige auch persönlich.
 
-==== Plan speichern
+== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
 Ich speichere die URL in einem Bookmark.
@@ -649,7 +649,7 @@ Das Synchronisieren zwischen Geräten ist nicht einfach, aber für mich auch kei
 / Weisst du, dass die Daten im LocalStorage gespeichert werden?:
 Nein.
 
-==== Nachgespräch
+== Nachgespräch
 
 / Reflektiert diese Journey dein Vorgehen realistisch? Was machst du anders und gleich?:
 Ja.

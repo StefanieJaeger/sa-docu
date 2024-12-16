@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Management Summary
 // Das Management Summary (auch Lay Summary) richtet sich an ein breites Publikum und an das Management, welches in der Regel über keine Fachkenntnisse im bearbeiteten Thema verfügen. Das Management Summary soll kurz und verständlich beschreiben, worum es bei der Arbeit geht und welche Ergebnisse erzielt wurden. Die Sprache soll knapp, klar und stark untergliedert sein. Der Umfang beträgt in der Regel 2-3 (max. 5) Seiten. Bilder sind hier im Gegensatz zum Abstract erwünscht.
 // Beispiel Gliederung für Management Summary:
@@ -8,7 +9,7 @@
 == Ausgangslage
 Die Plattform lost.university wird von Informatikstudierenden der OST - Ostschweizer Fachhochschule genutzt, um individuelle Studienpläne zu erstellen und zu verwalten.
 Sie wurde von Studierenden für Studierende auf freiwilliger Basis entwickelt und ist seit 2022 in Betrieb. 
-Die Plattform unterstützt die Planung von Modulen und bietet Musterstudienpläne als Vorlage an. Trotz der positiven Resonanz der Studierenden weist die Plattform Schwächen in der Benutzerfreundlichkeit und Funktionalität auf.
+Die Plattform unterstützt die Planung von Modulen und bietet #glspl("msp") als Vorlage an. Trotz der positiven Resonanz der Studierenden weist die Plattform Schwächen in der Benutzerfreundlichkeit und Funktionalität auf.
 Ziel dieser Studienarbeit war es, die Plattform mithilfe eines menschzentrierten Ansatzes grundlegend zu verbessern und einen validierten Prototypen zu entwickeln, der die Anforderungen der Studierenden erfüllt.
 
 == Vorgehen
@@ -25,7 +26,7 @@ Die *Verstehen-Phase* beinhaltete dabei die folgenden Workshops:
 
 Die *Erkundungs-Phase* umfasste die folgenden Workshops:
 
-- *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen High-Fidelity-Prototyp als MVP.
+- *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen High-Fidelity-Prototyp als #gls("mvp").
 - *Konzept-Workshop:* Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem direkt in die Prototypentwicklung gestartet werden konnte.
 - *Prototyp-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale High-Fidelity-Prototyp erstellt.
 - *Validierungs-Workshop:* Es wurde ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wurde.
@@ -48,8 +49,8 @@ Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusamme
 - *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Semesterbeschriftung ohne Probleme interpretieren und fanden sie hilfreich.
 
 *Berechnung der noch einzuplanenden ECTS pro Kategorie*
-- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, auf einen Blick zu sehen, wie viele ECTS sie pro Kategorie noch einplanen müssen, um die Anforderungen der jeweilig geltenden Studienordnung zu erfüllen.
-- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Berechnung der noch einzuplanenden ECTS pro Kategorie nachvollziehen und fanden diese hilfreich.
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, auf einen Blick zu sehen, wie viele #gls("ects") sie pro Kategorie noch einplanen müssen, um die Anforderungen der jeweilig geltenden Studienordnung zu erfüllen.
+- *Validierung:* Die Funktionalität wurde als intuitiv bewertet. Die Studierenden konnten die Berechnung der noch einzuplanenden #gls("ects") pro Kategorie nachvollziehen und fanden diese hilfreich.
 
 *Modulbrowsing nach Kategorie*
 - *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, in der Suche nach Modulen diese gruppiert nach Kategorien einzusehen, um so eine bessere Übersicht zu erhalten.
@@ -62,8 +63,8 @@ Nachfolgend werden die validierten Funktionalitäten des Prototypen kurz zusamme
 #figure(image("ectsverti.png", width: 60%), caption: "Direktes Hinzufügen von Modulen, erweiterte ECTS-Berechnung")
 
 *Verlinkung zur Studienordnungsbeschreibung*
-- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, direkt von der Plattform lost.university auf die entsprechende Studienordnungsbeschreibung zu gelangen, um weitere Informationen zu den Modulen und Kategorien zu erhalten.
-- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Verlinkung zur Studienordnungsbeschreibung ohne Probleme nutzen und fanden sie hilfreich.
+- *Beschreibung:* Die Funktionalität ermöglicht es den Studierenden, direkt von der Plattform lost.university auf die entsprechende #gls("std") zu gelangen, um weitere Informationen zu den Modulen und Kategorien zu erhalten.
+- *Validierung:* Die Funktionalität als intuitiv bewertet. Die Studierenden konnten die Verlinkung zur #gls("std") ohne Probleme nutzen und fanden sie hilfreich.
 
 Die Ergebnisse der Studienarbeit belegen, dass die Plattform lost.university durch die Anwendung des gewählten Vorgehensmodells signifikant optimiert werden kann.
 Für die zukünftige Weiterentwicklung wird empfohlen, die validierten Funktionalitäten zu implementieren und die Plattform einer weiteren Evaluation durch Usability-Tests zu unterziehen, um die Benutzerfreundlichkeit kontinuierlich zu steigern.

@@ -1,4 +1,3 @@
-#set heading(numbering: "1.")
 #set page(numbering: "1")
 #set text(lang: "de")
 #show bibliography: set heading(numbering: "1.")
@@ -6,10 +5,6 @@
 
 // 2.1 Titelblatt
 #include "title-page.typ"
-
-// TODO: Abstract und Management Summary ohne Nummerierung?
-
-// todo: bei allen includes schauen, ob die Headings dann noch stimmen. Wenn nicht, dann das hier anwenden: https://forum.typst.app/t/how-to-increase-heading-level-in-an-included-document/1819/2
 
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
@@ -25,8 +20,14 @@
 // -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
 
+#set heading(numbering: "1.")
 // 2.4 Inhaltsverzeichnis
-#outline(indent: 1em)
+#outline(
+  indent: 1em,
+  depth: 3,
+  target: selector(heading)
+    .before(<reflexion>, inclusive: false)
+)
 #pagebreak()
 
 // 2.5 Glossar und Abkürzungsverzeichnis
@@ -115,7 +116,7 @@
 )
 #pagebreak()
 #outline(
-  title: [Abbildungsverzeichnis],
+  title: [Tabellenverzeichnis],
   target: figure.where(kind: table),
 )
 #pagebreak()
@@ -143,4 +144,18 @@
 // • Persönlicher Bericht (selbstkritische Reflexion der Studierenden zu ihren Erfahrungen bei der Arbeit)*
 // • Projektpläne, Risikoanalysen, Zeiterfassung*
 // * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
+
+#pagebreak()
+#heading(numbering: none, level: auto)[
+ Anhang
+]
+
+#outline(
+  title: "Anhangsverzeichnis",
+  indent: 1em,
+  depth: 2,
+  target: selector(heading)
+    .after(<reflexion>, inclusive: true)
+)
+#pagebreak()
 #include("appendix/appendix.typ")

@@ -1,4 +1,4 @@
-
+#import "@preview/glossarium:0.4.1": gls
 = Durchgeführte Workshops
 == Understand
 === Scoping Workshop
@@ -26,7 +26,7 @@
 - *Ziel:* Auswertung der Forschungsergebnisse, Überführung der Proto-Artefakte in validierte Artefakte, Tagebuchstudie auswerten und mit bereits gewonnen Erkenntnissen und Auswertungen abgleichen (Dezember)
 - *Methoden:* Task Analysis, Brainstorming (einsam und gemeinsam), Diskussionsrunden, Mapping
 - *Werkzeuge:* Miro, Protokolle der Contextual Inquiries und chronologische Zusammenfassung des Vorgehens darin, Nutzendenumfrage, Tagebuchstudie (Dezember)
-- *Erarbeitete Artefakte:* Validiertes Problem-Statement, Persona, Journey Map, Task Analysis
+- *Erarbeitete Artefakte:* Validiertes Problem-Statement, #gls("persona"), Journey Map, Task Analysis
 
 == Explore
 === Ideation Workshop
