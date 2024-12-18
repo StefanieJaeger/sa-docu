@@ -131,8 +131,6 @@
 // • Test-Logs
 // • Bei Systemen mit User Interfaces: Dokumentation der Usability Tests
 
-#include "thanks.typ"
-
 // appendix
 // Im Folgenden sind Beispiele aufgeführt, was in den Anhang gehört (nur falls vorhanden und relevant):
 // • Testreports, Usability Tests, Protokolle, weitere Artefakte
