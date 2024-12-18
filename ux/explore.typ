@@ -36,6 +36,7 @@ Der Fokus der Ausarbeitung richtet sich nach dem Pareto-Prinzip: Es wird angenom
 Daher sollen insbesondere diese 20% detailliert umgesetzt werden.
 Um eine Einschränkung der vielen Opportunity Areas vorzunehmen, wurde im Ideation-Workshop ein #gls("dv") vorgenommen, um die wichtigsten Opportunity Areas zu priorisieren.
 
+#pagebreak()
 *Zu testende Endgeräte*
 
 Vor Beginn der Phase 2 wurde zudem die Frage des Zielgeräts geprüft.
@@ -44,6 +45,7 @@ Die Integration in eine mobile-first-Umgebung kann in einer späteren Phase auss
 
 #[
   #set heading(offset: 1)
+  #pagebreak()
   #include("ideation/ideation.typ")
   #pagebreak()
   #include("konzept/konzept.typ")

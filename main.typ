@@ -19,7 +19,7 @@
 // - Ergebnisse (ev. kleiner Ausblick)
 // -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
-
+#pagebreak()
 
 // 2.4 Inhaltsverzeichnis
 #outline(
@@ -146,17 +146,16 @@
 // • Projektpläne, Risikoanalysen, Zeiterfassung*
 // * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
 
-#pagebreak()
 #heading(numbering: none, level: auto)[
  Anhang
-]
+]<anhang>
 
 #outline(
   title: "Anhangsverzeichnis",
   indent: 1em,
   depth: 2,
   target: selector(heading)
-    .after(<reflexion>, inclusive: true)
+    .after(<anhang>, inclusive: false)
 )
 #pagebreak()
 #include("appendix/appendix.typ")

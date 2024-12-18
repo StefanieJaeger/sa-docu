@@ -37,6 +37,7 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
 - geringfügig (0)
 - schwer (1)
 - kritisch (2)
+#pagebreak()
 
 #{
   let problems = (
@@ -60,7 +61,7 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
 
     ("Semester - Unterscheidung zwischen aktuellem, vergangenem und zukünftigem Semester ist unklar", "3", "2", $(3 * 2) / 5 #sym.approx 1$),
     ("Semester - Vergangene Semester nehmen unnötig Platz ein", "1", "1", $(1 * 1) / 5 #sym.approx 0$),
-    ("Semester - Reihenfolge von Semestername und Semesternummer ist unklar", "1", "2", $(2 * 1) / 5 #sym.approx 0$),
+    ("Semester - Reihenfolge von Semestername und -nummer ist unklar", "1", "2", $(2 * 1) / 5 #sym.approx 0$),
 
     ("Suche - Informationen sind unnötig", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
     ("Suche - Suche nach Kategoriebezeichnung fehlt", "1", "3", $(1 * 3) / 5 #sym.approx 1$),
@@ -75,7 +76,7 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
     ("Studienordnung - Name der Studienordnung fehlt", "1", "2", $(1 * 2) / 5 #sym.approx 0$),
   )
 
-  let cells = ("ID", "Name", "Anzahl betroffene Testpersonen", "Impact", "Schweregrad")
+  let cells = ()
 
   for (i, el) in problems.enumerate() {
     cells.push("P" + str(i + 1))
@@ -84,8 +85,9 @@ Der resultierende Schweregrad wird in drei Kategorien eingeteilt:
 
   figure(
     table(
-      columns: 5,
-      ..cells
+      columns:(auto, 4fr, 1fr, auto, auto),
+      table.header([*ID*], [*Name*], [*Anzahl Betroffene*], [*Impact*], [*Schweregrad*]),
+      ..cells,
     ),
     caption: [Alle Probleme aus dem Usability-Testing]
   )
@@ -100,7 +102,7 @@ Ein Wissensziel gilt als nicht erreicht, wenn mindestens eine Person vollständi
 
 #figure(table(
   columns: 3,
-  [Wissensziel], [Erfüllt?], [Erläuterung zur Erfüllung],
+  table.header([*Wissensziel*], [*Erfüllt?*], [*Erläuterung zur Erfüllung*]),
   [Erkennt Testperson, dass sie die Semesternummer ablesen kann und nicht zählen muss?], [Ja], [],
   [Ist die neue Anzeige der ECTS pro Kategorie selbsterklärend?], [Ja],[],
   [Wird die Verlinkung zur Studienordnung genutzt?], [Ja],[Einer Testperson war der Begriff und die Bedeutung "Studienordnung" nicht bekannt.],
@@ -190,8 +192,8 @@ Die nachfolgende Grafik zeigt einen Lösungsvorschlag für die Probleme P2 und P
 - P1: Der "Abbrechen" Button bietet einen offensichtlichen Weg zur Schliessung des Modals an.
 - P3: Die Tabs werden durch Radio Options ersetzt.
 - P6: Der Begriff "Übertrittsmodul" wird in einem Tooltip für das "?" Icon erklärt.
-#figure(image("P2_P4.jpg", width: 40%), caption: [Lösungsvorschlag für P2 und P4])<P2_P4>
-
+#figure(image("P2_P4.jpg", width: 70%), caption: [Lösungsvorschlag für P2 und P4])<P2_P4>
+#pagebreak()
 Weiter enthält die Lösung:
 - einen kleinen Hinweistext pro Option
 - einen deaktivierten "Speichern"-Button, bis ein Modul gewählt oder die Felder für eine Leistung korrekt ausgefüllt sind
@@ -202,13 +204,13 @@ Wir empfehlen zudem, einen Workshop mit Studierenden zu machen, um ein gutes Wor
 *Semesterwahl bei Einfügen eines referenzierten Moduls*
 
 In der folgenden Grafik ist ein Lösungsvorschlag für die Probleme P8 und P10 ersichtlich:
-#figure(image("P8_P10.jpg", width: 80%), caption: [Lösungsvorschlag für P8 und P10])<P8_P10>
+#figure(image("P8_P10.jpg", width: 70%), caption: [Lösungsvorschlag für P8 und P10])<P8_P10>
 Das Modal referenziert das Modul, bietet ein Dropdown für ein Semester an und hat "Abbrechen" und "Einfügen" Buttons. Das Dropdown enthält alle zukünftigen Semester, in denen das Modul eine Durchführung hat, bis zum 14. Semester. Das nächstmögliche Semester ist vorausgewählt. Der Name des Moduls verlinkt zu dessen Modulbeschreibung im SLCM.
 
 *Auswirkungen von Aktionen im globalen Fehlerbereich*
 
 Die nachfolgenden Abbildungen zeigen drei Lösungsvorschläge für das Problem P13:
-#figure(image("P13-1.jpg", width: 80%), caption: [Lösungsvorschlag 1 für P13])<P13-1>
+#figure(image("P13-1.jpg", width: 70%), caption: [Lösungsvorschlag 1 für P13])<P13-1>
 In dieser Lösung erhalten die Buttons für Aktionen zur Behebung eines Problems mehr Text und passende Icons. Die Modulnamen sollten neu ausgeschrieben werden.
 Diese Lösung bringt mehr Klarheit über die Aktionen mit sich. Jedoch resultiert sie auch in sehr langen Buttons, was wiederum als ungewohnt wahrgenommen werden könnte.
 
@@ -222,7 +224,7 @@ Diese Lösung erklärt die Aktionen während die Buttons nicht mit Text aufgebla
 
 == Vollständige Validierungs-Map
 Die nachfolgende Grafik zeigt die durch den Validierungs-Workshop vervollständigte Validierungs-Map:
-#figure(image("Validierungsmapping_vollst.jpg", width: 80%), caption: [Vollständige Validierungs-Map])
+#figure(image("Validierungsmapping_vollst.jpg", width: 90%), caption: [Vollständige Validierungs-Map])
 
 == Fazit
 Mit dem funktionalen Prototypen konnte gezeigt werden, dass die Lösungskonzepte grundsätzlich funktionieren und die gestellten Anforderungen erfüllen.

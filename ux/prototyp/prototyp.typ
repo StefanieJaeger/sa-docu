@@ -16,7 +16,7 @@ Nachfolgend werden die wichtigsten neuen Funktionalitäten des #gls("hi-fi-pro",
 *Erweiterte Übersicht mit Validierung*
 
 In der nachfolgenden Grafik ist die erweiterte Übersicht mit Validierung abgebildet:
-#figure(image("Validierung-Übersicht.png"), caption: [Erweiterte Übersicht mit Validierung]);
+#figure(image("Validierung-Übersicht.png", width: 80%), caption: [Erweiterte Übersicht mit Validierung]);
 Dabei sieht man die Umsetzung des Validierungs-Toggle, den globalen Fehlerbereich sowie die Kennzeichnung der Module, welche in der Validierung Fehler enthalten.
 Dabei ist ersichtlich, dass Module, welche in der Vergangenheit liegen, lediglich mit einem Warnhinweis versehen sind, während Module, welche in der Zukunft liegen, mit einem Fehlerhinweis versehen sind.
 Der Unterschied darin liegt einerseits im verwendeten Icon und andererseits in der Farbe der Umrandung.
@@ -24,20 +24,21 @@ Warnhinweise weisen lediglich ein Info-Icon auf, während Fehlerhinweise ein Aus
 
 Weiter wurde das Farbschema leicht überarbeitet, um rot als primäre Farbe für Fehler nutzen zu können.
 Dafür wurde die Farbe der Kategorie "Mathematik und Physik" von rot auf dunkelblau geändert.
-
+#pagebreak()
 In der untenstehenden Grafik sieht man den globalen Fehlerbereich erweitert:
-#figure(image("Validierung-ausgeklappt.png", width: 60%), caption: [Globaler Fehlerbereich erweitert]);
+#figure(image("Validierung-ausgeklappt.png", width: 40%), caption: [Globaler Fehlerbereich erweitert]);
 
 Pro Fehler wird eine Fehlermeldung angezeigt, inklusive vorhandener Aktionen, um den Fehler zu beheben.
 
 In der nachfolgenden Grafik ist die Validierung ausgeschaltet:
-#figure(image("Validierung-ausgeschaltet.png"), caption: [Validierung ausgeschaltet]);
+#figure(image("Validierung-ausgeschaltet.png", width: 80%), caption: [Validierung ausgeschaltet]);
 
 Mehr Informationen zur Validierung können hier gefunden werden: @validation-logic
 
 *Übertrittsmodule, ECTS-Übersicht, Vertiefungen*
+
 Die nachfolgende Grafik zeigt die Änderungen in der unteren Hälfte des Semesterplaners:
-#figure(image("ECTS-Angerechnet-Vert.png"), caption: [Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen]);
+#figure(image("ECTS-Angerechnet-Vert.png", width: 80%), caption: [Änderungen in der unteren Hälfte des Semesterplaners: Übertrittsmodule, ECTS-Berechnung, Vertiefungen]);
 
 Dabei wird ersichtlich, dass unterhalb der geplanten Semester die Übertrittsmodule angezeigt werden.
 Weiter wird neben dem gesetzten Startsemester der Link zur #gls("std") angezeigt.
@@ -51,11 +52,12 @@ Dies zeigt die nachfolgende Grafik:
 #figure(image("ECTS-Module.png", width: 80%), caption: [Module bestimmter Kategorien direkt browsen, suchen und hinzufügen]);
 
 Die Übertrittsmodule werden ebenfalls validiert, wie die folgende Grafik zeigt:
-#figure(image("Validierung-Übertritt.png"), caption:[Validierung der Übertrittsmodule]);
+#figure(image("Validierung-Übertritt.png", width: 80%), caption:[Validierung der Übertrittsmodule]);
 Dabei wird nach dem Hinzufügen eines Übertrittsmoduls die Validierung durchgeführt.
 Diese beinhaltet die Überprüfung, ob das angerechnete Modul in der URL doppelt vorkommt.
 
 *Hinzufügen von Übertrittsmodulen*
+
 Die nachfolgenden Grafiken zeigen den Ablauf des Hinzufügens von Übertrittsmodulen in einem Modal:
 #figure(image("Modal-1.png", width: 40%), caption: [Geöffnetes Modal nach dem Klick auf den Button zum Hinzufügen von Übertrittsmodulen]);
 #figure(image("Modal-2.png", width: 40%), caption: [Suche nach einem Übertrittsmodul]);
@@ -82,13 +84,13 @@ Weiter wurde das Hinzufügen eines 15. Semesters eingeschränkt, wie die folgend
 #figure(image("Constraint-Semester.png", width: 80%), caption: [#gls("ce") beim Hinzufügen eines 15. Semesters inklusive Tooltip]);
 
 Mehr Informationen zur Suche können hier gefunden werden: @search-logic
-
+#pagebreak()
 == Validierungs-Map
 Die Validierungs-Map wurde erstellt, um die zuvor definierten Funktionalitäten mit den entsprechenden Methoden und Erfolgreich-Wenn-Kriterien zur Validierung zu verknüpfen.
 Ebenfalls wurden Unsicherheit, Einfluss sowie Aufwand der Prototyperstellung dazu festgehalten.
 In der folgenden Grafik ist die Validierungs-Map abgebildet:
 
-#figure(image("Validierungs-Map.jpg", width: 60%), caption: [Validierungs-Map])
+#figure(image("Validierungs-Map.jpg", width: 80%), caption: [Validierungs-Map])
 
 == Fazit
 Der Prototyp-Workshop war erfolgreich und führte zur Erstellung eines funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototyps") sowie einer Validierungs-Map, welche die Grundlagen für den nachfolgenden Validierungs-Workshop bildeten.

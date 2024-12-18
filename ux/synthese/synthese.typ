@@ -12,118 +12,107 @@ Die ausgewertete Tagebuchstudie wurde nachträglich im Dezember dazu verwendet, 
 
 == Validiertes Problem-Statement
 Die folgende Grafik zeigt das überarbeitete Problem-Statement, welches unter anderem die Nutzenden, ihre Herausforderungen und die identifizierten Probleme im Kontext der Semesterplanung mit lost.university beschreibt.
-#figure(image("artifacts/Val-Problem-Statement-personenlos.jpg"), caption: "Validiertes Problem-Statement");
+#figure(image("artifacts/Val-Problem-Statement-personenlos.jpg", width: 80%), caption: "Validiertes Problem-Statement");
 
 Nachfolgend wird genauer auf Geändertes, Bestätigtes sowie neu Erkanntes eingegangen.
 
-=== Identifizierte Nutzende
+*Identifizierte Nutzende*
+
 Die Zielgruppe des Tools wurde angepasst: Es wurde bestätigt, dass ausschliesslich Studierende als Nutzende gelten.
 Studienberatende zählen nicht mehr zur Zielgruppe.
 
-=== Identifizierte Probleme
-+ *Geänderte Probleme*
+*Identifizierte Probleme*
++ Geänderte Probleme
   - Der geräteübergreifende Zugriff auf den persönlichen Plan stellt kein Problem dar, da die derzeitige Speicherung im _LocalStorage_ und die Verwendung eigener Bookmarks von den Nutzenden als vorteilhaft angesehen werden. Zusätzliche Speicheroptionen in Form eines Logins wurden zwar von einer Person gewünscht, jedoch sollte die aktuelle Speichermethode unbedingt beibehalten werden.
-+ *Bestätigte Probleme*
++ Bestätigte Probleme
   - Die Datenführung im SLCM ist uneinheitlich. Dies liegt zum einen an der Fusion zur OST - Ostschweizer Fachhochschule, bei der drei Standorte mit unterschiedlichen Systemen und viel Legacy-Software zusammengeführt wurden.
-+ *Neu identifizierte Probleme*
++ Neu identifizierte Probleme
   - Die Suche ist umständlich: Der Fokus liegt nicht automatisch im Suchfeld, und das Suchfeld wird nach dem Hinzufügen von Elementen nicht geleert.
   - Die horizontale Übersichtlichkeit des Tools wird bemängelt. Bei vielen Semestern geht der Überblick schnell verloren.
   - Fehler beim Kopfrechnen der noch einzuplanenden #gls("ects") können auftreten.
   - Der Aufwand eines Moduls ist für Nutzende nicht ersichtlich (Feedback durch Studierende).
   - Die verfügbaren Features und neue Funktionen im Tool sind nicht sichtbar genug. Dadurch werden nicht alle Features aktiv genutzt oder überhaupt wahrgenommen (wie z.B. die Verwendung des _LocalStorage_).
 
-=== Identifizierte Lösungsansätze
+*Identifizierte Lösungsansätze*
+
 Die Lösungsansätze wurden erweitert, um die neu identifizierten Probleme zu adressieren:
-+ *Geänderte Ansätze:*
++ Geänderte Ansätze
   - Die bisher verwendete DataList-Komponente soll durch eine optimierte Suchkomponente ersetzt werden. Diese soll Best Practices berücksichtigen, z.B. durch automatischen Fokus im Suchfeld, ein leeres Suchfeld nach Nutzung sowie eine Sortierung der Module im Dropdown-Menü nach Kategorien.
   - Das Login wird entfernt, da es lediglich als zusätzliche Option gewünscht wurde.
-+ *Bestätigte Ansätze:*
++ Bestätigte Ansätze
   - Visuelle Hinweise zu Abhängigkeiten und Durchführungen sollen integriert werden.
   - Module sollen nach Reglementen gruppiert werden.
   - Mehr Wissen über die Daten aus dem SLCM soll verfügbar gemacht werden; idealerweise durch eine direkte Anbindung, als Rückgriff aber auch durch das Bereitstellen von Direktlinks.
   - Die Modulliste in der Suche soll, wie bereits oben erwähnt, nach Kategorien sortiert werden.
-+ *Neu identifizierte Ansätze:*
++ Neu identifizierte Ansätze
   - Die automatisierte Berechnung der noch einzuplanenden #gls("ects") soll ausgebaut werden, um den Nutzenden diese Informationen direkt anzuzeigen.
   - Peer-Feedback zu Modulen soll integriert werden.
   - Vergangene Semester sollen einklappbar gestaltet werden, um die Übersichtlichkeit zu verbessern.
   - Eine flexiblere Verwaltung der #gls("ects") soll ermöglicht werden, um effektiv belegte Module und angerechnete #gls("ects") abzubilden.
   - Es solle Release Notes für neue Features eingeführt werden, damit Nutzende über Änderungen informiert bleiben.
 
-=== Metriken
+*Metriken*
+
 Die Bewertungskriterien wurden angepasst, um die Ziele des Tools besser abzubilden.
-+ *Geänderte Metriken:*
++ Geänderte Metriken
   - Die Anzahl der Aufrufe im Peak wird als Metrik entfernt, da es nicht darum geht, mehr Aufrufe zu generieren, sondern die bestehenden Aufrufe effizienter und nutzerfreundlicher zu gestalten.
   - Die Funktionalität der Suche im Chrome-Browser auf Android wurde aus den Metriken entfernt, da die Suche generell optimiert werden soll und nicht nur für eine spezifische Plattform. Ebenfalls ist zu diesem Zeitpunkt noch nicht klar, welche identifizierten Probleme im Rahmen dieser Arbeit effektiv bearbeitet werden können.
   - FR-Testing wurde entfernt, da in dieser Arbeit keine funktionellen Anforderungen explizit definiert werden.
-+ *Neu identifizierte Metriken:*
++ Neu identifizierte Metriken
   - Usability-Testing wird eingeführt, um den Prototypen umfassend zu evaluieren.
 
-== Validierte Persona
-#figure(image("artifacts/Val-Persona.jpg"), caption: "Validierte Persona");
+== Validierte Persona  <persona-problems>
 Die Proto-Persona wurde überwiegend ergänzt, wobei wenig Löschungen und Verschiebungen vorgenommen wurden.
+#figure(image("artifacts/Val-Persona.jpg", width: 55%), caption: "Validierte Persona");
 
-=== Probleme & Herausforderungen <persona-problems>
-*Geänderte Aspekte:*
-+ *Modulsuche nach Kürzel:*
+*Probleme & Herausforderungen*
+
++ Geänderte Probleme
   - Die Modulsuche nach Kürzel funktioniert nicht generell nicht, sondern nur auf bestimmten Geräten und in einigen Browsern.
-+ *Modul-Browsing nach Kategorie:*
   - Es wurde ergänzt, dass das Tool lost.university kein Modul-Browsing nach Kategorie, Anzahl der #gls("ects") oder anderen Merkmalen ermöglicht. Dies schränkt die Nutzenden ein, die sich nicht nur an Modulnamen orientieren möchten.
 
-*Bestätigte Probleme:*
++ Bestätigte Probleme
   - Eine Konsultation des SLCM ist notwendig, um die Planung korrekt durchzuführen.
   - Viele Nutzende wissen nicht, welche Module verfügbar sind.
 
-*Neu erkannte Probleme:*
-+ *Planung und Unübersichtlichkeit:*
++ Neu erkannte Probleme
   - Die externe Konsultation des SLCM gestaltet die Planung unübersichtlich.
-  Die Unübersichtlichkeit im SLCM gefährdet das Vertrauen der Nutzenden in die Korrektheit der dort hinterlegten Daten.
+  - Die Unübersichtlichkeit im SLCM gefährdet das Vertrauen der Nutzenden in die Korrektheit der dort hinterlegten Daten.
   - Die Liste der Module im Semesterplaner ist unübersichtlich, da sie alle Module alphabetisch sortiert anzeigt. Dies erschwert das Modul-Browsing, da kein Kontext wie Kategorie verfügbar ist.
-+ *Module und Interessen:*
   - Häufig entsprechen die Module in den #gls("msp", display: "Musterstudienplänen") nicht vollständig den persönlichen Interessen der Nutzenden.
-+ *Semesterbezogene Informationen:*
   - Die Information, in welchem Semester ein Modul durchgeführt wird, muss separat im SLCM nachgeschaut werden, da der Semesterplaner diese Daten nicht enthält.
-+ *ECTS-Berechnung:*
   - Die Anzahl der noch einzuplanenden #gls("ects") pro Kategorie muss von den Nutzenden selbst ausgerechnet werden.
 
-=== Aufgaben
-*Geänderte Aspekte:*
-+ *Planungsfokus:*
+*Aufgaben*
++ Geänderte Aufgaben
   - Der Fokus liegt primär auf der Planung des nächsten Semesters, insbesondere in den Anmeldephasen, da das Tool in diesem Zeitraum am häufigsten genutzt wird. Allerdings wird von wenigen Personen auch das gesamte Studium geplant. 
-+ *Vertiefung als Ziel:*
   - Die Erreichung einer Vertiefung wird nicht mehr als Aufgabe betrachtet, sondern als Ziel oder Bedürfnis. Die damit verbundenen Planungsaufgaben wie das Planen einer oder mehrerer Vertiefungen bleiben erhalten.
-+ *Erweiterung durch Austausch:*
   - Die Aufgaben während der Planung umfassen nun auch den Austausch mit anderen Studierenden, was vorher den Bedürfnissen zugeordnet war. Dies schliesst die folgenden Punkte ein:
     - Meinungen Dritter über ein Modul einholen, um ein umfassenderes Bild zu erhalten.
     - Den Arbeitsaufwand eines Moduls für das Semester und für die Prüfung abschätzen.
-+ *Integration von Zielen:*
   - Die Berücksichtigung des Arbeitsaufwands eines Moduls, z.B. durch Projekte, Testate, Gruppenarbeit oder Prüfungen, soll die Erstellung eines Stundenplans ermöglichen, der mit dem aktuellen Arbeitspensum der Nutzenden vereinbar ist.
-*Bestätigte Aufgaben:*
-- Die noch benötigten #gls("ects") pro Kategorie einsehen.
-- Verschiedene Planvarianten ausprobieren.
-- Den erstellten Plan speichern.
++ Bestätigte Aufgaben
+  - Die noch benötigten #gls("ects") pro Kategorie einsehen.
+  - Verschiedene Planvarianten ausprobieren.
+  - Den erstellten Plan speichern.
 
-*Neu erkannte Aufgaben:*
-+ *Entdecken und Anpassen:*
++ Neu erkannte Aufgaben
   - Interessante Module entdecken wird als wichtiger Bestandteil der Journey hervorgehoben.
   - Das Anpassen des Plans wurde als häufig durchgeführte Tätigkeit aufgenommen und als eigenständiger Schritt definiert.
-+ *Semesterangebote prüfen:*
   - Es muss herausgefunden werden, welche Module in welchem Semester angeboten werden. Dies ist ein essenzieller erster Schritt in der Modulplanung, ohne den nicht studierbare Pläne entstehen. Die Nutzenden navigieren dazu z.B. auf die Modul-Anmeldeseite im SLCM.
 
-=== Bedürfnisse & Ziele
-*Geänderte Aspekte:*
-+ *Externe Konsultation:*
+*Bedürfnisse & Ziele*
++ Geänderte Aspekte
   - Das Bedürfnis nach einer Planung ohne externe Konsultation wurde gestrichen, da dies praktisch nicht möglich ist und nicht den realistischen Anforderungen der Zielgruppe entspricht.
-+ *Schnelle Änderungen und Varianten:*
   - Es wurde betont, dass Änderungen und mögliche Varianten des geplanten Studiums einfach und schnell eintragbar sein müssen. Dies ersetzt das Bedürfnis nach einem einfachen Abspeichern von Varianten, da dies eher eine Aufgabe darstellt.
-+ *Austausch aufgeschlüsselt:*
   - Der Austausch mit anderen Studierenden wurde in spezifischere Bedürfnisse aufgeteilt:
     - Den Aufwand für Module, wie z.B. Projekte, Testate, Gruppenarbeiten oder Prüfungen, berücksichtigen.
     - Einen Stundenplan erstellen, der mit dem aktuellen Arbeitspensum vereinbar ist.
-*Neu erkannte Ziele:*
-- Das Studium erfolgreich abschliessen.
-- Eine Vertiefung erreichen.
-- Schnell einen Überblick über das bisherige Studium und die #gls("ects") pro Kategorie erhalten.
-- Nicht interessante Module des Semesterplaners mit spannenderen Modulen austauschen.
++ Neu erkannte Ziele
+  - Das Studium erfolgreich abschliessen.
+  - Eine Vertiefung erreichen.
+  - Schnell einen Überblick über das bisherige Studium und die #gls("ects") pro Kategorie erhalten.
+  - Nicht interessante Module des Semesterplaners mit spannenderen Modulen austauschen.
 
 == Validierte Journey Map
 Die Journey Map wurde angepasst: Der Schritt „Austausch“ wurde nach hinten verschoben, da er oft erst nach einer ersten Recherche stattfindet.
@@ -159,7 +148,7 @@ Bei der Erstellung der validierten Journey Map wurden verschiedene Opportunity A
 Aus den gesammelten Erkenntnissen aller Erhebungsmethoden wurde eine Task Analysis angelehnt an #cite(<task-analysis>, form: "prose") erstellt.
 Die untenstehende Grafik zeigt die identifizierten Schritte, die Nutzende während der Planung des nächsten Semesters in den Anmeldephasen 1 und 2 durchlaufen, im Detail.
 
-#figure(image("artifacts/Task-Analysis.jpg", width: 70%), caption: "Task Analysis");
+#figure(image("artifacts/Task-Analysis.jpg", width: 60%), caption: "Task Analysis");
 
 == Fazit
 Die erstellten Proto-Artefakte konnten mit den Forschungsergebnissen validiert und weiterentwickelt werden.

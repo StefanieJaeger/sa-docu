@@ -93,7 +93,7 @@ Somit entstand die Idee, fehlerhafte Module rot zu umranden und mit einem Fehler
 Da die Validierung in die Vergangenheit nur bedingt möglich ist, wurde weiter vorgeschlagen, dass eventuell fehlerhafte Module mit einem Info-Icon, nicht jedoch mit einem roten Rand versehen werden.
 So wäre ersichtlich, dass es sich jeweils um Warnungen oder Fehler handelt.
 #figure(image("DS-Validierung-Meldungen-Plan.jpg", width: 60%),caption: [#gls("ds"): Fehlermeldungen im Plan]);
-#figure(image("DS-Validierung-Modulkennzeichnung.jpg", width: 30%),caption: [#gls("ds"): Modulkennzeichnung bei Fehlern]);
+#figure(image("DS-Validierung-Modulkennzeichnung.jpg", width: 25%),caption: [#gls("ds"): Modulkennzeichnung bei Fehlern]);
 
 *Interaktives Fehler-Dashboard*
 
@@ -116,8 +116,8 @@ Da die maximale Studiumsdauer an der OST - Ostschweizer Fachhochschule 14 Semest
 Die Ideen zur Nutzerführung verfolgen einen geradlinigen Ansatz:
 - Nutzende sollen möglichst schnell die Nummerierung der Semester einsehen können. Da ohne ein gesetztes Startsemester die Semester bereits mit "1. Semester", "2. Semester" etc. bezeichnet werden, wird diese Idee als Grundlage genommen und die entsprechende Bezeichnung, wie "HS24" dahinter angezeigt.
 - Nutzende sollen bereits referenzierte Module direkt hinzufügen können. Mit einer Ausarbeitung des nächstmöglichen Semesters soll dies möglich sein.
-#figure(image("DS-Semesternummer.jpg"), caption: [#gls("ds"): Nummerierung der Semester]);
-#figure(image("DS-Ref-Mod-hinzufügen.jpg", width: 60%), caption: [#gls("ds"): Referenzierte Module direkt hinzufügen]);
+#figure(image("DS-Semesternummer.jpg", width: 80%), caption: [#gls("ds"): Nummerierung der Semester]);
+#figure(image("DS-Ref-Mod-hinzufügen.jpg", width: 50%), caption: [#gls("ds"): Referenzierte Module direkt hinzufügen]);
 
 === Berechnung der ECTS pro Kategorie
 Die Ideen zur Berechnung der #gls("ects") pro Kategorie verfolgten verschiedene Ansätze zur Erweiterung: von der Anzeige aller möglichen Stati, wie beispielsweise "zu erreichende ECTS", "erreichte ECTS", "geplante ECTS" und "zu planende ECTS" bis hin zur minimalen Information mit nur "zu planende ECTS" wurde alles diskutiert.
@@ -135,8 +135,8 @@ Da sich so neu erheblich viele zusätzliche Informationen in der Suche befinden,
 Mit der zusätzlichen Idee, dass die Ergebnisse der Suche nach Kategorien sortiert werden, soll die Suche weiter vereinfacht werden.
 Somit wird den Nutzenden die Möglichkeit gegeben, gezielt nach Modulen einer Kategorie zu suchen.
 
-#figure(image("DS-Modulsuche-Dropdown.jpg", width: 40%), caption: [#gls("ds"): Dropdown-Platzierung der Modulsuche]);
-#figure(image("DS-Modulsuche-Suchkomponente-Logik.jpg"), caption: [#gls("ds"): Logik und Aufbau der erweiterten Suchkomponente]);
+#figure(image("DS-Modulsuche-Dropdown.jpg", width: 25%), caption: [#gls("ds"): Dropdown-Platzierung der Modulsuche]);
+#figure(image("DS-Modulsuche-Suchkomponente-Logik.jpg", width: 80%), caption: [#gls("ds"): Logik und Aufbau der erweiterten Suchkomponente]);
 
 === ECTS-Verwaltung
 Für die Opportunity Area "ECTS-Verwaltung" wurden verschiedene Ideen entwickelt.
