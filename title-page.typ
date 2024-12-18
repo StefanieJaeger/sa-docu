@@ -5,12 +5,10 @@
   margin: (x: 5%)
 )
 
+#set align(bottom)
 #grid(
-  rows: (1fr, 1fr, 1fr),
+  rows: (1fr, 1fr),
   row-gutter: 5%,
-  [
-    #image("./Logo.png", width: 100%)
-  ],
   [
     #text(30pt)[
       *Analyse und menschzentrierte Erweiterung von lost.university*
@@ -21,6 +19,7 @@
     ]
   ],
   [
+    #set align(horizon)
     #grid(
       columns: (1fr, 1fr),
       column-gutter: 5%,
