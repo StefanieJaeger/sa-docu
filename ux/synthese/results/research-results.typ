@@ -1,7 +1,12 @@
 = Resultate der Erhebungen
 Nachfolgend sind die Auswertungen der durchgeführten Erhebungen aufgeführt.
-
-#include("fragebogen-persona-results.typ")
-#include("contextual_inquiries-results.typ")
-#include("tagebuchstudie-results.typ")
-#include("adunis-results.typ")
+#[
+  #set heading(offset: 2)
+  #include("fragebogen-persona-results.typ")
+  #v(5%)
+  #include("contextual_inquiries-results.typ")
+  #v(5%)
+  #include("tagebuchstudie-results.typ")
+  #v(5%)
+  #include("adunis-results.typ")
+]

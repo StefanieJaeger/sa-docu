@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls, glspl
 = Vorgehen
 Nachfolgend wird das für diese Studienarbeit gewählte Vorgehensmodell erläutert.
 
@@ -12,7 +13,7 @@ Wie in der untenstehenden Grafik ersichtlich @cuxd-prozess, gliedert sich das Vo
 Die Erkundungsphase kann dabei mehrfach durchlaufen werden.
 Die Phase "Deliver" steht in dieser Arbeit nicht im Fokus und wird daher nicht weiter erläutert.
 
-#figure(image("cuxd-prozess.png"), caption: "CUXD Vorgehensmodell")
+#figure(image("cuxd-prozess.png"), caption: "CUXD-Vorgehensmodell")
 
 In jeder Phase werden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
 Im Folgenden werden diese näher erklärt.
@@ -46,24 +47,25 @@ In der Erkundungsphase werden Lösungsansätze gesammelt und zu einem Lösungsko
 Auch hier sind mehrere Workshops vorgesehen.
 
 ===== Workshop: Ideation
-Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später neben der Persona und Journey Map als Basis für den Konzept Workshop dient.
+Im Ideation Workshop wird ein umfassender Ideenkatalog erstellt, welcher später neben der #gls("persona") und Journey Map als Basis für den Konzept Workshop dient.
 Um möglichst viele Lösungsideen zu generieren, werden hierbei die unterschiedlichen Produktchancen betrachtet.
 Es gilt das Prinzip "Quantität vor Qualität".
-Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das How-Might-We, das 6-3-5 und das Design Studio.
+Damit dies gelingt, kommen verschiedene Kreativitätstechniken zum Einsatz, wie beispielsweise das #gls("hmw"), die #gls("6-3-5")und das #gls("ds").
 
 ===== Workshop: Konzept
 Mit Hilfe von Szenarien werden im Konzept-Workshop die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt.
 Dies ermöglicht es bereits vor dem Prototyping mögliche Probleme und Widersprüche in den Lösungen zu identifizieren und zu beheben.
-Im Workshop entstehen verschiedene Artefakte, wie Keyscreens, Szenarien und eine User-Story-Map.
+Im Workshop entstehen verschiedene Artefakte, wie #glspl("keyscreen"), Szenarien und eine User-Story-Map.
 Letztere enthält eine erste Version eines Produkt-Backlogs.
 
 ===== Workshop: Prototyping
 Im Prototyping-Workshop wird in einem ersten Schritt ausgearbeitet, mit welchen Methoden welche zuvor definierten Funktionalitäten validiert werden sollen.
 Dieses Validierungs-Mapping schafft die Voraussetzung zur Entwicklung entsprechender Prototypen.
+In einem zweiten Schritt werden die im Validierungs-Mapping definierten Prototypen erstellt. 
 
 ===== Workshop: Validierung
 Im Validierung-Workshop werden die zuvor definierten Validierungsmethoden durchgeführt, um die Eignung der gewählten Lösungskonzepte zu überprüfen.
-Die Ergebnisse werden in Kontrast zu den ursprünglich definierten Annahmen gestellt um zu überprüfen, ob die Lösungskonzepte die gestellten Anforderungen erfüllen.
+Die Ergebnisse werden in Kontrast zu den ursprünglich definierten Annahmen gestellt, um zu überprüfen, ob die Lösungskonzepte die gestellten Anforderungen erfüllen.
 Im negativen Fall erfolgt erneut eine Iteration über die Erkundungs-Phase.
 
 == Qualitative Forschungsmethoden

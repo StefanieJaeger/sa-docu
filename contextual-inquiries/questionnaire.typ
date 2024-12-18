@@ -1,6 +1,6 @@
 = Contextual Inquiries Frageleitfaden <leitfaden-ci>
 
-== Einleitende Bemerkungen 
+*Einleitende Bemerkungen* 
 
 Wir haben bereits darüber gesprochen, was heute passiert.
 Wir möchten dich gerne dabei begleiten, wenn du den Semesterplaner nutzt, um das neue Semester zu planen oder zu überprüfen.
@@ -15,7 +15,7 @@ Deine Antworten sind für unsere Arbeit (Studienarbeit Informatik) sehr wertvoll
 - Wir haben im Vorfeld bereits vereinbart, dass wir deinen Bildschirm und deine Stimme aufzeichnen dürfen. Ist das weiterhin in Ordnung für dich?
 - Die Aufzeichnungen werden nur bis zur Auswertung der Studienarbeit aufbewahrt und danach gelöscht.
 
-== Generelle Fragen
+*Generelle Fragen*
 
 Bevor du uns gleich den Semesterplaner zeigst, möchten wir dir noch ein paar allgemeine Fragen stellen. 
 
@@ -32,7 +32,7 @@ Bevor du uns gleich den Semesterplaner zeigst, möchten wir dir noch ein paar al
 - Folgst du einem Musterstudienplan? Wenn ja/nein, weshalb?
 - Arbeitest du momentan neben dem Studium oder hast du mal neben dem Studium gearbeitet? Wenn ja, in welchem Pensum?
 
-== Überprüfen des bisherigen Plans
+*Überprüfen des bisherigen Plans*
 
 Bitte beginne mit deinem üblichen Vorgehen bei der Planung deines Studiums, und rede gerne dabei.
 
@@ -42,14 +42,14 @@ Bitte beginne mit deinem üblichen Vorgehen bei der Planung deines Studiums, und
 - Wie weiss der Planer, dass du neue Credits erreicht hast? (Startsemester)
 - Wie weiss der Planer, dass du ein Modul nicht bestanden hast?
 
-== Austausch mit Kollegen
+*Austausch mit Kollegen*
 
 - Tauschst du dich mit Kollegen über deinen oder deren Plan aus?
 - Weshalb und über was?
 - Wie tauschst du dich aus? Online, IRL?
 - Wie teilst du/zeigst du deinen Plan?
 
-== Recherche zu Modulen
+*Recherche zu Modulen*
 
 - Zu welchen Modulen holst du dir Infos?
 - Welche Infos zu Modulen holst du dir?
@@ -63,7 +63,7 @@ Bitte beginne mit deinem üblichen Vorgehen bei der Planung deines Studiums, und
 - Was ist mühsam bei der Recherche und weshalb?
 - Was ist einfach bei der Recherche und weshalb?
 
-== Semesterplaner anpassen
+*Semesterplaner anpassen*
 
 - Wie findest du Module im Planer?
 - Auf welchen Geräten nutzt du den Planer/passt du den Planer an?
@@ -72,14 +72,14 @@ Bitte beginne mit deinem üblichen Vorgehen bei der Planung deines Studiums, und
 - Welche sichtbaren Informationen sind relevant und weshalb?
 - Wer denkst du, steht hinter lost.university?
 
-== Plan speichern
+*Plan speichern*
 
 - Wie persistierst du deinen gemachten Plan?
 - Was ist daran einfach?
 - Was ist daran schwierig?
 - Weisst du, dass die Daten im Localstorage gespeichert werden?
 
-== Nachgespräch
+*Nachgespräch*
 
 - Reflektiert diese Journey dein Vorgehen realistisch? Was machst du anders und gleich?
 - Gehst du diese Schritte mehrfach durch? Auch in Bezug auf die verschiedenen Anmeldephasen?

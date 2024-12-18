@@ -3,7 +3,7 @@ Die Fragen werden je nach Interviewpartner angepasst.
 
 == Einleitung
 Vielen Dank, dass Sie Sich Zeit nehmen für uns. Wir schreiben eine Studienarbeit zum Semesterplaner.
-Der Semesterplaner ist ein Tool zur Modul- und Studiumsplanung, welches von Studenten selbst betrieben und verwaltet wird.
+Der Semesterplaner ist ein Tool zur Modul- und Studienplanung, welches von Studenten selbst betrieben und verwaltet wird.
 Der Planer basiert auf Daten, welche von unterricht.ost.ch (SLCM) abgefragt und aufbereitet werden.
 Die Daten sind jedoch nicht dokumentiert, weshalb wir Ihnen ein paar Fragen stellen möchten.
 Durch das bessere Verständnis erhoffen wir uns, dass wir dem Semesterplaner mehr Funktionalitäten hinzufügen können, welche eventuell im Rahmen unserer SA gefragt werden.

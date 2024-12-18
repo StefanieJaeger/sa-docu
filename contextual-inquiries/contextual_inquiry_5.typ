@@ -1,4 +1,4 @@
-==== Contextual Inquiry 5 <ci_5>
+= Contextual Inquiry 5 <ci_5>
 
 #grid(
       columns: (1fr, 1fr),
@@ -17,11 +17,11 @@
       ]
     )
 
-==== Einführung
+== Einführung
 Die Testperson wird von Laura begrüsst und gemäss den vorbereitenden Kommentaren des Leitfadens instruiert.
 Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 
-==== Chronologische Zusammenfassung des geschilderten Vorgehens
+== Chronologische Zusammenfassung des geschilderten Vorgehens
 
 1. Vorbereitung und Zugriff auf den Plan
 - Die Testperson öffnet ihren Plan, indem sie eine spezifische Textdatei mit dem Link dazu sucht und den Link in den Browser kopiert.
@@ -52,7 +52,7 @@ Ebenfalls wird die Einwilligung zur Aufzeichnung eingeholt.
 6. Persistierung des Plans
 - Die beiden erstellten Pläne speichert sie durch Kopieren der Links in ihre Textdatei.
 
-==== Generelle Fragen
+== Generelle Fragen
 
 / Seit wann studierst du?:
 Seit dem Herbstsemester 2021.
@@ -112,7 +112,7 @@ Ich versuche schon, die Module der "Cyber Security" Vertiefung zu belegen, da mi
 / Arbeitest du momentan neben dem Studium oder hast du mal neben dem Studium gearbeitet? Wenn ja, in welchem Pensum?:
 Ja, zurzeit 50%. Vorher auch schon 60% oder 80%.
 
-==== Allgemeines Vorgehen
+== Allgemeines Vorgehen
 / Das wäre es gewesen mit dem Vorinterview. Du darfst gerne deinen Bildschirm teilen, damit wir diesen in der Aufnahme sehen können. Und dann kannst du einfach mit deinem üblichen Vorgehen während der Anmeldephase 1 beginnen:
 
 _Öffnet den Browser und gibt in der Adressleiste "lost.university" ein.
@@ -339,7 +339,7 @@ Hier stellt sich die Frage, gibt das Miniprojekt eine Note und wer schaut das an
 / Wie findest du heraus, zu welcher Kategorie das Modul gehört?:
 Ich glaube das steht hier drin.
 
-_Sucht nach der Kategoriezuteilung in der Modulbeschreibung, findet diese aber nicht direkt und bleibt bei den Modultypen hängen. Ist von den Modultypen verwirrt._
+_Sucht nach der Kategoriezuordnung in der Modulbeschreibung, findet diese aber nicht direkt und bleibt bei den Modultypen hängen. Ist von den Modultypen verwirrt._
 
 Diese Ansicht finde ich lustig.
 Weil es im Informatikstudium angeboten wird und es nicht zu den Rahmenmodulen gehört, nehme ich an, dass es einfach zur Informatikkategorie gehört.
@@ -518,7 +518,7 @@ Dass das Suchfeld leer ist und der Fokus dort ist, damit ich direkt mit Tippen b
 Das ist nicht so schlimm.
 Es wäre natürlich cool, wenn das Suchfeld offen bleiben würde, damit man direkt das nächste Modul suchen kann.
 
-==== [Nachgespräch]
+== [Nachgespräch]
 
 / Ich fasse kurz dein Vorgehen zusammen\: Du öffnest den Semesterplaner, schaust, welche Module du geplant hast, du öffnest gleichzeitig das Adunis und meldest die Module, die noch passen, direkt an. Ist das dein übliches Vorgehen, auch in anderen Semestern?:
 Ja.
@@ -557,7 +557,7 @@ Desperate.
 
 / Vielen Dank fürs Mitmachen und für deine Zeit!:
 
-==== Überprüfen des bisherigen Plans
+== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
 Ich habe die URL in einem Text-File lokal auf meinem Laptop gespeichert.
@@ -576,7 +576,7 @@ Das berechnet er über das Startsemester.
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
 Das weiss er nicht, das muss man selbst aus dem Plan entfernen.
 
-==== Austausch mit Kollegen
+== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
 Ja.
@@ -591,7 +591,7 @@ In Person oder über Chats.
 / Wie teilst du/zeigst du deinen Plan?:
 Ich teile meinen Plan eher selten.
 
-==== Recherche zu Modulen
+== Recherche zu Modulen
 
 / Zu welchen Modulen holst du dir Infos?:
 Zu Modulen, die interessant klingen.
@@ -633,7 +633,7 @@ Adunis ist zu mühsam, um Module zu finden.
 / Was ist einfach bei der Recherche und weshalb?:
 Über den Musterstudienplan sehe ich empfohlene Module für eine Vertiefung und kann mich auch an deren Reihenfolge orientieren.
 
-==== Semesterplaner anpassen
+== Semesterplaner anpassen
 
 / Wie findest du Module im Planer?:
 Ich suche nach dem vollen Namen bei der Suchfunktion.
@@ -655,7 +655,7 @@ Kategorien und ihre Erfüllung, Module und Credits pro Semester, Vertiefungen, S
 / Wer denkst du, steht hinter lost.university?:
 Das ist ein Tool von Studenten für Studenten.
 
-==== Plan speichern
+== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
 Ich speichere die URL in meinem lokalen Text-File.
@@ -669,7 +669,7 @@ Das Finden des lokalen Files kann schwierig sein.
 / Weisst du, dass die Daten im LocalStorage gespeichert werden?:
 Nein.
 
-==== Nachgespräch
+== Nachgespräch
 
 / Reflektiert diese Journey dein Vorgehen realistisch? Was machst du anders und gleich?:
 Ja.

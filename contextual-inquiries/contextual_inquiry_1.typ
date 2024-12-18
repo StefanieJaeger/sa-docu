@@ -1,4 +1,4 @@
-==== Contextual Inquiry 1 <ci_1>
+= Contextual Inquiry 1 <ci_1>
 
 #grid(
       columns: (1fr, 1fr),
@@ -17,7 +17,7 @@
       ]
     )
 
-==== Chronologische Zusammenfassung des geschilderten Vorgehens
+== Chronologische Zusammenfassung des geschilderten Vorgehens
 1. Vorbereitung mit dem MSP Software Engineering
 - Die Testperson konsultiert als erstes den MSP, um zu schauen, welche Module im kommenden Semester empfohlen werden.
 - Sie prüft, zu welchen Kategorien die Module gehören.
@@ -52,7 +52,7 @@
 7. Anpassen des Semesterplaners:
 - Sofern weitere Änderungen in der Anmeldephase 2 erfolgt sind, passt die Testperson den Plan auf lost.university erneut an und speichert die URL erneut ab.
 
-==== Generelle Fragen
+== Generelle Fragen
 
 / Seit wann studierst du?:
 Herbstsemester 2021.
@@ -99,7 +99,7 @@ Z.B. interessieren mich die Module "Cloud Solutions" und "Mobile & GUI Engineeri
 / Arbeitest du momentan neben dem Studium oder hast du mal neben dem Studium gearbeitet? Wenn ja, in welchem Pensum?:
 Ja, ich arbeite 60%, also 25.2 Stunden pro Woche.
 
-==== Allgemeines Vorgehen
+== Allgemeines Vorgehen
 
 / Wie gehst du normalerweise vor, um dich für neue Module in der Anmeldephase anzumelden?:
 Normalerweise nehme ich den MSP Software Engineering als PDF zur Hilfe.
@@ -225,7 +225,7 @@ Es kann sein, dass ich während der Anmeldephase zusätzliche Infos reinhole, wi
 Das kann weitere Änderungen mit sich bringen, also dass ich zusätzliche Module anmelde, angemeldete Module abmelde oder Module austausche.
 Das mache ich dann vorzu, bis die Anmeldephase abgeschlossen ist.
 
-==== Überprüfen des bisherigen Plans
+== Überprüfen des bisherigen Plans
 
 / Wo/wie hast du den Plan gespeichert?:
 _Als Link-Datei in ihrem OneDrive._
@@ -246,7 +246,7 @@ Sie bemerkt auch, dass durch die Wahl des Startsemesters die Semester mit den ef
 / Wie weiss der Planer, dass du ein Modul nicht bestanden hast?:
 _Die Testperson hat bis jetzt kein Modul nicht bestanden, weshalb dies nicht aufkam._
 
-==== Austausch mit Kollegen
+== Austausch mit Kollegen
 
 / Tauschst du dich mit Kollegen über deinen oder deren Plan aus?:
 Ja.
@@ -265,7 +265,7 @@ Mündlich und über Teams, weil wir das in der Schule nutzen.
 / Wie teilst du/zeigst du deinen Plan?:
 Während der 1. und 2. Anmeldephase tausche ich mich gelegentlich mit Kollegen über unsere Pläne aus, aber ich teile meinen Link/den Plan eigentlich nur selten.
 
-==== Recherche zu Modulen
+== Recherche zu Modulen
 
 / Zu welchen Modulen holst du dir Infos?:
 Zu Modulen aus dem Musterstudienplan oder zu Modulen, die einer bestimmten Kategorie angehören.
@@ -337,7 +337,7 @@ Auch gibt es meiner Meinung nach zu viele Infos hinter einem Modulnamen in Klamm
 / Was ist einfach bei der Recherche und weshalb?:
 Ich bespreche mit sehr gerne mit einer bestimmten Kollegin, die mir immer gute Tipps gibt bezüglich Modulauswahl.
 
-==== Semesterplaner anpassen
+== Semesterplaner anpassen
 
 / Wie gehst du normalerweise bei der Anpassung des Plans vor?:
 Ich kann Module per Drag & Drop verschieben.
@@ -377,7 +377,7 @@ Es wurde bereits bei der Empfehlung erwähnt, dass es ein Studenten-Projekt ist.
 Ich sehe im Footer, wer die Studenten sind, die das gemacht haben oder aktuell daran arbeiten.
 Das heisst es ist Open-Source, nicht von der OST aus, und man kann auch selbst mitentwickeln.
 
-==== Plan speichern
+== Plan speichern
 
 / Wie persistierst du deinen gemachten Plan?:
 Als Link-Datei in meinem OneDrive.
@@ -394,7 +394,7 @@ Ich finde es auch gut, dass ich den Link teilen kann, wenn ich möchte.
 / Was ist daran schwierig?:
 Eigentlich nichts.
 
-==== Nachgespräch
+== Nachgespräch
 Die Fragen wurden, ausschliesslich der ersten Frage, von Stefanie Jäger gestellt.
 Am Anfang des Nachgesprächs gab es eine kurze Diskussion zwischen den Autorinnen, inwiefern die erste Forschungsfrage des Nachgesprächs stellbar ist, da die Testperson ihr persönliches Vorgehen geschildert hat und nichts über die Proto-Journey der Autorinnen weiss.
 Es wurde entschieden, diese Frage umzuformulieren.

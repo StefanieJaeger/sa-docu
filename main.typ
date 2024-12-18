@@ -1,14 +1,10 @@
-#set heading(numbering: "1.")
 #set page(numbering: "1")
 #set text(lang: "de")
 #show bibliography: set heading(numbering: "1.")
+#show "ß": "ss"
 
 // 2.1 Titelblatt
 #include "title-page.typ"
-
-// TODO: Abstract und Management Summary ohne Nummerierung?
-
-// todo: bei allen includes schauen, ob die Headings dann noch stimmen. Wenn nicht, dann das hier anwenden: https://forum.typst.app/t/how-to-increase-heading-level-in-an-included-document/1819/2
 
 // 2.2 Abstract
 // Der wissenschaftliche Abstract richtet sich an den Spezialisten auf dem entsprechenden Gebiet und beschreibt daher in erster Linie die (neuen, eigenen) Ergebnisse und Resultate der Arbeit. Der Umfang beträgt in der Regel eine halbe Seite (max. eine Seite) Text. Keine Bilder!
@@ -23,14 +19,23 @@
 // - Ergebnisse (ev. kleiner Ausblick)
 // -- DONE IN MANAGEMENT SUMMARY
 #include "management-summary.typ"
+#pagebreak()
 
 // 2.4 Inhaltsverzeichnis
-#outline(indent: 1em)
+#outline(
+  indent: 1em,
+  depth: 2,
+  target: selector(heading)
+    .before(<reflexion>, inclusive: false)
+)
 #pagebreak()
 
 // 2.5 Glossar und Abkürzungsverzeichnis
 // Kurze Erklärung der fachtechnischen oder projektspezifischen Begriffe, die nicht allgemein bekannt sind, sowie Ausschreibung der Arbeit verwendeten Abkürzungen.
+
+= Glossar
 #include "glossary.typ"
+
 
 // 2.6 Ausgangslage / Problemstellung / Stand der Technik
 // Beschreibung der Motivation für die Arbeit sowie der Schwächen der heutigen Praktiken und Lösungen.
@@ -49,7 +54,7 @@
 // -- DONE IN INTRO
 
 #pagebreak()
-
+#set heading(numbering: "1.")
 #include "intro/intro.typ"
 
 #pagebreak()
@@ -114,7 +119,7 @@
 )
 #pagebreak()
 #outline(
-  title: [Abbildungsverzeichnis],
+  title: [Tabellenverzeichnis],
   target: figure.where(kind: table),
 )
 #pagebreak()
@@ -125,8 +130,6 @@
 // • Installationsanleitung / Bedienungsanleitung
 // • Test-Logs
 // • Bei Systemen mit User Interfaces: Dokumentation der Usability Tests
-
-#include "thanks.typ"
 
 // appendix
 // Im Folgenden sind Beispiele aufgeführt, was in den Anhang gehört (nur falls vorhanden und relevant):
@@ -142,4 +145,17 @@
 // • Persönlicher Bericht (selbstkritische Reflexion der Studierenden zu ihren Erfahrungen bei der Arbeit)*
 // • Projektpläne, Risikoanalysen, Zeiterfassung*
 // * Beachten Sie, dass aus Datenschutzgründen keine persönlichen Daten (Unterschriften, E-Mail-Adressen, Telefonnummern) von Ihnen wie auch von Betreuungspersonen, Experten/innen, Industriepartnern oder sonstigen Personen in dem publizierten Bericht enthalten sein dürfen! Siehe dazu auch das offizielle Dokument «Informationen über die SA/BA Abgabe»
+
+#heading(numbering: none, level: auto)[
+ Anhang
+]<anhang>
+
+#outline(
+  title: "Anhangsverzeichnis",
+  indent: 1em,
+  depth: 2,
+  target: selector(heading)
+    .after(<anhang>, inclusive: false)
+)
+#pagebreak()
 #include("appendix/appendix.typ")

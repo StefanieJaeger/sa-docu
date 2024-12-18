@@ -1,21 +1,13 @@
 = Workshop: Scoping <scoping>
-Gemäss dem von #cite(<cuxd>, form: "prose") definierten Designprozess wurden im Scoping-Workshop Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial abgesteckt.
-Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
-Die erarbeiteten Artefakte wurden mit dem "Proto-" Präfix versehen, um ihre vorläufige Natur zu kennzeichnen.
-
-== Vorgehen
-Der Scoping-Workshop fand am 21.09.2024 statt und dauerte insgesamt 10.
+Der Scoping-Workshop fand am 21.09.2024 statt und dauerte insgesamt 10 Stunden.
 Teilnehmende waren die beiden Autorinnen dieser Studienarbeit sowie der Inhaber und Haupt-Maintainer des Tools.
 Der Workshop diente dazu, den Projektauftrag zu klären, Annahmen sichtbar zu machen und hypothetische Nutzende zu identifizieren.
 Als Methoden wurden Brainstorming zu den einzelnen Kategorien des Problem-Statements (einsam und gemeinsam), Diskussionsrunden und Mapping eingesetzt.
 Dafür verwendete Werkzeuge waren Moderationskarten, Schreiber, Papier, Pappkarton und eine Fotokamera zur Festhaltung der Ergebnisse.
 Als Artefakte wurden ein Proto-Problem-Statement, eine Proto-Persona, eine Proto-Journey und eine Annahmen-Map erarbeitet.
-Die Artefakte wurden nachträglich auf Miro digitalisiert und finden sich in Anhang XYZ.
+Die Artefakte wurden nachträglich auf Miro digitalisiert und sind nachfolgend dargestellt.
  
-== Resultate
-Die folgenden Artefakte wurden im Rahmen des Scoping-Workshops erstellt und dienten als Grundlage für die weiteren Workshops:
-
-=== Proto-Problem-Statement
+== Proto-Problem-Statement
 
 Im unten dargestellten Proto-Problem-Statement werden die Nutzenden, ihre Herausforderungen und die identifizierten Probleme im Kontext der Semesterplanung mit lost.university beschrieben.
 Weiter werden Lösungsansätze und Metriken zur Erfolgsmessung vorgeschlagen, sowie Stakeholder, Randbedingungen und Risiken aufgeführt.
@@ -23,7 +15,7 @@ Weiter werden Lösungsansätze und Metriken zur Erfolgsmessung vorgeschlagen, so
 Die Autorinnen selbst nutzen das Tool und brachten in diesem initialen Schritt ihre eigenen Erfahrungen mit spezifischen Schwierigkeiten ein.
 Darüber hinaus sind sie gut vernetzt und konnten bereits erste zusätzliche Probleme, die ihnen aus Gesprächen mit anderen Nutzenden zugetragen wurden, in die Analyse einfliessen lassen.
 
-#figure(image("Proto-Problem-Statement.jpg"), caption: [Proto-Problem-Statement])
+#figure(image("Proto-Problem-Statement-ohne-Pers.jpg"), caption: [Proto-Problem-Statement])
 
 Als primäre Nutzende wurden Informatikstudierende und eventuell die drei Studienberater der OST - Ostschweizer Fachhochschule identifiziert.
 Bei den Studienberatern ist jedoch unklar, ob sie mit dem Tool vertraut sind und es möglicherweise bereits nutzen.
@@ -53,20 +45,20 @@ Da lost.university auf Daten einer 3rd-Party angewiesen ist (SLCM), besteht ein 
 Weiter besteht das Risiko, dass die Kooperation mit der OST-ICT nicht zustande kommt oder nicht effizient ist, und die Datenqualität der verfügbaren Endpunkte von SLCM nicht ausreicht, um eine korrekte Planung zu ermöglichen.
 Zudem könnten Performance-Probleme bei der Suche auftreten.
 
-=== Proto-Persona
+== Proto-Persona
 Die erstellte Proto-Persona "Felix" repräsentiert einen Informatik-Teilzeitstudenten.
 Weitere Parameter wie Probleme und Herausforderungen, Bedürfnisse und Ziele sowie Aufgaben, die sich Felix in Bezug auf die Semesterplanung stellen, wurden in der unten ersichtlichen Proto-Persona festgehalten.
 
 #figure(image("Proto-Persona.jpg", height: 30%), caption: [Proto-Persona "Felix"])
 
-=== Proto-Journey
+== Proto-Journey
 
 Die Proto-Journey illustriert den typischen Prozess der Semesterplanung.
 In der unten abgebildeten Grafik wird der Ablauf der Planung von der Suche nach Modulen über die Recherche von Modulinformationen bis hin zur finalen Anmeldung in der Anmeldephase 2 dargestellt.
 
 #figure(image("Proto-Journey.jpg"), caption: [Proto-Journey "Planen des nächsten Semesters"])
 
-=== Annahmen-Map
+== Annahmen-Map
 
 In der Annahmen-Map werden die im Workshop identifizierten Annahmen in einer Risiko-Ungewissheits-Matrix dargestellt.
 Da die beiden Autorinnen das Tool bereits seit mehreren Jahren verwenden, haben sie Annahmen, von deren Richtigkeit sie überzeugt sind, jedoch bleibt unklar, wie hoch das damit verbundene Risiko ist.

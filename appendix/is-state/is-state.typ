@@ -6,7 +6,7 @@ In diesem Kapitel werden die im @is-state erwähnten Artefakte aufgeführt.
 == Funktionalität <is-state-appendix-features>
 Die im folgenden as User Stories beschriebenen Funktionalitäten bestanden bereits vor Beginn dieser Studienarbeit.
 
-Als User kann ich über ein Dropdown einen Musterstudienplan auswählen, der vorausgefüllt angezeigt wird, sodass ich diesen als Grundlage für meinen eigenen Plan verwenden und bei Bedarf anpassen kann. Es stehen die Musterstudienpläne für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
+Als User kann ich über ein Dropdown einen #gls("msp") auswählen, der vorausgefüllt angezeigt wird, sodass ich diesen als Grundlage für meinen eigenen Plan verwenden und bei Bedarf anpassen kann. Es stehen die #glspl("msp") für alle Spezialisierungen, jeweils für das Teilzeit- und Vollzeit-Modell, zur Verfügung.
   - @musterplan
 - Als User sehe ich eine visuelle Repräsentation meines Planes.
   - @planer

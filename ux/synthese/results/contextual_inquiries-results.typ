@@ -1,3 +1,4 @@
+#import "@preview/glossarium:0.4.1": gls
 = Resultate der Contextual Inquiries <ci_results>
 
 Im Rahmen der durchgeführten Contextual Inquiries konnten die verschiedenen Herangehensweisen der Testpersonen bei der Planung ihres Studiums dokumentiert werden.
@@ -8,7 +9,7 @@ Trotz individueller Unterschiede in der Planung und Nutzung des Semesterplaners 
 Die Testpersonen griffen zu Beginn ihrer Planung auf verschiedene Ressourcen zurück, um sich einen Überblick zu verschaffen.
 Häufig wurden gespeicherte Links oder Lesezeichen verwendet, um den Semesterplaner schnell aufzurufen.
 Einzelne Testpersonen nutzten Textdateien, um unterschiedliche Planungsvarianten für ihr Studium zu speichern und diese bei Bedarf zu vergleichen.
-Oft wurde der Musterstudienplan (MSP) der jeweiligen Vertiefung als Ausgangspunkt herangezogen, um die Planung zu strukturieren.
+Oft wurde der #gls("msp") der jeweiligen Vertiefung als Ausgangspunkt herangezogen, um die Planung zu strukturieren.
 
 *Überprüfung bestehender Pläne*
 
@@ -24,7 +25,7 @@ Die Recherche zu Modulen stellte einen wichtigen Schritt dar.
 Die Testpersonen nutzten dafür hauptsächlich die Modulbeschreibungen im SLCM und fokussierten sich auf Details wie empfohlene Vorkenntnisse, Leistungsnachweise und die inhaltliche Ausgestaltung der Module.
 Besondere Beachtung fand dabei die Balance zwischen Modulen mit semesterbegleitenden Leistungen und solchen mit nur einer Prüfung am Ende des Semesters, um eine bessere Vereinbarkeit mit dem beruflichen Arbeitspensum zu erreichen.
 Der Austausch mit bekannten Studierenden war ebenfalls ein essenzieller Bestandteil, um Informationen über den Aufwand und die Qualität der Lehrveranstaltungen sowie über die Dozierenden zu erhalten.
-Zudem wurden Empfehlungen und Erfahrungen aus der Peergroup einbezogen.
+Zudem wurden Empfehlungen und Erfahrungen aus dem Freundeskreis einbezogen.
 
 *Feinjustierung und Planungssicherheit*
 
@@ -41,10 +42,10 @@ Einige Testpersonen meldeten strategisch mehr Module an, als sie tatsächlich be
 *Persönliche Präferenzen und Herausforderungen*
 
 Die Ergebnisse zeigen, dass persönliche Präferenzen und individuelle Herausforderungen eine entscheidende Rolle in der Studienplanung spielen.
-Obwohl einige Testpersonen dem Musterstudienplan folgten, passten sie ihre Planung zusätzlich an persönliche Interessen an.
-Herausforderungen traten vor allem bei der Suche nach weiteren passenden Modulen, den Durchführungszeiten der Module, der Einschätzung des Aufwands eines Moduls sowie bei der Darstellung angerechneter Module/ECTS aus früherem Studium oder extern besuchten Lehrveranstaltungen auf.
+Obwohl einige Testpersonen dem #gls("msp") folgten, passten sie ihre Planung zusätzlich an persönliche Interessen an.
+Herausforderungen traten vor allem bei der Suche nach weiteren passenden Modulen, den Durchführungszeiten der Module, der Einschätzung des Aufwands eines Moduls sowie bei der Darstellung angerechneter Module/#gls("ects") aus früherem Studium oder extern besuchten Lehrveranstaltungen auf.
 
-=== Fazit
+*Fazit*
 
-Diese Zusammenfassung zeigt, dass die Testpersonen ihre Studienplanung durch eine Kombination aus systematischen Überprüfungen, strategischen Entscheidungen und einem intensiven Austausch mit Peers angehen.
+Diese Zusammenfassung zeigt, dass die Testpersonen ihre Studienplanung durch eine Kombination aus systematischen Überprüfungen, strategischen Entscheidungen und einem intensiven Austausch mit Studiumkolleginnen und Studiumskollegen angehen.
 Die Nutzung mehrerer digitaler Plattformen spielte dabei eine zentrale Rolle, ebenso wie die individuelle Anpassung der Planung an persönliche Bedürfnisse und externe Verpflichtungen.

@@ -13,12 +13,12 @@ Aus den übergeordneten Phasen 1 und 2 - der Verstehen- und der Erkundungs-Phase
 Da die Phasen teilweise ineinander übergingen, bearbeiteten wir diese sowie die Workshops nicht strikt nacheinander, sondern teilweise parallel.
 Aus diesem Grund wurde kein Zeitstrahl erstellt, sondern die folgende Grafik mit den Meilensteinen und Abweichungen davon:
 
-#figure(image("Meilensteine.png", width: 70%), caption :["Meilensteine inkl. Beschreibung, Deadline und Abweichung"]);
+#figure(image("Meilensteine.png", width: 70%), caption :[Meilensteine inkl. Beschreibung, Deadline und Abweichung]);
 
 == Zeitplanung und Erfassung
 Der Aufwand der Epics wurde prozentual geschätzt und in der folgenden Grafik mit den effektiven Aufwänden dargestellt:
 
-#figure(image("Zeitplanung.png", width: 70%), caption :["Zeitplanung: Gegenüberstellung geschätzter und effektiver Aufwände"]);
+#figure(image("Zeitplanung.png", width: 70%), caption :[Zeitplanung: Gegenüberstellung geschätzter und effektiver Aufwände]);
 
 Die Aufwände wurden dabei fortlaufend im eigens dafür erstellten Google-Sheet in einer 15-Minuten-Taktung erfasst und den entsprechenden Epics zugeordnet.
 
