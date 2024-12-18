@@ -1,11 +1,8 @@
 #import "@preview/glossarium:0.4.1": gls, glspl
 = Vorarbeiten <is-state>
-In diesem Kapitel wird der Ist-Zustand der Applikation vor Beginn der Studienarbeit beschrieben.
-Dabei wird auf die Technologien und das Hosting, die Datenstruktur und die Architektur eingegangen.
+In diesem Kapitel wird der Ist-Zustand der Applikation anhand der verwendeten Technologien, dem Hosting, der Datenstruktur und der Architektur beschrieben.
 Die bestehenden Funktionalitäten sind im Anhang unter @is-state-appendix-features als User Stories beschrieben.
 Ebenfalls im Anhang findet sich eine Liste unter @is-state-appendix-bugs mit den bereits vor Beginn dieser Arbeit bestehenden Problemen und Bugs.
-
-Vor Beginn der Studienarbeit wurde mit dem Haupt-Maintainer und Owner des Repository im Scoping-Workshop @scoping vereinbart, dass der identifizierte Tech-Stack unverändert bleiben soll.
 
 == Technologien und Hosting
 Das ursprüngliche Projekt, auf welchem diese Studienarbeit aufbaut, kann als öffentliches GitHub Repository unter: #link("https://github.com/lost-university/web") eingesehen werden.
@@ -21,7 +18,7 @@ Anstelle einer Datenbank wird das Data Repository verwendet: #link("https://gith
 
 == Datenstruktur
 Die Daten für die Applikation werden von einem Python-Crawler gesammelt, verarbeitet und anschliessend als verschiedene JSON-Dateien im Data Repository abgelegt.
-Dieser Vorgang wird einmal zu Beginn jedes Semesters manuell durchgeführt, um die Daten auf Spezialfälle zu prüfen, welche manuell nachbearbeitet werden müssen.
+Dieser Vorgang wird einmal zu Beginn jedes Semesters durchgeführt, um die Daten auf Spezialfälle zu prüfen, welche manuell nachbearbeitet werden müssen.
 
 Dabei werden die Daten von den öffentlich zugänglichen Endpunkten von #link("https://studien.ost.ch") bezogen.
 Der Crawler steigt dabei bei den einzelnen #glspl("std") des Studiengangs Informatik ein.
@@ -35,7 +32,7 @@ Ebenfalls im Anhang zu finden ist das vom Crawler generierte JSON-Datenmodell zu
 Die bestehende Architektur der Anwendung wird im Folgenden unter Verwendung der C4-Diagrammstruktur dargestellt.
 Da der zugrunde liegende Code nicht im Detail dokumentiert wird, beschränkt sich die Darstellung in den folgenden Grafiken auf die ersten drei Ebenen der C4-Diagrammstruktur.
 
-#figure(image("structurizr-System.png", width: 60%), caption: [C4 Diagram, Level Context]) <c4_context>
-#figure(image("structurizr-Containers.png", width: 80%), caption: [C4 Diagram, Level Containers]) <c4_containers>
-#figure(image("structurizr-Data.png", height: 50%), caption: [C4 Diagram, Level Component, Data]) <c4_component_data>
-#figure(image("structurizr-Web.png", width: 80%), caption: [C4 Diagram, Level Component, Web]) <c4_component_web>
+#figure(image("structurizr-System.png", width: 40%), caption: [C4 Diagram, Level Context]) <c4_context>
+#figure(image("structurizr-Containers.png", width: 45%), caption: [C4 Diagram, Level Containers]) <c4_containers>
+#figure(image("structurizr-Data.png", width: 40%), caption: [C4 Diagram, Level Component, Data]) <c4_component_data>
+#figure(image("structurizr-Web.png", width: 60%), caption: [C4 Diagram, Level Component, Web]) <c4_component_web>
