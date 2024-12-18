@@ -12,7 +12,7 @@ Der analoge Forschungsplan wurde nachträglich auf Miro digitalisiert.
 
 == Forschungsplan
 Der Forschungsplan dient als Leitfaden für die Durchführung der geplanten Forschungsmethoden.
-#figure(image("Forschungsplan.jpg"), caption: [Forschungsplan])
+#figure(image("Forschungsplan.jpg", width: 80%), caption: [Forschungsplan])
 
 == Methoden zur Datenerhebung
 Nachfolgend sind die gewählten Methoden zur Datenerhebung sowie deren Ergebnisse ausgeführt.

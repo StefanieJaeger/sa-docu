@@ -15,7 +15,7 @@ Weiter werden Lösungsansätze und Metriken zur Erfolgsmessung vorgeschlagen, so
 Die Autorinnen selbst nutzen das Tool und brachten in diesem initialen Schritt ihre eigenen Erfahrungen mit spezifischen Schwierigkeiten ein.
 Darüber hinaus sind sie gut vernetzt und konnten bereits erste zusätzliche Probleme, die ihnen aus Gesprächen mit anderen Nutzenden zugetragen wurden, in die Analyse einfliessen lassen.
 
-#figure(image("Proto-Problem-Statement.jpg"), caption: [Proto-Problem-Statement])
+#figure(image("Proto-Problem-Statement-ohne-Pers.jpg"), caption: [Proto-Problem-Statement])
 
 Als primäre Nutzende wurden Informatikstudierende und eventuell die drei Studienberater der OST - Ostschweizer Fachhochschule identifiziert.
 Bei den Studienberatern ist jedoch unklar, ob sie mit dem Tool vertraut sind und es möglicherweise bereits nutzen.
