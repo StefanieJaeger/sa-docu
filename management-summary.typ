@@ -15,21 +15,21 @@ Ziel dieser Studienarbeit war es, die Plattform mithilfe eines menschzentrierten
 == Vorgehen
 Für die Entwicklung wurde ein Vorgehensmodell gewählt, welches stark an den User-Centered-Design-Prozess anlehnt.
 Dieses gewährleistet einen systematischen und menschzentrierten Ansatz.
-Der Arbeitsprozess umfasste zwei Phasen: die Verstehen- und die Erkundungs-Phase, die nacheinander durchgeführt wurden.
-In jeder Phase wurden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
+Der Arbeitsprozess umfasst zwei Phasen: die Verstehen- und die Erkundungs-Phase, die nacheinander durchgeführt werden.
+In jeder Phase werden mehrere Workshops abgehalten, um Inhalte zu erarbeiten, aufzubereiten oder zu analysieren.
 
-Die *Verstehen-Phase* beinhaltete dabei die folgenden Workshops:
+Die *Verstehen-Phase* beinhaltet dabei die folgenden Workshops:
 
-- *Scoping-Workshop:* Es wurden Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial definiert. Weiter wurden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
-- *Research-Workshop:* Im Research-Workshop wurde ein detaillierter Forschungsplan zur Validierung der im Scoping-Workshop erarbeiteten Inhalte aufgestellt. Hierbei lag der Fokus auf den im Scoping-Workshop definierten Wissenslücken und kritischen Annahmen. Es wurden Leitfäden für die Durchführung der gewählten Forschungsmethoden erstellt und danach die Erhebungen durchgeführt.
-- *Synthese-Workshop:* Die durchgeführten Erhebungen wurden ausgewertet und die Ergebnisse liessen es zu, die im Scoping-Workshop aufgestellten Annahmen zu validieren. So wurde eine neue Sicht auf die Problemstellung gewonnen, mit welcher sich die Aufgabenstellung validieren liess. Insbesondere wurden einige neue Probleme und Herausforderungen identifiziert, die in den weiteren Workshops genauer beleuchtet werden sollten.
+- *Scoping-Workshop:* Es werden Rahmenbedingungen festgelegt, potenzielle Probleme identifiziert und die Gruppe der Nutzenden initial definiert. Weiter werden mögliche Nutzungsabläufe definiert und Annahmen erarbeitet.
+- *Research-Workshop:* Im Research-Workshop wird ein detaillierter Forschungsplan zur Validierung der im Scoping-Workshop erarbeiteten Inhalte aufgestellt. Hierbei liegt der Fokus auf den im Scoping-Workshop definierten Wissenslücken und kritischen Annahmen. Es werden Leitfäden für die Durchführung der gewählten Forschungsmethoden erstellt und danach die Erhebungen durchgeführt.
+- *Synthese-Workshop:* Die durchgeführten Erhebungen werden ausgewertet und den im Scoping-Workshop definierten Annahmen gegenübergestellt. So wird eine neue Sicht auf die Problemstellung gewonnen, mit welcher sich die Aufgabenstellung validieren lässt. Neu identifizierte Probleme und Herausforderungen werden in den weiteren Workshops genauer beleuchtet.
 
-Die *Erkundungs-Phase* umfasste die folgenden Workshops:
+Die *Erkundungs-Phase* umfasst die folgenden Workshops:
 
-- *Ideation-Workshop:* Im Ideation-Workshop wurden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert und priorisiert. Die Ergebnisse wurden mit technischen Erkenntnissen und der bestehenden Codebasis abgeglichen, um die Umsetzbarkeit sicherzustellen. Dies führte zur Entscheidung für einen funktionalen #gls("hi-fi-pro") als #gls("mvp").
-- *Konzept-Workshop:* Im Konzept-Workshop wurden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem direkt in die Prototypentwicklung gestartet werden konnte.
-- *Prototyp-Workshop:* Es wurden eine Validierungsmap sowie der angestrebte funktionale #gls("hi-fi-pro") erstellt.
-- *Validierungs-Workshop:* Es wurde ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wurde.
+- *Ideation-Workshop:* Im Ideation-Workshop werden mithilfe verschiedener Kreativitätstechniken zahlreiche Ideen generiert.
+- *Konzept-Workshop:* Im Konzept-Workshop werden die zuvor ausgearbeiteten Lösungsideen zu einem passenden Konzept weiterentwickelt, mit welchem in den Prototyp-Workshop gestartet werden kann.
+- *Prototyp-Workshop:* Es werden eine Validierungsmap sowie die darin definierten Prototypen zur Validierung erstellt.
+- *Validierungs-Workshop:* Es wird ein Usability Testkonzept erstellt, mit welchem der erstellte Prototyp getestet und validiert wird.
 
 == Ergebnisse
 Die Studienarbeit führte zur Entwicklung eines funktionalen #gls("hi-fi-pro", display: "High-Fidelity-Prototyps"), der die Grundlage für die Weiterentwicklung der Plattform darstellt.
